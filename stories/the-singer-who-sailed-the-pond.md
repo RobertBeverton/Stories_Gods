@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 10
 tags: ["mythology", "finnish", "music"]
 gods: ["Väinämöinen (Finnish)"]
+lore: vainamoinen
 characters: ["Alex", "Felix", "Willow", "Dot", "Kenji", "Elfine", "Marion"]
 icon: boat
 publishDate: 2026-10-27

@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 20
 tags: ["mythology", "roman", "feelings"]
 gods: ["Janus (Roman)"]
+lore: janus
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Mister Harris", "Nana"]
 icon: cloud
 publishDate: 2026-11-03

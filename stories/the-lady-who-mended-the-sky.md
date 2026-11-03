@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 15
 tags: ["mythology", "chinese", "many-stories"]
 gods: ["Nuwa (Chinese)"]
+lore: nuwa
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Ollie"]
 icon: cloud
 publishDate: 2026-11-01

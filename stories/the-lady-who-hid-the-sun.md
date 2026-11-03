@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 16
 tags: ["mythology", "japanese", "hurt-feelings"]
 gods: ["Amaterasu (Japanese)"]
+lore: amaterasu
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Ollie"]
 icon: sun
 publishDate: 2026-11-01

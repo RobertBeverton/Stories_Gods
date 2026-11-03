@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 12
 tags: ["mythology", "egyptian", "balance"]
 gods: ["Bast (Egyptian)"]
+lore: bast
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Ollie"]
 icon: shell
 publishDate: 2026-10-30

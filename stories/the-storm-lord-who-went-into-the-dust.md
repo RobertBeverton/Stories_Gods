@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 6
 tags: ["mythology", "canaanite", "courage"]
 gods: ["Hadad (Canaanite)"]
+lore: hadad
 characters: ["Alex", "Felix", "Willow", "Dot", "Ollie", "Elfine", "Marion"]
 icon: cloud
 publishDate: 2026-10-26

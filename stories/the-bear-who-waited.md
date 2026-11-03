@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 18
 tags: ["mythology", "korean", "patience"]
 gods: ["Hwanung and Ungnyeo (Korean)"]
+lore: hwanung-and-ungnyeo
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji"]
 icon: shell
 publishDate: 2026-11-02

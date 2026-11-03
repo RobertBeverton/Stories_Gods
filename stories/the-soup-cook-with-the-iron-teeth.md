@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 9
 tags: ["mythology", "slavic", "not-scary"]
 gods: ["Baba Yaga (Slavic)"]
+lore: baba-yaga
 characters: ["Alex", "Felix", "Willow", "Dot", "Ollie", "Elfine", "Marion"]
 icon: berry
 publishDate: 2026-10-27

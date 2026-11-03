@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 3
 tags: ["mythology", "west-african", "sharing"]
 gods: ["Anansi (West African)"]
+lore: anansi
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Elfine", "Marion"]
 icon: shell
 publishDate: 2026-10-25

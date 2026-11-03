@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 13
 tags: ["mythology", "yoruba", "inclusion"]
 gods: ["Oshun (Yoruba)"]
+lore: oshun
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot"]
 icon: shell
 publishDate: 2026-10-30
