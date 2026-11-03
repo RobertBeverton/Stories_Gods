@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 14
 tags: ["mythology", "persian", "asking-for-help"]
 gods: ["Simurgh (Persian)"]
+lore: simurgh
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie"]
 icon: cloud
 publishDate: 2026-10-31

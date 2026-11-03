@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 1
 tags: ["mythology", "mesoamerican", "corn"]
 gods: ["Quetzalcoatl (Mesoamerican)"]
+lore: quetzalcoatl
 characters: ["Alex", "Felix", "Maya", "Dot", "Kenji", "Ollie"]
 icon: berry
 publishDate: 2026-10-24

@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 11
 tags: ["mythology", "russian-and-slavic", "kindness"]
 gods: ["Father Frost (Russian and Slavic)"]
+lore: father-frost
 characters: ["Alex", "Felix", "Willow", "Dot", "Kenji", "Ollie", "Elfine", "Marion"]
 icon: cloud
 publishDate: 2026-10-28

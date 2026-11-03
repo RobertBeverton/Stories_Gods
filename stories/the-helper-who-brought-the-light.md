@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 4
 tags: ["mythology", "haida-and-tlingit", "sharing"]
 gods: ["Raven (Haida and Tlingit)"]
+lore: raven
 characters: ["Alex", "Felix", "Willow", "Dot", "Ollie", "Elfine", "Marion"]
 icon: sun
 publishDate: 2026-10-25

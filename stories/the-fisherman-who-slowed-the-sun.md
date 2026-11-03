@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 2
 tags: ["mythology", "polynesian", "patience"]
 gods: ["Maui (Polynesian)"]
+lore: maui
 characters: ["Alex", "Felix", "Maya", "Dot", "Kenji", "Ollie"]
 icon: sun
 publishDate: 2026-10-24

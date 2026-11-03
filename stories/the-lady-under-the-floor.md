@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 17
 tags: ["mythology", "andean", "giving-back"]
 gods: ["Pachamama (Andean)"]
+lore: pachamama
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie"]
 icon: berry
 publishDate: 2026-11-02

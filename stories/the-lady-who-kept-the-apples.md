@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 19
 tags: ["mythology", "norse", "asking"]
 gods: ["Idun (Norse)"]
+lore: idun
 characters: ["Alex", "Felix", "Willow", "Maya"]
 icon: berry
 publishDate: 2026-11-02

@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 5
 tags: ["mythology", "native-american", "asking"]
 gods: ["Coyote (Native American)"]
+lore: coyote
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Elfine", "Marion"]
 icon: cloud
 publishDate: 2026-10-25

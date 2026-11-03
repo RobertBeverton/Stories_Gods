@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 8
 tags: ["mythology", "hindu", "light"]
 gods: ["Lakshmi (Hindu)"]
+lore: lakshmi
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Elfine", "Marion"]
 icon: sun
 publishDate: 2026-10-27

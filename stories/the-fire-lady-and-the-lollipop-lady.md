@@ -5,6 +5,7 @@ series: "The Staff Room Gods"
 seriesOrder: 7
 tags: ["mythology", "hawaiian", "big-feelings"]
 gods: ["Pele (Hawaiian)"]
+lore: pele
 characters: ["Alex", "Felix", "Willow", "Dot", "Elfine", "Marion"]
 icon: sun
 publishDate: 2026-10-26
