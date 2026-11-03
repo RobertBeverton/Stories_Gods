@@ -8,3 +8,5 @@ stories: ["the-storm-lord-who-went-into-the-dust"]
 Hadad (also called Baal, meaning "lord") was a storm and rain god in the ancient Canaanite and wider Near Eastern world. Rain meant a harvest, so a god who brought the storm mattered a great deal.
 
 Our knowledge comes from ancient texts, including the tablets found at Ugarit, and many of those are broken, so retellings fill in gaps.
+
+Find out more: [Wikipedia](https://en.wikipedia.org/wiki/Hadad)
