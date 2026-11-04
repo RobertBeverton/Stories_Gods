@@ -6,6 +6,8 @@ The standing facts for this series. Read this first, then `Story_Archive.md`, th
 
 Alex and Felix Bailey are twin boys, aged 5, in Year 1. Each story, a god or legend from a different world mythology turns up as a new member of school staff. The children work out who they are, and help them. The stories are bedtime stories, read aloud, about 4,000 words each.
 
+**A note on the myths.** These stories are based on existing myths and legends, retold for young children with our own spin: a school setting, gentler endings, invented details and jokes. They are not authoritative retellings. Where a story departs from the traditional tale, that is deliberate. For the real stories, look at the traditions themselves, and treat gods from living religions with care.
+
 ## The cast
 
 **Primary (every story)**
@@ -28,7 +30,7 @@ If the cast changes, the user will say so. Keep the latest instruction until tol
 - Reading level Year 2 to 3, school reference Year 1.
 - Affirmations are woven into the narrative. No notes page, no questions for the children afterwards.
 - Each story ends with a hook for the next god, and the twins say "Monday" in unison.
-- About 4,000 words. (The Pele story, at about 3,200, is the short outlier.)
+- About 4,000 words. (Stories run longer or shorter as they need to.)
 - Keep sensitive subjects kid-appropriate. Moloch was declined because of child sacrifice. Living religions are portrayed warmly and respectfully.
 - Each story uses a different tradition, myth and moral.
 

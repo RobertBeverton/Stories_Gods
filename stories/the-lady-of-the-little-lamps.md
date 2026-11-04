@@ -178,7 +178,7 @@ Ravana was enormous. He had ten faces, five on top and five below, and they were
 
 "What thing?" said the eighth.
 
-"Shut up, all of you," said the ninth. "I'm trying to do some villainy."
+"Be quiet, all of you," said the ninth. "I'm trying to do some villainy."
 
 "You never listen to me," said the tenth, mournfully.
 
@@ -204,7 +204,7 @@ Alex picked up the bracelet. His hands were shaking. Felix took the other end, a
 
 We walked for days. Or perhaps it was minutes. Time was strange in the story.
 
-At the edge of the forest, on top of a high rocky hill, we found a troop of monkeys, hanging from the trees and chattering. At the front of them, with his arms folded, stood a magnificent figure with a curling golden tail and a silver ring in one hand.
+At the edge of the forest, on top of a high rocky hill, we found a troop of monkeys, hanging from the trees and chattering. At the front of them, with his arms folded, stood a magnificent figure with a curling golden tail and a silver mace resting on one shoulder.
 
 "Mister Hanu?" said Ollie.
 
@@ -216,9 +216,9 @@ At the edge of the forest, on top of a high rocky hill, we found a troop of monk
 
 "Except you," said Kenji.
 
-Hanuman grinned. "Except me." He turned to Alex and Felix and held out the silver ring. "Give me something that she will know is yours, and I will carry it to her, to say that you are coming."
+Hanuman grinned. "Except me." He turned to Alex and Felix and held out his big hand. "Give me something that she will know is yours, and I will carry it to her, to say that you are coming."
 
-Alex took the ring from his own finger. Felix took the bracelet from his wrist. They held them out together, and Hanuman took them both.
+Alex took the ring from his own finger. Felix took Elfine's silver bracelet from his pocket. They held them out together, and Hanuman took them both.
 
 Then he grew. His shoulders swelled. His arms stretched. He grew taller than the trees, tall as a mountain, until his head was among the clouds. And with one tremendous leap, he sprang into the sky, and cleared the whole wide sea in a single bound.
 
@@ -234,7 +234,7 @@ When Hanuman came back, three days later, he was covered in soot, and his tail w
 
 "That's Elfine," said Marion proudly.
 
-"I gave her your ring and your bracelet," said Hanuman. "She knows you're coming. And, ah, I may have set fire to a few things."
+"I gave her Alex's ring and her own bracelet," said Hanuman. "She knows you're coming. And, ah, I may have set fire to a few things."
 
 "A few things?" said Maya.
 
@@ -262,9 +262,11 @@ Alex picked up the squirrel in his cupped hands. It was Dot. She had a tiny bush
 
 "I'm only small," said the squirrel, in Dot's voice. "But I can do this."
 
-Alex gently stroked down her back, from her head to her tail, with three fingers. And where his fingers passed, three soft stripes appeared on her fur.
+Alex gently stroked down her back, from her head to her tail, with three fingers. Felix stroked down after him, with three more. And where their fingers passed, three soft stripes appeared on her fur.
 
 "That is the bravest squirrel in the story," said Alex.
+
+"And the smallest," said Felix. "So she wins by a mile."
 
 ## Part Nine. The Arrows
 
@@ -278,7 +280,7 @@ But Ravana's son, a dark prince with a silver bow, was hiding in the clouds. He 
 
 "ALEX!" shrieked Marion.
 
-"FELIX!" shrieked Ollie.
+"FELIX!" cried Ollie.
 
 "We're stuck," said Alex. He could barely breathe.
 
@@ -310,7 +312,7 @@ He picked up the whole mountain.
 
 He balanced it on his palm, with all its trees and rocks and glowing herbs, and he flew back to Lanka with it, like a waiter carrying a very large tray. He arrived just as the first red sunlight was creeping over the walls. He held it out over the twins, and the healing scent of the herbs drifted down.
 
-The silver snakes loosened. They hissed. They shrank. They turned back into arrows and clattered to the ground. Alex gasped. Felix coughed. Color flooded back into their faces. They rolled apart and sat up, and took deep, shuddering breaths.
+The silver snakes loosened. They hissed. They shrank. They turned back into arrows and clattered to the ground. Alex gasped. Felix coughed. Colour flooded back into their faces. They rolled apart and sat up, and took deep, shuddering breaths.
 
 "Thank you," whispered Alex.
 
@@ -336,7 +338,7 @@ He was bigger than before. All his heads were frowning. In every one of his twen
 
 "I told you this was a bad idea," whispered the fourth head.
 
-"Shut up," whispered the ninth.
+"Quiet," whispered the ninth.
 
 "I'm hungry," whispered the third.
 
@@ -354,7 +356,7 @@ But the other nine heads shouted him down. "NEVER!"
 
 Marion had been listening from the back of the line. "I've got an idea," she shouted. "Ravana's too proud. He thinks nobody can beat him. What if two people hold the bow at once?"
 
-Alex and Felix looked at each other. They nodded.
+Alex and Felix nodded.
 
 ## Part Twelve. One Arrow, Two Hands
 
@@ -410,7 +412,7 @@ Then Felix pointed. "Look."
 
 ## Part Fourteen. The Lamps
 
-Far away, on the edge of the horizon, a tiny golden light was glowing.
+Far away, on the edge of the horizon, a golden light was glowing.
 
 Then another. And another. And a whole row of them, stretching along the road, glimmering in the dark like fallen stars.
 
@@ -446,7 +448,7 @@ Dot looked down at her arms and let out a gasp. On the back of her cardigan, sof
 
 She turned to Alex and Felix.
 
-"And you two," she said. "Brothers who listened. Brothers who held on. Brothers who gave Ravana a chance to be better, even when he did not take it. That is real wealth. Not gold. Not coins. Kindness, and courage, and having someone beside you."
+"And you two," she said. "Brothers who listened, and held on, and gave even Ravana a chance. That is real wealth."
 
 "We were scared," said Alex.
 
@@ -462,9 +464,9 @@ Diwali night came on Sunday, and it was the best night of the whole year.
 
 Every window of the school was lined with tiny glowing lamps. A row of them marched down the front steps. The play went off perfectly, and Mister Harris cried at the end. Alex and Felix's nana clapped so hard that her bracelets flew off. Mrs Lakshmi stood in the doorway, with her owl on her shoulder, as the families came in, greeting everyone by name.
 
-But on Thursday, a few days before, something strange had happened.
+And late that evening, when everyone had gathered on the school field to watch the fireworks, something strange happened.
 
-It was Bonfire Night, and the school field was crowded. Everyone had come to watch the fireworks. The sky was full of sparkles. And, in the middle of it all, Alex and Felix noticed that the ground beside the bonfire was shaking.
+The sky was full of sparkles. Every window of the school glowed with its little lamps. And, in the middle of it all, Alex and Felix noticed that the ground at the edge of the field was shaking.
 
 Not much. Just a gentle thump, thump, thump.
 
@@ -474,7 +476,7 @@ Not much. Just a gentle thump, thump, thump.
 
 Over the fence, coming down the hill behind the school, was a tiny wooden hut. It was standing on two enormous yellow chicken legs. The legs were scratching at the earth, one after the other, like a hen looking for corn. A thin plume of smoke curled from the chimney.
 
-There was a small round window. In the window, a candle was flickering. And behind the candle, a face was peering out. It was old and crooked and wrinkled, with a long, pointed nose and a chin like a boot. A pair of bright, beady eyes glinted in the firelight.
+There was a small round window. In the window, a candle was flickering. And behind the candle, a face was peering out. It was old and crooked and wrinkled, with a long, pointed nose and a very pointy chin. A pair of bright, curious eyes glinted in the candlelight.
 
 "Is that a house?" said Ollie.
 
@@ -486,6 +488,6 @@ The hut stopped at the school gate, and squatted down, with a creak, like an old
 
 "Hello, hello, my little darlings! I hear you have a lovely school. Does it have a kitchen? I have such a wonderful recipe."
 
-Willow arched her back to twice her size. Mister Harris dropped his sparkler. And everybody turned to look at Alex and Felix. The twins looked at each other, with the fireworks flashing red and gold in their eyes. They said, at exactly the same time, "Monday."
+Willow arched her back to twice her size. Mister Harris dropped his sparkler. And everybody turned to look at Alex and Felix. The twins looked at each other, with the fireworks flashing red and gold in their eyes, and all the little lamps glowing in the windows behind them. They said, at exactly the same time, "Monday."
 
 The End.

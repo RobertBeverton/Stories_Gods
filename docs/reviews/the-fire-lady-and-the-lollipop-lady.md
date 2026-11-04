@@ -1,0 +1,33 @@
+# Review: The Fire Lady and the Lollipop Lady
+File: stories/the-fire-lady-and-the-lollipop-lady.md | Words: about 3,200 | Parts: 12 (recipe is 16 to 18)
+
+## Verdicts
+- Editor: Clear, warm and well shaped, with a good problem (Pele's temper and her estranged sister) that echoes the myth. It does feel thin. It is a 12-part story told at roughly one-quarter less than the standard 16-18. The middle is not saggy, but it is skipped: there is one crisis (lava), one rescue (monkey bars), and one reconciliation, and each resolves in a single part with no complication between. The reconciliation (Parts 6 to 9) takes a few minutes of reading; nothing tests it. There is room for 4 to 5 more parts without padding (see ASK 1).
+- Writer: Clean, speakable sentences and good specifics (toast smell, toffee tarmac, "like a pond with no wind on it", "A hundred and four"). The weak spots are tics: "looked at each other", "at exactly the same time" used outside the ritual, and "That was when" twice. Part 11 is a stock sunset-speech beat that states the moral outright, after Part 6 and Part 7 have already earned it.
+- Listener/parent: Gentle, funny and settles well; the lava is scary but resolved fast and the twins' sorry-on-three rule is a real child's idea. Ending with Lakshmi's lamps and a lotus is a lovely, calm hook for sleep. Read aloud, it likely takes only 18 to 20 minutes, well short of the 25 to 30 minute target.
+
+## Twin balance
+Alex: about 14 spoken lines, key actions: swings across the monkey bars, takes Felix's hand, steps between the goddesses, calls "On three" | Felix: about 16 spoken lines, key actions: swings across the monkey bars, sits beside Pele, says "Say it together", counts "One" | Goes first: Felix (Part 1, "She looks sad"), then Alex in most later scenes (Parts 4, 6, 9). Verdict: balanced. Both get a moment in Parts 6 and 7 and the sorry-count is split evenly. Willow does her one brave thing in Part 8 and never speaks.
+
+## DIRECT fixes (safe to apply without asking)
+1. Part 1: OLD: "Even the nine-year-old Reading Cat of Year One thought this was too hot." -> NEW: "Even the nine-year-old Reading Cat of our class thought this was too hot." (age-proofing; "Year One" pins the year group)
+2. Part 9: OLD: "\"Sorry,\" said Pele and Namaka, at exactly the same time." -> NEW: "\"Sorry,\" said Pele and Namaka, together." ("at exactly the same time" should be kept for the Monday ritual)
+3. Part 12: OLD: "Everyone looked at Alex and Felix. They looked at each other, with the golden light flickering in their eyes. They said, at exactly the same time, \"Monday.\"" -> NEW: "Everyone looked at Alex and Felix. The golden light was flickering in their eyes. They said, at exactly the same time, \"Monday.\"" (drops the "looked at each other" tic; Pele and Namaka also "looked at each other" earlier in Part 12 and in Part 8)
+4. Part 12: OLD: "Pele and Namaka stood up and looked at each other. Hadad took off his helmet." -> NEW: "Pele and Namaka stood up. Hadad took off his helmet." (tic trim)
+5. Part 8: OLD: "Pele and Namaka looked at each other. Then at Alex and Felix. Then at the ground." -> NEW: "Pele and Namaka glanced at Alex and Felix. Then at the ground." (tic trim)
+6. Part 12: OLD: "That was when Dot, who notices things, tugged on Felix's sleeve." -> NEW: "Dot, who notices things, tugged on Felix's sleeve." ("That was when" is also the opener of Part 5)
+7. Part 8: OLD: "\"She tolerates us,\" said Elfine. \"But sometimes she makes an exception.\"" -> NEW: "\"She puts up with us,\" said Elfine. \"But sometimes she makes an exception.\"" ("tolerates" is hard for a six-year-old; "exception" can stay with context)
+
+## ASK fixes (change plot, a character's arc, an ending, a joke that matters, the hook)
+1. Length and thinness: add 4 to 5 short parts to reach 16 to 17, spread across the story rather than tacked on. Suggestions: (a) a Monday/Tuesday part showing Pele getting through a lesson (Home Economics and Hot Water, with a hot-headed moment nearly spoiling the cocoa or toast) before the Floor Is Lava blow-up, so her temper is seen, not just reported; (b) a part where the lava is out of control and the first idea (Mister Harris with a fire bucket, or Maya and Kenji trying to talk to her) fails; (c) a Namaka part where the twins try first on their own and it doesn't work, before the canoe confession; (d) a lighter "after" part with the twins and Pele learning a breathing or counting trick, so the affirmation is practised, not just announced.
+2. Part 11: the "What Pele Said" part is a sunset-speech beat that says the moral in four different ways ("Having big feelings isn't bad", "It's what you do with them that counts", "being cross doesn't mean you're not loved", "bravest thing is to say sorry first"). The affirmation is already earned by Part 9. Suggest cutting it to one clear line (Alex's "Having big feelings isn't bad" plus Pele's "It's what you do with them that counts") and keeping the Marion/Elfine bathroom joke, which is good.
+3. Part 10: Elfine shouts "It's an island!" for a patch of tarmac, which is a cute joke but is then explained by Alex and Felix and Pele in three consecutive speeches. Let Pele say the "fire pushes it up, the sea shapes it" line and trim Alex's version, to give the twins a lighter, funnier line.
+4. Continuity: per CLAUDE.md, Elfine and Marion are retired unless the user asks. They carry a lot of this story (Parts 1, 2, 8, 11). This is an earlier story (seriesOrder 7), so no change is needed if it is a legacy story, but confirm with the Bible that it is intended. Mister Hadad appears in Part 12 with no introduction; check the archive that he is established by this point.
+5. Hook: Lakshmi's cues are a good mystery (lamps, lotus, gold footprints, "bring good luck"), but Elfine names the god's clues rather than letting the children guess; she says "I know who that is" without saying who, which is fine and should stay.
+
+## Minor notes
+- "The Floor Is Lava" pun on a real eruption is funny and handled with respect; Pele is warm and dignified, and the sisters' quarrel is treated as a family problem, not a cartoon.
+- Part 3: "Reception class" is acceptable under the brief; Dot being in Reception is fine.
+- Part 2: Elfine's backstory speech runs long (the canoe/pit/wave paragraph); it could be split into two speeches with a Dot interjection. It reads fine aloud but is the longest breath-hold in the story.
+- Pele's "I burnt it" followed by "The whole thing?" is a good beat; "A hundred and four" is the best line in the story.
+- The "November evenings" / "Diwali soon, in just over a week" timing is consistent within the story.

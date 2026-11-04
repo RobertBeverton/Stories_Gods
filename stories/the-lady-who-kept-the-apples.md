@@ -100,7 +100,7 @@ He covered his face.
 
 "I'm so sorry," he whispered. "I've been a coward and a fool. I've been a trickster for such a long time, I forgot that tricks can hurt."
 
-Alex looked at Felix. Felix looked at Alex.
+The twins were quiet for a moment.
 
 "It's okay to be scared," said Alex, slowly.
 
@@ -116,7 +116,7 @@ Mister Loki lowered his hands. His eyes were wet. "No one has ever said that to 
 
 The ageing got worse.
 
-By break time, the staff room looked like a nursing home. Mister Thor was lying on the sofa with a hot water bottle on his back. Mister Heimdall was wearing three scarves. Mrs Freyja's cats were asleep in a heap, and one of them was snoring with a whistle. Mister Hadad's thunder had turned into a rattle. Mister Raven had to be helped onto the windowsill. And Baba Yaga, who is already extremely old, had become so old that she'd gone all the way round to being quite young, and was running up and down the corridor in a very good mood.
+By break time, the staff room looked like a room full of very sleepy grandparents. Mister Thor was lying on the sofa with a hot water bottle on his back. Mister Heimdall was wearing three scarves. Mrs Freyja's cats were asleep in a heap, and one of them was snoring with a whistle. Mister Hadad's thunder had turned into a rattle. Mister Raven had to be helped onto the windowsill. And Baba Yaga, who is already extremely old, had become so old that she'd gone all the way round to being quite young, and was running up and down the corridor in a very good mood.
 
 "It is spreading," groaned Mister Heimdall. "It's the other gods too, the ones who aren't even Norse. Their magic has weakened. The whole staff is starting to wilt."
 
@@ -160,9 +160,7 @@ Alex and Felix looked at each other.
 
 "We always do things together," said Felix.
 
-"Take Willow," said Maya. "She can ride in the hood. She'll know what to do."
-
-"And I'll stay at the crossing with Mister Heimdall," said Maya. "I'll be Mission Control. If he can hear Idun from here, he can hear you."
+"Take Willow," said Maya. "She can ride in the hood. She'll know what to do. And I'll stay at the crossing with Mister Heimdall. I'll be Mission Control. If he can hear Idun from here, he can hear you."
 
 "I'll help!" said Dot. "I'll look out for eagles!"
 
@@ -178,7 +176,7 @@ It was a fly. It had a small, clever, sorry face.
 
 We saw them off from the roof.
 
-The cloak settled round Alex and Felix's shoulders like a soft brown shawl. It split down the middle. The left half fell over Alex's arm, and the right half fell over Felix's. Between them, the feathers joined into one great pair of wings. Willow hopped into the hood, with a look of enormous resignation. The fly, which was Loki, perched on Felix's collar.
+The cloak settled round Alex and Felix's shoulders like a soft brown shawl. It split down the middle. The left half fell over Alex's arm, and the right half fell over Felix's. Between them, the feathers joined into one great pair of wings. Willow hopped into the hood, looking as if she would rather be anywhere else. The fly, which was Loki, perched on Felix's collar.
 
 "Ready?" said Mrs Freyja.
 
@@ -198,7 +196,7 @@ For a moment, they dropped like a stone. Then the wings snapped open, and they s
 
 "Left!" buzzed the fly.
 
-"I'm trying!"
+"I'm trying!" cried Alex.
 
 "Together!" buzzed the fly. "Breathe in! Both of you! And breathe out! Now flap!"
 
@@ -208,7 +206,7 @@ They flapped. Alex on the left, Felix on the right. The wings beat once, togethe
 
 "We're flying!" shouted Felix.
 
-"I'm in the hood," said Willow, in a small, flat voice, which nobody heard.
+Willow, in the hood, said nothing at all. But she held on very tight.
 
 ## Part Eight. The Mountain
 
@@ -242,7 +240,7 @@ From inside came a sound. It was high and sweet and cheerful. Someone was hummin
 
 ## Part Nine. The Tea Party
 
-The great hall was not what we expected.
+The great hall was not what anybody expected.
 
 It was cold and bare and enormous. The ceiling vanished into shadow. A long wooden table ran down the middle, covered in dusty plates. And at the far end, in a small pool of lamplight, sat a lady in a green dress, pouring tea.
 
@@ -368,7 +366,7 @@ The twins dived straight into the smoke.
 
 It was thick and black and stinging. They couldn't see. They could barely breathe. But they could hear the eagle behind them, crashing into the cloud, spluttering and screaming. A great wing clipped the fire. A cloud of sparks flew up. The eagle's feathers smoked, and he gave a wild, startled squawk.
 
-He lost his balance. He lost his height. He tumbled out of the smoke, upside down, head over claws, in a big, undignified, flapping heap.
+He lost his balance. He lost his height. He tumbled out of the smoke, upside down, head over claws, in a big, silly, flapping heap.
 
 And landed with an enormous *splodge* in the middle of the compost.
 
@@ -392,7 +390,7 @@ They dropped out of the sky and landed in front of the compost heap, one in fron
 
 "He's sorry," said Felix.
 
-"He told Idun," said Alex.
+"He told Idun he was sorry," said Alex.
 
 The giant lay in the heap of compost, in a puddle of smoking feathers. He had a banana skin on his head. He was shaking. In the light of the bonfire, he looked less like a fierce eagle and more like a very old, very lost, very muddy bird.
 
@@ -436,7 +434,7 @@ He took it in two enormous shaking fingers. He bit. Light poured from his mouth.
 
 Mister Loki stepped forward. He took a deep breath.
 
-"I'm sorry too," he said. "I did the first wrong. I said yes when I should have said no. And I told no one for days. If I'd spoken up, none of this need have happened."
+"I'm sorry too," he said. "I started it. I said yes when I should have said no. And I kept quiet for too long. If I'd spoken up, none of this need have happened."
 
 Idun looked at him for a long time.
 
@@ -484,7 +482,7 @@ She looked at the two little mounds of earth.
 
 "And I will tell you my secret," she said. "The golden apples are only half of it. The other half is looking after each other. That is what keeps you young. Not for ever. But on the inside."
 
-Maya wrote it down. She underlined *ask* three times.
+Maya wrote it down. Then she drew a big box round the word *ask*.
 
 ## Part Eighteen. The Ending, with a Hook
 
@@ -512,6 +510,6 @@ One looked forward, out into the dark. The other looked back, into the school. B
 
 "Welcome," said both, together. "Goodbye. And do you know, you really should lock up properly."
 
-Alex and Felix looked at each other, with the two-faced man between them. They said, at exactly the same time, "Monday."
+Alex and Felix looked at each other, with the two-faced man smiling at them from the doorway. They said, at exactly the same time, "Monday."
 
 The End.

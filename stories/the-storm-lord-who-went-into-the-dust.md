@@ -50,6 +50,8 @@ Willow's ears went flat. She is nine years old, and she has seen a lot of things
 
 "Rain," said Elfine. "And thunder. And storms. He rides on the clouds like a chariot, and his voice is the thunder, and when he opens a window in the sky, the rain comes down. And because of him, the crops grow. The farmers loved him, because without him the fields would be too dry."
 
+Across the playground, Mister Hadad was trying to shake hands with the climbing frame. "Lovely to meet you," he said to it, very loudly. The little black cloud above his head went *rumble*, and a few drops fell on the frame. "Sorry, old chap," Mister Hadad told it. "He does that."
+
 "His name means Lord," said Marion, who had been reading over Elfine's shoulder. "Baal means Lord. And Hadad means thunder."
 
 "So he's the Lord of Thunder?" said Dot.
@@ -86,6 +88,16 @@ Elfine told us on the benches, while Mister Hadad was busy saying hello to the b
 
 "Everything works better when you ask it nicely," said Dot.
 
+That's when the wind changed.
+
+It came across the playground from nowhere, cold and damp, and it smelled of seaweed. Every puddle in the playground went perfectly still, all at once, as if they were holding their breath. Willow stood up, with her tail like a pipe cleaner, and stared at them.
+
+Across the playground, Mister Hadad stopped saying hello to the bins. He lifted his head and sniffed, the way you do when you smell smoke.
+
+"Oh dear," he said quietly, which for him was like a normal person shouting. "That's not mine."
+
+And over the roof, a single grey cloud with a greenish edge began to creep across the sun.
+
 ## Part Four. The Wave in the Playground
 
 It started to rain on Tuesday, and it didn't stop.
@@ -120,9 +132,9 @@ Mister Hadad turned. He had a strange, startled look on his face. "How do you kn
 
 "Elfine told us!" shouted Felix.
 
-"The first club doesn't work!" shouted Alex. "You have to say the name!"
+"The first club didn't work!" called Alex. "You have to say the name!"
 
-"Say its name and tell it what to do!" shouted Felix.
+"Say its name and tell it what to do!" cried Felix.
 
 Mister Hadad blinked. Then he threw back his head and let out a roar of laughter that shook the roof tiles. "Of course!" he boomed. "A name and a job! Chaser! Chase Yam away!"
 
@@ -198,9 +210,9 @@ He put on his helmet, picked up his clubs, and walked down the cellar steps into
 
 ## Part Eight. The Dry Days
 
-Mister Hadad didn't come back.
+Mister Hadad didn't come back by morning.
 
-Not that night, and not the next. And without him, something started to go wrong.
+We should have shouted for Anat straight away. But the lightning bolt had gone dull and quiet in Alex's pocket, and nobody was sure it would still work. So we waited, and hoped, and checked the cellar door at every break. And without him, something started to go wrong.
 
 The rain stopped. Not just in the playground, but all over the town. The clouds dried up like sponges. The sky went hard and blue and cloudless, and the sun beat down on the school, day after day.
 
@@ -256,7 +268,7 @@ Anat led the way, with her sword held low. Alex and Felix came next, with the li
 
 At the bottom of the stairs was a vast stone hall, full of cobwebs and shadows. In the middle of the hall stood a long grey table. Everything on it was covered with a thick layer of dust: a dusty plate, a dusty cup, a dusty candle that had never been lit.
 
-And at the head of the table sat a very tall, very thin man in a grey suit. His face was pale and long. His eyes were hollow. And his mouth was open so wide that it nearly touched the floor and the ceiling at the same time.
+And at the head of the table sat a very tall, very thin man in a grey suit. His face was pale and long. His eyes were hollow. And his mouth was open so wide that it nearly touched the floor and the ceiling at once.
 
 There was something wedged in the back of that mouth, just like a cork in a bottle. It had two boots, and a pair of bull's horns.
 
@@ -292,7 +304,7 @@ Felix took Alex's hand. Alex took Felix's hand. Neither of them looked at the ot
 
 "Then I'll have both," said Mot, with a hungry sigh.
 
-"You can't have either," said Felix, and his voice was shaking, but it didn't wobble. "Because we're not afraid of you. We're a bit scared. But being scared and being afraid are different. We can be scared and still say no."
+"You can't have either," said Felix, and his voice shook. "We are scared of you. But we can be scared and still say no."
 
 Mot's smile slipped. "Nobody says no to me," he whispered.
 
@@ -316,7 +328,7 @@ When Anat swung her sword, he turned into dust. Grey clouds of it swirled up and
 
 "What makes dust stay put?" yelled Elfine.
 
-Alex and Felix looked at each other. A tiny idea was forming in both their heads at the same moment, and they said it together:
+Alex and Felix looked at each other. A tiny idea popped into both their heads, and they said it together:
 
 "Water."
 
@@ -334,7 +346,7 @@ POP.
 
 ## Part Thirteen. Out Pops Baal
 
-Mister Hadad shot out of Mot's mouth like a champagne cork. He hit the ceiling, bounced off a cobweb, and landed in a heap on the table.
+Mister Hadad shot out of Mot's mouth like a cork from a bottle. He hit the ceiling, bounced off a cobweb, and landed in a heap on the table.
 
 "Thank you, little cat," he panted. "That was getting very stuffy."
 
@@ -358,7 +370,7 @@ She swept the seeds into a bag.
 
 ## Part Fourteen. The Rain Comes Back
 
-When we climbed back up the cellar steps and out into the sunlight, the whole school was waiting. Mister Harris, Missus Tibbs, every child from Year One and Reception, all of them standing in a silent ring on the dusty field.
+When we climbed back up the cellar steps and out into the sunlight, the whole school was waiting. Mister Harris, Missus Tibbs, every child in the school, all of them standing in a silent ring on the dusty field.
 
 Mister Hadad stepped out, blinking. He took off his helmet. He took a deep breath of fresh air.
 
@@ -390,7 +402,7 @@ It was a big square one, facing the sunrise, with a bright blue frame. Marion he
 
 "But you might let in something wonderful," said Alex.
 
-"Exactly," said Mister Hadad. "It took two small people to remind me." He rubbed his eyes with the back of his huge hand. "Things end. Seasons end. Summers end. And that's sad. But they begin again. And that's the best thing about the whole world."
+"Exactly," said Mister Hadad. "It took two small people to remind me." He rubbed his eyes with the back of his huge hand.
 
 "It's okay to be sad," said Dot, who had followed us in and was sitting on the floor with her sunflower.
 
@@ -422,11 +434,11 @@ We all sniffed. The air was getting warm. Not sunny warm, but something else. A 
 
 We looked at the playground. A long, thin crack was snaking across the tarmac, from the hopscotch to the climbing frame. A soft red glow was pouring out of it, like the light from an oven.
 
-Anat stopped juggling. She put down her sword. "Oh no," she said.
+Anat stopped mid-throw. She lowered her newspaper javelin. "Oh no," she said.
 
 "What?" said Alex.
 
-"Not her," said Mister Hadad, pulling his helmet over his eyes. "Not the Fire Lady. She's my cousin, in a way. Wonderful woman. Terrible temper. Always sets the furniture alight."
+"Not her," said Mister Hadad, pulling his helmet over his eyes. "Not now. She's a force of nature, and she has a very long memory. And the furniture never survives her visits."
 
 "Who?" said Felix.
 

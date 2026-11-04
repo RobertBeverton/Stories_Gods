@@ -24,7 +24,7 @@ It was lunchtime. Kenji opened his lunchbox, and instead of a cheese sandwich, t
 
 "Mine too!" shouted Maya.
 
-By the end of lunchtime, forty-three sandwiches had vanished from Year One, and forty-three pebbles had turned up in their place. Alex had a pebble. Felix had a pebble. Even Willow, who had been sitting on the end of the bench next to Elfine and Marion, had a pebble where her little pouch of Reading Cat treats had been.
+By the end of lunchtime, forty-three sandwiches had vanished from our class, and forty-three pebbles had turned up in their place. Alex had a pebble. Felix had a pebble. Even Willow, who had been sitting on the end of the bench next to Elfine and Marion, had a pebble where her little pouch of Reading Cat treats had been.
 
 Willow looked at the pebble. Then she looked at us. Then she looked at the door, with her ears slowly turning flat.
 
@@ -32,7 +32,7 @@ Willow looked at the pebble. Then she looked at us. Then she looked at the door,
 
 "It's not a thief," said a voice from the doorway. "It's a Sandwich Inspector."
 
-A man leaned against the door frame. He was thin and rangy, with yellowy-grey hair that stuck out in all directions, and a long face with a pointy chin. His eyes were bright amber, like two drops of honey. His grin went all the way across his face, and it had a lot of teeth in it. His badge said Mister Coyote, Sandwich Inspector.
+A man leaned against the door frame. He was thin and bendy, with yellowy-grey hair that stuck out in all directions, and a long face with a pointy chin. His eyes were bright amber, like two drops of honey. His grin went all the way across his face, and it had a lot of teeth in it. His badge said Mister Coyote, Sandwich Inspector.
 
 "Somebody has to check them, you see," he said. "To make sure they're safe. For children. I'm doing it for you. You're welcome. Did you know there's a sandwich called a club sandwich and it's got no club in it? Disappointing. Did you know I once ate a whole sandwich in the dark and it was a sock? Anyway, nobody has said thank you. Not once. But it's fine. I'm fine. Is anybody else hungry? Because I am, again, already."
 
@@ -56,7 +56,7 @@ And under the piano stool, with a note saying THIS SIGN WAS A GOOD TRY, there we
 
 At that moment, a very large cheese sandwich, about the size of a door, wobbled past us down the corridor on two skinny legs.
 
-"Hello, Year One!" said the sandwich, in a muffled voice. "Nothing to see here! I'm just an extremely large, very normal sandwich!"
+"Hello, class!" said the sandwich, in a muffled voice. "Nothing to see here! I'm just an extremely large, very normal sandwich!"
 
 "That's him!" shouted Maya.
 
@@ -86,11 +86,19 @@ She told us, sitting under the climbing frame, where the nest was still wedged i
 
 "And Coyote was watching," said Marion.
 
-"Coyote was bored," said Elfine. "He kept saying, Is it done yet? Are we nearly finished? How much longer? In the end, he couldn't stand it any more. He grabbed the whole bag, that was left over, and flung it up into the sky."
+"Coyote was bored," said Elfine. "He kept saying, Is it done yet? Are we nearly finished? How much longer? In the end, he couldn't stand it any more. He grabbed the whole bag that was left over and flung it up into the sky."
 
 "All of them?" said Ollie.
 
 "All of them. WHOOSH. And they went everywhere, in a big, messy, glittery splatter. That's the Milky Way, they say. And all the scattered stars that aren't in any pattern."
+
+"Did he say sorry?" said Kenji.
+
+"Not for about a thousand years," said Elfine.
+
+"That's longer than Ollie," said Marion.
+
+"I said sorry about the cake the same day," said Ollie, with his mouth full.
 
 "I like that," said Dot.
 
@@ -196,7 +204,7 @@ But Dot, who is tiny and was last out of the classroom, tripped on her shoelace.
 
 "DOT!" shrieked Maya.
 
-Alex and Felix started running before anyone else did. They didn't say anything. They didn't need to.
+Alex and Felix started running toward the Gobbler before anyone else did. They didn't say anything. They didn't need to.
 
 "Wait!" yelled Mister Coyote. He caught them both by the coat. "Stop. Listen to me. This is my fault. I'm the one who woke it. I need to fix it."
 
@@ -208,7 +216,7 @@ Alex and Felix started running before anyone else did. They didn't say anything.
 
 Elfine was already talking.
 
-"It's the Nez Perce story," she gasped. "The Monster who swallowed everyone. Coyote went in, with Fox's warning, and he fixed everything from the inside. This is the same one! We know how it goes!"
+"It's like an old story," she gasped. "The one where a Monster swallowed everyone, and Coyote went in and fixed it from the inside. This is the same sort of thing! We know how it goes!"
 
 "I'll go in with Mister Coyote," said Alex.
 
@@ -218,7 +226,7 @@ Elfine was already talking.
 
 Marion pulled a ball of the strongest rope she could find out of her pocket. It had been in there for months. She tied one end round Mister Coyote's waist and the other round Alex's, and the middle round Felix's. "Three tugs means pull us out," she said, and Elfine and Mister Harris and Missus Tibbs and Kenji all grabbed the other end.
 
-"And what about me?" said a small voice.
+Somebody beside us was very pointedly not saying anything.
 
 Willow was sitting at Marion's feet, looking up at her with those wide golden eyes. She had a funny gleam in them.
 
@@ -296,7 +304,7 @@ Alex stood up straight. "So we feed it," he said. "Properly. Not by gobbling. By
 
 "Three tugs means pull us out," said Felix. "We need a message that says bring the sandwiches."
 
-They all looked at each other. Then they looked at Dot.
+Then they all looked at Dot.
 
 She was standing on top of an upside-down bucket. She had her hands cupped round her mouth, and she was grinning from ear to ear. "I'm LOUD," she said. "Shall I?"
 
@@ -344,7 +352,7 @@ And as the little creature ate, something extraordinary began to happen. The hug
 
 Three tugs on the rope. Marion and Mister Harris and Kenji pulled with all their strength.
 
-But the Gobbler's mouth had half shut as it shrank, and it was too narrow now for three people, a girl and three sheep to squeeze through. Alex, Felix, Dot and Mister Coyote were wedged at the back of the throat, with the walls squishing round them.
+But the Gobbler's mouth had half shut as it shrank, and it was too narrow now for four people to squeeze through. Alex, Felix, Dot and Mister Coyote were wedged at the back of the throat, with the walls squishing round them.
 
 "We're stuck!" shouted Alex.
 
@@ -370,7 +378,7 @@ When we looked up, the Gobbler had shrunk to a hill again.
 
 But it wasn't the same hill. It was round and green and cosy, with a smiling mouth under a ledge of heather, and two sleepy eyes that blinked at us as the sun came out.
 
-"Thank you," said a tiny, rumbly voice, that seemed to come from deep inside. "I haven't felt full for a hundred years. I'm sorry I frightened you."
+"Thank you," said a tiny, rumbly voice that seemed to come from deep inside. "I haven't felt full for a hundred years. I'm sorry I frightened you."
 
 "You didn't mean to," said Felix.
 
@@ -384,11 +392,7 @@ Everyone looked at Mister Coyote. He was covered in mud from his boots to his ha
 
 "What's that?" said Marion.
 
-"I listened," said Mister Coyote. "For the first time in my whole life, I listened to two very small people. And they were right." He looked at Alex and Felix. "You didn't need clever tricks. You needed kindness, and you needed each other. I've been trying to be noticed for years. All I had to do was help."
-
-"Everyone's good at something," said Felix.
-
-"And everyone can be better," said Alex.
+"I listened," said Mister Coyote. "For the first time in my whole life, I listened to two very small people. And they were right."
 
 From that day on, every Friday at three o'clock, Mister Coyote made forty-three sandwiches in the dinner hall kitchen, with Missus Tibbs supervising, and carried them up to Gobbler Hill. And the hill would sigh, and say thank you, and the whole school would sit on its warm green shoulders, eating together.
 
@@ -402,15 +406,15 @@ Mister Harris's car was parked outside, with only a bit of heather in the wing m
 
 Then the ground began to shake again.
 
-Not a rumble this time, but a drumming. A rolling, rhythmic, thundering boom, like a hundred huge drums.
+Not a rumble this time, but a drumming. A rolling, thumping, thundering boom, like a hundred huge drums.
 
-We all turned. Out on the road, rolling slowly up to the school gate, was a deep stormy-blue van, with lightning bolts down the side. It was the same van we had seen the week before. Silver letters on the door read: HADAD'S STORM SUPPLIES. A great black cloud was gathering overhead, crackling and purple, and the air smelled of rain.
+We all turned. Out on the road, rolling slowly up to the school gate, was a deep stormy-blue van, with lightning bolts down the side. It was the same van we had seen before. Silver letters on the door read: HADAD'S STORM SUPPLIES. A great black cloud was gathering overhead, crackling and purple, and the air smelled of rain.
 
 "Oh no," said Mister Coyote, covering his face with his hat. "That's the big one. That's the Storm Lord himself. And I've got a feeling he's not going to be as funny as me."
 
 The van door opened with a clang. A booted foot stepped down onto the tarmac. And a deep voice, as rich as thunder, called out: "Is this the school? I've come about the job."
 
-Elfine and Marion looked at each other. Willow arched her back. Even the Gobbler, on the hill, opened one sleepy eye.
+Elfine and Marion gasped. Willow arched her back. Even the Gobbler, on the hill, opened one sleepy eye.
 
 Everyone turned to look at Alex and Felix. The twins looked at each other, with the first drops of rain falling on their faces. They said, at exactly the same time, "Monday."
 

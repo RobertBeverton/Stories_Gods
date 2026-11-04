@@ -14,9 +14,9 @@ draft: false
 
 ## Part One. The Lady at the Gate
 
-The first time we properly met Mrs Bast was on a Monday, and Willow had not stopped bowing to her all weekend.
+The first time we properly met Mrs Bast was on a Monday, and Willow had not stopped bowing to her.
 
-I don't mean that Willow had been bowing for two whole days. That would be silly. I mean that every time Willow saw Mrs Bast, she did a very slow, very low bow, with her chin on her paws and her tail stretched out behind her, like a golden carpet. And Willow, if you remember, is nine years old, and a Reading Cat, and has never bowed to anyone in her whole life.
+I don't mean that Willow bowed all day long. That would be silly. I mean that every time Willow saw Mrs Bast, she did a very slow, very low bow, with her chin on her paws and her tail stretched out behind her, like a golden carpet. And Willow, if you remember, is nine years old, and a Reading Cat, and has never bowed to anyone in her whole life.
 
 Alex and Felix had brought Willow to school as usual. She lives at their house, and on Mondays she walks between them all the way to the gate, with her tail up, like a tiny golden queen escorted by two guards. But this Monday, she stopped dead on the pavement. She stared at the school gates. And then she did the bow.
 
@@ -136,13 +136,13 @@ She turned and looked at Willow, who was sitting very still, with her ears prick
 
 It was Mister Harris's idea to hold the sleepover.
 
-It had been planned for ages. Every year, Year One has a sleepover in the school hall, with sleeping bags and torches and midnight cocoa, and parents pick everyone up at breakfast. Alex and Felix had been looking forward to it for weeks. Normally it's the nicest night of the autumn.
+It had been planned for ages. Every year, our class has a sleepover in the school hall, with sleeping bags and torches and midnight cocoa, and parents pick everyone up at breakfast. Alex and Felix had been looking forward to it for weeks. Normally it's the nicest night of the autumn.
 
 "It's just a bit of fun," said Mister Harris, in a shaky voice, as he rolled out the mats. "A cosy night. What could possibly go wrong?"
 
 "Everything," whispered Maya.
 
-At eight o'clock, the whole of Year One was lined up in sleeping bags on the hall floor. Kenji and Ollie shared a torch. Dot, from Reception, had come for a special visit, in pyjamas with cats on. Nana had stayed in the corner, in a deckchair, with a flask of tea and a knitting bag.
+At eight o'clock, the whole class was lined up in sleeping bags on the hall floor. Kenji and Ollie shared a torch. Dot, from Reception, had come for a special visit, in pyjamas with cats on. Nana had stayed in the corner, in a deckchair, with a flask of tea and a knitting bag.
 
 By ten, everyone was asleep. Even Willow had curled up on a cushion at the back, with her tail over her nose.
 
@@ -156,13 +156,13 @@ And the floor of the hall began to crack.
 
 The serpent came up through the floor.
 
-First there was a rumbling. Then a groan, like a thousand rusty hinges. A long grey head, as wide as a bus, pushed up through the parquet and tore the boards apart. Its scales were the colour of mud and slate, and they rippled as it moved. Its eyes were yellow slits. And its voice, when it spoke, was a long dry hiss, like gravel sliding down a hill.
+First there was a rumbling. Then a groan, like a thousand rusty hinges. A long grey head, as wide as a bus, pushed up through the wooden floor and tore the boards apart. Its scales were the colour of mud and slate, and they rippled as it moved. Its eyes were yellow slits. And its voice, when it spoke, was a long dry hiss, like gravel sliding down a hill.
 
 "Mmmmmm," said Apep. "A clock."
 
 He wound his huge body round the school hall, coil after coil, until the room was filled with the sound of scales scraping on wood. His tail curled up the wall. His head rose up and up, until he was looking down at the clock face.
 
-"A very nice clock," he said. "Orderly. Tidy. Ticking away. I'm going to swallow it. And after that, I'm going to swallow the morning. And after that, I'm going to swallow Tuesday. You'll never know what day it is again."
+"A very nice clock," he said. "Orderly. Tidy. Ticking away. I'm going to swallow it. And after that, I'm going to swallow the morning. And after that, I'm going to swallow Thursday. You'll never know what day it is again."
 
 "You shall not," said Mrs Bast. She rose from her stool, and her voice was cold and clear.
 
@@ -224,7 +224,7 @@ Mrs Bast was standing in the middle of the hall, fighting. Her claws had grown l
 
 "The goddess of truth, and balance, and order," said Mrs Bast. "She weighs the heart. She holds a feather, and a pair of scales. If your heart is as light as a feather, because you have been honest and kind, then you pass. Apep cannot stand it. He hates things that are balanced and true."
 
-Alex and Felix looked at each other.
+Alex and Felix both went quiet.
 
 "Balance," said Alex slowly.
 
@@ -294,7 +294,7 @@ Apep opened one yellow eye and stared at the bow.
 
 ## Part Twelve. Back Down the Drain
 
-Mrs Bast stood up. She was tired, and a few of her golden feathers were bent. But she looked calm.
+Mrs Bast stood up. She was tired, and her golden headdress was bent. But she looked calm.
 
 "You can't destroy him," she said to us, in a low voice. "He will never really go away. Chaos is part of the world, just like order. There will always be a bit of muddle in everything. What matters is that it doesn't win."
 
@@ -374,7 +374,7 @@ It was called the Festival of Bast, though only Maya and Mrs Bast knew why. Ther
 
 Alex and Felix danced in the middle, shaking a tambourine each, matched beat for beat. Maya danced next to them, carrying her notebook, and wrote, "Best party. Evidence: everyone is happy."
 
-Mrs Bast danced at the front, in her white dress, with her golden headdress glinting. She danced slowly at first, then faster. And as the music rose, the sunlight streaming through the hall windows seemed to grow warmer and brighter, until it felt like the whole room was bathed in a deep golden glow, and every single cat in the whole town was purring at the same moment.
+Mrs Bast danced at the front, in her white dress, with her golden headdress glinting. She danced slowly at first, then faster. And as the music rose, the sunlight streaming through the hall windows seemed to grow warmer and brighter, until the whole room glowed gold. And every single cat in the whole town was purring at the same moment.
 
 Willow sat on the piano and watched. For the first time in nine years, she looked completely, utterly proud.
 

@@ -130,7 +130,7 @@ Mrs Amaterasu's rays dropped to a dim flicker.
 
 We watched them go down the corridor together, a big loud storm of a man and a small pale sun with her bells ringing nervously. Behind them trailed the giggling kami, some of them hiding in her sleeves.
 
-"He's her brother," whispered Maya. "That's in the story, too. The sun and the storm. They're two of the three great children of the first gods, and they've never gotten on. Not because he's mean. He's just... a lot."
+"He's her brother," whispered Maya. "That's in the story, too. The sun and the storm. They're two of the three great children of the first gods, and they've never got on. Not because he's mean. He's just... a lot."
 
 "Is he naughty?" said Dot.
 
@@ -166,7 +166,7 @@ Nobody laughed.
 
 Mrs Amaterasu stood very still at the end of the hall. Her gold paper sheaves lay trampled on the floor. Her lanterns had all gone out, one by one, in the wind from the doors. Her rays, which had been small and pale all week, shrank until there was only a thin glimmer round her head.
 
-"I worked on that for six days," she said, in a very small voice.
+"I worked on that for days and days," she said, in a very small voice.
 
 "It was an accident!" said Mister Susanoo. "I didn't mean to! You're being dramatic!"
 
@@ -208,7 +208,7 @@ By the time we got to the storeroom, half the school was there.
 
 They had all had ideas.
 
-Mister Heston was trying to prise the stone door open with a crowbar. It did not move. The Caretaker was banging on it with a mallet. It did not move. Mister Hadad shouted, and thunder rolled, and the door still stayed where it was. Miss Pele melted a bit of the frost off the step, and Baba Yaga offered to send in some soup through the keyhole.
+Mister Heston was trying to push the stone door open with a crowbar. It did not move. The Caretaker was banging on it with a mallet. It did not move. Mister Hadad shouted, and thunder rolled, and the door still stayed where it was. Miss Pele melted a bit of the frost off the step, and Baba Yaga offered to send in some soup through the keyhole.
 
 "Come out, Amaterasu!" bellowed Mister Susanoo. He was standing in front of the door with his fists clenched and rain pouring off his head. "This is silly! It was only a game! Come out right now!"
 
@@ -266,7 +266,7 @@ And that's when something went *clunk* on top of Madam Simurgh's head.
 
 It was a small, round, bronze mirror with a handle, and it had fallen out of the sky.
 
-Madam Simurgh had stretched her wings out wide, to carry the cold away from the children. And a little way up, tangled in her tail feathers, where it had been trapped since Sunday night in the dark, was the mirror.
+Madam Simurgh had stretched her wings out wide, to carry the cold away from the children. And a little way up, tangled in the feathers on her head, where it had been stuck since Sunday night in the dark, was the mirror.
 
 "It was caught in the clouds," she said, plucking it out gently. "When she lost it, it flew up into the sky. And I could not feel it before, because I was not high enough. Here."
 
@@ -280,7 +280,7 @@ She put it in Alex's hands. Alex put his hand on one side. Felix put his hand on
 
 "We need a dancer," said Ollie.
 
-"Dot," said everybody at the same time.
+"Dot," said everybody at once.
 
 Dot, who had been quietly sucking her thumb, took it out of her mouth.
 
@@ -294,7 +294,7 @@ Dot looked at the sky, which was black. She looked at the stone door. She looked
 
 We built it in ten minutes.
 
-Mister Heston found an old galvanised tub and turned it upside down. The Caretaker propped up a small tree from the garden, and Madam Simurgh hung it with ribbons from her own tail. Mrs Oshun brought a basket of honey cakes. Mister Väinämöinen sat on a log with his five-stringed instrument and began to play. And the eight hundred kami, who love a party, lined up along the shed roof and the fence and the wall, glowing like fairy lights.
+Mister Heston found an old metal tub and turned it upside down. The Caretaker propped up a small tree from the garden, and Madam Simurgh hung it with ribbons from her own tail. Mrs Oshun brought a basket of honey cakes. Mister Väinämöinen sat on a log with his five-stringed instrument and began to play. And the eight hundred kami, who love a party, lined up along the shed roof and the fence and the wall, glowing like fairy lights.
 
 Alex and Felix hung the mirror on the tree together, one on each side. It glowed a little brighter.
 
@@ -304,9 +304,9 @@ Alex and Felix hung the mirror on the tree together, one on each side. It glowed
 
 She climbed onto the upturned tub. She was very small and very serious. And then she began to dance.
 
-It was the silliest dance any of us had ever seen. She waggled. She wiggled. She flapped her elbows like a chicken, and shook her bottom like a jelly, and did a sort of hopping spin that made her fall over, and get up, and do it again. Willow, in a burst of inspiration, leapt on to the tub beside her and began to dance too, in a stiff, solemn, cat sort of way, with her tail up and her whiskers twitching.
+It was the silliest dance any of us had ever seen. She waggled. She wiggled. She flapped her elbows like a chicken, and shook her bottom like a jelly, and did a sort of hopping spin that made her fall over, and get up, and do it again. Willow, all at once, leapt on to the tub beside her and began to dance too, in a stiff, solemn, cat sort of way, with her tail up and her whiskers twitching.
 
-Kenji started laughing. Then Ollie. Then the whole of Year 1. Then the staff. Mister Coyote laughed so hard he dropped his sandwich. Baba Yaga cackled. Mister Harris wiped his eyes. And the eight hundred kami went off like fireworks, giggling and tinkling and glowing so brightly that the whole playground turned gold.
+Kenji started laughing. Then Ollie. Then the whole class. Then the staff. Mister Coyote laughed so hard he dropped his sandwich. Baba Yaga cackled. Mister Harris wiped his eyes. And the eight hundred kami went off like fireworks, giggling and tinkling and glowing so brightly that the whole playground turned gold.
 
 ## Part Thirteen. A Crack in the Door
 
@@ -412,7 +412,7 @@ She tapped the mirror.
 
 "And one more thing. When you cannot see your own shine, ask a friend to hold up a mirror. Your friends can see it, even when you can't."
 
-Maya wrote it down. She underlined it three times, and then, because it was a good one, she drew a tiny sun.
+Maya wrote it down, and then, because it was a good one, she drew a tiny sun beside it.
 
 ## Part Seventeen. The Ending, with a Hook
 

@@ -28,7 +28,7 @@ They were sitting side by side on the pavement, as neat as two people at a bus s
 
 Dot, who is in Reception and has no fear of anything, trotted straight up to them with a packet of crisps. "Would you like one?" she said.
 
-The bear took one, delicately, with the tip of a claw. The tiger sniffed it, and ate five.
+The bear took one, very gently, with the tip of a claw. The tiger sniffed it, and ate five.
 
 Willow, the Bengal reading cat, walked all the way round the tiger twice, very slowly, with her ears flat. Then she sat down in front of her, like a small, striped, extremely serious inspector. The tiger looked down at her.
 
@@ -76,7 +76,7 @@ She had her notebook out before the first bell, and her pencil had a new point.
 
 "That's the test," said Maya. "The tiger got fed up and ran away. But the bear stayed. She waited and waited and waited. And in the end, she turned into a woman."
 
-Alex looked at Felix.
+Alex turned to Felix.
 
 "I wonder what happens this time," said Alex.
 
@@ -158,7 +158,7 @@ And standing at the top of the coal chute, peering down, were two very familiar 
 
 "It's *a* sandwich," said Mister Coyote.
 
-The tiger had sat up. Her eyes were fixed on the pot. Her nose twitched. Her tail went rigid. A long, terrible rumble came out of her stomach.
+The tiger had sat up. Her eyes were fixed on the pot. Her nose twitched. Her tail went stiff. A long, terrible rumble came out of her stomach.
 
 "Don't," whispered Felix.
 
@@ -224,7 +224,7 @@ Nobody noticed that a very small girl in a very yellow raincoat had slipped past
 
 ## Part Nine. Dot Follows
 
-"A big cat!" Dot had whispered. "She's gone to find a big cat!"
+"She's gone to find a big cat!" Dot had whispered, on the stairs.
 
 She was only little. She had never been told not to follow a tiger. And in her head, the tiger was Willow's cousin, who needed a friend.
 
@@ -338,7 +338,7 @@ Behind them, in the dark, Mister Hwanung had come to the edge of the trees. He d
 
 We went back together.
 
-It was after midnight. The thunder had stopped. The Rain Master was sniffing, and the Cloud Master was a deep, sad grey. Dot rode on Alex's back, half asleep. Maya carried Dot's wellies. The tiger limped beside us, and Willow walked at her heels with her head up, like an escort.
+It was after midnight. The thunder had stopped. The Rain Master was sniffing, and the Cloud Master was a deep, sad grey. Dot rode on Alex's back, half asleep. Maya carried Dot's wellies. The tiger limped beside us, and Willow walked at her heels with her head up, like a guard.
 
 Mister Harris was waiting at the gate with a flask of hot chocolate and a very red nose. When he saw Dot, he dropped his clipboard and burst into tears. He held her for such a long time that she complained.
 
@@ -388,7 +388,7 @@ Behind her, trotting up the steps, came a long striped shape, with her tail up a
 
 We had a party in the playground.
 
-Mister Ketsalkoatl made a mountain of rice cakes. Mrs Oshun brought honey. Baba Yaga, who had been forgiven, produced a tray of dumplings. Mister Coyote produced a very large sandwich, and everyone looked at him, and he said it was his own, this time, and he'd checked.
+Mister Ketz made a mountain of rice cakes. Mrs Oshun brought honey. Baba Yaga, who had been forgiven, produced a tray of dumplings. Mister Coyote produced a very large sandwich, and everyone looked at him, and he said it was his own, this time, and he'd checked.
 
 Mrs Ungnyeo sat under the sycamore tree with a bowl of porridge and ate with her eyes closed. She said it was the best porridge she had ever tasted. Dot said it was only porridge. Mrs Ungnyeo said that was what made it so good.
 
@@ -428,7 +428,7 @@ She nudged Alex with her nose, and then Felix, one each, so neither was left out
 
 "You do not have to be a person, to be good," said the tiger. "You only have to be kind. And you were."
 
-Maya wrote it down. She underlined *you were enough when you walked in* three times, and drew a small, smiling, striped face next to it.
+Maya wrote down *you were enough when you walked in*, in her very best handwriting, and drew a small, smiling, striped face next to it.
 
 ## Part Seventeen. The Ending, with a Hook
 
@@ -454,6 +454,6 @@ The shadow vanished into the clouds.
 
 The apples went on rolling, one by one, down the lane, glowing softly in the dark.
 
-Alex and Felix looked at each other, each holding a golden apple. They said, at exactly the same time, "Monday."
+Alex and Felix each held a golden apple. They said, at exactly the same time, "Monday."
 
 The End.

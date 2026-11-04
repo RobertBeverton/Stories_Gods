@@ -134,7 +134,7 @@ The clocks had gone back on Sunday. Everyone knows what that means. When we came
 
 And he walked off, whistling.
 
-Mister Harris came out to the playground at the same moment, rubbing his hands together because it was already chilly. "Now, Year One," he said. "A reminder. This Friday is our Lantern Walk. All the grandparents are coming, and we'll walk around the school field at sunset with our lanterns. It will be lovely. Bring a warm coat."
+Mister Harris came out to the playground at the same moment, rubbing his hands together because it was already chilly. "Now, everybody," he said. "A reminder. This Friday is our Lantern Walk. All the grandparents are coming, and we'll walk around the school field at sunset with our lanterns. It will be lovely. Bring a warm coat."
 
 "My nana's coming," said Alex.
 
@@ -210,7 +210,7 @@ We followed him down the corridor, even though Mister Harris had told us to stay
 
 "Cool," said Dot.
 
-"Not cool," said Maya. "Hot. And here's the thing. Maui got fire from her once, a long time ago, but he did it by trickery. He asked for one fingernail, and she gave it. Then he said, Please, may I have another? And he put the first flame out in the water, and she gave him another. He did that again and again, until she had only one fingernail left."
+"Not cool," said Maya. "Hot. And here's the thing. Maui got fire from her once, a long time ago, but he did it with a trick. He asked for one fingernail, and she gave it. Then he said, Please, may I have another? And he put the first flame out in the water, and she gave him another. He did that again and again, until she had only one fingernail left."
 
 "That's not nice," said Felix.
 
@@ -238,7 +238,9 @@ It said, DANGER. KEEP OUT. And underneath, in smaller letters, someone had added
 
 Mister Maui looked at them. He had a very serious face, and for the first time it did not have a grin on it. "Brave doesn't mean going where you're told not to," he said. "But it does mean being honest when it's hard. Stay behind me. And do exactly what I say."
 
-We stayed behind him. All of us. Even Dot, who had crept in at the back while no one was looking.
+We stayed behind him. All of us. Then Mister Maui turned round and found Dot at the very back, standing on tiptoes, trying to look as if she had been there all along. He opened his mouth. Then he shut it again.
+
+"Fine," he said. "Behind me. All of you."
 
 The door creaked open. A wave of warm air rolled out, smelling of woodsmoke and hot bread.
 
@@ -288,9 +290,9 @@ That's when Felix stepped forward. Right out in front of everyone, into the glow
 
 "Excuse me," said Felix. He took a deep breath. "My nana says that sorry is the hardest word, because you have to be brave to say it. I think he really meant it. He came all the way down here, and he was scared, and he did it anyway. That's what brave is."
 
-Mahuika looked at him for a very long time. The flames on her fingers shrank, just a bit.
+Mahuika watched him for a very long time. The flames on her fingers shrank, just a bit.
 
-"And he's still your grandson," said Felix, quietly. "Even when he makes mistakes. Everyone makes mistakes. The good part is fixing them."
+"And he's still your grandson," said Felix, quietly. "Even when he makes mistakes."
 
 ## Part Twelve. The Test
 
@@ -312,9 +314,9 @@ That's when Alex said, very calmly, "Fire needs air to stay alive. But it can't 
 
 "So?" said Maya.
 
-"So we need something with a lid that has little holes in it," said Alex. "Something that's see-through, so we can keep an eye on it. Something that's not made of anything that burns."
+"So we need something with a lid that has little holes in it," said Alex. "Something that's see-through, so we can keep an eye on it. Something that can't burn."
 
-Everyone looked at the pile of lost property in the corner, which Mister Maui had brought down in a bucket. And at the top of the pile, sitting where it had always been, was a big glass jam jar with a metal lid. Someone had stabbed a few holes in the lid with a fork.
+Then Felix spotted the pile of lost property in the corner, which Mister Maui had brought down in a bucket. And at the top of the pile, sitting where it had always been, was a big glass jam jar with a metal lid. Someone had poked a few holes in the lid with a fork.
 
 "That's perfect," said Mister Maui.
 
@@ -343,6 +345,8 @@ So we did. We made a circle around the twins, shoulder to shoulder, with our coa
 "Keep walking," said Alex.
 
 We shuffled forward, step by step, all of us together, like an enormous centipede in coats. Kenji counted every step, out loud. Ollie hummed so we would all keep time. Behind us, Mister Maui held up his glowing hook so we could see the floor.
+
+Willow was in front of us. Nobody had seen her come along. She never tells anyone when she is coming. She walked ahead into the dark with her tail straight up like a flag, and her eyes shone green every time the lightning flashed. Where she went, we went. Even when the corridor creaked, she did not slow down.
 
 At step eighty-seven, the little flame stretched up tall and bright again.
 

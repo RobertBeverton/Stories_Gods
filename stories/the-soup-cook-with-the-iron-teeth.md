@@ -40,7 +40,7 @@ Willow, who was sitting on a fence post, looked at the chicken legs. The chicken
 
 ## Part Two. Elfine Has a Fact
 
-"She's a Baba Yaga," whispered Elfine, as we huddled behind the climbing frame. "She's from Slavic fairy tales. In Poland she's called Baba Jaga. In Russia she's Baba Yaga. She's the most famous witch in the whole of Eastern Europe."
+"She's Baba Yaga," whispered Elfine, as we huddled behind the climbing frame. "She's from Slavic fairy tales. In Poland she's called Baba Jaga. In Russia she's Baba Yaga. She's the most famous witch in the whole of Eastern Europe."
 
 "Is she a bad witch?" said Dot.
 
@@ -74,7 +74,7 @@ She stopped. Her eyes went wide.
 
 "It's the best soup I've ever eaten," she said.
 
-It was deep red, sweet and sour and steaming, with a swirl of cream on top. Baba Yaga had made little pasta parcels, too, called pierogi, stuffed with potato and cheese, and fried in butter till they were golden. By the end of lunchtime, every child in Year One had had three helpings, and Ollie had asked for a fourth.
+It was deep red, sweet and sour and steaming, with a swirl of cream on top. Baba Yaga had made little pasta parcels, too, called pierogi, stuffed with potato and cheese, and fried in butter till they were golden. By the end of lunchtime, every child in the class had had three helpings, and Ollie had asked for a fourth.
 
 "Thank you," said Alex, to Baba Yaga.
 
@@ -182,9 +182,9 @@ At the edge of the wood, a river of milk flowed past, with jelly banks on both s
 
 ## Part Seven. The Hut in the Dark Wood
 
-Baba Yaga's real hut was in a clearing, in the very heart of the wood.
+Baba Yaga's own hut was in a clearing, in the very heart of the wood.
 
-It was darker than the one at school, and a bit bigger, and covered in moss. The chicken legs were scratching at the earth. The fence round it was made of real bones, and on each post sat a glowing skull. Their eyes were lit with green fire.
+It was darker than the one at school, and a bit bigger, and covered in moss. The chicken legs were scratching at the earth. The fence round it was made of real bones, and on each post sat a glowing skull. Their eyes glowed green.
 
 "That's not a turnip," whispered Ollie, who had followed us.
 
@@ -304,7 +304,7 @@ She was crying.
 
 "Nobody ever stays," said Baba Yaga, to the empty forest. Her voice was thin and cracked. "I make the best soup in three kingdoms. And they run away. I only wanted a little helper. Someone to talk to. Someone to keep me company on winter nights."
 
-Felix looked at Alex.
+Felix leaned close to Alex.
 
 "I think," he whispered, "she's lonely."
 
@@ -332,7 +332,7 @@ Baba Yaga stared at them. Then, very slowly, she smiled. It wasn't her toothy sm
 
 ## Part Twelve. What Baba Yaga Said
 
-"I have a proposal," said Alex.
+"I have an idea," said Alex.
 
 "We have a Soup Club at school," said Felix. "On Fridays."
 
@@ -390,7 +390,7 @@ The first ever Friday Soup Club was the biggest success in the history of the sc
 
 Baba Yaga set up her pot in the dinner hall, with a new sign on the counter, written in Dot's best letters: SOUP CLUB. EVERYBODY WELCOME. She cooked beetroot soup and cabbage soup and mushroom soup, and trays of golden pierogi stuffed with potato, cheese and sauerkraut. Dot wore a tiny white hat and handed out spoons.
 
-Mister Harris had three helpings. Missus Tibbs asked for the recipe. And Willow sat beside Czarny on the radiator, sharing a saucer of cream, with an air of great mutual respect.
+Mister Harris had three helpings. Missus Tibbs asked for the recipe. And Willow sat beside Czarny on the radiator, sharing a saucer of cream, looking very pleased with each other.
 
 "I never thought," said Baba Yaga, wiping her hands on her apron, "that so many people would like my cooking."
 

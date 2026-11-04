@@ -64,7 +64,7 @@ She brushed some soil off her sleeve. She looked at the four dead cabbages. She 
 
 She was almost too excited to write. She had to start her notebook sentence three times.
 
-"She's from the Andes," she said. "That's the long chain of mountains in South America, in Peru and Bolivia and Ecuador and Chile. The Quechua and Aymara people have honoured her for thousands of years, and lots of them still do. Her name means *Mother World*, or *Mother Earth*."
+"She's from the Andes," she said. "That's the long chain of mountains down the side of South America, in Peru and Bolivia and other countries. The Quechua and Aymara people have honoured her for thousands of years, and lots of them still do. Her name means *Mother World*, or *Mother Earth*."
 
 "She's the whole ground?" said Kenji.
 
@@ -100,7 +100,7 @@ Mrs Pachamama took over the garden. She pulled up the four dead cabbages in one 
 
 We sat in a row. Dot held her purple one up to her ear and listened. "It says it's sleepy," she reported. Kenji named his Gerald. Ollie ate a bit of his, and had to be given another.
 
-Alex and Felix shared the spotted one. Alex dug the hole. Felix put the potato in. Then they both patted the soil down with the flats of their hands, at exactly the same time.
+Alex and Felix shared the spotted one. Alex dug the hole. Felix put the potato in. Then they both patted the soil down with the flats of their hands, together.
 
 "Now say thank you," said Mrs Pachamama.
 
@@ -170,13 +170,13 @@ She looked at the digger, which was still digging, hundreds of metres away. She 
 
 That's when the ground cracked.
 
-It happened on Thursday, at lunchtime. We were all in the playground, eating sandwiches. The sun was out. The sky was blue, with the bright seam of colour still stitched through it from end to end.
+It happened on Thursday, at lunchtime. We were all in the playground, eating sandwiches. The sun was out. The sky was blue, without a single cloud.
 
 And then the earth gave a huge, rolling lurch.
 
 We all fell over. Sandwiches flew. The swings jangled. The climbing frame wobbled like a jelly. From the far end of the field came a long, ripping, tearing sound, and a black line ran across the grass, from the Sports Hall site to the playground, zig-zagging like a lightning bolt.
 
-It widened. It opened. A crack as wide as a bus, and deeper than anything, opened in the middle of the school field, and the big yellow digger tipped slowly over the edge, with its driver screaming.
+It widened. It opened. A crack as wide as a bus, and deeper than anything, opened in the middle of the school field. The big yellow digger tipped slowly over the edge, with its driver shouting.
 
 "Dot!" yelled Maya.
 
@@ -194,7 +194,7 @@ Behind them, in a neat little line, a very small hairy shape lay down on the gra
 
 The staff were trying everything.
 
-Mister Heston ran for his anvil. The Caretaker rushed for a rope. Mister Hadad shouted at the sky. Miss Pele put her hands flat on the ground, and said, "Stop shaking!" and the ground replied with a shake that knocked her over. Mister Maui swung his fish hook round his head, but there was nothing yet to catch. Baba Yaga banged her ladle on the tarmac, and said something rude in Russian.
+Mister Heston ran for his anvil. The Caretaker rushed for a rope. Mister Hadad shouted at the sky. Miss Pele put her hands flat on the ground, and said, "Stop shaking!" and the ground replied with a shake that knocked her over. Mister Maui swung his fish hook round his head, but there was nothing yet to catch. Baba Yaga banged her ladle on the tarmac, and said something in Russian that Maya refused to write down.
 
 "It won't listen!" shouted the Caretaker.
 
@@ -214,7 +214,7 @@ Maya was kneeling by the edge, scribbling like mad.
 
 "And say sorry," said Alex.
 
-They looked at each other, with the crack yawning behind them.
+They turned, with the crack yawning behind them.
 
 "Come on," said Felix.
 
@@ -262,7 +262,7 @@ Alex and Felix dug a small hole in the soil, one on each side. Maya brought a cr
 
 "Sulpayki," said everyone else.
 
-We covered it over with soil, and patted it down. Willow put her paw on top, to seal it. And one by one, the rest of the school came. The Caretaker brought a nail he'd been saving, which he said was a good one. Mrs Oshun poured a little honey. Mister Ketsalkoatl, the cook, offered a handful of corn flour. Mister Väinämöinen played one low note on his instrument. Madam Simurgh shook a single seed from her tail. Even Mister Hadad squeezed out one small, apologetic raindrop.
+We covered it over with soil, and patted it down. Willow put her paw on top, to seal it. And one by one, the rest of the school came. The Caretaker brought a nail he'd been saving, which he said was a good one. Mrs Oshun poured a little honey. Mister Ketsalkoatl, the cook, offered a handful of corn flour. Mister Väinö played one low note on his kantele. Madam Simurgh shook a single seed from her tail. Even Mister Hadad squeezed out one small, apologetic raindrop.
 
 Slowly, slowly, the ground stopped trembling.
 
@@ -310,7 +310,7 @@ Everyone gasped.
 
 "Done," said Mister Harris, swallowing.
 
-"And one more thing," said Mrs Pachamama. "Every morning at the start of lunch, I'd like a little something poured on the ground. Not much. A spoonful of juice. A crumb. And a small thank you. Just so I remember you remember."
+"And one more thing," said Mrs Pachamama. "Every day at the start of lunch, I'd like a little something poured on the ground. Not much. A spoonful of juice. A crumb. And a small thank you. Just so I remember you remember."
 
 "Every day," promised Mister Harris.
 
@@ -410,6 +410,6 @@ The bear looked up. She had kind, tired, honest eyes.
 
 The tiger gave a long, impatient sigh. "I said it would take too long," she muttered.
 
-Alex and Felix looked at each other, with the bear and the tiger looking up at them from the hedge. They said, at exactly the same time, "Monday."
+Alex and Felix looked at the bear and the tiger, and the bear and the tiger looked back. Then they said, at exactly the same time, "Monday."
 
 The End.
