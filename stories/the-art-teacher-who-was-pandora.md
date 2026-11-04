@@ -155,11 +155,11 @@ It was the last lock. It had been getting looser all week, because the thing ins
 
 Mrs Pandy shouted, "NO!"
 
-She dived for the lid, but a whole cloud poured out of the box. Hundreds of tiny, grey, fluttery creatures, like moths made of fog, swirled round the art room, giggling and grumbling and shrieking.
+She dived for the lid, but a whole cloud poured out of the box. Hundreds of tiny, grey, fluttery creatures, like moths made of fog, swirled round the art room, muttering and snarling and whispering. A cold draught blew through the room, and every colour on the walls went a little bit paler.
 
 They flew straight through the window, and the walls, and the ceiling, and were gone.
 
-The art room went silent. A paintbrush fell off a shelf.
+The art room went silent. A paintbrush fell off a shelf. Mrs Pandy's painted apple, the one that looked so real, had gone grey and flat, like a rainy day.
 
 Mrs Pandy sat on the floor, with her hands over her mouth.
 
@@ -193,15 +193,15 @@ Ollie said, "**YOU'RE** being silly."
 
 And then they had the biggest argument of their lives, over absolutely nothing.
 
-## THE FIVE
+## THE FIVE (AND TWO MORE)
 
 By break, the whole school was in a state.
 
-There were **five** kinds of grey wisps floating about. Maya saw them first, through the window, and she drew pictures of each one on her clipboard.
+There were **seven** kinds of grey wisps floating about. Maya saw them first, through the window, and she drew pictures of each one on her clipboard. Her pencil was shaking.
 
 **THE GRUMBLES** were round and puffy, and they sat on people's shoulders, whispering, "Everything is annoying." Anybody they touched got very cross.
 
-**THE SQUABBLES** were thin and zigzaggy, and they zipped between friends, making them argue about who was first and who was best.
+**THE SQUABBLES** were thin and zigzaggy, and they zipped between friends, making them argue about who was first and who was best. The longer a Squabble stayed, the bigger the argument got.
 
 **THE WORRIES** were tiny and shivery, and they crept into people's ears, saying, "What if it all goes wrong? What if you're not good enough? What if?"
 
@@ -209,11 +209,31 @@ There were **five** kinds of grey wisps floating about. Maya saw them first, thr
 
 **THE SADS** were big and heavy and slow, and they hung over people like rain clouds. Anybody they touched wanted to lie on the floor.
 
+**THE ACHES** were pale and creaky, and they crept into people's heads and tummies and throats. Anybody they touched got hot and shivery and sniffly and tired.
+
+**THE EMPTIES** were thin and hollow, like a dry bowl. They went into cupboards and lunchboxes and made people feel there was never going to be enough.
+
 Maya whispered, "They're all out of the jar. That's the whole set."
 
 Kenji said, in a small voice, "Mr Hanu has a Sad."
 
 We looked. He was sitting on the climbing frame with his head on his knees, and a huge grey cloud was sitting on top of him.
+
+## THE SCHOOL GOES GREY
+
+It got worse all through the day.
+
+First the Aches. Mrs Tibbs sneezed, and then Mr Jackson sneezed, and then there was a sneeze in every classroom. By lunchtime, half the school had a hot head and a heavy nose. Dot from Reception went to the medical room with a tummy ache, and found it full already. Children sat in rows on the benches in blankets, with their eyes half shut, looking very small. Mrs Ibbs wrapped everybody up in the staff room curtains, because there weren't enough blankets.
+
+Then the Empties. Mrs Ibbs lifted the lid on the biggest pot. It was full to the top, but she said, "There isn't enough. There'll never be enough," and she put the lid back on and wouldn't serve anyone. Two children hid their sandwiches up their jumpers. A boy grabbed Kenji's apple, and Kenji grabbed it back, and they glared.
+
+Then the Squabbles got properly going. Ollie and Kenji weren't the only ones. One side said the football was theirs and the other side said it was theirs, and soon there were two lines of children on the field, glaring at each other across the grass, with their fists tight. Somebody shoved somebody. Somebody shouted something very unkind. Mr Thorley and Mr Shah stood on either side of them, both of them red in the face, both of them shouting at the same time about who ought to say stop first. For a moment it looked as if the whole school might truly fight, over a ball.
+
+Nobody did. But it was a very close thing, and everybody could feel it.
+
+And the worst part was the colour. All day, it had been draining out of the school. The front doors went the colour of porridge. The green gate went grey. The paintings in the corridor went flat and faded, one by one, like somebody was rubbing them out. The lights in the hall flickered and dimmed, and the warm, cosy, hello feeling the school always has in the morning just went out, like a candle in a draught.
+
+It felt like the school had forgotten how to be a school.
 
 ## THE GODS TRY
 
@@ -221,7 +241,7 @@ The gods tried everything.
 
 Mr Thorley said he would **blow them away with thunder.** Everyone said, "No!" and he looked even grumpier.
 
-Mr Hermes flew round the school, trying to deliver the Fibs back to wherever they came from, but they kept giggling out of his bag.
+Mr Hermes flew round the school, trying to deliver the Fibs back to wherever they came from, but they kept slipping out of his bag.
 
 Mr Shah tried dancing, but a Grumble sat on his head and he sulked.
 
@@ -231,23 +251,49 @@ Ms Athene tried asking clever questions, and a Worry whispered, "What if you get
 
 Mr Prome said, "I can't think ahead. The Worries have got my forethought." Mr Epp said, "Oh, **now** I'm thinking about it. This is awful."
 
-By lunchtime, the whole school was in a mess. Dinner ladies were arguing. Teachers were sulking. Year 1 were sitting in a heap on the field, and not one of them wanted to play.
+By the afternoon, the whole school was in a mess. Dinner ladies were arguing. Teachers were sulking. The children were sitting in a heap on the field, wrapped in blankets and coats, and not one of them wanted to play.
 
 Mrs Pandy sat in the art room, with her head in her hands. She said, "It's my fault. I should never have wondered."
 
 ## THE TWINS
 
-Alex and Felix hadn't been touched.
+Alex and Felix had been all right all morning. They didn't know why.
 
-They didn't know why. They only knew that they were still all right, and that everyone else wasn't.
+But in the afternoon, it began to creep up on them, too.
 
-They sat under the oak tree, side by side.
+A Worry found Alex first. Alex noticed it, very small and shivery, sitting right on his ear. It whispered, "What if nobody can fix it? What if it's like this for ever?" His tummy went cold, and his legs went wobbly, and he couldn't think of one single thing to say.
 
-Alex said, "Why aren't we grumpy?"
+Felix said, "Alex? You've gone quiet."
+
+Alex said, "I've got a Worry."
+
+Felix didn't ask anything clever. He just sat down close, so their shoulders touched.
+
+Then an Ache found Felix. His head went hot and his eyes went heavy, and he said, "I don't feel very well."
+
+Alex noticed. He put his hand on Felix's back, and he said, "I've got you."
+
+And then, because a Squabble was passing, it zipped between them, and each twin suddenly wanted to say something rotten. Alex opened his mouth to say, "It's your fault we're stuck." Felix opened his mouth to say, "No, it's yours."
+
+They looked at each other. They both stopped.
+
+Felix said, very slowly, "That wasn't us."
+
+Alex said, "It was the Squabble."
+
+They said it together, as quietly as they could:
+
+**"STOP. BREATHE. THINK."**
+
+They took a big breath each. They counted to three. The Squabble flapped about, confused, and drifted off. The Worry on Alex's ear lost its grip.
+
+They sat under the oak tree, side by side, holding hands.
+
+Alex said, "Why aren't we worse?"
 
 Felix said, "I think it's because we're looking after each other."
 
-Alex said, "Maybe the grey things only get you when you're on your own."
+Alex said, "Maybe the grey things only really get you when you're on your own."
 
 Felix said, "Maybe that's how we fix it."
 
@@ -261,7 +307,7 @@ Alex said, "Maybe there's something else in it."
 
 They said, together, "**Yet.**"
 
-They ran back to the art room.
+They got up, a bit wobbly, and ran back to the art room.
 
 ## THE BOTTOM OF THE JAR
 
@@ -275,7 +321,7 @@ Felix said, "Please. Just in case."
 
 She sighed, and nodded.
 
-Alex held the lid. Felix reached in. The inside was dark and grey, and it smelled of damp socks. They felt around the bottom.
+Alex held the lid. Felix reached in. The inside was dark and cold and grey, and it smelled of damp socks. They felt around the bottom, and for a long moment there was nothing but dust. Alex noticed Felix's hand shaking, and held the lid tighter, so he'd know it wasn't going to close.
 
 Felix's fingers found something small.
 
@@ -329,7 +375,7 @@ Felix whispered, "But there are hundreds of them. And only one of her."
 
 ## THE BIG IDEA
 
-They stood in the middle of the playground, looking at the whole school, covered in grey. They didn't know what to do.
+They stood in the middle of the playground, looking at the whole school, covered in grey. The Aches, the Sads, the Squabbles and the Empties were everywhere, and there were far too many of them. They didn't know what to do.
 
 Dot came and stood between them. She was very small, and her plaits were messy, and she had a little grey Worry sitting on her head. But she took the twins' hands anyway.
 
@@ -379,6 +425,12 @@ A Grumble flopped off Mr Hanu's shoulder, and he leaped to his feet.
 
 "**I AM NOT ALONE.**"
 
+The children in blankets on the benches sat up. An Ache slid off Dot's tummy and out through the window, and she said, "Oh! I feel better," in a very surprised voice. Alex put a hand on one side of her, and Felix put a hand on the other.
+
+In the dining hall, Mrs Ibbs lifted the lid on the biggest pot again. An Empty popped out like a hiccup. She looked inside and said, "Well, would you look at that. There's plenty."
+
+On the football field, the two lines of children looked at each other. Somebody laughed, and somebody said sorry, and somebody held out the ball, and in the end both teams played together, and nobody counted who was winning.
+
 The biggest Sad of all, the one hanging over the oak tree, gave a long, wobbly sigh. It sank down, down, down, and settled on the grass like morning mist, and then it melted away.
 
 ## HOPE SPREADS
@@ -387,9 +439,9 @@ One by one, the children said the words. Then the teachers. Then the dinner ladi
 
 And with every word, the little golden bird glowed a bit brighter, and a bit bigger. She grew from the size of a thumb to the size of a robin, to the size of a swan. Her feathers shone like the sun. She spread her wings over the whole school, and a warm golden light poured down like honey.
 
-Every grey wisp that was left curled up and drifted away, and was gone.
+Every grey wisp that was left curled up and drifted away, and was gone. The colours came back everywhere, the red of the bricks and the green of the gate, and the paintings in the corridor glowed again, brighter than before. The lights in the hall flickered, and then they came on, warm and steady, and the whole school felt like a school again.
 
-Nobody said a word. Then Mr Harris, who had a smile on his face for the first time all day, said, "Well. That was a rotten morning."
+Nobody said a word. Then Mr Harris, who had a smile on his face for the first time all day, said, "Well. That was a rotten day."
 
 Everyone burst out laughing.
 

@@ -30,7 +30,7 @@ If the cast changes, the user will say so. Keep the latest instruction until tol
 - Reading level Year 2 to 3, school reference Year 1.
 - Affirmations are woven into the narrative. No notes page, no questions for the children afterwards.
 - Each story ends with a hook for the next god, and the twins say "Monday" in unison.
-- About 4,000 words. (Stories run longer or shorter as they need to.)
+- At least about 4,000 words. A story that deserves the room can run to about 6,000. Length and part count are a rough guide, not a hard rule.
 - Keep sensitive subjects kid-appropriate. Moloch was declined because of child sacrifice. Living religions are portrayed warmly and respectfully.
 - Each story uses a different tradition, myth and moral.
 
@@ -88,11 +88,13 @@ Other early cameos: Ms Crabtree, School Inspector (story 10); Arabella Webb, Pri
 - **Order.** Stories 1 to 18 come first. Story 18 ends with a quetzal feather and a feathered snake asking for "the school with the corn", which leads into story 19 (Quetzalcoatl). Story 19 already treats Mister Thorley, Mister Jackson, Missus Ibbs, Missus Felicity, Mister Hanu and Mister Heston as established staff. The order of stories 1 to 18 was reconstructed from hooks and clues in the texts and is not 100% confirmed (Felicitas, 4, and the Seven Lucky Gods, 5, are the one open pair).
 - **Class cast.** Stories 1 to 7 use a different class (Dev Okafor, Ruby Finch, Priya Nair, Nell Brooks, Kofi Mensah, Poppy Doyle, Archie Bell and others) and an unnamed "we" narrator. The twins, Maya, Kenji, Ollie and Dot take over from about story 8 or 9, with the "Alex notices, Felix asks, then they swap" system. The story 1 to 7 children are not part of the later cast; do not bring them back unless asked.
 - **Form.** The early stories are shorter and use different headings. They are canon for staff and facts, not a model for form.
-- **Spelling.** Early texts use "Mr", "Mrs" and "Ms". Later stories use "Mister" and "Missus". Use the later forms in new stories (Mister Thorley, Missus Ibbs).
+- **Spelling.** Early texts use "Mr", "Mrs" and "Ms". Later stories use "Mister" and "Missus". Use the later forms in new stories (Mister Thor, Missus Ibbs).
 
 ### To decide
 
-- **Thor and Loki.** Early: Mr Thorley, Caretaker (story 1) and Mr Locke, Supply Teacher (story 6). Story 37: Mister Thor, Hammer and Heavy Lifting, and Mister Loki, Magic Tricks, arrive as Norse staff, with no mention of the caretaker or supply teacher. Possible reconciliation, not decided: Thorley and Locke are the work names the same gods use, and the Norse staff call them Thor and Loki. Until decided, do not put Mister Thorley and Mister Thor in one scene.
+Decided so far: the Thor and Loki naming (below); Fortuna as Felicitas's sister is a deliberate invention (the lore entry notes the Romans treated them as separate); Hephaestus making Zeus's thunderbolts is fine for a story; Yu "lived" about four thousand years ago is fine (these are myths, not history). Still open: the Nuwa and sky-mending overlap (stories 17 and 33).
+
+- **Thor and Loki (decided).** Always write Mister Thor and Mister Loki in new text: they are clear and unambiguous. Stories 1 and 6 keep their disguise names, Mr Thorley (Caretaker) and Mr Locke (Supply Teacher), as written. Story 37 introduces Mister Thor (Hammer and Heavy Lifting) and Mister Loki (Magic Tricks); they are the same gods. Loki is called Thor's "brother" in the stories on purpose (in the myths he is Odin's blood-brother); that is accepted.
 - **Nuwa.** Story 17 has Ms Wa, Pottery (and People). Story 33 has Mrs Nuwa, Art and Clay. Mrs Pandy (story 16) is also Art. Decide whether Ms Wa and Mrs Nuwa are one badge, and who holds Art.
 - **Hephaestus' spelling.** Badge reads Mr Hepheston; text and later stories say Mister Heston. Treat Heston as the working name.
 - **The Postman.** Mr Hermes is the school Postman. Story 37 gives Thiazi the job of Sky Postman. Probably compatible (sky post versus school post), but not stated.

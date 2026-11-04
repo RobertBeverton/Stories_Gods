@@ -38,7 +38,7 @@ Run `listener-review` on the outline (twin fairness, five-year-old, sensitivity)
 
 ## 3. Draft
 
-- About 4,000 words, 16 to 18 parts, each with a `## Part N. Title` heading. Child "we" narrator, deadpan kid logic, a few "That's when" turns, short paragraphs, lots of dialogue, Year 2 to 3 vocabulary.
+- At least about 4,000 words (up to about 6,000 if the story earns it), usually 16 to 18 short parts as a rough guide, each with a `## Part N. Title` heading. Child "we" narrator, deadpan kid logic, a few "That's when" turns, short paragraphs, lots of dialogue, Year 2 to 3 vocabulary.
 - Write in stages for a long story: outline, then sections, then one full read-through.
 - Keep normal spelling in the text (Quetzalcoatl, Väinämöinen). Pronunciation fixes go in `narration/pronunciations.json`, not the story.
 - No notes page, no questions for the children, no moral box. Nothing after "The End."
@@ -47,7 +47,7 @@ Run `listener-review` on the outline (twin fairness, five-year-old, sensitivity)
 
 1. Run `story-consistency-check` on the draft. Fix every real issue.
 2. Run `listener-review` on the draft. Cross-review the notes against each other before editing; where two lenses flag the same passage, make one edit that serves both. Not everything flagged needs fixing.
-3. Count words (about 4,000) and parts (16 to 18).
+3. Count words (at least about 4,000, up to about 6,000 if earned) and parts (16 to 18 is a guide, not a rule).
 
 ## 5. File it
 
