@@ -40,8 +40,8 @@ If the cast changes, the user will say so. Keep the latest instruction until tol
 |---|---|---|---|
 | Thor | Mr Thorley, Caretaker | Norse | 1 |
 | Shiva | Mr Shah, Music Teacher (wife Mrs Parvati Rao, School Secretary; son Ganesh Rao, a few classes above; Mrs Dunn, dinner lady; Brenda the snake) | Hindu | 2 |
-| Anubis | Mr Jackson, Librarian | Egyptian | 3 |
-| Felicitas, Fortuna | Mrs Felicity, Teaching Assistant; Ms Fortune, PE | Roman | 4 |
+| Anubis | Mr Jackson, Librarian (black clothes, ear-shaped hair, shushes breathing, a famous nose; Thoth is his friend on the phone) | Egyptian | 3 |
+| Felicitas, Fortuna (sisters) | Mrs Felicity, Teaching Assistant (basket, clover coat, umbrella with a silver wing); Ms Fortune, PE (scarf over her eyes, the wheel) | Roman | 4 |
 | Ebisu and the Seven Lucky Gods | Mr Ebbie, Mr Daikon, Mr Bish, Ms Benny, Mr Fuku, Mr Jury, Mr Hot (the Dinner Men; the badges give names only) | Japanese | 5 |
 | Loki | Mr Locke, Supply Teacher | Norse | 6 |
 | Thoth | Mrs Ibbs, Dinner Lady | Egyptian | 7 |
@@ -86,7 +86,7 @@ Other early cameos: Ms Crabtree, School Inspector (story 10); Arabella Webb, Pri
 ### How the early staff fit later canon
 
 - **Order.** Stories 1 to 18 come first. Story 18 ends with a quetzal feather and a feathered snake asking for "the school with the corn", which leads into story 19 (Quetzalcoatl). Story 19 already treats Mister Thorley, Mister Jackson, Missus Ibbs, Missus Felicity, Mister Hanu and Mister Heston as established staff. The order of stories 1 to 18 was reconstructed from hooks and clues in the texts and is not 100% confirmed (Felicitas, 4, and the Seven Lucky Gods, 5, are the one open pair).
-- **Class cast.** Story 1 has been rewritten with the series cast (Alex leads; Maya, Kenji, Ollie, Willow, Mrs Tibbs, Mr Pickering). Story 2 has also been rewritten with the series cast (Felix leads; Elfine and Marion appear). Stories 3 to 7 still use a different class (Dev Okafor, Ruby Finch, Priya Nair, Nell Brooks, Kofi Mensah, Poppy Doyle, Archie Bell and others) and an unnamed "we" narrator. The twins, Maya, Kenji, Ollie and Dot take over from about story 8 or 9, with the "Alex notices, Felix asks, then they swap" system. The story 1 to 7 children are not part of the later cast; do not bring them back unless asked.
+- **Class cast.** Story 1 has been rewritten with the series cast (Alex leads; Maya, Kenji, Ollie, Willow, Mrs Tibbs, Mr Pickering). Story 2 has also been rewritten with the series cast (Felix leads; Elfine and Marion appear). Story 4 (Felicitas) has too (Felix leads; Elfine and Marion appear). Story 3 (Anubis) has too (Alex leads; Elfine and Marion appear). Stories 5, 6 and 7 still use a different class (Dev Okafor, Ruby Finch, Priya Nair, Nell Brooks, Kofi Mensah, Poppy Doyle, Archie Bell and others) and an unnamed "we" narrator. The twins, Maya, Kenji, Ollie and Dot take over from about story 8 or 9, with the "Alex notices, Felix asks, then they swap" system. The story 1 to 7 children are not part of the later cast; do not bring them back unless asked.
 - **Form.** The early stories are shorter and use different headings. They are canon for staff and facts, not a model for form.
 - **Spelling.** Early texts use "Mr", "Mrs" and "Ms". Later stories use "Mister" and "Missus". Use the later forms in new stories (Mister Thor, Missus Ibbs).
 
@@ -104,7 +104,9 @@ Other staff who appear as cameos in later stories (the Oshun playground committe
 ## Running threads and established facts
 
 - **Thor's brother** (story 1): Mr Thorley says "Not tonight, brother" to prank rain clouds, and Maya's notebook says "Who is his brother? Unknown." Paid off in story 6 (Mr Locke). Mr Thorley must not be startled (a startle makes a BOOM). Maya's Thorley list is the famous "strongest list" (item 19, that he smells a bit of goat, is never mentioned again). Saying: "Asking for a hand is a strong thing to do."
+- **Felicitas and Fortuna** (story 4): one luck with two halves, the keeping half (Mrs Felicity's basket, which fills where people look after each other) and the spinning half (Ms Fortune's wheel). Mrs Felicity's name for Felix: "the one who looks after it"; Alex's name means defender. Saying: "It grows where people look after each other." Refrain: "Anything can happen" / "Something can be done". Mr Pickering's rabbit knot (up the hole, round the tree, back down) comes from here.
 - **Mr Shah's throat** (story 2): he drank the poisonous green soup bubble at the end of Science Week and holds it in his throat, with Mrs Rao's hand to steady him; the scarf stays blue. His little drum (the damaru) calms the school. Maya told the Great Churning there (story 26 refers back to it). Saying: "Calm is a kind of strong." Mr Harris's "everybody's soup" went wrong because it became nobody's.
+- **Mr Jackson's gift** (story 3): lost things "lie in a line, if you let them"; he finds people by sniffing once and saying "This way", and the lost, when scared in the dark, sing (the bus song). He had a cold on Lantern Night and asked for help. The boiler room is locked "forever" (Mr Harris wears the key on his clipboard string). The iron hatch by the old tool shed leads to old brick tunnels under the field. Gary the goldfish is buried under the oak tree. He phones Thoth to "write it down". Saying: "A heart gets lighter when you say it out loud and let someone share it."
 - **Soup Club** runs on Fridays in the dinner hall, with Baba Yaga cooking and Dot as her assistant.
 - **Gobbler Hill** is the hill behind the school. Coyote's story woke it; it is now round, green, full and sleepy.
 - **The Playground Committee** and the rebuilt playground: Oshun's golden pond, a tower with a bell, and a bench with the plaque "There is always room for one more."
