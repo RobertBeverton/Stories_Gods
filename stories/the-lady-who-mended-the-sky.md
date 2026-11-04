@@ -38,7 +38,7 @@ The ladder was enormous. It went right up from the middle of the playground to t
 
 At the top was a lady.
 
-She had black hair piled up in two big buns, and a long robe the colour of sunrise. She had a smudge of yellow clay on her nose. And from the waist down, she was not a lady at all. Her body trailed away behind her in a long, shining, green-gold tail, coiled round and round the ladder like a ribbon round a maypole.
+She had black hair piled up in two big buns, and a long robe the colour of sunrise. She had a smudge of yellow clay on her nose. And from the waist down, she was not a lady at all. Her body trailed away behind her in a long, shining, green-gold tail, coiled round and round the ladder like a stripe on a candy cane.
 
 She was holding a bucket. She was dabbing at the crack with a very large brush.
 
@@ -128,7 +128,7 @@ We were not meant to be in the staff room. But we had come to return a rather la
 
 ## Part Six. The Egg, the Corn and the Lotus
 
-"I'll go," said Mister Väinämöinen, from the corner. He had a long white beard and a five-stringed instrument on his lap. "In Finland, we say that long ago there was only the air, and the sea, and a lady called Ilmatar who floated on the waves. A duck came and made a nest on her knee, and laid seven eggs. But when Ilmatar twitched, the eggs rolled off and broke. And from the pieces came the world. The bottom of the shell became the earth, and the top became the sky. The yolk became the sun, and the white became the moon, and the speckles became the stars."
+"I'll go," said Mister Väinö, from the corner. He had a long white beard and a five-stringed instrument on his lap. "In Finland, we say that long ago there was only the air, and the sea, and a lady called Ilmatar who floated on the waves. A duck came and made a nest on her knee, and laid seven eggs. But when Ilmatar twitched, the eggs rolled off and broke. And from the pieces came the world. The bottom of the shell became the earth, and the top became the sky. The yolk became the sun, and the white became the moon, and the speckles became the stars."
 
 "A duck," said Kenji, dreamily.
 
@@ -136,7 +136,7 @@ We were not meant to be in the staff room. But we had come to return a rather la
 
 "That's why I like corn," said Ollie, seriously.
 
-"I was in a clamshell," said Mister Raven, from the windowsill. "Or the first people were, anyway. I found it on the beach, a big one, and inside were tiny creatures, too shy to come out. So I coaxed them with chatter and tricks until they stepped into the light."
+"I was in a clamshell," said Mister Raven, from the windowsill. "Or the first people were, anyway. I found it on the beach, a big one, and inside were tiny creatures, too shy to come out. So I talked them out with chatter and tricks until they stepped into the light."
 
 "On a lotus," said Mrs Lakshmi, softly. She held a pink flower. "In the beginning there was a vast, still ocean, and a god lay asleep on it. And a lotus grew from the god's middle, and on the lotus sat Brahma, who began to make everything."
 
@@ -158,7 +158,7 @@ That's when it went wrong.
 
 "I don't think a duck can lay an egg on a knee," said Mister Coyote, with his mouth full. "I'd have noticed."
 
-"A duck certainly can," said Mister Väinämöinen, going pink.
+"A duck certainly can," said Mister Väinö, going pink.
 
 "It was a *clamshell*," said Mister Raven, ruffling.
 
@@ -176,7 +176,7 @@ That's when it went wrong.
 
 "Yes, but we were here *loudest*!"
 
-It got louder and louder. Mister Hadad's black cloud came out and began to rumble. Miss Pele's hair started to smoke. Baba Yaga banged her ladle on the table. Mister Jackson shouted for order, and nobody listened, and in the middle of it all, a thin, high, creaking sound came from the window.
+It got louder and louder. Mister Hadad's black cloud came out and began to rumble. Miss Pele's hair started to smoke. Baba Yaga banged her ladle on the table. Mister Harris shouted for order, and nobody listened, and in the middle of it all, a thin, high, creaking sound came from the window.
 
 We all stopped and looked.
 
@@ -234,7 +234,7 @@ All the staff had come out into the playground. They stood in a worried ring, lo
 
 "I told you the patch wouldn't hold," said Mrs Nuwa, quietly. "It is too small. We can't agree on one story, so we have none."
 
-Alex and Felix looked at each other.
+Alex and Felix went quiet.
 
 "Why does there have to be one?" said Alex.
 
@@ -250,7 +250,7 @@ Everyone turned round.
 
 "It'd be like a quilt," said Felix.
 
-"A quilt!" said Maya, who had been scribbling. She underlined it three times. "A patchwork! Each person's story is a different square, a different colour, and they all sew together to cover the hole!"
+"A quilt!" said Maya, who had been scribbling. She circled it. "A patchwork! Each person's story is a different square, a different colour, and they all sew together to cover the hole!"
 
 ## Part Ten. Not One Story, but Many
 
@@ -262,7 +262,7 @@ Then Mister Maui took off his fish hook and held it up. "Well, mine's the colour
 
 "Mine's all the colours of corn," said Mister Ketsalkoatl.
 
-"Mine's blue-white," said Mister Väinämöinen. "Like an egg in the moon."
+"Mine's blue-white," said Mister Väinö. "Like an egg in the moon."
 
 "The thing is," said Ms Athene, slowly, "I never actually thought that mine was the only one. I only thought it was *mine*."
 
@@ -274,7 +274,7 @@ Then Mister Maui took off his fish hook and held it up. "Well, mine's the colour
 
 "We were scared," said Madam Simurgh. "Because when the sky cracks, everyone wants to hold tight to the one thing they know. But what holds the sky up is not holding tight. It is holding *together*."
 
-Maya wrote it down. She underlined it four times.
+Maya wrote it down, and underlined it twice.
 
 "So how do we do it?" said Dot, who was still wrapped in clay rope.
 
@@ -290,7 +290,7 @@ Mrs Nuwa laid the five stones on a flat rock in the middle of the playground. Th
 
 Mister Maui went first. He told how the islands came up out of the sea on the end of a fish hook, and as he spoke, a ribbon of silver-blue curled out of his mouth and dropped into the pool.
 
-Ms Athene told how the world came out of a great open space, and a ribbon of grey-green slid in. Mrs Oshun told about the chain and the hen, and her ribbon was honey-gold. Mister Väinämöinen told about the duck's egg, and his was white-blue. Mister Ketsalkoatl told about the corn, and it was yellow. Mister Raven's was black, shot with green. Mrs Lakshmi's was pink. Miss Bastet's was sand. Madam Simurgh's was copper.
+Ms Athene told how the world came out of a great open space, and a ribbon of grey-green slid in. Mrs Oshun told about the chain and the hen, and her ribbon was honey-gold. Mister Väinö told about the duck's egg, and his was blue-white. Mister Ketsalkoatl told about the corn, and it was yellow. Mister Raven's was black, shot with green. Mrs Lakshmi's was pink. Miss Bastet's was sand. Madam Simurgh's was copper.
 
 The pool grew deeper, and brighter, and richer, and more beautiful, until it looked like a stained glass window lying on the ground.
 
@@ -310,7 +310,7 @@ Alex and Felix looked at each other.
 
 "Everyone has one," said Mrs Nuwa. "Everyone has a story of how they began. Even if it isn't an old one. Even if it's only a few years long."
 
-Alex thought for a long time. Felix thought for a long time. And then they both started, at the same moment, and then they both stopped, and laughed, and Alex nodded at Felix to go first.
+Alex thought for a long time. Felix thought for a long time. And then they both started at once, and then they both stopped, and laughed, and Alex nodded at Felix to go first.
 
 "There was a mummy and a daddy," said Felix. "And they were waiting."
 
@@ -332,7 +332,7 @@ Alex thought for a long time. Felix thought for a long time. And then they both 
 
 "And we were loved before we even got here," said Alex.
 
-And a ribbon came out of the two of them, at the same moment. It was a ribbon of two colours twisted together, warm red and bright yellow, like two threads wound into one. It curled through the air, and dropped into the pool, and the whole thing flared up, brilliant as the sun.
+And a ribbon came out of the two of them. It was a ribbon of two colours twisted together, warm red and bright yellow, like two threads wound into one. It curled through the air, and dropped into the pool, and the whole thing flared up, brilliant as the sun.
 
 One by one, the rest of us added ours. Maya told hers, and Dot told hers, and Kenji told his, and Ollie told his, which was mostly about snacks. Even Willow, who did not speak, put her paw in the edge of the pool and left a single golden paw-print.
 
@@ -358,7 +358,7 @@ And above us, where the crack had been, there was a sky.
 
 It was the same sky, but different.
 
-It was the same blue as before, but threaded all through it, from one side of the world to the other, ran a long, thin, glowing seam. It was every colour at once. It rippled slowly in the light, red and gold and green and silver and violet, like a ribbon. It didn't look like a mend. It looked like a river of colour, flowing quietly across the whole sky.
+It was the same blue as before, but threaded all through it, from one side of the world to the other, ran a long, thin, glowing seam. It was every colour at once. It rippled slowly in the light, red and gold and green and silver and pink, like a ribbon. It didn't look like a mend. It looked like a river of colour, flowing quietly across the whole sky.
 
 "It's beautiful," said Dot.
 
@@ -426,6 +426,6 @@ And then a voice, clear and bright and a little worried, drifted over the dark f
 
 "Excuse me!" it called. "Has anyone seen my mirror?"
 
-Alex and Felix looked at each other, in the dark, with the glow of the sky on their faces. They said, at exactly the same time, "Monday."
+Alex and Felix stood close together, in the dark, with the glow of the sky on their faces. They said, at exactly the same time, "Monday."
 
 The End.
