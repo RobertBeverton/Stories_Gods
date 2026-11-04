@@ -11,6 +11,7 @@ icon: cloud
 publishDate: 2026-11-03
 draft: false
 audioDuration: 1576
+audioUrl: https://audio.kinly.download/legend-lane/the-man-with-two-faces.mp3?v=4c96d6e7
 ---
 
 ## Part One. The Door in the Field
