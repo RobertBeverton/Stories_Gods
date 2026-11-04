@@ -186,7 +186,7 @@ Nobody answered. We could hear a few voices a long way off, thin as thread, call
 
 "I'm here!" said a voice. "I've got Kenji! And Ollie!"
 
-They bumped into each other in the dark, and held on. The six of them stood in a tight knot in the middle of the grey, and nobody said anything for a bit, because they were all trying to be brave.
+We bumped into each other in the dark, and held on. The six of us stood in a tight knot in the middle of the grey, and nobody said anything for a bit, because they were all trying to be brave.
 
 "We've got to stay still," said Maya, in a wobbly voice. "That's what you're supposed to do. You stay put, and people find you."
 
@@ -246,7 +246,7 @@ Alex took the little feather out of his pocket. Felix took the other end. The si
 
 "Together," said Felix.
 
-They held it up between them, one hand each, as high as they could reach. It hummed. It shivered. The birds went silent. And both twins, at exactly the same moment, took a breath and said, in clear voices that didn't wobble at all:
+They held it up between them, one hand each, as high as they could reach. It hummed. It shivered. The birds went silent. And both twins took a breath together and said, in clear voices that didn't wobble at all:
 
 "We're lost, please."
 
@@ -316,7 +316,7 @@ Nobody said anything for a long time. A tiny breeze ruffled the puddle.
 
 "Like the twins," said Maya.
 
-"Like Alex and Felix," said Madam Simurgh. "Who did the brave thing. They were frightened, and they held on to each other, and they asked for help out loud. That is the hardest thing there is, and they did it at exactly the same time."
+"Like Alex and Felix," said Madam Simurgh. "Who did the brave thing. They were frightened, and they held on to each other, and they asked for help out loud. That is the hardest thing there is, and they did it together."
 
 Alex went pink. Felix went pinker.
 
@@ -334,7 +334,7 @@ The wren hopped slowly forward. It climbed on to her back. And Willow, who was v
 
 That's when Mister Harris found us.
 
-He came crashing up the hill, red-faced and out of breath, with the rest of Year 1 stumbling behind him in a long line. He had lost his clipboard and one welly. His hair stood up like a hedge.
+He came crashing up the hill, red-faced and out of breath, with the rest of the class stumbling behind him in a long line. He had lost his clipboard and one welly. His hair stood up like a hedge.
 
 "There you are!" he gasped, collapsing against the rock. "I've counted you eleven times! I've been up and down this hill twice! Oh, thank goodness, thank goodness. You're all here. You're all here!"
 
@@ -364,7 +364,7 @@ Mister Harris sat down on the rock and took off his glasses and wiped them on hi
 
 She took us all home on her back.
 
-There were twenty-six of us, and one cat, and thirty small birds, and one rather damp teacher. She spread her wings flat on the rock like a copper carpet, and we climbed on in rows. It was warm, and soft, and smelled of cinnamon and clean air. Dot sat at the front, because she said she was the navigator. Alex and Felix sat together in the middle, with the feather held between them. Maya sat just behind, writing so fast her pencil smoked.
+There were twenty-six of us, and one cat, and thirty small birds, and one rather damp teacher. She spread her wings flat on the rock like a copper carpet, and we climbed on in rows. It was warm, and soft, and smelled of cinnamon and clean air. Dot sat at the front, because she said she was in charge of the map. Alex and Felix sat together in the middle, with the feather held between them. Maya sat just behind, writing so fast her pencil smoked.
 
 Mister Harris sat at the very back, holding on to his remaining welly.
 
@@ -382,7 +382,7 @@ The valley fell away beneath us. The hills rolled out like green blankets. A riv
 
 "Mine," said Dot.
 
-Alex looked at Felix. Felix looked at Alex.
+Alex and Felix grinned at each other.
 
 "Ours," they said.
 
@@ -430,7 +430,7 @@ She put one long finger gently under each of their chins.
 
 "Especially because you didn't," said Madam Simurgh. "You found a better way."
 
-Maya wrote it down. She underlined *someone always comes* three times. And then, very quietly, she underlined it a fourth.
+Maya wrote it down. She wrote *someone always comes* and, very quietly, drew a box round it.
 
 ## Part Seventeen. The Ending, with a Hook
 
