@@ -27,24 +27,27 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 ### 1. The Caretaker Who Was Thor
 - **File:** `stories/the-caretaker-who-was-thor.md`
 - **God / tradition:** Thor, Norse
-- **Staff on the badge:** Mr Thorley (the story gives no job on the badge; he is the new caretaker)
-- **Cast:** the narrator, Dev Okafor, Ruby Finch, Priya Nair, Ollie Grant, Mrs Tibbs (the class teacher here), Mr Pickering (lollipop man)
-- **Length:** about 973 words in 7 sections. Written: not recorded.
-- **Summary:** The class collects clues that the new caretaker is the thunder god: the name, the red beard, the hammer, the pillow-sized pies and the goat-cheese van. The tone was copied from the Wigglesbottom books.
-- **Closing scene** (The Twist): "At home time, when it was almost dark ... Mr Thorley ... looked up at the black clouds. Then he said something to himself, very quietly. We were all close enough to hear. He said, "Not tonight, brother."" Two seconds later the rain starts, and "Dev Okafor turned to us, with the rain dripping off his nose, and said, "I TOLD you.""
-- **Hook at the end:** Ruby asks who his brother is. Priya says, "Probably Loki." Everyone looks round for "a smirk and a green cloak", but there is only Mr Pickering, who waves. No "Monday".
-- **Corrected:** Mr Harris is not in this story (Mrs Tibbs runs the class), so he is removed from the cast. The van says "THORLEY & SONS: LOCKS, LADDERS AND LEAKS".
+- **Staff on the badge:** Mr Thorley, Caretaker
+- **Cast:** Alex (leads), Felix, Maya, Kenji, Ollie, Willow, Mrs Tibbs (class teacher), Mister Harris, Mr Pickering (lollipop man)
+- **Length:** about 4,540 words in 18 parts (`## Part N.` headings). Rewritten in place with the series cast; the old short version used a different class.
+- **Summary:** Clue trail (Thorley is Thor plus ley, the BOOM and pigeon, the hammer test, pillow pies and jug, the goat-cheese van), Maya's famous "strongest list" (item 19, "he smells a bit like goat", read out with Mr Thorley behind the compost bin and never mentioned again), and her telling of Thor failing to lift the "cat" at Utgard-Loki's hall (it was the World Serpent). Prank rain clouds (the seed of story 6) plague the school; Mr Thorley murmurs "Not tonight, brother" at the gate and thunder cracks two seconds after he drives off. On Friday a huge cat-shaped cloud sits on the hall roof; Mr Thorley will not ask for help. Alex sees it is not heavy, only wide; the twins say "PLEASE" together; the school lifts it off with the PE parachute. Willow faces the cloud's mist tail.
+- **Affirmation:** "Asking for a hand is a strong thing to do." Echoed by the twins ("it's strong to ask" / "and strong to say yes").
+- **Closing scene:** Mr Thorley on the ladder with tea, Willow lets him scratch her ears once, Maya adds "Number twenty. He asked."
+- **Hook at the end:** from somewhere very high in the school a tiny drum goes dum-dum, and the clouds, the pigeons and the grown-ups all go still; Mr Thorley bows his head as if to an old friend (Shiva). Alex and Felix say "Monday" together. "The End."
+- **Open thread:** "Who is his brother? Unknown." is left for story 6.
+- **Watch:** the storm-and-roof peril is a gentler version of the "building about to fall" beat; the cloud is harmless in the end.
 
 ### 2. The Music Teacher Who Was Shiva
 - **File:** `stories/the-music-teacher-who-was-shiva.md`
 - **God / tradition:** Shiva, Hindu
-- **Staff on the badge:** Mr Shah, Music Teacher (the story never shows his badge; the job comes from the title and the music room)
-- **Cast:** the narrator, Poppy Doyle, Freddie Ng, Zainab Malik, Archie Bell, Miss Okoye (Year 2 class), Mr Harris, Mrs Rao (Parvati Rao, school secretary), Ganesh Rao (Year 4), Mrs Dunn (dinner lady)
-- **Length:** about 1,177 words in 8 sections. Written: not recorded.
-- **Summary:** Poppy builds a list of evidence that the calm music teacher is Shiva: the stillness, the hourglass drum (damaru), the blue scarf, the dripping hair, a snake that settles on his neck and a dance that shakes the stage. The family clues follow: his wife Mrs Rao and son Ganesh. When a pot of Mystery Green Soup frightens the whole hall, Mr Shah drinks it and holds it in his throat so nobody else has to.
-- **Closing scene** (The Ending): At home time they thank him for the soup. "Freddie said that Mr Shah had been wearing a **normal blue scarf**. And Poppy said, "Yes. Exactly. *Normal.*""
-- **Hook at the end:** none.
-- **Corrected:** Mrs Rao and Ganesh are in this story itself (an earlier note said later stories added them). The class is Year 2 and the teacher is Miss Okoye.
+- **Staff on the badge:** Mr Shah, Music Teacher; Mrs Parvati Rao, School Secretary
+- **Cast:** Alex and Felix (Felix leads), Maya, Willow, Kenji, Ollie, Elfine and Marion (big kids, helping at the soup), Mr Harris, Mrs Tibbs, Mr Thorley, Mr Pickering, Mrs Rao, Ganesh Rao (a few classes above), Mrs Dunn (dinner lady), the reptile man and Brenda the snake; cameo Ms Fortune
+- **Length:** about 5,250 words in 17 parts. Rewritten in full in the series cast (the first version was a 1,177-word sketch with a different class).
+- **Summary:** A tiny drum high in the school calms everyone; Mr Shah sits on the grass with a pigeon on his head. Maya's list (still for twenty minutes and a pigeon, the damaru, the blue scarf in the heat, wet hair, Brenda the Science Week snake) names Shiva, and she tells the Great Churning and the poison he held in his throat. After the dance in assembly and the family clue-hunt (Mrs Parvati Rao, Ganesh and his laddoo), Mr Harris's "everybody's soup" (everyone adds one thing, so it is nobody's) throws up a green bubble that pops into a sleepy green fog. Grown-ups run, fan it and blame each other. Felix notices it only spreads where the running goes and stands on a chair to say "stand still"; Willow sits on the spinning paddle until it stops; Alex fetches Mrs Rao through the fog; the twins together lift the ladle so Mr Shah can drink the poison, with Mrs Rao's hand on his throat. Ganesh clears the path. Mrs Dunn is thanked for a "very brave soup" and everyone says sorry.
+- **Affirmation:** "Calm is a kind of strong." Felix tries it on Alex and the pencil.
+- **Closing scene** (Part Sixteen): the twins sit still with him for a minute, pigeon on his head. At home time: "Kenji said that Mr Shah had only been wearing a **normal blue scarf**. And Maya said, "Yes. Exactly. *Normal.*""
+- **Hook at the end:** a perfectly straight line of lost things (glove, sock, old lunchbox, a sleepy hamster in a sock) leads to the library door, with a tall, long-nosed, pointy-eared shadow walking on two legs and one long sniff in the dark. The twins say "Monday". Sets up Anubis (story 3).
+- **Watch:** the soup is the comic seed and the green fog the real peril, echoing the poison coming first and nobody owning it. Elfine and Marion appear here, before story 21 introduces them as new.
 
 ### 3. The Librarian Who Was Anubis
 - **File:** `stories/the-librarian-who-was-anubis.md`
