@@ -48,7 +48,7 @@ Then he winked at Willow. She hissed at him.
 
 ## Part Two. The Nest on the Climbing Frame
 
-By Tuesday, Missus Tibbs had counted the cutlery four times, and it was always wrong. Twelve spoons were missing. So were three bunches of keys, a roll of tinfoil, Mister Harris's best pen, and every single gold star sticker in the whole of Year One.
+By Tuesday, Missus Tibbs had counted the cutlery four times, and it was always wrong. Twelve spoons were missing. So were three bunches of keys, a roll of tinfoil, Mister Harris's best pen, and every single gold star sticker in the whole school.
 
 "Somebody is stealing the shiny things," said Missus Tibbs.
 
@@ -154,13 +154,13 @@ Over the fence stood a tall, grey house with a high wall around it, and a gate t
 
 "That's Old Mister Gloam's house," said Mister Harris. "Nobody talks to him."
 
-That's when a shiny black feather landed on Alex's shoulder, and Mister Raven landed beside him, with a flap of wings. He wasn't wearing his white coat any more. He had feathers all down his arms, and a long glittering beak, and a mischievous gleam in his eye.
+That's when a shiny black feather landed on Alex's shoulder, and Mister Raven landed beside him, with a flap of wings. He wasn't wearing his white coat any more. He had feathers all down his arms, and a long glittering beak, and a naughty gleam in his eye.
 
 "I think," said Mister Raven, "it's time I had a word with the Chief."
 
 ## Part Six. The House with the Padlock
 
-Alex, Felix, Elfine, Marion, Willow and Dot all went. Maya and Kenji and Ollie stayed behind to look after the rest of Year One.
+Alex, Felix, Elfine, Marion, Willow and Dot all went. Maya and Kenji and Ollie stayed behind to look after the rest of the class.
 
 Mister Raven led us along the school fence, in the black, humming dark. He walked with one hand held out, feeling for the wall. "I need helpers," he said. "A good plan needs clever people with different strengths. A trickster can do a lot. But a trickster who's got friends can do the impossible."
 
@@ -214,7 +214,7 @@ That's when Felix did something very brave. He pushed open the back door, and st
 
 Alex followed him straight away, without a word. They were holding hands, and neither one let go.
 
-The kitchen was very dark and very cold. There was one candle on the table, and an old man sat beside it in a big armchair. His face was lined and grey. His eyes were tired and red. He was clutching the biggest wooden box any of us had ever seen. Nine smaller boxes were stacked on a shelf behind him, each one glowing round its edges.
+The kitchen was very dark and very cold. There was one candle on the table, and an old man sat beside it in a big armchair. His face was lined and grey. His eyes were tired and red. He was clutching the biggest wooden box any of us had ever seen. Nine boxes were nested inside it, each one glowing round its edges.
 
 Next to him, on the floor, sat a little girl, about the same size as Dot, with long dark hair.
 
@@ -290,7 +290,7 @@ His eyes were wet.
 
 He opened his hands.
 
-The light floated up out of the box. And the baby raven flapped his wings, and grew, and grew, and grew, until he was a big, magnificent bird, taller than the table, with a long curved beak. In one swift gulp he caught the ball of light in his mouth.
+The light floated up out of the box. And the baby raven flapped his wings, and grew, and grew, and grew, until he was a big, shining bird, taller than the table, with a long curved beak. In one swift gulp he caught the ball of light in his mouth.
 
 "Quick!" shouted Mister Raven. "Out through the chimney!"
 
@@ -358,7 +358,7 @@ Alex and Felix, who had planned it together, had invited a special guest.
 
 At seven o'clock exactly, there was a knock on the hall door. Old Mister Gloam stood on the doorstep, holding Pearl's hand. He was wearing his best coat. He looked nervous, but he had a smile on his face, and his little star was pinned on his lapel, glowing.
 
-"Come in!" shouted Alex and Felix, at exactly the same time.
+"Come in!" shouted Alex and Felix together.
 
 "Come in, come in!" said Mister Harris. "We've got toffee apples!"
 
