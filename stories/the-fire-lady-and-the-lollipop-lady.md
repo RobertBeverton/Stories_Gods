@@ -32,7 +32,7 @@ She did not look happy.
 
 "She looks both," said Felix.
 
-Elfine and Marion were already waiting by the gate, with Willow tucked under Marion's arm. Willow was not purring. She had her head turned away from the crack and her whiskers laid back. Even the nine-year-old Reading Cat of Year One thought this was too hot.
+Elfine and Marion were already waiting by the gate, with Willow tucked under Marion's arm. Willow was not purring. She had her head turned away from the crack and her whiskers laid back. Even the nine-year-old Reading Cat of our class thought this was too hot.
 
 "I've been reading about her all weekend," whispered Elfine. She pushed her glasses up her nose. "I think this is going to be a tricky one."
 
@@ -210,7 +210,7 @@ There was a long pause. The lava gave a gentle bloop. The mist swirled. Neither 
 
 ## Part Eight. Willow's Moment
 
-Pele and Namaka looked at each other. Then at Alex and Felix. Then at the ground.
+Pele and Namaka glanced at Alex and Felix. Then at the ground.
 
 "I can't," said Pele. "I'm too hot. If I hug her, I'll burn her. And she's so wet, she'll put me out."
 
@@ -234,7 +234,7 @@ It was the biggest purr we had ever heard. It rolled out of her chest like a mot
 
 "She does that," said Marion proudly.
 
-"She tolerates us," said Elfine. "But sometimes she makes an exception."
+"She puts up with us," said Elfine. "But sometimes she makes an exception."
 
 ## Part Nine. Sorry on Three
 
@@ -248,7 +248,7 @@ Pele held out her hand to Namaka. It was warm, but not burning. Namaka took it. 
 
 "Three," said both twins.
 
-"Sorry," said Pele and Namaka, at exactly the same time.
+"Sorry," said Pele and Namaka, together.
 
 And they threw their arms round each other. It was a very big hug. There was a sizzle, and a hiss, and a great billow of white steam that rolled across the playground like a cloud. We couldn't see anything for a moment. We heard laughing, and sniffing, and somebody saying "I missed you so much", and somebody else saying "me too".
 
@@ -324,7 +324,7 @@ Later that week, as the November evenings drew in, something very odd happened.
 
 It was Friday, nearly home time. Pele and Namaka were sitting on the warm stone, comparing shells and rocks and telling each other stories. Mister Hadad was leaning against the cabin with his arms folded, looking pleased with himself. And Alex and Felix, who had a few minutes before their nana arrived, were sitting on the steps by the school door, watching the sunset.
 
-That was when Dot, who notices things, tugged on Felix's sleeve.
+Dot, who notices things, tugged on Felix's sleeve.
 
 "Look," she said. "On the windowsill."
 
@@ -342,10 +342,10 @@ A single pink lotus flower lay on the doorstep.
 
 "Lotus," said Elfine, very quietly. "Gold footprints. Lamps." She looked up at the doorway. "I know who that is."
 
-Pele and Namaka stood up and looked at each other. Hadad took off his helmet. Even Willow lifted her head and sniffed.
+Pele and Namaka stood up. Hadad took off his helmet. Even Willow lifted her head and sniffed.
 
 A voice, soft as silk, drifted out of the school hallway. "Is anyone in? I've come to bring good luck."
 
-Everyone looked at Alex and Felix. They looked at each other, with the golden light flickering in their eyes. They said, at exactly the same time, "Monday."
+Everyone looked at Alex and Felix. The golden light was flickering in their eyes. They said, at exactly the same time, "Monday."
 
 The End.
