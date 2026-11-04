@@ -178,7 +178,7 @@ Ravana was enormous. He had ten faces, five on top and five below, and they were
 
 "What thing?" said the eighth.
 
-"Shut up, all of you," said the ninth. "I'm trying to do some villainy."
+"Be quiet, all of you," said the ninth. "I'm trying to do some villainy."
 
 "You never listen to me," said the tenth, mournfully.
 
@@ -204,7 +204,7 @@ Alex picked up the bracelet. His hands were shaking. Felix took the other end, a
 
 We walked for days. Or perhaps it was minutes. Time was strange in the story.
 
-At the edge of the forest, on top of a high rocky hill, we found a troop of monkeys, hanging from the trees and chattering. At the front of them, with his arms folded, stood a magnificent figure with a curling golden tail and a silver ring in one hand.
+At the edge of the forest, on top of a high rocky hill, we found a troop of monkeys, hanging from the trees and chattering. At the front of them, with his arms folded, stood a magnificent figure with a curling golden tail and a silver mace resting on one shoulder.
 
 "Mister Hanu?" said Ollie.
 
@@ -216,9 +216,9 @@ At the edge of the forest, on top of a high rocky hill, we found a troop of monk
 
 "Except you," said Kenji.
 
-Hanuman grinned. "Except me." He turned to Alex and Felix and held out the silver ring. "Give me something that she will know is yours, and I will carry it to her, to say that you are coming."
+Hanuman grinned. "Except me." He turned to Alex and Felix and held out his big hand. "Give me something that she will know is yours, and I will carry it to her, to say that you are coming."
 
-Alex took the ring from his own finger. Felix took the bracelet from his wrist. They held them out together, and Hanuman took them both.
+Alex took the ring from his own finger. Felix took Elfine's silver bracelet from his pocket. They held them out together, and Hanuman took them both.
 
 Then he grew. His shoulders swelled. His arms stretched. He grew taller than the trees, tall as a mountain, until his head was among the clouds. And with one tremendous leap, he sprang into the sky, and cleared the whole wide sea in a single bound.
 
@@ -234,7 +234,7 @@ When Hanuman came back, three days later, he was covered in soot, and his tail w
 
 "That's Elfine," said Marion proudly.
 
-"I gave her your ring and your bracelet," said Hanuman. "She knows you're coming. And, ah, I may have set fire to a few things."
+"I gave her Alex's ring and her own bracelet," said Hanuman. "She knows you're coming. And, ah, I may have set fire to a few things."
 
 "A few things?" said Maya.
 
@@ -278,7 +278,7 @@ But Ravana's son, a dark prince with a silver bow, was hiding in the clouds. He 
 
 "ALEX!" shrieked Marion.
 
-"FELIX!" shrieked Ollie.
+"FELIX!" cried Ollie.
 
 "We're stuck," said Alex. He could barely breathe.
 
@@ -310,7 +310,7 @@ He picked up the whole mountain.
 
 He balanced it on his palm, with all its trees and rocks and glowing herbs, and he flew back to Lanka with it, like a waiter carrying a very large tray. He arrived just as the first red sunlight was creeping over the walls. He held it out over the twins, and the healing scent of the herbs drifted down.
 
-The silver snakes loosened. They hissed. They shrank. They turned back into arrows and clattered to the ground. Alex gasped. Felix coughed. Color flooded back into their faces. They rolled apart and sat up, and took deep, shuddering breaths.
+The silver snakes loosened. They hissed. They shrank. They turned back into arrows and clattered to the ground. Alex gasped. Felix coughed. Colour flooded back into their faces. They rolled apart and sat up, and took deep, shuddering breaths.
 
 "Thank you," whispered Alex.
 
@@ -336,7 +336,7 @@ He was bigger than before. All his heads were frowning. In every one of his twen
 
 "I told you this was a bad idea," whispered the fourth head.
 
-"Shut up," whispered the ninth.
+"Quiet," whispered the ninth.
 
 "I'm hungry," whispered the third.
 
@@ -354,7 +354,7 @@ But the other nine heads shouted him down. "NEVER!"
 
 Marion had been listening from the back of the line. "I've got an idea," she shouted. "Ravana's too proud. He thinks nobody can beat him. What if two people hold the bow at once?"
 
-Alex and Felix looked at each other. They nodded.
+Alex and Felix nodded.
 
 ## Part Twelve. One Arrow, Two Hands
 
@@ -410,7 +410,7 @@ Then Felix pointed. "Look."
 
 ## Part Fourteen. The Lamps
 
-Far away, on the edge of the horizon, a tiny golden light was glowing.
+Far away, on the edge of the horizon, a golden light was glowing.
 
 Then another. And another. And a whole row of them, stretching along the road, glimmering in the dark like fallen stars.
 
