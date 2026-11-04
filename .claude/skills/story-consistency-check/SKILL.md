@@ -8,7 +8,8 @@ description: Use on a Staff Room Gods outline or finished draft to check it agai
 Read `docs/Story_Bible.md` and `docs/Story_Archive.md` fresh, then check the outline or draft against every item below. Report a list of **real problems** with the exact passage and a suggested fix, then a short list of **minor notes**. Do not rewrite the story unless asked.
 
 ## Standing rules
-- [ ] Cast matches the Bible's current cast rules (Alex, Felix, Willow, Maya; Dot, Kenji, Ollie, Mister Harris and others as tertiary). No Elfine or Marion unless the user asked for them.
+- [ ] Cast matches the Bible's current cast rules (Alex, Felix, Willow, Maya; Dot, Kenji, Ollie, Mister Harris and others as tertiary). Elfine and Marion only in stories 2 to 29, where they fit; no character before their first story (Dot first appears in story 9).
+- [ ] No year groups or ages in the narration ("Reception" is fine), no character named Felix or Alex apart from the twins, and no real book, brand or character named in the text.
 - [ ] Alex and Felix both speak, both act, and share every big moment. Neither is the follower throughout.
 - [ ] Willow does one brave or clever thing and never speaks.
 - [ ] Maya works out who the god is and tells a real myth from the tradition.
@@ -33,6 +34,9 @@ Read `docs/Story_Bible.md` and `docs/Story_Archive.md` fresh, then check the out
 - [ ] The tradition has not been covered recently (check the tracker).
 
 ## Variety
+- [ ] No two parts in a row share a tension type; the biggest beat is near the climax; there is a quiet beat after the scariest moment and a tender part before the hook.
+- [ ] Every late fix, joke or twist was planted early (the school problem by about Part Three), and a new task fails before it works.
+- [ ] One main affirmation (two at most), enacted and not recited; the twins say "Monday" together; nothing a six-year-old could copy and get hurt.
 - [ ] The moral differs from the last three stories.
 - [ ] The main set-piece differs from the last two (a leaning tower, a child in peril, a bickering staff meeting, a sunset speech by a bench).
 - [ ] The peril is real but resolved with kindness, asking or sharing, not force.

@@ -10,6 +10,7 @@ Every story written, in order, 1 to 38, with its details. Stories 1 to 18 are th
 - **Repeating beats.** Tower or structure about to fall, a small child in danger and rescued by the twins, a staff meeting that goes wrong, and a sunset speech have all been used many times. Vary them.
 - **Repeated phrases.** "Underlined it three times", "at exactly the same time" (this one is the ritual), "looked at each other". Keep the ritual, vary the rest.
 - **Twin balance.** Check each time: lines, actions, who goes first.
+- **Craft checks.** The Guide now has 'Tension, stakes and peril', 'Plant and pay off' and 'Common problems to catch before filing' sections, built from the second review pass. Use them at outline and again at draft.
 
 ## Notes on the order and the early stories
 
@@ -29,7 +30,7 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Thor, Norse
 - **Staff on the badge:** Mr Thorley, Caretaker
 - **Cast:** Alex (leads), Felix, Maya, Kenji, Ollie, Willow, Mrs Tibbs (class teacher), Mister Harris, Mr Pickering (lollipop man)
-- **Length:** about 4,540 words in 18 parts (`## Part N.` headings). Rewritten in place with the series cast; the old short version used a different class.
+- **Length:** about 5,050 words in 19 parts (`## Part N.` headings). Rewritten in place with the series cast; the old short version used a different class.
 - **Summary:** Clue trail (Thorley is Thor plus ley, the BOOM and pigeon, the hammer test, pillow pies and jug, the goat-cheese van), Maya's famous "strongest list" (item 19, "he smells a bit like goat", read out with Mr Thorley behind the compost bin and never mentioned again), and her telling of Thor failing to lift the "cat" at Utgard-Loki's hall (it was the World Serpent). Prank rain clouds (the seed of story 6) plague the school; Mr Thorley murmurs "Not tonight, brother" at the gate and thunder cracks two seconds after he drives off. On Friday a huge cat-shaped cloud sits on the hall roof; Mr Thorley will not ask for help. Alex sees it is not heavy, only wide; the twins say "PLEASE" together; the school lifts it off with the PE parachute. Willow faces the cloud's mist tail.
 - **Affirmation:** "Asking for a hand is a strong thing to do." Echoed by the twins ("it's strong to ask" / "and strong to say yes").
 - **Closing scene:** Mr Thorley on the ladder with tea, Willow lets him scratch her ears once, Maya adds "Number twenty. He asked."
@@ -42,7 +43,7 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Shiva, Hindu
 - **Staff on the badge:** Mr Shah, Music Teacher; Mrs Parvati Rao, School Secretary
 - **Cast:** Alex and Felix (Felix leads), Maya, Willow, Kenji, Ollie, Elfine and Marion (big kids, helping at the soup), Mr Harris, Mrs Tibbs, Mr Thorley, Mr Pickering, Mrs Rao, Ganesh Rao (a few classes above), Mrs Dunn (dinner lady), the reptile man and Brenda the snake; cameo Ms Fortune
-- **Length:** about 5,250 words in 17 parts. Rewritten in full in the series cast (the first version was a 1,177-word sketch with a different class).
+- **Length:** about 5,650 words in 18 parts. Rewritten in full in the series cast (the first version was a 1,177-word sketch with a different class).
 - **Summary:** A tiny drum high in the school calms everyone; Mr Shah sits on the grass with a pigeon on his head. Maya's list (still for twenty minutes and a pigeon, the damaru, the blue scarf in the heat, wet hair, Brenda the Science Week snake) names Shiva, and she tells the Great Churning and the poison he held in his throat. After the dance in assembly and the family clue-hunt (Mrs Parvati Rao, Ganesh and his laddoo), Mr Harris's "everybody's soup" (everyone adds one thing, so it is nobody's) throws up a green bubble that pops into a sleepy green fog. Grown-ups run, fan it and blame each other. Felix notices it only spreads where the running goes and stands on a chair to say "stand still"; Willow sits on the spinning paddle until it stops; Alex fetches Mrs Rao through the fog; the twins together lift the ladle so Mr Shah can drink the poison, with Mrs Rao's hand on his throat. Ganesh clears the path. Mrs Dunn is thanked for a "very brave soup" and everyone says sorry.
 - **Affirmation:** "Calm is a kind of strong." Felix tries it on Alex and the pencil.
 - **Closing scene** (Part Sixteen): the twins sit still with him for a minute, pigeon on his head. At home time: "Kenji said that Mr Shah had only been wearing a **normal blue scarf**. And Maya said, "Yes. Exactly. *Normal.*""

@@ -64,7 +64,7 @@ We took that as evidence too.
 
 Maya said the real test of Thor was his hammer, because in the stories it ALWAYS comes back to his hand when he throws it.
 
-So at lunchtime, the six of us watched through the hall window. Mr Thorley was up a ladder, mending a light. He put the hammer down on the floor, and then he turned around and said, "Now where did I put that?"
+So at lunchtime, we watched through the hall window. Mr Thorley was up a ladder, mending a light. He put the hammer down on the floor, and then he turned around and said, "Now where did I put that?"
 
 Ollie whispered, "Don't look at it! It's about to fly back!"
 
@@ -82,7 +82,31 @@ Maya wrote it down. "Evidence," she said. "Inconclusive. But very fast."
 
 We couldn't argue with that.
 
-## Part Four. The Pie and the Jug
+## Part Four. The Piano
+
+On Monday afternoon, Maya lost her pencil. It rolled off her notebook in the hall and went under the school piano, which is very big and very black and has never been moved by anybody, not even by four dinner ladies and a trolley.
+
+Maya lay on the floor with her cheek on the boards. "I can SEE it," she said. "It's right in the middle. I can't reach."
+
+"We could push the piano," said Alex. We all pushed. The piano did not notice.
+
+Mr Thorley came in with a light bulb in his hand. "Lost something?"
+
+"Maya's pencil," said Alex. "Under the piano."
+
+"Ah," said Mr Thorley. "Stand back a bit."
+
+He put the light bulb in his pocket. He took hold of one corner of the piano with one hand, and he lifted it, the way you would lift a tea tray. Every string inside went *plinnng*. With his other hand he reached underneath, picked up the pencil, blew the dust off it and gave it to Maya. Then he set the piano down very gently, patted the lid, said "Sorry, old thing," and walked out whistling.
+
+Nobody spoke.
+
+"That's a PIANO," said Felix.
+
+"I know," said Alex. "He did it with ONE HAND. He didn't even go red."
+
+Maya looked at her pencil. Then she opened her notebook and wrote one word, and underlined it twice. The word was **STRONG.**
+
+## Part Five. The Pie and the Jug
 
 On Tuesday, we sat at the table next to Mr Thorley in the dinner hall, and we all saw what he had for lunch.
 
@@ -102,9 +126,9 @@ He did. It took him four trips.
 
 "And in the other story," whispered Maya, who was already writing, "he drank from a horn and couldn't finish it, because the other end of it was the sea."
 
-We looked at the empty pie tins. We all agreed that the evidence was PILING UP. We also agreed that we were quite hungry.
+We looked at the empty pie tins. The evidence was PILING UP. We were also quite hungry.
 
-## Part Five. The Goats
+## Part Six. The Goats
 
 Maya said that in all the stories Thor rides in a chariot pulled by two goats, so we should check the car park.
 
@@ -126,7 +150,7 @@ Then a voice behind us said, "Can I help you with the van?" and we all jumped, a
 
 We said we were just admiring the dent.
 
-## Part Six. The List
+## Part Seven. The List
 
 The next day, we met behind the compost bin, which is where Maya does her briefings. Alex held the pencil. Felix held Maya's notebook, because the twins always share the jobs, and then they swap.
 
@@ -152,7 +176,7 @@ Mr Thorley came round the corner, carrying a bucket. He did not look at us. He s
 
 We all agreed that Maya's list was the strongest we had ever made. We also agreed that we would never, ever mention number nineteen again.
 
-## Part Seven. The Cat on the Floor
+## Part Eight. The Cat on the Floor
 
 Maya was not finished. She said that the list told us WHO he was, but the myth told us WHAT he was like, and she knew just the myth.
 
@@ -168,15 +192,15 @@ Thor said he could lift anything. So the giants brought in a big grey cat and pu
 
 He put his hands under the cat's belly, and he lifted. The cat arched its back. Thor lifted and lifted, and he got one paw off the floor, and that was the most that he could do.
 
-Thor was cross and a little bit ashamed. But then the giant king told him the truth. It was not a cat at all. It was the great World Serpent, as big as the whole world, wrapped round it with its tail in its mouth. Nobody could lift it. Thor had got one paw of it off the ground, and nobody had EVER done that before.
+Thor was cross and a little bit ashamed. But then the giant king told him the truth. It was not a cat at all. It was the great World Serpent, as big as the whole world, wrapped round it with its tail in its mouth. Nobody could lift it. Thor had got one paw off the ground, and nobody had EVER done that before.
 
 "So," said Felix, "the strongest person in the world couldn't lift a cat."
 
 "It wasn't a cat," said Maya. "That's the point. Some things are much bigger than they look, and the strongest person still can't lift everything." She underlined it in her notebook, three times. "And the strongest are not the people who never get stuck. It's the people who do the lifting they CAN do."
 
-Willow, who had been sitting on the compost bin the whole time, got up and walked away. Willow does not like being compared to a cat that cannot be lifted. She thinks it is a personal matter.
+Willow, who had been sitting on the compost bin the whole time, got up and walked away. She thinks cats that cannot be lifted are a personal matter.
 
-## Part Eight. Extra Good
+## Part Nine. Extra Good
 
 That night, none of us could stop thinking about it. If Mr Thorley really WAS a thunder god, we had to be polite, because you do not want to make a thunder god cross.
 
@@ -184,19 +208,19 @@ That night, none of us could stop thinking about it. If Mr Thorley really WAS a 
 
 "He might make it rain on your BIRTHDAY CAKE," said Kenji, and that was worse.
 
-So on Wednesday, we were all EXTRA GOOD. Ollie picked up every crisp packet in the playground, even other people's. Kenji held the door open for a lot of people, including a bin. Maya walked everywhere in a straight line.
+So on Wednesday, we were all EXTRA GOOD. Ollie picked up every crisp packet in the playground, even other people's. Kenji held the door open for a lot of people, including a bin.
 
 Alex and Felix made a drawing. Alex drew, and Felix did the colouring in. It was a tall man with a red beard, a silver hammer, and two goats with enormous grins. Underneath, Felix wrote in his best writing: **THANK YOU FOR PROTECTING US.** They did not know what he was protecting them from. It just seemed like the right thing to say.
 
 They gave it to Mr Thorley at the caretaker's door.
 
-Mr Thorley looked at the picture for a very long time. He blinked once. He blinked twice. He said, in a voice that was even deeper than before, "Well, I'll be. Nobody's ever drawn me before."
+Mr Thorley looked at the picture for a very long time. He blinked twice. He said, in a voice that was even deeper than before, "Well, I'll be. Nobody's ever drawn me before."
 
 He put it carefully inside his overalls, next to his heart.
 
 Alex noticed that his eyes were shiny. Felix did not ask. When you notice something shiny that somebody is trying not to have, you leave it alone.
 
-## Part Nine. Little Clouds
+## Part Ten. Little Clouds
 
 That was when the weather started to be odd.
 
@@ -208,7 +232,7 @@ A second cloud, the size of a pillow, followed Ollie across the playground and r
 
 They all had a curly edge, like a very smug grin.
 
-Alex noticed that the clouds were not wandering the way clouds usually do. They were waiting, like children waiting for somebody to shout. Felix asked, "Mr Thorley, are the clouds doing that on purpose?"
+Alex noticed that the clouds were not wandering the way clouds usually do. They were waiting. Felix asked, "Mr Thorley, are the clouds doing that on purpose?"
 
 Mr Thorley looked at the little cloud over Mister Harris's car. Then he looked up at the sky, which was starting to go a dark, grumbly grey. He said, "Somebody has been up to tricks. I'm dealing with it."
 
@@ -226,7 +250,7 @@ There was a very long silence.
 
 Then Mrs Tibbs began to laugh, and she could not stop for about two minutes.
 
-## Part Ten. Not Tonight, Brother
+## Part Eleven. Not Tonight, Brother
 
 At home time, it was almost dark. We were all standing at the gate waiting for our mums and dads and grandmas, and Mr Pickering was standing in the road with his lollipop stick, which was not really needed, because the road was empty.
 
@@ -244,7 +268,7 @@ And exactly TWO SECONDS later, the clouds went **BOOM**, and all the rain came d
 
 Kenji turned to us, with water dripping off his nose, and said, "I TOLD you."
 
-Mr Pickering waved at us from the middle of the empty road, completely dry, because he was standing under his own tiny umbrella. We did not ask where he had been keeping it.
+Mr Pickering waved at us from the middle of the empty road, completely dry, under his own tiny umbrella. We did not ask where he had been keeping it.
 
 Behind the compost bin on the next morning, Maya wrote one line at the bottom of the list. Felix held the notebook open. Alex did the writing.
 
@@ -252,7 +276,7 @@ Behind the compost bin on the next morning, Maya wrote one line at the bottom of
 
 And underneath, because Maya is an honest scientist: *Unknown.*
 
-## Part Eleven. The Cat on the Roof
+## Part Twelve. The Cat on the Roof
 
 On Friday morning, we came into the playground, and there was a cat sitting on the roof of the school hall.
 
@@ -266,13 +290,13 @@ It was the fattest, heaviest cloud any of us had ever seen. It sat on the roof a
 
 "If it lets go all at once," said Maya, "all that rain will come down through the hall like a waterfall."
 
-Mister Harris came running out with his clipboard. He had a very pink face. "Everybody on the field! Now! Calmly! Quickly! And calmly!"
+Mister Harris came running out with his clipboard. "Everybody on the field! Now! Calmly! Quickly! And calmly!"
 
 So we all stood in a big wet crowd on the field, the whole school, the big kids with the little ones in front, and Mrs Tibbs holding up her umbrella as if the umbrella could help.
 
 And on the roof, where the ladder leaned against the gutter, there was a man with a red beard.
 
-## Part Twelve. One Paw
+## Part Thirteen. One Paw
 
 Mr Thorley had climbed all the way up. He stood on the wet tiles with both hands pressed against the belly of the cloud, pushing UP, with his boots slipping and his big shoulders shaking.
 
@@ -292,23 +316,27 @@ We all looked at the cat on the roof.
 
 "He can't lift it," said Felix.
 
+We all thought of the piano. Nobody said so. Mr Thorley had picked up a piano with one hand, and now he was shaking from his boots to his beard just to hold up the corner of a cloud.
+
 "He only has one paw's worth," said Alex.
 
-Mr Thorley pushed again. He got one corner up. He held it for three seconds, four seconds, five. We could hear him breathing from all the way across the field.
+Mr Thorley pushed again. He got one corner up, and held it for three seconds, four, five. We could hear him breathing all the way across the field.
 
 Then it sank down again, and a long crack ran along the roof tiles.
 
-## Part Thirteen. Willow Goes Forward
+Nobody on the field said a word. Not the big kids, and not the little ones. Mister Harris lowered the loudhailer and, for once in his life, said nothing at all. We could hear one drip fall from the gutter onto the step, *plink*, and then another. Alex found Felix's hand without looking, and Felix was already holding his out. Up on the roof, Mr Thorley stood very still with his hands on the cloud, and breathed.
+
+## Part Fourteen. Willow Goes Forward
 
 That was when the tail of the cloud, which was hanging down over the gutter, came curling slowly down towards the field.
 
-It was a long, wet, grey tail of mist, and it was coming right at the crowd. Nobody knew what it would do. The big kids stepped back. The little ones squeaked. Mister Harris said, "Calmly, calmly," in a voice that was not calm at all.
+It was a long, wet, grey tail of mist, coming right at the crowd. The big kids stepped back. The little ones squeaked. Mister Harris said, "Calmly, calmly," in a voice that was not calm at all.
 
 And a small striped shape walked out from the front of the crowd.
 
 It was Willow.
 
-She did not run. Willow never runs. She walked slowly across the wet grass, with her tail straight up in the air, and her whiskers forward, towards the great grey curling thing. Willow does not like water. Willow does not like being surprised. Willow certainly does not like mist.
+She did not run. Willow never runs. She walked slowly across the wet grass, with her tail straight up in the air, and her whiskers forward, towards the great grey curling thing. Willow does not like water, or surprises, or mist.
 
 She stopped right in front of it, and she sat down.
 
@@ -322,9 +350,9 @@ Then the mist softened and sank into the grass. It was only wet air, and a bit o
 
 Felix stared. "It's not heavy," he said. "It's WIDE."
 
-## Part Fourteen. The Big Ask
+## Part Fifteen. The Big Ask
 
-Maya was already turning pages in her notebook. "The giants made the serpent look like a cat," she said. "This cloud has made itself look like a cat. It's a trick. It looks like the heaviest thing in the world. But it isn't heavy, it's just big, and nobody can get their arms around something that big. Not even the strongest man in the school."
+Maya was already turning pages in her notebook. "The giants made the serpent look like a cat," she said. "This cloud has made itself look like one too. It's a trick. It isn't heavy, it's just big, and nobody can get their arms around something that big. Not even the strongest man in the school."
 
 "Not on his own," said Felix.
 
@@ -346,13 +374,13 @@ Then, very slowly, he lowered his hands from the cloud and held them out.
 
 "All right," he said. His voice was quiet. "All right. Yes, please. I would like a hand."
 
-## Part Fifteen. The Parachute
+## Part Sixteen. The Parachute
 
 Felix had the idea. It was the best idea anyone had that week, and he had it with his eyes shut, because that is what he does.
 
 "The parachute," he said. "From PE."
 
-Everybody knew the parachute. It is a huge, round, rainbow cloth, with handles all the way round the edge, and it lives in the big cupboard in the hall. When forty children hold it and lift together and push it down, it makes a WHOOSH of wind that goes right up to the ceiling.
+Everybody knew the parachute. It is a huge rainbow cloth with handles all round the edge, and when forty children lift it and push it down together, it makes a WHOOSH of wind that goes right up to the ceiling.
 
 Ollie and Kenji were fastest. They came back with it between them, as the biggest, brightest, wobbliest thing we had ever seen.
 
@@ -370,23 +398,35 @@ They spread the parachute out on the wet playground, right under the edge of the
 
 "THREE," they said together.
 
-## Part Sixteen. Up
+The whole school lifted the parachute and brought it down, and WHOOSH, the wind went up.
 
-The whole school lifted the parachute high, as high as every arm could go, and brought it down hard, and WHOOSH.
+But Mr Thorley had already pushed. He had pushed on three, and the wind came on three and a bit. The cloud went up, and then the wind arrived too late, and the cloud came down again, harder, like a very large cushion sitting on a very small chair. The whole hall groaned. A tile slid off the roof and went *plink, plink, plink* down the gutter. The crack grew one finger longer. And the parachute, which half the little ones had let go of in fright, folded in the middle and flopped over Mister Harris's head.
 
-The wind went straight up like a fountain. It hit the belly of the cloud. And on the roof, Mr Thorley pushed with the whole of his strength.
+"Calmly," said Mister Harris, from inside the rainbow.
 
-The cloud lifted.
+Nobody laughed. We could all see the crack.
 
-It lifted an inch. Then a foot. Then a whole big grey corner of it, rising off the tiles with a long soft sigh.
+## Part Seventeen. Up
 
-"AGAIN!" shouted Alex.
+"Again," said Alex. "Properly!"
+
+So we lifted again, and WHOOSH. But the big kids went up fast and the little ones went up slow, and the parachute rippled like a bath full of rainbows, and the wind went out sideways instead of up. The corner of the cloud rose, wobbled like a jelly, and sat back down.
+
+"Nearly!" called Mr Thorley, through his teeth. "Nearly, nearly..."
+
+Alex had not been looking at the parachute. He had been looking at the roof. "He breathes in," he said. "Before every push. Look at his shoulders. We're all going on OUR three. He's going on HIS."
+
+Felix opened his eyes. "Then it's his count," he said. "Mr Thorley! YOU say when!"
+
+Mr Thorley looked down at us. He had not asked anybody for anything in about a thousand years, and now he was being asked to be in charge of forty children and a cloud. "Right," he said. "Right. Hold your handles." He breathed in. Every single one of us breathed in with him. "And UP..."
+
+We all lifted, together.
+
+"...and DOWN!"
 
 WHOOSH.
 
-"AGAIN!" shouted Felix.
-
-WHOOSH.
+The wind went straight up like a fountain, and it hit the belly of the cloud just as Mr Thorley pushed with the whole of his strength. The cloud lifted. It lifted an inch. Then a foot. Then a whole big grey corner of it, rising off the tiles with a long, soft sigh.
 
 And that's when the great grey cat on the roof stood up. It stretched. It yawned, with a rumble like a very big purr, and it floated slowly up off the hall, with its tail trailing behind it, and out over the roof, and over the playground, and out across the school field.
 
@@ -400,7 +440,7 @@ We stood there with our faces turned up, and nobody ran for an umbrella.
 
 Then a low, warm rumble came rolling across the sky, from the cloud, or perhaps from the roof. It was the sound of a very big man starting to laugh.
 
-## Part Seventeen. Strong
+## Part Eighteen. Strong
 
 Afterwards, Mr Thorley sat on the bottom rung of the ladder with a mug of tea. His beard was dripping, and his big hands were still shaking a little. All round him, the whole school was drinking hot chocolate in the dinner hall. Mrs Tibbs had even given him a hot cross bun, which went down in one bite.
 
@@ -410,25 +450,27 @@ Alex and Felix sat down on either side of him. Maya sat on the end, holding her 
 
 "That's all right," said Felix.
 
-"It looked really heavy," said Alex.
+"I couldn't lift the whole of it. Nobody can lift the whole of anything." Mr Thorley put down his mug, stood up and lifted the ladder off the wall. Then he stopped, and went pink above his beard.
 
-"It did. It looked like the heaviest thing in the world." Mr Thorley turned the mug in his hands. "I've been carrying one thing or another all week, you know. A little rain cloud, here and there. Somebody who ought to know better, playing games. I thought if I held it all myself, nobody else would have to worry. That's what strong means, I thought." He shook his head. "I was wrong. I couldn't lift the whole of it. Nobody can lift the whole of anything."
+"Could you," he said, very fast, as if the words were a sneeze, "could you give me a hand with this?"
 
-He looked at the two of them.
+It was the same ladder he had carried across the playground on Monday as if it were a ruler.
 
-"Do you know what the strongest thing I did all week was? It wasn't the roof. It was saying, 'Yes, please, I'd like a hand.' Asking for a hand is a strong thing to do."
+Alex took one end. Felix took the other. Mr Thorley took the middle. Nobody made a thing of it. It was the lightest ladder we had ever carried, and we walked it across the wet playground to the shed, with Maya behind us, and Willow stalking along the wall.
+
+"Asking for a hand," said Mr Thorley, to nobody in particular, "is a strong thing to do."
 
 "So it's strong to ask," said Alex.
 
 "And it's strong to say yes," said Felix.
 
-"Both," said Mr Thorley, and he patted them each on the head, very gently, with a hand the size of a spade.
+"Both," said Mr Thorley, and he went "Hm," like thunder, a long way off and very happy.
 
-Willow was sitting on the wall above them, with her fur still on end from the mist. She had not been lifted by anyone, or stroked, or hurried. But she shut her eyes slowly, and she let Mr Thorley scratch behind her ears, just once.
+Willow jumped up onto the shed roof, with her fur still on end from the mist. She had not been lifted by anyone, or stroked, or hurried. But she shut her eyes slowly, and she let Mr Thorley scratch behind her ears with one finger, just once.
 
 Maya opened her notebook and added one more line to the list. *Number twenty. He asked.* And then she underlined it, three times.
 
-## Part Eighteen. The Drum
+## Part Nineteen. The Drum
 
 That evening, when the cloud had gone and the sky was a clean, pale gold, we were standing at the gate again, waiting to be collected. Mr Pickering was there, with his lollipop stick, waving at nobody in particular. Mr Thorley was locking up. The air smelled of rain on cabbages.
 
@@ -442,7 +484,7 @@ It was a tiny drum, a tiny, light, patient drum, with a sound like a heartbeat.
 
 And everything went still.
 
-The last grey wisps of cloud above the school stopped where they were, and stayed. The pigeons on the roof tucked in their wings. Mister Harris, in the middle of saying "Home time, everyone," stopped, and breathed out, and shut his mouth, and smiled. Even the wind went quiet, and the leaves hung in the air, waiting.
+The last grey wisps of cloud stopped where they were. The pigeons on the roof tucked in their wings. Mister Harris, in the middle of saying "Home time, everyone," stopped, and breathed out, and smiled. Even the leaves hung in the air, waiting.
 
 Mr Thorley stood with his keys in his hand, and he looked up. He did not look surprised. He looked, we thought, as if he were listening to an old friend. He put his hammer very gently down on the step, and he bowed his head, just a little.
 

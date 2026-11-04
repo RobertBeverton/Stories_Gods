@@ -48,6 +48,18 @@ Mr Harris came hurrying across the playground, holding his clipboard against his
 
 "It isn't my pigeon," said Mr Shah, getting up without using his hands, which Ollie said was a trick you would need a lot of practice for. "But I am happy to share."
 
+Mr Harris was already hurrying on to his next announcement. He always is. "And a reminder," he said, flicking through his clipboard, "that on Friday, to finish Science Week, we are making the BIGGEST SOUP IN THE HISTORY OF THE SCHOOL. Everybody brings one thing. A carrot, a pea, a spoonful of whatever. That way," he said, glowing, "it is EVERYBODY'S soup!"
+
+"Everybody's soup," said Ollie, trying it out. "I'm bringing a sausage."
+
+"Then it's everybody's sausage soup," said Kenji, and for the rest of the week we said EVERYBODY'S SOUP to each other in the corridor, in a very grand voice, like a cheer.
+
+Mrs Dunn, the dinner lady, had come out to watch, with her ladle held against her apron. "I only have a recipe for forty," she said quietly, to nobody. Then Mr Thorley went clanking across the playground, wheeling a huge silver pot on a trolley, as wide as a paddling pool, with a great wooden paddle laid across the top and a coil of rope trailing behind. It looked as if it could hold a lot of soup. We all agreed on that. Mrs Dunn did not look as if she agreed with anything.
+
+"Hurry, hurry," said Mr Harris, hurrying off after it.
+
+"Most troubles are the size we make them by hurrying," said Mr Shah, very softly, watching him go. Felix heard it. He said it over to himself, the way you do with a good new word.
+
 His badge said **Mr Shah, Music Teacher.** He had a kind, still face, and when he looked at you, you felt like the only person in the whole school. He smiled at Willow, who was sitting on the wall with her tail wrapped round her paws, as she does every morning. Willow is the Bengal Reading Cat, and she is very dignified. She looked at Mr Shah for a long time. Then she blinked slowly, which, from Willow, is a hug.
 
 It was a very hot week. Even the pigeons were panting. Mrs Tibbs, our teacher, fanned herself with a spelling list. But Mr Shah kept the blue scarf wrapped around his neck all day, and he never once looked sweaty.
@@ -164,21 +176,21 @@ She said it very quietly, with the whole list in front of her. We counted. A ver
 
 We were ready.
 
-"A very long time ago, the gods and the demons wanted a magic drink called amrita, which would make them last forever. But it was hidden at the bottom of the ocean. So they got a whole mountain, and they twisted a giant snake round it for a rope, and the gods pulled one end and the demons pulled the other, back and forth, back and forth. They were churning the ocean, like stirring a giant pot. A great big turtle sat underneath, to hold the mountain up."
+"A very long time ago, the gods and the demons both wanted amrita, a magic drink that would make them last forever. It was hidden at the bottom of the ocean. So they took a whole mountain, twisted a giant snake round it for a rope, and pulled, the gods one end and the demons the other, back and forth. They were churning the ocean like a giant pot. A great big turtle sat underneath to hold the mountain up."
 
 "Is that a real turtle?" asked Kenji.
 
 "It is a god turtle," said Maya, "and it was extremely patient."
 
-"The churning went on for hundreds of years. And the first thing to come out of the ocean was not treasure. It was poison. Black, smoky poison, and it spread across the sky, and it was so strong it could have hurt the whole world."
+"The churning went on for hundreds of years. And the first thing out of the ocean was not treasure. It was poison. Black, smoky poison, spreading across the sky, strong enough to hurt the whole world."
 
 We all shivered.
 
-"And everybody ran away," said Maya. "The gods said, 'It's not ours.' The demons said, 'It's not ours either.' They all pointed at each other, and the black cloud kept growing. Until Shiva came. He said, 'I will hold it.' And he scooped it into his hands, and he drank it."
+"And everybody ran away," said Maya. "The gods said, 'It's not ours.' The demons said, 'It's not ours either.' They all pointed at each other, and the black cloud kept growing. Until Shiva came. 'I will hold it,' he said. And he scooped it up, and he drank it."
 
 "ALL OF IT?" shouted Ollie.
 
-"All of it. And his wife Parvati put her hand on his throat, quite gently, so that it would stay there and go no further. And it did. His throat turned blue, and it stayed blue. They call him Neelakantha, which means the Blue-Throated One. After that, the churning went on, and all kinds of wonderful things came up out of the ocean, one after another."
+"All of it. And his wife Parvati put her hand on his throat, quite gently, so that it would stay there and go no further. His throat turned blue, and it stayed blue. They call him Neelakantha, the Blue-Throated One. After that, the churning went on, and wonderful things came up out of the ocean."
 
 She put the pencil down. Alex had given it back to her without being asked.
 
@@ -194,7 +206,7 @@ He sat down on a cushion on the stage and began to tap his little drum, very sof
 
 And all of a sudden, he stood up and began to dance.
 
-He lifted one foot. He spun round. His arms went in every direction at once, and the blue scarf swirled out behind him, and his feet went **THUMP, THUMP, THUMP** on the stage. We could actually feel the floor wobbling. Ms Fortune's earrings jingled. Ollie said the whole hall was shaking like a jelly, and he was hungry just thinking about it.
+He lifted one foot. He spun round. His arms went in every direction at once, and the blue scarf swirled out behind him, and his feet went **THUMP, THUMP, THUMP** on the stage. We could actually feel the floor wobbling. Ms Fortune's earrings jingled. Ollie said the whole hall was shaking like a jelly.
 
 Nobody spoke. Mr Harris stopped looking at his watch. Mrs Tibbs forgot she was holding a register. Even Willow, who sits at the very back and has seen everything, sat up.
 
@@ -240,23 +252,17 @@ Just then, someone walked up behind us eating a laddoo. It was Ganesh Rao, who i
 
 Maya had a quiet word with us afterwards. She said that the elephant-headed god, Ganesha, is the one who removes obstacles. Ollie said he had a lot of obstacles, mostly in his lunchbox. Alex said that was not what an obstacle was.
 
-Ganesh offered each of us a little bit of laddoo, and we said no thank you, because we did not want to be rude to someone's son. Then Ollie said yes, because it looked REALLY good, and Ganesh looked very pleased.
+Ollie asked if he could have a bit of laddoo, because it looked REALLY good, and Ganesh looked very pleased.
 
 ## Part Nine. Everybody's Soup
 
-At lunchtime, the hall was full of people, and in the middle of the room was the biggest pot we had ever seen.
+At lunchtime on Friday, the hall was full of people, and in the middle of the room stood the silver pot, wide as a paddling pool, with the great wooden paddle beside it and its long rope wound round.
 
-It was made of silver, and it was as wide as a paddling pool. Beside it stood an enormous wooden paddle, taller than Mr Thorley, with a long rope wound round it.
+"WELCOME," said Mr Harris, standing on a chair, "to the end of Science Week! Today we make the BIGGEST SOUP IN THE HISTORY OF THE SCHOOL! And whose soup is it?"
 
-"WELCOME," said Mr Harris, who had stood on a chair, "to the end of Science Week. Today we are making the BIGGEST SOUP IN THE HISTORY OF THE SCHOOL!"
+"EVERYBODY'S!" shouted the whole hall, because we had been practising all week.
 
-Everybody cheered.
-
-"Now, here is my plan. Everybody brings one thing, and puts it in the pot. A carrot, a pea, a spoonful of whatever. That way," he said, looking very pleased, "it is EVERYBODY'S soup."
-
-Mrs Dunn, the dinner lady, was standing next to him with her sleeves rolled up. She was a short, cheerful lady with a ladle that she held like a sword. "I thought we could do pea and mint," she said.
-
-"EVERYBODY'S SOUP," said Mr Harris again.
+Mrs Dunn stood beside him with her sleeves rolled up, holding her ladle like a sword. "I thought pea and mint," she said, as if she were not sure that was enough.
 
 So one by one, we all went up to the pot. Mr Thorley put in a very large turnip. Mr Pickering put in two leeks. Kenji put in a handful of grass, which was not allowed but nobody stopped him. And somebody, we never found out who, put in a small brown jar with the label rubbed off, which Ollie said might have said ADD and might have said DO NOT ADD.
 
@@ -328,6 +334,8 @@ The fog crept on. It went under the doors and along the corridor. It went round 
 
 Alex and Felix hid behind a stack of chairs, with Maya, Kenji and Ollie. It was chaos. Grown-ups were running up and down, waving their arms and flapping their clipboards. They were fanning the fog in all directions. And every time somebody fanned it, it spread a bit further.
 
+"Most troubles are the size we make them by hurrying," whispered Maya, and she looked at Felix.
+
 "SOMEBODY SHOULD DO SOMETHING!" shouted Mr Harris.
 
 "WHO?" shouted everybody else.
@@ -344,9 +352,9 @@ It was true. Over by the stage, where Mr Shah was standing very still, with Bren
 
 "Then everybody has to stop," said Alex.
 
-Felix took a deep breath. He did not feel brave. He felt wobbly. But he climbed onto a chair, in front of all the grown-ups, and he said, in the loudest voice he had:
+Felix took a deep breath. He did not feel brave. He felt wobbly. But he thought of what Mr Shah had said, and he climbed onto a chair, in front of all the grown-ups, and he said, in the loudest voice he had:
 
-**"EVERYBODY STAND STILL!"**
+**"EVERYBODY STAND STILL! YOU'RE HURRYING IT BIGGER!"**
 
 It was very quiet. Mr Harris stopped. Mrs Dunn stopped. Mr Thorley stopped with his turnip arm still raised.
 
@@ -372,17 +380,17 @@ Then something small and golden-spotted stepped down from the piano.
 
 It was Willow.
 
-She did not hurry. She walked across the hall with her tail straight up, right into the fog. She did not sneeze. She did not wobble. She went over the rope, and across the top of the pot, and she looked at the great wooden paddle going round and round.
+She did not hurry. She walked across the hall with her tail straight up, right into the fog, and she did not sneeze. Then she stopped at the edge of the paddle's swing, and her tail went thick.
 
-Then she jumped up and sat on the very top of it.
+The loose end of the rope was whipping round with the paddle, low along the floor, like a giant skipping rope. *Whoosh*, round. *Whoosh*, round. One slap from it would have sent her flying.
 
-The paddle went round once. Then twice. Willow sat there like a queen on a roundabout, with her ears back and her eyes closed, and she did not move AT ALL.
+Willow crouched. Her bottom wiggled, the way it does before she jumps at the curtains. *Whoosh.* She waited. *Whoosh.* She waited. Then, in the gap, she sprang over the rope and up onto the top of the paddle as it came round.
 
-It went round more slowly. Then more slowly still. Then it stopped.
+Her claws skidded. She slid. Her back legs dangled in the air, and the whole hall gasped. But she dug in, and hauled herself up, and hugged the paddle with all four legs and her tail, like a very determined cushion.
 
-Willow opened one eye. Then she began, very calmly, to wash her paw.
+Willow is not a heavy cat. But she is a stubborn one. The paddle groaned. It went round slower, and slower, and stopped with a creak, so suddenly that Willow slid gently off the end, landed on her feet, and began to wash her paw, as if she had meant it all along.
 
-"WILLOW!" shouted Ollie, and everybody cheered, but quietly, in case the fog heard.
+"WILLOW!" shouted Ollie, and everybody cheered, but quietly, in case the fog heard. Willow gave him a look that said it had not been a cheering sort of moment, and carried on washing.
 
 ## Part Fourteen. Alex Goes for Mrs Rao
 
@@ -390,7 +398,7 @@ But the fog was still there, and the pot was still full of poison green soup. "S
 
 Mr Shah was already walking towards it. He took slow steps, and Brenda rode on his shoulders. But when he reached the pot, he paused.
 
-"This is not a thing for one person alone," he said, very quietly. "It is too big and too strong. Somebody must hold my throat, so that it goes no further."
+"This is too big for one person," he said, very quietly. "Somebody must hold my throat, so that it goes no further."
 
 "Mrs Rao!" said Alex.
 
@@ -422,7 +430,13 @@ They went back through the green together.
 
 ## Part Fifteen. The Ladle
 
-When they got back to the hall, Mr Shah was standing by the pot with his eyes closed.
+When they got back to the hall, it was very quiet. The paddle was still. The fog hung in the air without a breath of wind to move it, and the sun came in through the high windows in long, dusty stripes. Alex let out a big breath he had not known he was holding. Felix took the wet tea towel from him and folded it, very neatly, because he did not know what else to do with his hands.
+
+"You're back," said Felix.
+
+"I'm back," said Alex. That was all. It was enough.
+
+Mr Shah was standing by the pot with his eyes closed.
 
 "Thank you, Alex," he said. "Thank you, Mrs Rao. I think we are ready."
 
@@ -434,7 +448,7 @@ They lifted it up together, very carefully, the way you carry a cup of water tha
 
 And then he drank it.
 
-The whole hall held its breath. Mr Shah stood there with his eyes closed. He did not swallow. He did not breathe. His face went very still and very serious.
+The whole hall held its breath. Mr Shah stood there with his eyes closed. He did not swallow. He did not breathe. For one long moment, nothing happened at all.
 
 Mrs Rao stepped up beside him, and she laid her hand gently on his throat. Brenda lifted her head and rested it next to Mrs Rao's hand.
 
@@ -452,13 +466,11 @@ Ollie, who had been creeping towards the pot with a spoon, said, "I wasn't going
 
 ## Part Sixteen. A Brave Soup
 
-Mrs Dunn was standing by the empty pot with her ladle down and her face a very deep red.
+Mrs Dunn stood by the empty pot with her ladle down and her face a very deep red.
 
 "I'm so sorry," she said. "I only wanted to try something new."
 
-Mr Shah turned to her, and he bowed, with his hands together.
-
-"It was a very brave soup," he said, "and it was brave of you to make it. Nobody is angry. Nobody should be. A hard thing came into the school today. It was not any one person's fault. It was only nobody's, and so nobody could pick it up."
+Mr Shah bowed to her, with his hands together. "It was a brave soup," he said. "Nobody is angry. It was not anybody's fault. It was only nobody's, and so nobody could pick it up."
 
 "I'm sorry I said it wasn't my soup," said Mr Harris, who had finally managed to stand.
 
@@ -466,15 +478,29 @@ Mr Shah turned to her, and he bowed, with his hands together.
 
 Then everyone said sorry all at once, and Mr Thorley said sorry for the turnip, and the hall was full of sorries for about a minute, and after that it was all right.
 
-Mrs Dunn made toast for the whole school. It was the best toast we had ever tasted, and she was very proud of it. The pot went out to Mr Thorley's shed, where he said he would think about it.
+"Everybody's soup is nobody's soup," said Felix slowly, working it out.
 
-Afterwards, the twins went to find Mr Shah. He was sitting on the grass in the middle of the playground with his eyes shut, and Brenda sleeping on his knee, and a pigeon on his head.
+"Unless we all hold it," said Alex. "Then it's ours."
 
-Alex and Felix sat down either side of him and tried it. They sat perfectly still for one whole minute. It was the longest minute of their lives. Ollie lasted forty seconds.
+Mr Harris looked at his clipboard for a long time. Then he crossed out EVERYBODY'S and wrote OURS, in capitals, and underlined it twice.
 
-"Mr Shah," said Felix, "were you scared of the poison?"
+"OURS!" said the whole hall, much louder than the first time.
 
-"Oh, yes," said Mr Shah, with his eyes still shut. "Very. But there are two ways of being scared. One way, you pass it on. You shout, and you run, and you wave it about, and everybody catches it. The other way, you hold it, quite still, until it has gone quiet. Calm is a kind of strong, you know. It is one of the strongest kinds there is."
+"Next year," said Mrs Dunn, "with a recipe, and a lid."
+
+Then she made toast for the whole school. It was the best toast we had ever tasted, and she was very proud of it. The pot went out to Mr Thorley's shed, where he said he would think about it.
+
+## Part Seventeen. One Whole Minute
+
+Afterwards, the twins went to find Mr Shah. He was sitting on the grass in the middle of the playground with his eyes shut, Brenda asleep on his knee, and a pigeon on his head.
+
+Alex and Felix sat down either side of him, without a word, and tried it.
+
+They sat perfectly still for one whole minute. A ball bounced far away. A door banged. A bird went by. It was the longest minute of their lives. Ollie came and lasted forty seconds, and then lay down in the grass and said he was resting his stillness.
+
+"Mr Shah," said Felix, with his eyes shut, "were you scared of the poison?"
+
+"Oh, yes," said Mr Shah. "Very. You can pass a fright on, or you can hold it still until it goes quiet. Calm is a kind of strong."
 
 Felix thought about that. "So when Alex takes my pencil," he said, "I could hold it still, and not throw it."
 
@@ -498,7 +524,7 @@ Kenji said that Mr Shah had only been wearing a **normal blue scarf**.
 
 And Maya said, "Yes. Exactly. *Normal.*"
 
-## Part Seventeen. The Straight Line
+## Part Eighteen. The Straight Line
 
 When we collected our coats, the school was very quiet. The sun was low in the windows. Alex was the first one to see it.
 

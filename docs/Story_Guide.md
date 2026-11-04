@@ -51,11 +51,49 @@ If there is more than one child hero, they must share the spotlight evenly, or o
 - They say important things together, in the same breath, as often as separately.
 - Neither is "the brave one" across a whole story. Swap roles from story to story.
 
+## Tension, stakes and peril
+
+A story needs real tension that is varied, builds, and is always resolved kindly. These rules came out of the second review pass over the early stories (and from the craft guide of the sister series, Isles of Yum).
+
+- **Name each beat's type.** Mystery or cliffhanger, problem to solve, physical jeopardy, or social and emotional tension. Do not run the same type twice back to back. If a beat repeats the one before it, change its type or shrink it to a texture moment (a joke, a smell, one line).
+- **Build to the biggest beat.** The scariest or most affecting moment belongs at or near the climax. If it happens in the middle and then cools off, the story peaks too soon.
+- **Physical jeopardy, calibrated.** Cause it by chance or the environment, never malice. Resolve it within about a page. The children's teamwork solves it, with adults present but not the ones who fix it (they can try and fail first). End in relief or a laugh. Give the fright one quiet "catching your breath" beat before the plot speeds up again.
+- **The obstacle ladder.** Three or four obstacles, each a different flavour of tension and a different virtue or skill: kindness or asking, a practised skill, nerve, pure teamwork. Never two in a row solved the same way.
+- **The learning beat.** If the children have to do something they have never done, it does not work first time. The first try fails (funny but tense), the second wobbles, the third works because one of them notices the fix. Give each twin a different part of the fix.
+- **Light and shade.** At least two comic parts, a quiet or tender part before the climax, a quiet part before the hook, and no run of three parts at the same intensity.
+- **A taker, never a harmer.** The school problem comes from a mishap, a mistake, or a want taken too far, not from a villain. There is a reason a child can say back, and the fix is a conversation and a small concrete job.
+- **Show the dark episode's fear and relief on the page.** If the myth's engine is dark (poison, a flood, fire), let the children be scared where we can see it, then let the relief be just as clear.
+
+## Plant and pay off
+
+- Every punchline, twist or late fix needs an earlier light seed. At outline stage, list every plant with the part where it pays off, and plant by about Part Three.
+- Show it, do not just list it. If the evidence list says he lifted a piano, let us see him lift the piano.
+- Plant the school problem early (an announcement, a delivery, a deadline) so that when it arrives it is a payoff and not a surprise halfway through.
+- A refrain helps: one short, kid-sayable phrase that is asked first by someone with authority, comes back with the children's own spin, and lands last with a changed meaning.
+- If the myth's mechanism is magical (a fog that spreads, a cloud that seems heavy), give it one child-sayable rule early and have a child use it aloud, so it reads as earned and not as mood.
+
+## Common problems to catch before filing
+
+These came up again and again when all 38 stories were reviewed. Check them at outline and again at draft.
+
+- **No year groups or ages** in the narration ("Year 2", "aged five"). Say "the school", "the class", "the big kids", "the little ones". "Reception" is fine.
+- **One main affirmation, two at most.** Enacted, not recited. Never several in a row, and the god's explaining speech is only a few lines, with a child saying it back in their own words.
+- **The ritual ending, every time.** The hook for the next god, then both twins say "Monday" at exactly the same time (not another shared word, and not an adult), then "The End."
+- **Nothing a six-year-old could copy and get hurt.** No child kneeling at a smoking door, no adult lighting a match near children without a plain consequence, and a named adult in charge of any group left behind.
+- **Grown-ups are kind.** Nobody is left trapped, dismissed, or made the butt of the joke (the dinner lady's soup, the boy in the chair). Mistakes get a sorry and a fix.
+- **Willow never speaks** (no meow written as dialogue) and does one brave thing.
+- **No clashing names or real brands.** No character named Felix or Alex apart from the twins, and no real book, brand or character named in the text.
+- **Keep the tics down.** "Looked at each other", "underlined it three times", "at exactly the same time" outside the ritual, and "That's when" no more than four times.
+- **Keep the crowd small.** A roll call of more than about six names at once is hard to follow read aloud.
+- **Respect the cast timeline.** Do not use a character before their first story (Dot first appears in story 9) and do not name someone a later story introduces as new. Check the next story's actual opening before writing a hook.
+- **Give the quiet parts texture the first time.** Thin "nothing is happening yet" parts are why the early stories came out at 1,000 words.
+- **Say so when the story invents.** Where it departs from a living tradition's telling, let Maya say it lightly, and do not state anything about the tradition you are not sure of.
+
 ## Affirmations
 
 The stories teach self-belief without lecturing.
 
-- Put them in the god's mouth, late in the story, after the action.
+- One main affirmation per story, two at most. Put it in the god's mouth, late in the story, after the action.
 - Keep them short and concrete: one or two sentences a child could say back.
 - Tie each to what just happened, so the plot earns it.
 - No notes page, no quiz, no moral box afterwards. Do not ask the children questions at the end.
