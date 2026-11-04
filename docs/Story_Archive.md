@@ -1,6 +1,6 @@
 # Story Archive
 
-Every story written, in order, with its details. Entries 1 to 19 were seeded from the story texts themselves, so the closing-scene quotes are exact excerpts from the text. Add a new entry at the bottom for each new story: cast, length, summary, the god's words, the hook, and one honest note about what to watch for next time.
+Every story written, in order, with its details. Entries 1 to 19 were seeded from the story texts themselves, so the closing-scene quotes are exact excerpts from the text. The "Earlier stories" section (E1 to E18) comes before entry 1 and was rebuilt from the original Shiva chat, so it has gaps. Add a new entry at the bottom for each new story: cast, length, summary, the god's words, the hook, and one honest note about what to watch for next time.
 
 ## What to watch for across the series
 
@@ -10,6 +10,207 @@ Every story written, in order, with its details. Entries 1 to 19 were seeded fro
 - **Repeating beats.** Tower or structure about to fall, a small child in danger and rescued by the twins, a staff meeting that goes wrong, and a sunset speech have all been used many times. Vary them.
 - **Repeated phrases.** "Underlined it three times", "at exactly the same time" (this one is the ritual), "looked at each other". Keep the ritual, vary the rest.
 - **Twin balance.** Check each time: lines, actions, who goes first.
+
+## Earlier stories (before entry 1)
+
+These 18 school-setting stories were written in the original Shiva chat before the numbered archive starts. They were rebuilt from that chat, not from the story files, so they are labelled E1 to E18 and the numbering of entries 1 to 20 is unchanged. Rules for this section:
+
+- **Order is approximate.** It follows the clues in the chat (what each story's note or hook set up next). Please correct it if you remember differently.
+- **"Not recorded"** means I could not find it in the chat. Nothing in this section is guessed. Word counts, part counts, written dates and file names are not recorded for any of them, and closing-scene quotes are given only where I found the ending text.
+- **Excluded** because they are not set in the school: Shiva and the Blue Throat, The Moon in the Tree, The Thunder Drummer Who Went Quiet, The Winter Visitor Who Kept Changing His Coat, The Friend Who Came Back, and the Celtic, Slavic and other stand-alone myths.
+- **Early cast.** E1 to E7 use a different class (Dev, Ruby, Priya, Nell, Kofi, Poppy, Archie and others). The twins' "Alex notices, Felix asks, then they swap" system and Maya's compost-bin briefings appear from about E8 or E9. Alex and Felix are the leads from E9 onwards.
+- **Format change.** From E17 (the Nüwa story) onwards the stories have no notes page and no questions for the boys afterwards, and the affirmations are spoken inside the story.
+
+### E1. The Caretaker Who Was Thor
+- **File:** not recorded
+- **God / tradition:** Thor, Norse
+- **Staff on the badge:** Mr Thorley, Caretaker
+- **Cast:** the narrator, Dev Okafor, Ruby Finch, Priya Nair, Ollie Grant, Mrs Tibbs, Mr Harris, Mr Pickering (lollipop man)
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** The class collects clues that the new caretaker is the thunder god: the name, the red beard, the hammer, the pillow-sized pies and the goat-cheese van. The tone was copied from the Wigglesbottom books.
+- **Closing scene** (The Twist): "Dev Okafor turned to us, with the rain dripping off his nose, and said, "I TOLD you.""
+- **Hook at the end:** Mr Thorley says "Not tonight, brother" to the storm clouds. Priya guesses the brother is "Probably Loki".
+
+### E2. The Music Teacher Who Was Shiva
+- **File:** not recorded
+- **God / tradition:** Shiva, Hindu
+- **Staff on the badge:** Mr Shah, Music Teacher
+- **Cast:** the narrator, Poppy Doyle, Freddie Ng, Zainab Malik, Archie Bell, Mr Harris, Miss Okoye (Year 2 class)
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Poppy builds a list of evidence that the calm music teacher is Shiva: the stillness, the hourglass drum, the blue scarf, the dripping hair, a snake that settles on his neck, and a dance that shakes the stage.
+- **Closing scene:** not recorded.
+- **Hook at the end:** not recorded. Later stories add his wife Mrs Rao (the office) and son Ganesh Rao (Year 4).
+
+### E3. The Librarian Who Was Anubis
+- **File:** not recorded
+- **God / tradition:** Anubis, Egyptian
+- **Staff on the badge:** Mr Jackson, Librarian
+- **Cast:** the narrator, Nell Brooks, Kofi Mensah, Archie, Mr Harris
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** The new librarian finds a lost class in the boiler room by sniffing the air once. Nell explains Anubis, the weighing of hearts and Maat's feather. There is a gentle scene about a goldfish called Gary that touches on death.
+- **Closing scene:** not recorded.
+- **Hook at the end:** Mr Jackson's phone call, "Thoth, could you write it down?", sets up Mrs Ibbs.
+- **Watch:** the Gary scene is about death. It was flagged as skippable.
+
+### E4. The Teaching Assistant Who Was Felicitas
+- **File:** not recorded
+- **God / tradition:** Felicitas (and her invented sister Fortuna), Roman
+- **Staff on the badge:** Mrs Felicity, Teaching Assistant; Ms Fortune, PE
+- **Cast:** Felix Bailey (the star), Maya, Ollie, Priya, the narrator
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Written because Felix's name means "lucky". Mrs Felicity's basket is always full, Ms Fortune's wheel changes luck, and Felix learns that real luck is being kind when the wheel is high and brave when it is low.
+- **Closing scene:** "He spun it, and it landed on ICE CREAM FOR EVERYONE. We all looked at Ms Fortune. She said, "Well, I didn't plan THAT." And then, from nowhere, an ice cream van came round the corner playing a tune."
+- **Hook at the end:** none found.
+
+### E5. The Dinner Men Who Were Seven Lucky Gods
+- **File:** not recorded
+- **God / tradition:** Ebisu and the Seven Lucky Gods, Japanese
+- **Staff on the badge:** Mr Ebbie (Ebisu), Mr Daikon, Mr Bish, Ms Benny, Mr Fuku, Mr Jury, Mr Hot
+- **Cast:** the narrator, Priya, Ollie, Maya, Kenji Mori, Felix, Mrs Tibbs, Miss Riley, Mr Harris
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Seven new lunchtime staff arrive in a boat-shaped minibus. Mr Ebbie cannot hear unless you knock on the hatch, so the whole school knocks. Kenji works out who they are. Asked for as "so long as it's funny".
+- **Closing scene:** not recorded.
+- **Hook at the end:** not recorded.
+- **Note:** the knocking and the boat-bus come back in entry 1 (Mister Ebbie at the Harvest Festival).
+
+### E6. The Supply Teacher Who Was Loki
+- **File:** not recorded
+- **God / tradition:** Loki, Norse
+- **Staff on the badge:** Mr Locke, Supply Teacher
+- **Cast:** Dev Okafor, Ruby Finch, Miss Riley (ill), Mr Harris, the narrator
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** A supply teacher with green eyes and a whoopee cushion. Dev spots the "trouble twinkle" and names him Loki.
+- **Closing scene:** not recorded.
+- **Hook at the end:** not recorded.
+
+### E7. The Dinner Lady Who Was Thoth
+- **File:** not recorded
+- **God / tradition:** Thoth, Egyptian
+- **Staff on the badge:** Mrs Ibbs, Dinner Lady
+- **Cast:** the narrator, Nell, Kofi, Archie, Ollie, Mr Harris
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Mrs Ibbs counts every pea, corrects the menu spelling, stands on one leg, writes Kofi's name in hieroglyphs, and wins a dice game with Mr Harris that gives the school five extra minutes a day.
+- **Closing scene:** not recorded.
+- **Hook at the end:** a monkey in the cupboard asking for a mango (Hanuman).
+
+### E8. The Gardening Teacher Who Was Persephone
+- **File:** not recorded
+- **God / tradition:** Persephone, Greek
+- **Staff on the badge:** Miss Persey, Gardening Teacher; Mrs Demmer (Demeter, allotments); Mr Haydes (Hades, boiler man)
+- **Cast:** the narrator, Maya, Kenji, Ollie, Felix, Mr Harris
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Miss Persey picks a glowing purple flower and the ground cracks into the Underworld. Felix tells Mr Haydes you must ask first, and a six-seed pomegranate bargain brings her back. First story with a sense of peril and a spoken affirmation. The myth's abduction was softened.
+- **The god's words:** "I AM A SEED. THE DARK IS WHERE I GROW."
+- **Closing scene:** "...something small and furry was bouncing up and down on the climbing frame, shrieking, "Is that a MANGO?""
+- **Hook at the end:** Mr Hermes at the gate with a parcel for "the new PE teacher", and the monkey in the gym (Hanuman).
+
+### E9. The Postman Who Was Hermes
+- **File:** not recorded
+- **God / tradition:** Hermes, Greek
+- **Staff on the badge:** Mr Hermes, "Royal Mail (ish)"
+- **Cast:** Alex, Felix, Maya, Ollie, Kenji, Mr Harris
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** A postman who is never seen arriving and walks backwards. Maya tells the story of baby Hermes, the tortoise-shell lyre and Apollo's stolen cows. Earliest text I found with the twins' system.
+- **Closing scene:** not recorded.
+- **Hook at the end:** not recorded.
+
+### E10. The Workshop Teacher Who Was Hephaestus
+- **File:** not recorded
+- **God / tradition:** Hephaestus, Greek
+- **Staff on the badge:** Mr Heston, Making Club / Workshop Teacher
+- **Cast:** Alex, Felix, Maya, Kenji, Ollie, Mr Harris, Ms Crabtree (inspector), Talos
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Mr Heston's bronze giant Talos goes rogue when an inspector touches him without asking. The twins pull the plug in his ankle with a silver spanner.
+- **The god's words / affirmation:** "I CAN BE SCARED AND BRAVE AT THE SAME TIME."
+- **Closing scene:** not recorded. Talos ends up asleep in the shed.
+- **Hook at the end:** not recorded.
+
+### E11. The Play Director Who Was Pan
+- **File:** not recorded
+- **God / tradition:** Pan, Greek
+- **Staff on the badge:** Mr Pann, Play Director / Drama
+- **Cast:** Alex, Felix, Maya (Troll), Kenji (Little Billy Goat), Ollie (Big Billy Goat), Mr Harris, Mr Thorley, the narrator (a tree)
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Year 1 Billy Goats Gruff play. Pan's rule is nobody wakes him from his noon nap. Mr Thorley's dropped toolbox does, and the whole school panics.
+- **Closing scene:** not recorded.
+- **Hook at the end:** not recorded.
+- **Watch:** you said the Pan story was simplified more than you wanted. A rework at the earlier level was offered.
+
+### E12. The PE Teacher Who Was Hanuman
+- **File:** not recorded
+- **God / tradition:** Hanuman, Hindu
+- **Staff on the badge:** Mr Hanu, PE Teacher
+- **Cast:** Alex, Felix, Maya, Kenji, Ollie, Mrs Felicity, Ms Fortune, Mr Hermes, Moonbloom (invented hill spirit)
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Mr Hanu does not know how strong he is. The twins remind him who he is, in the way Jambavan did in the Ramayana, and they find the healing flower while Mrs Felicity is asleep.
+- **The god's words / affirmation:** "I know you can."
+- **Closing scene:** "Dear Alex and Felix. Thank you for reminding my friend. Love, Rama." Under it, in a little monkey scrawl: "P.S. I'M STILL WAITING FOR THAT MANGO RACE."
+- **Hook at the end:** none. It closes with Mr Hermes delivering the letter.
+
+### E13. Summer fair crossover (title not recorded)
+- **File:** not recorded
+- **God / tradition:** many; no new god. Not listed in the Staff Room.
+- **Staff on the badge:** Mr Thorley, Mr Shah, Mr Jackson, Mrs Ibbs, Mrs Felicity, Ms Fortune, the Seven Lucky Men, Mr Locke, Miss Persey, Mr Hermes, Mr Heston, Mr Pann, Mr Hanu
+- **Cast:** Maya, Ollie, Kenji, Dot, Gideon Fox (Year 6), the narrator
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Maya reads out her list of the twelve gods on the staff, then the fair runs with Mrs Felicity's tombola, Ms Fortune's wheel of chance, Mr Heston's glowing horseshoe hoopla and Miss Persey's flowers that open when you say please.
+- **Closing scene:** not recorded.
+- **Hook at the end:** not recorded.
+- **Gap:** I only saw the opening of this one. Please confirm it was written as a full story and give me its title.
+
+### E14. The Quiz Mistress Who Was Athena
+- **File:** not recorded
+- **God / tradition:** Athena, Greek
+- **Staff on the badge:** Ms Athene, Quiz Mistress
+- **Cast:** Alex, Felix, Maya, Dot, Kenji, Ollie, Mr Heston, Glaux the owl
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Ms Athene answers every question with a better question and carries a big book with no title. Maya tells how Athena was born from Zeus's head and won Athens with an olive tree, and explains why Mr Heston hides an axe behind his back.
+- **Closing scene:** not recorded.
+- **Hook at the end:** not recorded.
+
+### E15. The Fire Safety Officer Who Was Prometheus
+- **File:** not recorded
+- **God / tradition:** Prometheus, Greek
+- **Staff on the badge:** Mr Prome, Fire Safety (and Foresight); Mr Epp (his brother); Mr Zed, Council Safety Inspector (Zeus)
+- **Cast:** Alex, Felix, Maya, Dot, Kenji, Ollie, Mr Harris
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Bonfire Night. Mr Prome's never-ending torch, the five fire-safety rules and a fire song, and Mr Zed, who threatens to cancel the bonfire.
+- **Closing scene:** not recorded.
+- **Hook at the end:** Mr Hermes delivers Pandora's locked box marked DO NOT OPEN (inferred from the next story).
+
+### E16. The Art Teacher Who Was Pandora
+- **File:** not recorded
+- **God / tradition:** Pandora (a mortal), Greek
+- **Staff on the badge:** Mrs Pandy, Art Teacher
+- **Cast:** Alex, Felix, Maya, Dot, Kenji, Ollie, Mr Harris, Mr Epp
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Mrs Pandy cannot stop looking at the locked box in the art cupboard. When she opens it, the twins find Hope at the bottom of the jar and share it with the school.
+- **The god's words / affirmation:** "THERE IS ALWAYS HOPE."
+- **Closing scene:** "Excuse me. Is this the school with the Chinese goddess? I've come to hold up the sky."
+- **Hook at the end:** Ao the turtle rises from the school pond. The twins say "Monday."
+- **Note:** after this story you asked for no notes page, no questions, and the affirmations inside the story.
+
+### E17. The Pottery Teacher Who Was Nüwa
+- **File:** not recorded
+- **God / tradition:** Nüwa (with Ao the turtle), Chinese
+- **Staff on the badge:** Ms Wa, Pottery (and People)
+- **Cast:** Alex, Felix, Maya, Dot, Kenji, Ollie, Mr Harris, Ao
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** Ao arrives three thousand years late and worries he is not clever enough. Ms Wa is Nüwa. Maya tells of the clay people and the mended sky.
+- **Closing scene:** "He said, "Looks like I missed all the fun." ... They said, at exactly the same time, "Monday.""
+- **Hook at the end:** a man with a spade at the pond (Yu the Great).
+- **Check:** entry 15 (The Lady Who Mended the Sky, Mrs Nuwa, Art and Clay) is also Nüwa. It looks like a second Nüwa story with a different badge. Please confirm that was intended.
+
+### E18. The Groundsman Who Was Yu the Great
+- **File:** not recorded
+- **God / tradition:** Yu the Great, Chinese
+- **Staff on the badge:** Mr Yu, Grounds (and Drains)
+- **Cast:** Alex, Felix, Maya, Dot, Kenji, Ollie, Mr Harris, Mrs Tibbs; staff cameos Thorley, Hanu, Hermes, Athene, Prome, Locke
+- **Length:** not recorded. Written: not recorded.
+- **Summary:** After the sky is mended it rains every day and the school hall floods. Mr Yu guides the water by digging channels instead of building walls, and the twins go into the narrow places to find where the water wants to go.
+- **The god's words / affirmation:** "I can be scared and brave at the same time."
+- **Closing scene:** not recorded.
+- **Hook at the end:** not recorded.
 
 ## Entries
 
