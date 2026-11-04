@@ -156,7 +156,7 @@ He had his kantele across his knees, and his beard was white with frost. He look
 
 "The Sampo?" said Elfine, and her pencil fell out of her hand. "Oh. Oh, it's the Sampo. The magic mill. Everybody in the Kalevala wants the Sampo. It grinds out grain, and salt, and gold, for ever and ever, so that nobody ever goes hungry."
 
-"And Louhi wanted it all for herself," said Mister Väinö. "She is the mistress of the North, you see. Where it is cold and dark and nothing grows. She was jealous of the places where things grow. So she locked the Sampo inside a mountain with nine locks, and nine roots growing round it, nine fathoms deep."
+"And Louhi wanted it all for herself," said Mister Väinö. "She is the mistress of the North, you see. Where it is cold and dark and nothing grows. She was jealous of the places where things grow. So she locked the Sampo inside a mountain with nine locks, and nine roots growing round it, very deep underground."
 
 "How do we get it back?" said Marion.
 
@@ -188,7 +188,7 @@ Alex and Felix climbed in first. Then Elfine and Marion. Then Dot, who refused t
 
 We sailed for what felt like hours.
 
-The grey sea heaved. The red sail billowed. Gulls wheeled overhead, and a cold wind whistled in the ropes. Ahead of us, the horizon was dark with storm-clouds, and the sky had turned the colour of old pewter.
+The grey sea heaved. The red sail billowed. Gulls wheeled overhead, and a cold wind whistled in the ropes. Ahead of us, the horizon was dark with storm-clouds, and the sky had turned the colour of an old saucepan.
 
 Then the boat stopped.
 
@@ -274,7 +274,7 @@ Alex and Felix knelt down in the snow, one on each side of the old man.
 
 "I know," said Mister Väinö. "But your voices are true. And a song is just a feeling, put in order. You know how to feel."
 
-He laid the kantele across their knees. It was heavy, and it hummed under their hands. Alex put his fingers on the three lowest strings. Felix put his on the two highest. They looked at each other.
+He laid the kantele across their knees. It was heavy, and it hummed under their hands. Alex put his fingers on the three lowest strings. Felix put his on the two highest.
 
 "On three," said Alex.
 
@@ -308,7 +308,7 @@ Her arms became enormous wings. Her nose became a hooked beak. Her coat turned t
 
 "RUN!" shouted Mister Väinö.
 
-We ran. Alex and Felix dropped the kantele (Mister Väinö caught it), and everyone sprinted for the boat. Marion clung to the mill. Elfine held Dot's hand. Willow streaked down the mountain like a spotted comet. Behind us, the eagle shrieked and dived, snatching at our hats.
+We ran. Alex and Felix dropped the kantele (Mister Väinö caught it), and everyone sprinted for the boat. Marion clung to the mill. Elfine held Dot's hand. Willow streaked down the mountain like a spotted comet. Behind us, the eagle shrieked and dived.
 
 "The boat!" yelled Kenji.
 
@@ -370,7 +370,7 @@ Mister Väinö sang us home.
 
 The red sail lifted, and the grey sea shrank, and a warm wind carried us back across the pond. Louhi sat in the stern, with her fur coat around her, saying nothing. When we landed, the frost on the field had gone, and a pale yellow sun was shining.
 
-We took her on a tour. We showed her the library, with its beanbags and its map of the world. She stopped at the shelf of books and ran her finger along the spines. We showed her the playground, where Reception were building a snowman. She watched Dot give it a carrot nose. We showed her Soup Club, where Baba Yaga was ladling out soup from the biggest pot in Poland, with a very sad look on her face.
+We took her on a tour. We showed her the library, with its beanbags and its map of the world. She stopped at the shelf of books and ran her finger along the spines. We showed her the playground, where Reception were building a snowman. She watched Dot give it a carrot nose. We showed her the dinner hall, where Baba Yaga was ladling out soup from the biggest pot in the world, with a very sad look on her face.
 
 "Mmm," said Louhi.
 
@@ -396,13 +396,13 @@ The pieces that fell in the sea became the salt in the waves, and the shimmer on
 
 But Soup Club carried on, just as before.
 
-We turned up on Friday and found the dinner hall full of people. Every family in Year One had brought something. Nana brought a bag of potatoes. Missus Tibbs brought a sack of flour. Maya's dad brought three kilos of carrots. Even Mister Raven turned up, with a bag of shiny things he'd collected, which turned out to be a very nice set of spoons. Everyone had brought what they could.
+We turned up on Friday and found the dinner hall full of people. Every family in our class had brought something. Nana brought a bag of potatoes. Missus Tibbs brought a sack of flour. Maya's dad brought three kilos of carrots. Even Mister Raven turned up, with a bag of shiny things he'd collected, which turned out to be a very nice set of spoons. Everyone had brought what they could.
 
 Baba Yaga looked at the pile, and Dot looked at Baba Yaga.
 
 "Where did it all come from?" said Dot.
 
-"From all of you," said Mister Väinö, from the corner, plucking a gentle chord. "That was the secret of the Sampo. People think it was a stone, with magic inside it. But the real magic was in turning the handle. Everyone in the village, together, grinding a little each. That's where plenty comes from. Not from one person keeping it. From everyone giving a bit."
+"From all of you," said Mister Väinö, from the corner, plucking a gentle chord. "That was the secret of the Sampo. People think it was a stone with magic inside it. But the real magic was in turning the handle. Everyone in the village, together, grinding a little each. That's where plenty comes from. Not from one person keeping it. From everyone giving a bit."
 
 "So we don't need the mill," said Alex.
 
