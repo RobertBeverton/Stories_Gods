@@ -1,10 +1,11 @@
 ---
 title: "The Art Teacher Who Was PANDORA"
 description: "A curious art teacher and a box that must not be opened, with something good left at the bottom."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 16
 tags: ["mythology", "school"]
 gods: ["Pandora (Greek)"]
+lore: pandora
 draft: false
 ---
 

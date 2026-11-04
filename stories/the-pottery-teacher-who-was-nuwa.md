@@ -1,10 +1,11 @@
 ---
 title: "The Pottery Teacher Who Was NÜWA"
 description: "The sky cracks, and the twins gather five stones to help the pottery teacher mend it."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 17
 tags: ["mythology", "school"]
 gods: ["Nüwa (Chinese)"]
+lore: nuwa
 draft: false
 ---
 

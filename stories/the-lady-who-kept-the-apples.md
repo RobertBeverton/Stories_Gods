@@ -2,7 +2,7 @@
 title: "The Lady Who Kept the Apples"
 description: "The keeper of the golden apples is snatched by a giant eagle, the staff grow old fast, and the twins fly out on a falcon cloak made for two."
 series: "The Staff Room Gods"
-seriesOrder: 19
+seriesOrder: 37
 tags: ["mythology", "norse", "asking"]
 gods: ["Idun (Norse)"]
 lore: idun

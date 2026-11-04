@@ -2,7 +2,7 @@
 title: "The Helper Who Brought the Light"
 description: "On a dark Halloween a trickster who once stole the sun helps bring the light back, and learns that the best part was sharing it."
 series: "The Staff Room Gods"
-seriesOrder: 4
+seriesOrder: 22
 tags: ["mythology", "haida-and-tlingit", "sharing"]
 gods: ["Raven (Haida and Tlingit)"]
 lore: raven

@@ -1,10 +1,11 @@
 ---
 title: "The Postman Who Was HERMES"
 description: "The postman's bag goes missing and every message in the world gets muddled."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 9
 tags: ["mythology", "school"]
 gods: ["Hermes (Greek)"]
+lore: hermes
 draft: false
 ---
 

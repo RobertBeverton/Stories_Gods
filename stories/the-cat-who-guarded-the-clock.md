@@ -2,7 +2,7 @@
 title: "The Cat Who Guarded the Clock"
 description: "The cat goddess keeps watch over the school clock, and the school learns that fairness and order keep the days turning."
 series: "The Staff Room Gods"
-seriesOrder: 12
+seriesOrder: 30
 tags: ["mythology", "egyptian", "balance"]
 gods: ["Bast (Egyptian)"]
 lore: bast

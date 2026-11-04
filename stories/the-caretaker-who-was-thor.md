@@ -1,10 +1,11 @@
 ---
 title: "The Caretaker Who Was THOR"
 description: "A new caretaker with a hammer and a red beard turns out to be the god of thunder, and the children work out who his brother must be."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 1
 tags: ["mythology", "school"]
 gods: ["Thor (Norse)"]
+lore: thor
 draft: false
 ---
 

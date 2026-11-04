@@ -2,7 +2,7 @@
 title: "The Storm Lord Who Went Into the Dust"
 description: "A storm god who is afraid of windows, a sister who rescues him, and two small children who say no to Death."
 series: "The Staff Room Gods"
-seriesOrder: 6
+seriesOrder: 24
 tags: ["mythology", "canaanite", "courage"]
 gods: ["Hadad (Canaanite)"]
 lore: hadad

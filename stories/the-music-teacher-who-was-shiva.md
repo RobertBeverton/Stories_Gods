@@ -1,10 +1,11 @@
 ---
 title: "The Music Teacher Who Was SHIVA"
 description: "The new music teacher is a very still, very kind god of dancing, and the school meets his family too."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 2
 tags: ["mythology", "school"]
 gods: ["Shiva (Hindu)"]
+lore: shiva
 draft: false
 ---
 

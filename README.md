@@ -15,7 +15,7 @@ This repo holds the stories, the lore, the guides behind them and this world's n
 | `docs/Story_Guide.md` | The method: the 17-part recipe, voice rules, fairness between twins, affirmations, choosing a god. Written so it can be handed to someone else. |
 | `docs/Story_Bible.md` | The cast, standing rules, staff roster and running threads for this family. |
 | `docs/Story_Archive.md` | Every story written, with details and the hook it ended on. |
-| `docs/God_Tracker.md` | Who is next (Janus), who has been covered, ideas not yet used. |
+| `docs/God_Tracker.md` | Who is next (Brigid, story 39), who has been covered, ideas not yet used. |
 | `narration/` | This world's narration settings: `pronunciations.json` (respellings for names the voice mangles). |
 | `.claude/skills/` | Claude Code skills: `god-story-process`, `story-consistency-check`, `listener-review`, `audio-narration-prep`. |
 
@@ -32,15 +32,15 @@ CI runs `node ../Stories/scripts/validate-world-data.mjs --strict --world legend
 
    ```yaml
    ---
-   title: "The Man Who Opened Every Door"
+   title: "The Lady Who Kept the Fire"
    description: "One sentence for the story card."
    series: "The Staff Room Gods"
-   seriesOrder: 20
-   tags: ["mythology", "roman", "beginnings"]
-   gods: ["Janus (Roman)"]
+   seriesOrder: 39
+   tags: ["mythology", "irish", "fire"]
+   gods: ["Brigid (Irish)"]
    characters: ["Alex", "Felix", "Willow", "Maya"]
    icon: sun            # one of: sun, boat, berry, shell, cloud
-   publishDate: 2026-11-04
+   publishDate: 2026-11-05
    draft: false
    ---
    ```
@@ -63,4 +63,4 @@ Then commit the story's changed front matter here. Respellings (so the page keep
 
 ## The stories so far
 
-Quetzalcoatl, Maui, Anansi, Raven, Coyote, Hadad, Pele, Lakshmi, Baba Yaga, Väinämöinen, Father Frost, Bast, Oshun, Simurgh, Nuwa, Amaterasu, Pachamama, Hwanung and Ungnyeo, and Idun. Next: Janus.
+Thirty-eight so far, in order: Thor, Shiva, Anubis, Felicitas, the Seven Lucky Gods, Loki, Thoth, Persephone, Hermes, Hephaestus, Pan, Hanuman, the Summer Fair, Athena, Prometheus, Pandora, Nuwa (pottery), Yu the Great, Quetzalcoatl, Maui, Anansi, Raven, Coyote, Hadad, Pele, Lakshmi, Baba Yaga, Väinämöinen, Father Frost, Bast, Oshun, Simurgh, Nuwa (art), Amaterasu, Pachamama, Hwanung and Ungnyeo, Idun, and Janus. Next: Brigid, which will be story 39.

@@ -1,10 +1,11 @@
 ---
 title: "The Workshop Teacher Who Was HEPHAESTUS"
 description: "A workshop teacher with a limp and a bronze giant shows the twins that different is clever."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 10
 tags: ["mythology", "school"]
 gods: ["Hephaestus (Greek)"]
+lore: hephaestus
 draft: false
 ---
 

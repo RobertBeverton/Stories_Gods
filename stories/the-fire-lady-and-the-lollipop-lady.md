@@ -2,7 +2,7 @@
 title: "The Fire Lady and the Lollipop Lady"
 description: "A hot-tempered volcano goddess and her sea-goddess sister. Having big feelings is not bad; what you do with them is what matters."
 series: "The Staff Room Gods"
-seriesOrder: 7
+seriesOrder: 25
 tags: ["mythology", "hawaiian", "big-feelings"]
 gods: ["Pele (Hawaiian)"]
 lore: pele

@@ -2,7 +2,7 @@
 title: "The Cook Who Was Quetzalcoatl"
 description: "The new kitchen gardener turns out to be the Feathered Serpent, and the twins and an army of ants help him bring corn to the whole school."
 series: "The Staff Room Gods"
-seriesOrder: 1
+seriesOrder: 19
 tags: ["mythology", "mesoamerican", "corn"]
 gods: ["Quetzalcoatl (Mesoamerican)"]
 lore: quetzalcoatl

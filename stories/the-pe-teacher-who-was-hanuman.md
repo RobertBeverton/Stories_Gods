@@ -1,10 +1,11 @@
 ---
 title: "The PE Teacher Who Was HANUMAN"
 description: "A very fast PE teacher has forgotten who he is, and the twins remind him."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 12
 tags: ["mythology", "school"]
 gods: ["Hanuman (Hindu)"]
+lore: hanuman
 draft: false
 ---
 

@@ -2,7 +2,7 @@
 title: "The Lady of the Little Lamps"
 description: "On Diwali night the new school secretary lights a little clay lamp and carries the whole class into a story of light, luck and kindness."
 series: "The Staff Room Gods"
-seriesOrder: 8
+seriesOrder: 26
 tags: ["mythology", "hindu", "light"]
 gods: ["Lakshmi (Hindu)"]
 lore: lakshmi

@@ -1,10 +1,11 @@
 ---
 title: "The Teaching Assistant Who Was FELICITAS"
 description: "A teaching assistant whose basket is always full is the Roman goddess of good luck."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 4
 tags: ["mythology", "school"]
 gods: ["Felicitas (Roman)"]
+lore: felicitas
 draft: false
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: "The Librarian Who Was ANUBIS"
 description: "A librarian who never loses anyone turns out to be the Egyptian guide of the lost."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 3
 tags: ["mythology", "school"]
 gods: ["Anubis (Egyptian)"]
+lore: anubis
 draft: false
 ---
 

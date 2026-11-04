@@ -1,10 +1,11 @@
 ---
 title: "The Fire Safety Officer Who Was PROMETHEUS"
 description: "The fire safety officer teaches the fire rules before Bonfire Night, and the children use them when it counts."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 15
 tags: ["mythology", "school"]
 gods: ["Prometheus (Greek)"]
+lore: prometheus
 draft: false
 ---
 

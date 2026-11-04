@@ -2,7 +2,7 @@
 title: "The Singer Who Sailed the Pond"
 description: "A singer with a magic kantele sails the school pond to win back the Sampo from the Inspector of the Northern Office."
 series: "The Staff Room Gods"
-seriesOrder: 10
+seriesOrder: 28
 tags: ["mythology", "finnish", "music"]
 gods: ["Väinämöinen (Finnish)"]
 lore: vainamoinen

@@ -2,7 +2,7 @@
 title: "The Frost Who Asked \"Are You Warm?\""
 description: "Father Frost asks every child 'Are you warm?', and the twins pass his test by thinking about somebody else."
 series: "The Staff Room Gods"
-seriesOrder: 11
+seriesOrder: 29
 tags: ["mythology", "russian-and-slavic", "kindness"]
 gods: ["Father Frost (Russian and Slavic)"]
 lore: father-frost

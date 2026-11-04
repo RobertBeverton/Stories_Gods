@@ -26,7 +26,7 @@ Each part is a short chapter of about 200 to 300 words with a plain heading, for
 | 16. The god's words | At sunset the god says something wise in plain words. The affirmation lands here. |
 | 17. The hook | A strange sign of the next god. The twins say "Monday" at exactly the same time. "The End." |
 
-Parts 6 to 8 and 11 to 13 can run longer, because that is where the action is. The series has used 12 to 21 parts; 16 to 18 is the sweet spot.
+Parts 6 to 8 and 11 to 13 can run longer, because that is where the action is. The series has used 7 to 24 sections (the short early stories at the low end, the later ones 12 to 21 parts); 16 to 18 is the sweet spot.
 
 ## Voice and style
 

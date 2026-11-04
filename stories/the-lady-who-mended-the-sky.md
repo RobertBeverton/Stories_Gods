@@ -2,7 +2,7 @@
 title: "The Lady Who Mended the Sky"
 description: "The sky cracks over the playground, and the staff discover it can only be mended with every one of their creation stories sewn together."
 series: "The Staff Room Gods"
-seriesOrder: 15
+seriesOrder: 33
 tags: ["mythology", "chinese", "many-stories"]
 gods: ["Nuwa (Chinese)"]
 lore: nuwa

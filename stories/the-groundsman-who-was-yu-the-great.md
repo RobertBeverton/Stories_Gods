@@ -1,10 +1,11 @@
 ---
 title: "The Groundsman Who Was YU THE GREAT"
 description: "When a wall of sandbags bursts, the groundsman shows the school how to make a path, not a wall."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 18
 tags: ["mythology", "school"]
 gods: ["Yu the Great (Chinese)"]
+lore: yu-the-great
 draft: false
 ---
 

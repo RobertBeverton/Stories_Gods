@@ -2,7 +2,7 @@
 title: "The Lady Under the Floor"
 description: "Mother Earth shakes the school when nobody says thank you, and a spoonful of tea and a crack in the field teach the school about giving back."
 series: "The Staff Room Gods"
-seriesOrder: 17
+seriesOrder: 35
 tags: ["mythology", "andean", "giving-back"]
 gods: ["Pachamama (Andean)"]
 lore: pachamama
