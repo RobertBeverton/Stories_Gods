@@ -89,7 +89,7 @@ Maya said, "It's a very good list. And it's a very sad one."
 
 On Tuesday, Mr Harris called a staff meeting.
 
-He stood in the hall with a big map of the school, covered in red crosses. "The water is rising," he said. "It's already in the car park, and it's creeping towards the hall. On Friday, we have the Year 1 Sleepover, with thirty children and sleeping bags in the hall, and I do not want us to be **floating.**"
+He stood in the hall with a big map of the school, covered in red crosses. "The water is rising," he said. "It's already in the car park, and it's creeping towards the hall. On Friday, we have the Big Sleepover, with thirty children and sleeping bags in the hall, and I do not want us to be **floating.**"
 
 Everybody agreed.
 
@@ -141,7 +141,7 @@ Mr Yu looked at the sky, and shook his head, very slowly.
 
 ## THE SLEEPOVER
 
-On Friday night, thirty Year 1 children arrived at school with sleeping bags and toothbrushes. We put our bags in rows on the hall floor, with torches and teddies, and ate pizza. Kenji brought a hot water bottle shaped like a frog. Dot brought her lilo, "just in case."
+On Friday night, thirty children arrived at school with sleeping bags and toothbrushes. We put our bags in rows on the hall floor, with torches and teddies, and ate pizza. Kenji brought a hot water bottle shaped like a frog. Dot brought her lilo, "just in case."
 
 Alex and Felix had sleeping bags next to each other. Alex had the pillow with the spaceship. Felix had the pillow with the dinosaur. They had swapped halfway through the pizza, because they always do.
 
@@ -171,7 +171,7 @@ Felix whispered, "It's the sandbags."
 
 Alex whispered, "They're bending."
 
-They looked at each other in the torchlight.
+Their torches shook a little.
 
 ## THE FIRST LEAK
 
@@ -463,7 +463,7 @@ He looked at Alex and Felix.
 
 He said, "You noticed where the water wanted to go. You asked the ground what it needed. You kept digging when you were tired. And you told a grown-up that he wasn't alone."
 
-The twins looked at each other.
+The twins grinned.
 
 He said, "I've been a headteacher for twenty-three years, and I have learned more from you in one night than I did in the last twenty."
 

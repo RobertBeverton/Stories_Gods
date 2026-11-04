@@ -17,7 +17,7 @@ It wasn't a toy owl. It blinked. It turned its head all the way round and looked
 
 She was tall, with grey eyes that looked like they had already read your whole mind and found it quite interesting. She carried a book so big that Ollie Grant said it must have its own postcode. Her badge said **MS ATHENE, QUIZ MISTRESS.**
 
-Mr Harris told us there was a Big Quiz on Friday against Pridefield Primary. It was Year 1 against Year 1, and the winners would get a golden trophy shaped like a pencil.
+Mr Harris told us there was a Big Quiz on Friday against Pridefield Primary. It was our class against theirs, and the winners would get a golden trophy shaped like a pencil.
 
 "Do we have to?" said Ollie.
 
@@ -37,7 +37,7 @@ Felix asked, "Mr Heston, why do you have an axe?"
 
 Mr Heston went pink. He said, "It's a long story. And it was a very bad headache."
 
-The twins looked at each other and said, "We need Maya."
+The twins said, "We need Maya."
 
 ## WHO IS ATHENA?
 
@@ -131,7 +131,7 @@ On Friday, the Pridefield team arrived in a shiny blue minibus.
 
 There were four of them in matching blue blazers, and a teacher who looked like she needed a lie down. But the one we noticed was the girl at the front.
 
-She was small, with two tight plaits. She carried a pair of silver knitting needles and a ball of shimmering thread, and her fingers moved so quickly that they were a blur. Click-click-click-click. A long, shining scarf was growing out of her hands.
+She was small, with two tight plaits. She carried a pair of silver needles and a ball of shimmering thread, and her fingers moved so quickly that they were a blur. Click-click-click-click. A long, shining scarf was growing out of her hands.
 
 Her badge said **ARABELLA WEBB, TEAM CAPTAIN.**
 
@@ -329,7 +329,7 @@ Ms Athene said, "Then that's a good start."
 
 ## THE TWINS GO TO ARABELLA
 
-Alex and Felix looked at each other. They were still shaky, and a bit cross. She had tied up the whole school.
+Alex and Felix were still shaky, and a bit cross. She had tied up the whole school.
 
 But they also knew what it felt like to be scared.
 

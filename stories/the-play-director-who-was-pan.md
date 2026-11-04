@@ -13,7 +13,7 @@ The first time we saw Mr Pann was on a Monday, and he was EATING THE SCENERY.
 
 Not all of it. Just a bit of the painted grass on the school hall wall. He nibbled the corner, chewed for a while, and said, "Crunchy."
 
-Mr Pann was the new director of the Year 1 Autumn Play. He was short and hairy, with curly brown hair, two small bumps on his forehead like tiny horns, and a green scarf. He wore very baggy trousers, and under them, his legs went in and out the wrong way.
+Mr Pann was the new director of the Autumn Play. He was short and hairy, with curly brown hair, two small bumps on his forehead like tiny horns, and a green scarf. He wore very baggy trousers, and under them, his legs went in and out the wrong way.
 
 Alex Bailey saw it first. He whispered, "His knees bend backwards."
 
@@ -119,7 +119,7 @@ The windows rattled. Pictures fell off the wall. And **everyone panicked.**
 
 ## THE PANIC
 
-Nobody knew why they were scared. Nobody could say what they were running from. But every single person in that hall had a feeling that something was **behind them**, so they all ran as fast as they could in different directions.
+Nobody knew why they were scared. Nobody could say what they were running from. But every single person in that hall felt that something was **behind them**. So they all ran, as fast as they could, in different directions.
 
 Kenji ran through the fire door. Ollie ran into the cupboard. The Reception children ran in a big circle, screaming. Mr Harris ran into a curtain and got stuck. Mrs Tibbs ran straight into Mr Thorley's ladder, and the ladder fell sideways and rolled down the aisle like a runaway train.
 
@@ -135,7 +135,7 @@ When the hall was empty, we looked out of the fire door.
 
 It was open, and the field was **very big.** At the far end was the little wood where we're not allowed to go, with tall dark trees and a sign that said **KEEP OUT.**
 
-Small figures were running towards it. A Year 1 boy in a sheep costume. Three girls dressed as flowers. A very small boy dressed as a hat.
+Small figures were running towards it. A little boy in a sheep costume. Three girls dressed as flowers. A very small boy dressed as a hat.
 
 Maya whispered, "They're going into the wood."
 
@@ -241,17 +241,17 @@ The boy took Felix's hand in one of his and Alex's hand in the other, and they w
 
 ## THE WAY BACK
 
-We walked back across the field in a long line, with the twins at the front, playing their pipes, and Mr Pann at the back, playing his. Every child we had found followed the tune, and the rest of the school came out of their hiding places, blinking, and joined in.
+We walked back across the field in a long line, with the twins at the front, playing their pipes, and Mr Pann at the back, playing his. Every child we had found followed the tune. The rest of the school came out of their hiding places, blinking, and joined in.
 
 Mr Harris came out of the curtain with a bit of velvet on his head. Mrs Tibbs came out of the supply cupboard. The Reception children stopped running in circles and held hands. Mr Thorley stood at the door of the hall with his toolbox, looking very small for such a big man, and said, "I'm so sorry."
 
 Mr Pann said, "It's all right."
 
-Mr Thorley said, "I should've looked where I was going."
+Mr Thorley said, "I should've been more careful."
 
 Mr Pann said, "And I should've remembered to take my nap in the cupboard."
 
-They looked at each other, and both of them started to laugh.
+Then both of them started to laugh.
 
 ## THE LESSON
 

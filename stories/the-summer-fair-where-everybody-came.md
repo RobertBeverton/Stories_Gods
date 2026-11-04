@@ -12,7 +12,7 @@ The first sign that something was different about our Summer Fair was the sign.
 
 It was painted on a bedsheet and hung across the school gate, and it said:
 
-**WELCOME TO THE YEAR 1 SUMMER FAIR! ALL STAFF WILL BE RUNNING STALLS. PLEASE DO NOT ASK QUESTIONS.**
+**WELCOME TO THE SUMMER FAIR! ALL STAFF WILL BE RUNNING STALLS. PLEASE DO NOT ASK QUESTIONS.**
 
 Underneath, in tiny writing, someone had added: **(ESPECIALLY NOT ABOUT THE BOAT.)**
 
@@ -22,7 +22,7 @@ Alex Bailey whispered, "They've ALL come."
 
 Felix Bailey whispered, "Every single one."
 
-They are twins, so they have a system. Alex notices things and Felix asks about them, then they swap. They looked at each other and said, "We need Maya."
+They are twins, so they have a system. Alex notices things and Felix asks about them, then they swap. They said together, "We need Maya."
 
 ## THE MEETING
 
@@ -42,7 +42,7 @@ She read out her list, and we all leaned in.
 
 **1. MR THORLEY, CARETAKER.** Thor, Norse god of thunder. Hammer, red beard, goats (he says it's a van). Very strong. **MUST NOT BE STARTLED.** *(Dot said this was in bold because of the Pan Play. Maya said yes.)*
 
-**2. MR SHAH, MUSIC.** Shiva, Hindu god of stillness and dancing. Blue scarf. Once drank a bowl of green soup so nobody else had to. His wife, Mrs Rao, runs the office, and their son Ganesh Rao is in Year 4. Ganesha, the elephant-headed god, removes obstacles.
+**2. MR SHAH, MUSIC.** Shiva, Hindu god of stillness and dancing. Blue scarf. Once drank a bowl of green soup so nobody else had to. His wife, Mrs Rao, runs the office, and their son Ganesh Rao is a few classes above us. Ganesha, the elephant-headed god, removes obstacles.
 
 **3. MR JACKSON, LIBRARIAN.** Anubis, Egyptian guide of the lost. Never loses anyone. Excellent nose.
 
@@ -72,7 +72,7 @@ Maya said, "I know. That's what worries me."
 
 We went in through the gate, and it was the best fair we had ever seen.
 
-Mrs Felicity ran the tombola. She didn't win anything herself, which was fair, and she gave out prizes so that **everyone** got one. Even Gideon Fox from Year 6, who got a bag of marbles, went very pink and said, "Thank you."
+Mrs Felicity ran the tombola. She didn't win anything herself, which was fair, and she gave out prizes so that **everyone** got one. Even Gideon Fox from the top class, who got a bag of marbles, went very pink and said, "Thank you."
 
 Ms Fortune ran the Wheel of Chance, with her scarf over her eyes. It had **ICE CREAM**, **FREE HUG**, **HOP ONE LAP** and **SWAP SHOES WITH A FRIEND** on it. Kenji got **SWAP SHOES WITH A FRIEND**, and spent the afternoon in Ollie's trainers.
 
@@ -92,7 +92,7 @@ He had a stall at the back, behind a purple curtain, that said **SOMETHING SPECI
 
 Mr Harris said, "Mr Locke, what's behind the curtain?"
 
-Mr Locke said, "A surprise. For the Year 1s. You'll love it."
+Mr Locke said, "A surprise. For the little ones. You'll love it."
 
 Mr Thorley said, in a very low voice, "Locke."
 
@@ -122,7 +122,7 @@ Felix said, "It means it's not normal."
 
 Mr Locke said, "It means it's **extra bouncy.** One bounce, and you'll feel like a feather."
 
-Every Year 1 child in the school lined up. There were about thirty of us. Even Dot. Even Maya, who said she was only going in to check it was safe.
+Every child in our class lined up. There were about thirty of us. Even Dot. Even Maya, who said she was only going in to check it was safe.
 
 Mr Harris said, "How long will it last?"
 
@@ -198,7 +198,7 @@ Mr Thorley raised his hammer and shouted, "I'LL BRING IT DOWN WITH THUNDER!"
 
 Everyone, on the ground **and** in the castle, yelled, "NO!"
 
-Mr Thorley froze, with his hammer in the air. He lowered it, and said, in a very small voice, "Ah. Yes. Thunder would make them more scared."
+Mr Thorley froze, with his hammer in the air. He lowered it, and said, sheepishly, "Ah. Yes. Thunder would make them more scared."
 
 He put the hammer down. His hands were shaking.
 
@@ -216,7 +216,7 @@ Alex and Felix were standing in the middle of the castle, in the biggest turret,
 
 But they were also **quiet.**
 
-The wind blew the hair on their foreheads, and the world spread out below them, green and gold. They looked at each other, and they both knew exactly what to do.
+The wind blew the hair on their foreheads, and the world spread out below them, green and gold. They both knew exactly what to do.
 
 Alex said, "Felix."
 
@@ -268,13 +268,13 @@ Gideon said, "I'm sorry I was mean to Mr Heston."
 
 Felix said, "That's okay. You can say it to him later."
 
-Gideon sniffed. "I'm a Year 6. I shouldn't be crying."
+Gideon sniffed. "I'm one of the big kids. I shouldn't be crying."
 
 Alex said, "Everyone cries. It's okay. Breathe with us."
 
 Gideon nodded, and breathed.
 
-Ollie, who had been the loudest of all, wiped his eyes. He said, "I am a seed. The dark is where I grow." Kenji said, "I can do hard things." Maya said, "I am small, but I am strong." Dot held up her hand and said, in her wobbly little voice:
+Ollie, who had been one of the loudest, wiped his eyes. He said, "I am a seed. The dark is where I grow." Kenji said, "I can do hard things." Maya said, "I am small, but I am strong." Dot held up her hand and said, in her wobbly little voice:
 
 **"I AM NOT ALONE."**
 
@@ -340,7 +340,7 @@ He said, "I've been a headteacher for twenty-three years. And in all that time, 
 
 He looked at Alex and Felix.
 
-He said, "Thirty children were in real danger, and two of them, **two**, who are only in Year 1, worked out that the way to make everyone safe was to **stay calm and look after each other.** They didn't need a hammer, or wings, or a magic spell. They needed breathing and kindness."
+He said, "Thirty children were in real danger, and two of them, **two**, who are only little, worked out that the way to make everyone safe was to **stay calm and look after each other.** They didn't need a hammer, or wings, or a magic spell. They needed breathing and kindness."
 
 Alex and Felix looked at each other. They were holding hands.
 

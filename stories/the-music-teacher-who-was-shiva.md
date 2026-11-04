@@ -51,7 +51,7 @@ But Freddie said that was exactly what a god would WANT you to think.
 
 On Friday, a man came to our school with a box of reptiles for Science Week. He said that everyone should stay in their seats and not touch anything.
 
-Then he took out a long, stripy snake, and it slid right out of his hands and across the floor, and every single person in Year 2 screamed.
+Then he took out a long, stripy snake, and it slid right out of his hands and across the floor, and every single person in the hall screamed.
 
 The snake went straight past Miss Okoye, straight past the reptile man, and up the leg of Mr Shah, who was standing at the back. It wound itself round and round until it was draped across his shoulders, with its head resting on his neck.
 
@@ -91,7 +91,7 @@ And there, in the office, was the school secretary. Her name was **MRS PARVATI R
 
 We all fell silent. Freddie said, "That's... a LOT."
 
-Then Zainab remembered that Shiva has two sons, one with an elephant's head who loves sweets. And we all turned and looked at Ganesh Rao in Year 4, who was standing right there eating a laddoo, and who gave us a very confused look and said, "Why are you all staring at me?"
+Then Zainab remembered that Shiva has two sons, one with an elephant's head who loves sweets. And we all turned and looked at Ganesh Rao from the class above, who was standing right there eating a laddoo, and who gave us a very confused look and said, "Why are you all staring at me?"
 
 We said, "No reason."
 

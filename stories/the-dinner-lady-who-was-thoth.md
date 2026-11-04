@@ -43,7 +43,7 @@ She said, "Mrs Ibbs is THOTH."
 
 Archie Bell said, "Is that a sneeze?"
 
-Nell said that Thoth was one of the most important gods in ancient Egypt, and that you say it like "Toht" or "Thoth" with a soft "th" at the start, and that nobody agrees exactly, which is why you shouldn't worry about it.
+Nell said that Thoth was one of the most important gods in ancient Egypt, and that you say it a bit like "Toht", though nobody agrees exactly, so you shouldn't worry about it.
 
 She said that Thoth has the head of a bird called an **ibis**, which has a very long, curved beak and long thin legs, and which stands in the mud by the river Nile, poking about for food. (Archie said, "Mrs Ibbs. Ibis. Ibbs." Nell said, "YES, Archie, well done.")
 
@@ -103,7 +103,7 @@ She said, "That's your name in hieroglyphs. The sounds are K-O-F-I, as near as I
 
 Kofi stared at it. Then he whispered, "That's the coolest thing anyone's ever done."
 
-He carried it round for the rest of the day, and he showed it to a Year 5, who said, "That's just doodling," and Kofi said, "NO. It's WRITING. It's the oldest kind."
+He carried it round for the rest of the day, and he showed it to a big kid from the class above, who said, "That's just doodling," and Kofi said, "NO. It's WRITING. It's the oldest kind."
 
 ## THE LITTLE DICE GAME
 
@@ -129,7 +129,7 @@ Nell stood perfectly still and whispered, **"IT'S THE MOON GAME."**
 
 She explained very quickly.
 
-She said that long ago, the sky goddess Nut was going to have a baby, but a very angry god had said she was NOT allowed to have it on ANY day of the year. And there were only three hundred and sixty days in the year back then.
+She said that long ago, the sky goddess Nut was going to have babies, but a very angry god had said she was NOT allowed to have them on ANY day of the year. And there were only three hundred and sixty days in the year back then.
 
 But Thoth loved Nut, and he wanted to help her.
 
@@ -157,7 +157,7 @@ So we had five extra minutes of playtime that afternoon, and we used them to pla
 
 On Thursday, we heard Mrs Ibbs on the phone behind the kitchen.
 
-She said, "Anubis. Yes. Hello, dear. No, no, I'm fine. I've been writing down everything. The Year 2s have been quite tidy. Very few spelling mistakes in the dinner hall, though I did find a **'sossage'**. Yes. I corrected it."
+She said, "Anubis. Yes. Hello, dear. No, no, I'm fine. I've been writing down everything. The little ones have been quite tidy. Very few spelling mistakes in the dinner hall, though I did find a **'sossage'**. Yes. I corrected it."
 
 She listened for a moment.
 
@@ -185,7 +185,7 @@ Kofi looked down at his hieroglyph name.
 
 Mrs Ibbs said, "That's why I'm here. To help you notice the good bits, and write them down."
 
-She took out four pieces of paper and her reed pen, and she wrote something on each one, in neat little pictures. When she handed them out, we saw they were the names of our favourite things.
+She took out three more pieces of paper and her reed pen, and she wrote something on each one, in neat little pictures. When she handed them out, we saw they were the names of our favourite things.
 
 Mine was a picture of a **cat**, a **bowl** and a **star**. Mrs Ibbs said, "I think that says 'Cat Dinner Wish.' I'm not quite sure. Hieroglyphs are tricky."
 

@@ -9,11 +9,11 @@ lore: anubis
 draft: false
 ---
 
-The first time we noticed Mr Jackson was on a Tuesday, when Year 1 got LOST.
+The first time we noticed Mr Jackson was on a Tuesday, when a whole class of little ones got LOST.
 
 It was the whole class. They had gone to the toilets and then come back out and every single one of them had turned LEFT instead of right, and they ended up in the boiler room, and nobody could find them.
 
-Miss Riley was in a total PANIC. Mr Harris was running up and down the corridor shouting "Has anybody seen twenty-eight Year 1s?"
+Miss Riley was in a total PANIC. Mr Harris was running up and down the corridor shouting "Has anybody seen twenty-eight little ones?"
 
 And that's when Mr Jackson, the new librarian, put down his tea, sniffed the air ONCE, and said, "This way."
 
@@ -85,7 +85,7 @@ We all agreed it was the best list we'd ever seen.
 
 Then on Wednesday, something happened that made everyone SURE.
 
-Mr Harris had told us it was Egypt Week for Year 2 (which Nell said was a MASSIVE COINCIDENCE), and Mrs Okafor said we were going to make a MUMMY.
+Mr Harris had told us it was Egypt Week for our class (which Nell said was a MASSIVE COINCIDENCE), and Mrs Okafor said we were going to make a MUMMY.
 
 Nobody knew what a mummy was, except Nell.
 
@@ -109,7 +109,7 @@ He hummed a tiny, soft tune while he did it, and every few seconds he checked th
 
 "Alright in there?" he whispered.
 
-"Yes," said Freddie, in a muffled voice, because his mouth was covered.
+"Yes," said Freddie, in a muffled voice, because he was trying very hard to keep still.
 
 When he was done, Freddie looked like the neatest mummy in the whole history of Egypt. Mrs Okafor said it was the best wrapping she'd ever seen, and she took six photos.
 
@@ -181,7 +181,7 @@ He had his back to us, and he was speaking in a quiet, serious voice.
 
 There was a pause.
 
-"Good. And the Year 2s? All lighter than a feather, as far as I can tell. Yes. Every single one."
+"Good. And the children? All lighter than a feather, as far as I can tell. Yes. Every single one."
 
 He put the phone down and turned round. He saw us all standing at the window with our noses squashed against the glass.
 

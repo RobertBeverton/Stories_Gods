@@ -141,7 +141,7 @@ Maya whispered, "It's just like the stories. If the messenger of the gods gets l
 
 ## THE FOOTPRINTS
 
-Mr Hermes tried to fly after the thief, but when he flapped his sandals, one of them gave a sad little *pffft*, and fell off.
+Mr Hermes tried to fly off to look for the thief, but when he flapped his sandals, one of them gave a sad little *pffft*, and fell off.
 
 He said, in a very small voice, "I can't fly without both."
 
@@ -161,7 +161,7 @@ Mr Hermes lifted his head. A small, dazzling smile began to spread across his fa
 
 The twins ran to the place where he had put the bag down. They looked at the muddy grass. There were little footprints.
 
-Alex crouched down. He said, "These footprints are very small. And they're all pointing TOWARDS the gate, like someone walked in."
+Alex crouched down. He said, "These footprints are very small. And they all look like they're pointing TOWARDS the gate, like someone walked in."
 
 Felix said, "But look at the toes. And the heels."
 
@@ -193,7 +193,7 @@ Alex said, "We learned it from Miss Persey."
 
 Felix said, "We'll go together."
 
-Hermes looked at them for a long time. Then he said, "All right. But I go first, and you hold on to the rail, and if anyone feels wobbly, we stop."
+Mr Hermes looked at them for a long time. Then he said, "All right. But I go first, and you hold on to the rail, and if anyone feels wobbly, we stop."
 
 We climbed.
 
@@ -229,7 +229,7 @@ That was when we noticed that neither twin had let go of the other's hand since 
 
 At the very top, there was a flat grey roof with a low wall and, in the corner, a huge red bag, as big as a beanbag, with a tiny figure sitting on top of it.
 
-It was a **little girl**, with two wonky plaits and a muddy knee. She was in **Reception**, which is the smallest class in the school, and she had a Peppa Pig jumper. She was holding something in both hands, and she was whispering to it.
+It was a **little girl**, with two wonky plaits and a muddy knee. She was in **Reception**, which is the smallest class in the school, and she had a jumper with a pig on it. She was holding something in both hands, and she was whispering to it.
 
 Maya whispered, "That's Dot."
 
@@ -347,7 +347,7 @@ He reached into his bag and took out a small cream-coloured envelope. He held it
 
 It said: **FOR DOT. FROM EVERYBODY.**
 
-Inside was a drawing from every single child in Year 2, and the teachers, and the dinner ladies. There was a card from Mrs Ibbs, written in hieroglyphs. There was a flower from Miss Persey, and a sticker from Mrs Felicity that said **YOU ARE LUCKY.** There was a very short note in a very big hand that said **WELL DONE, DOT. — THOR.**
+Inside was a drawing from every single child in the school, and the teachers, and the dinner ladies. There was a card from Mrs Ibbs, written in hieroglyphs. There was a flower from Miss Persey, and a sticker from Mrs Felicity that said **YOU ARE LUCKY.** There was a very short note in a very big hand that said **WELL DONE, DOT. — THOR.**
 
 Dot read every single one.
 

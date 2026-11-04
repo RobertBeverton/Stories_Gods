@@ -65,7 +65,7 @@ We all looked through the window. Mr Hanu was trying to put on a bib the wrong w
 
 Maya said there was one more important thing.
 
-Hanuman has a best friend called **Rama**, a kind and brave prince who he helped, and who he loves more than anyone. When Rama's wife **Sita** was taken far away across the sea, Hanuman was the one who found her. He made himself small, crossed the ocean in a single leap, and brought back good news.
+Hanuman has a best friend called **Rama**, a kind and brave prince. He helped him once, and he loves him more than anyone. When Rama's wife **Sita** was taken far away across the sea, Hanuman was the one who found her. He made himself small, crossed the ocean in a single leap, and brought back good news.
 
 Ollie asked, "Did he fly there on his own?"
 
@@ -95,7 +95,7 @@ Maya said, "He's got the **most** evidence."
 
 ## SPORTS DAY
 
-On Friday, it was Year 1 Sports Day.
+On Friday, it was Sports Day.
 
 It had rained all week, and the school field was a huge **lake.** It was brown, wide and wobbly, and a swan was floating in the middle. Mr Harris said we would have to hold the races in the hall, but everybody was sad, because the hall smells like feet.
 
@@ -217,7 +217,7 @@ He scooped up the twins, one in each hand, set them gently on his shoulders, and
 
 He leapt.
 
-He flew over the school, over the lake, over the swan, who looked up in astonishment, and over the dark trees at the far side. The wind whistled in the twins' ears. Far below, the whole world looked like a map.
+He flew over the school, over the lake, over the swan, who looked up in surprise, and over the dark trees at the far side. The wind whistled in the twins' ears. Far below, the whole world looked like a map.
 
 Felix shouted, "It's amazing!"
 
@@ -275,7 +275,7 @@ Felix said, "It's coming from over there."
 
 They crept round a big rock. And there, growing in a crack in the stone, was a single, small plant with a pale blue flower. It was just beginning to glow, soft and silvery, like a little bit of moonlight.
 
-They knelt down. They both reached out one hand each, and they picked it together, very gently, just as the last thin strip of orange vanished from the sky.
+They knelt down. They each reached out one hand, and they picked it together, very gently, just as the last thin strip of orange vanished from the sky.
 
 The flower lit up like a lantern.
 
@@ -293,7 +293,7 @@ It was the **hill itself.** A big grassy face had appeared in the side, with two
 
 It said, "That flower is mine. Nobody takes it without asking."
 
-Alex and Felix looked at each other.
+Alex and Felix said nothing for a moment.
 
 Alex said, "We're sorry. We should have asked."
 
@@ -345,7 +345,7 @@ When it was all over, Mr Hanu sat on the grass with us, eating a banana.
 
 He said, "I forgot who I was. It happens to everybody. When you feel small, or confused, it's easy to forget how strong you are. That's why we need friends. They remind us."
 
-Alex said, "Like you reminded us at the Pan play."
+Alex said, "Like we reminded each other at the Pan play."
 
 Felix said, "Or at the Hermes day."
 

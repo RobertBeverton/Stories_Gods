@@ -95,7 +95,7 @@ Maya said, "It's a perfect list."
 
 ## THE FIRE RULES
 
-On Tuesday, Mr Prome took Year 1 out to the playground, and sat us in a circle round his bucket.
+On Tuesday, Mr Prome took our whole class out to the playground, and sat us in a circle round his bucket.
 
 He said, "Fire is the best gift ever given. But do you know what makes it a **gift** and not a **danger?**"
 
@@ -158,7 +158,7 @@ Maya whispered, "The very same."
 
 ## ZEUS AND PROMETHEUS
 
-Mr Prome stood in the doorway, holding his stalk. The two of them looked at each other for a very long time.
+Mr Prome stood in the doorway, holding his stalk. The two of them stared at each other for a very long time.
 
 Mr Zed said, in a low, grumbly voice, "I see you're still at it."
 
@@ -186,7 +186,7 @@ Mr Zed said, "I'm cancelling it. **End of discussion.**"
 
 ## THE CANCELLED BONFIRE
 
-All of Year 1 was sad that night. Ollie said it was the worst day of his life. Kenji drew a picture of a very sad toffee apple. Dot refused to eat her tea.
+The whole class was sad that night. Ollie said it was the worst day of his life. Kenji drew a picture of a very sad toffee apple. Dot refused to eat her tea.
 
 Alex and Felix didn't say much. They were too busy thinking.
 
@@ -208,7 +208,7 @@ They both laughed. They fell asleep.
 
 But the bonfire wasn't cancelled for everyone.
 
-Mr Epp, who thought about things afterwards, had felt awful about the whole thing all evening. He wanted to cheer up Year 1. He wanted to put things right. And so, on Thursday after school, while Mr Prome was talking to Mr Harris, Mr Epp crept out to the field with a box of matches.
+Mr Epp, who thought about things afterwards, had felt awful about the whole thing all evening. He wanted to cheer up the class. He wanted to put things right. And so, on Thursday after school, while Mr Prome was talking to Mr Harris, Mr Epp crept out to the field with a box of matches.
 
 He didn't think about the wind.
 
@@ -228,7 +228,7 @@ The leaves caught. A thin ribbon of smoke curled up. Then a flicker. Then a smal
 
 Mr Epp panicked. He ran in circles. He said, "I should've thought! I should've thought!"
 
-Inside the Reading Cabin, twelve Year 1s were sitting on beanbags, listening to a story. Mrs Tibbs was reading the Three Billy Goats Gruff. Nobody noticed the smoke at first.
+Inside the Reading Cabin, twelve children from our class were sitting on beanbags, listening to a story. Mrs Tibbs was reading the Three Billy Goats Gruff. Nobody noticed the smoke at first.
 
 Except Alex.
 
@@ -276,7 +276,7 @@ Felix said, "That's eleven."
 
 Alex said, "There should be twelve."
 
-They looked at each other. Their hearts went cold.
+Alex and Felix went still. Their hearts went cold.
 
 Felix said, "Who's missing?"
 
@@ -352,7 +352,7 @@ Alex said, "They do it every day."
 
 A firefighter came over to the group, her helmet in her hand. She knelt, and said, "I heard that two of you got everyone out."
 
-The twins looked at each other.
+The twins went quiet.
 
 She said, "That is **exactly** what you're supposed to do. Stay calm, count everyone, get out, stay out. You didn't go back in. You did the **bravest** thing, which is following the rules."
 
@@ -388,7 +388,7 @@ Mr Prome said, "I know you are. And you said it. That matters."
 
 Mr Epp sniffed. "It was my fault they were in danger."
 
-Mr Prome said, "It was your fault. And it was also the twins' doing that everyone was safe. We can hold both of those."
+Mr Prome said, "It was your fault. And it was also the twins' doing that everyone was safe. Both of those are true."
 
 Mr Epp looked up, and saw Alex and Felix standing in front of him. He said, "I'm sorry."
 
@@ -428,11 +428,11 @@ Mr Zed said, "I should have trusted you. A very long time ago."
 
 Mr Prome smiled, a slow and warm smile. He said, "We were both trying to keep people safe. We just did it in different ways."
 
-The two of them looked at each other. And then, for the first time in a very long time, they shook hands.
+Neither of them said a word. And then, for the first time in a very long time, they shook hands.
 
 ## BONFIRE NIGHT, THE REAL ONE
 
-Because of the wet weather and the fire, we couldn't have our bonfire that Thursday. But on Saturday night, Mr Zed made an announcement. He said that he was "reconsidering" the ban, and that Year 1 could have a **small, safe** bonfire, if every child did **one** thing first.
+Because of the wet weather and the fire, we couldn't have our bonfire that Thursday. But on Saturday night, Mr Zed made an announcement. He said that he was "reconsidering" the ban, and that our class could have a **small, safe** bonfire, if every child did **one** thing first.
 
 They had to sing the fire song.
 

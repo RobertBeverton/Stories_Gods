@@ -19,7 +19,7 @@ Nobody could tell why seven new lunchtime staff were needed, because the old din
 
 It was Monday, which meant the dinner was THE FISH.
 
-We all sat down with sad faces. Even Felix, who is lucky, looked like he'd lost a pound.
+We all sat down with sad faces. Even Felix, who is lucky, looked like he'd lost a pound coin.
 
 But then the first new person came out from the kitchen. He was round and cheerful with a little pointy hat, and he was carrying a fishing rod AND a huge red fish under his arm, like a baby.
 
@@ -53,7 +53,7 @@ It turned out that Mr Ebbie couldn't hear very well, and the ONLY way to get his
 
 Ollie found this out when he shouted, "CAN I HAVE CHIPS?" four times and Mr Ebbie just smiled and said, "Lovely weather!" Then Maya reached out and went **knock knock knock** on the hatch, and Mr Ebbie jumped, and said, "Ah! Yes! CHIPS! Coming up!"
 
-After that, the whole school knocked on the hatch. It sounded like a woodpecker convention. Mrs Tibbs said it was the noisiest lunch in the history of the school, but she asked Mr Ebbie for seconds.
+After that, the whole school knocked on the hatch. It sounded like a hundred woodpeckers. Mrs Tibbs said it was the noisiest lunch in the history of the school, but she asked Mr Ebbie for seconds.
 
 ## WHO IS EBISU?
 
@@ -89,7 +89,7 @@ We counted. We'd only met ONE. So that afternoon, we went hunting for the other 
 
 The second one was easy, because we heard him first. There was a CLUNK, a THUMP and a RATTLE, and a short man in a black hat came round the corner, dragging an ENORMOUS sack behind him.
 
-It was the biggest sack we'd ever seen. He had a little wooden hammer in his other hand and he was sitting on a pile of rice bags.
+It was the biggest sack we'd ever seen. He had a little wooden hammer in his other hand, and he sat down on a pile of rice bags.
 
 His badge said **MR DAIKON**.
 
@@ -97,11 +97,11 @@ Kenji whispered, "DAIKOKU." He said that Daikoku is the god of wealth and farms 
 
 We said, "Mice?"
 
-He said, "They're lucky."
+Kenji said, "They're lucky."
 
 We looked down and saw three small mice following Mr Daikon into the office, each with a tiny crumb.
 
-Mr Daikon shook his sack, and out fell a lost glove, two lunchboxes, a recorder, and a cardboard crown that said **KING OF YEAR 2**.
+Mr Daikon shook his sack, and out fell a lost glove, two lunchboxes, a recorder, and a cardboard crown that said **KING OF THE PLAYGROUND**.
 
 He said, "Lost property," and handed it all back to its owners.
 

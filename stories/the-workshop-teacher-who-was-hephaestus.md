@@ -73,7 +73,7 @@ She said, "And in that cave, he learned to make things. Beautiful things. Brooch
 
 Kenji said, "So he's a hero."
 
-Maya said, "He's the **cleverest** god there is. He built Zeus's thunderbolts. He made Hermes's winged helmet. He built golden palaces for all the gods, and even a pair of golden robot girls, to help him walk, like we saw this morning. He built a giant made of bronze. And he built things that nobody else could think of."
+Maya said, "He's the **cleverest** god there is. He built Zeus's thunderbolts. He made Hermes's winged helmet. He built golden palaces for all the gods, and even a pair of golden robot girls, to help him walk, like the ones we saw. He built a giant made of bronze. And he built things that nobody else could think of."
 
 Alex said, "And all because he was different."
 
@@ -117,7 +117,7 @@ Alex said, "And he'd never make a noise like that."
 
 On Wednesday, something happened that made us all feel cross.
 
-Gideon Fox from Year 6 walked past the shed with his friends. He saw Mr Heston coming out with his stick, and he did a wobbly walk behind him, going **clomp, clink, clomp, clink**, with a silly face. His friends laughed.
+Gideon Fox from the class above walked past the shed with his friends. He saw Mr Heston coming out with his stick, and he did a wobbly walk behind him, going **clomp, clink, clomp, clink**, with a silly face. His friends laughed.
 
 Mr Heston didn't turn around. But his shoulders sagged, just a little, like he had heard it before.
 
@@ -213,7 +213,7 @@ He was running **very fast.**
 
 It was the biggest panic our school had ever seen.
 
-Talos ran round the whole building, shouting "INTRUDER! INTRUDER!" Every step shook the ground. Windows rattled. Dinner ladies hid under tables. Year 1 climbed on a bench and screamed. The lollipop man, Mr Bish, held out his pole and said "STOP", but Talos just stepped over him.
+Talos ran round the whole building, shouting "INTRUDER! INTRUDER!" Every step shook the ground. Windows rattled. Dinner ladies hid under tables. The little ones climbed on a bench and screamed. The lollipop man, Mr Bish, held out his pole and said "STOP", but Talos just stepped over him.
 
 Mr Harris was running round in circles. Ms Crabtree was hiding behind a bush with her clipboard on her head.
 
@@ -231,7 +231,7 @@ Felix said, "Every machine has one."
 
 Mr Heston looked at the giant, as he thundered round the corner for the second lap. A very faint smile spread across his face.
 
-He said, "There's a bolt in his ankle."
+He said, "There's a plug in his ankle."
 
 ## THE BOLT
 
@@ -321,9 +321,9 @@ Then he closed his eyes, and he was still.
 
 Nobody said anything. Nobody moved. A single leaf drifted down and landed on his head.
 
-Then Ollie began to clap. Then Kenji. Then the whole of Year 2, and then the whole school, and the dinner ladies came out from under their tables, and Mr Harris took a very big breath, and said, "Well done, you two."
+Then Ollie began to clap. Then Kenji. Then the whole class, and then the whole school, and the dinner ladies came out from under their tables, and Mr Harris took a very big breath, and said, "Well done, you two."
 
-Alex and Felix were lying on the tarmac, breathing hard. They looked at each other.
+Alex and Felix were lying on the tarmac, breathing hard.
 
 Felix said, "We did it."
 
@@ -359,7 +359,7 @@ That might have been the end, except that a bit later, we heard a **clunk**.
 
 It was coming from inside the shed.
 
-We rushed in, and there was Gideon Fox from Year 6, sitting in a beautiful golden chair in the corner. He had wandered in on his own to look at the helpers, and sat down on it. And now two golden bands were wrapped right round his tummy, and he couldn't get out.
+We rushed in, and there was Gideon Fox from the class above, sitting in a beautiful golden chair in the corner. He had wandered in on his own to look at the helpers, and sat down on it. And now two golden bands were wrapped right round his tummy, and he couldn't get out.
 
 He was bright red, and his friends were laughing at him.
 
@@ -383,7 +383,7 @@ Gideon said, "Can I come to the Making Club?"
 
 Mr Heston grinned. "Of course. We could use another pair of hands."
 
-The twins looked at each other and grinned too.
+The twins grinned too.
 
 ## THE LESSON
 

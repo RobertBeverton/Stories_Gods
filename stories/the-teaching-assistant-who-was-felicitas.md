@@ -35,7 +35,7 @@ Maya Singh put her hand up and said, "Is it magic?"
 
 Mrs Felicity said, "It's just a very full basket, dear."
 
-But Maya said it again to us at break. "It was ONLY just full. It didn't have anything in it when she walked in. I SAW her walk in."
+But Maya said it again to us at break. "It was ALREADY full. It didn't have anything in it when she walked in. I SAW her walk in."
 
 I had seen her walk in. It had definitely been full from the start. We agreed that was weird.
 
@@ -75,7 +75,7 @@ Maya said that every good theory needs a list.
 
 **2. THE UMBRELLA.** Mrs Felicity carries a long umbrella with two ribbons twisted round the handle. Maya said that Felicitas holds a staff with two SNAKES twisted round it and a pair of tiny wings at the top. We all looked, and the umbrella had a small silver wing on it. Ollie Grant said it was a bird. Maya said it was the same thing.
 
-**3. THE WINNING.** She won the raffle three times. She won the tombola, too, and then she won a game of Snap against the whole of Year 3 at once.
+**3. THE WINNING.** She won the raffle three times. She won the tombola, too, and then she won a game of Snap against the whole of the class above at once.
 
 **4. THE CLOVERS.** Her coat is covered in four-leaf clovers, and there are four hundred on it at least. Priya Nair said it looked like someone had thrown a lawn at her.
 
@@ -131,7 +131,7 @@ We all agreed it was the nicest moment of the term. And Mrs Felicity gave a litt
 
 But on Thursday, things got a bit weird.
 
-We went into the hall for PE, and there was a NEW teacher, standing next to a big wooden wheel on a stand. It was as tall as Freddie in Year 6, painted in red and gold, and it had a pointer at the top. Written on the segments were things like: **"DODGEBALL", "SACK RACE", "TIDY THE CUPBOARD", "FREE PLAY",** and **"EVERYONE HOPS."**
+We went into the hall for PE, and there was a NEW teacher, standing next to a big wooden wheel on a stand. It was as tall as Freddie from the top class, painted in red and gold, and it had a pointer at the top. Written on the segments were things like: **"DODGEBALL", "SACK RACE", "TIDY THE CUPBOARD", "FREE PLAY",** and **"EVERYONE HOPS."**
 
 She was tall and elegant with long dark hair. She wore a scarf over her eyes, which was a bit strange, but she walked perfectly straight and said, "Good morning, everybody!" in a loud, bright voice. Her name badge said **MS FORTUNE**.
 
@@ -185,7 +185,7 @@ Mrs Felicity said, "It's called mischief."
 
 Ms Fortune grinned. "You and your baskets. Somebody has to keep things interesting."
 
-Then they both looked down and saw us all standing there.
+Then they both noticed us all standing there.
 
 Felix stepped forward. His voice wobbled a bit. He said, "Mrs Felicity? Is it true that my name means lucky?"
 

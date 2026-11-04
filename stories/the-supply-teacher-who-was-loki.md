@@ -45,7 +45,7 @@ He said Loki can change into anything he wants. A bird, a fish, a horse, a mouse
 
 Ollie Grant said, "Is he BAD?"
 
-Dev said, "No. Not exactly. He's more like... a friend who sometimes goes TOO FAR."
+Dev said, "No. He's more like... a friend who sometimes goes TOO FAR."
 
 He said that Loki and Thor go on adventures together. Loki once cut off the golden hair of Thor's wife, Sif, as a joke, and Thor got SO cross that Loki had to get dwarves to make her new hair out of REAL GOLD. Another time, Loki borrowed a magic feather cloak and turned into a falcon. And once, he dressed up in a bridesmaid's dress to help Thor get his hammer back from a giant.
 
@@ -75,7 +75,7 @@ On Wednesday, we noticed something about our class hamster, Biscuit.
 
 Biscuit is a normal, brown, fluffy hamster who runs on his wheel and sometimes falls asleep in his own food bowl. But on Wednesday morning, Biscuit had very bushy eyebrows. They were a bit too bushy for a hamster. And he was grinning.
 
-Biscuit was a pretty big hamster, too. A little bit **bigger**. And he winked.
+And he was a little bit **bigger** than Biscuit. And he winked.
 
 Priya whispered, "That's not Biscuit."
 
@@ -97,7 +97,7 @@ On Thursday, Sir Lionel had NO MANE.
 
 It was gone. He was just a bald, yellow lion with surprised eyes.
 
-A girl in Year 1 started crying. Mrs Tibbs gasped. Mr Harris held his own hair, like it might fall off too.
+One of the little ones started crying. Mrs Tibbs gasped. Mr Harris held his own hair, like it might fall off too.
 
 And then we heard a voice at the front door. It was a **VERY DEEP** voice, and it said, "WHO. HAS. DONE. THIS?"
 
@@ -145,7 +145,7 @@ Ollie held the lion. Priya cut the tinsel. Ruby stuck it on. Dev passed the glue
 
 It was **BETTER** than before.
 
-We carried him back to the hall just as the clock hit three. The Year 1 girl looked up and squealed with delight.
+We carried him back to the hall just as the clock hit three. The little girl looked up and squealed with delight.
 
 Mr Harris said it was the best mane he had ever seen. Mrs Tibbs took a photo. And Mr Thorley stepped forward, looked carefully at the glittering lion, and said, quietly:
 

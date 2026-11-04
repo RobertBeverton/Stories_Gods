@@ -179,11 +179,11 @@ Ollie said, "So how do we get to the Underworld?"
 
 Maya said, "There's usually a door."
 
-We all looked at each other. And together we said, "THE BOILER ROOM."
+Slowly, we all had the same idea. And together we said, "THE BOILER ROOM."
 
 ## THE DOOR
 
-The boiler room is in the basement. It's where Year 1 got lost on the day we met Mr Jackson. The door is heavy and grey, and it's always locked, and it's always **really cold**.
+The boiler room is in the basement. It's where a whole class got lost on the day we met Mr Jackson. The door is heavy and grey, and it's always locked, and it's always **really cold**.
 
 That afternoon, it was open.
 
@@ -391,7 +391,7 @@ Alex said, "So the other half..."
 
 Felix said, "She can go home."
 
-They looked at each other and said it together:
+They grinned and said it together:
 
 **"IT CAN BE BOTH!"**
 
@@ -431,7 +431,7 @@ He said, "Parcel for the Underworld? I'm Hermes. Oh. No parcel. Lift for six chi
 
 Then he looked at the twins and frowned. "Hang on. Which one of you is Felix?"
 
-"Me," said Felix and Alex, at exactly the same time.
+"Me," said Felix and Alex together.
 
 Hermes said, "Right. I'm just going to carry you both and not worry about it."
 

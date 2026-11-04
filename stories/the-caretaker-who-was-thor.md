@@ -27,7 +27,7 @@ It said **MR THORLEY**.
 
 We all GASPED, because on Monday, Mrs Tibbs had read us a story about a thunder god with a red beard and a hammer, and his name was THOR.
 
-Dev said that Mr Thorley was one letter and a bit away from Thor and that it was NOT A COINCIDENCE. He said gods probably have to use fake names when they get jobs, in case people ask for autographs.
+Dev said that Mr Thorley was only a few letters away from Thor and that it was NOT A COINCIDENCE. He said gods probably have to use fake names when they get jobs, in case people ask for autographs.
 
 Ollie Grant said that Thor lives in the sky, not a school.
 
@@ -75,7 +75,7 @@ But then Priya noticed a bag on the front seat with a picture on it of a goat, a
 
 ## A WARNING
 
-At the weekend, I couldn't stop thinking about it. If Mr Thorley really WAS Thor, we had to be polite, because you don't want to get a thunder god cross. Dev said that if you make him angry, he'll make it rain on your birthday.
+At the weekend, none of us could stop thinking about it. If Mr Thorley really WAS Thor, we had to be polite, because you don't want to get a thunder god cross. Dev said that if you make him angry, he'll make it rain on your birthday.
 
 So on Monday, we all decided to be EXTRA GOOD. Ollie picked up every crisp packet he saw. Ruby held the door open for a LOT of people, including a bin. Priya gave Mr Thorley a drawing of him with a hammer and wrote underneath **"THANK YOU FOR PROTECTING US."**
 
@@ -117,6 +117,6 @@ We stood there staring at the empty road, and Ruby whispered, "Who is his brothe
 
 Priya said, "Probably Loki."
 
-And that's when we ALL looked around very quickly to see if anyone was standing near the school with a smirk and a green cloak. But there was only Mr Pickering, the lollipop man, who waved.
+And we ALL looked around very quickly to see if anyone was standing near the school with a smirk and a green cloak. But there was only Mr Pickering, the lollipop man, who waved.
 
 **The End.**

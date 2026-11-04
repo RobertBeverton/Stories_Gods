@@ -25,7 +25,7 @@ Alex and Felix Bailey are twins, so they have a system. Alex notices things and 
 
 Alex noticed that the pond water was very still, even though it was windy. Felix asked Ao how long he had been travelling. Ao said, "Oh, about three thousand years. I walk slowly."
 
-They looked at each other and said, "We need Maya."
+They said, "We need Maya."
 
 ## THE NEW TEACHER
 
@@ -161,7 +161,7 @@ On Friday lunchtime, in front of the whole school, they stood at opposite ends o
 
 "Agreed!" said Mr Gong.
 
-They charged. **WHOOSH!** A great cloud of steam hissed up where fire met water. They pushed and shoved and stamped, back and forth across the playground, as Year 1 scattered in all directions.
+They charged. **WHOOSH!** A great cloud of steam hissed up where fire met water. They pushed and shoved and stamped, back and forth across the playground, as the little ones scattered in all directions.
 
 Ms Wa shouted, "Stop! Please! Think about what happened last time!"
 
@@ -205,7 +205,7 @@ It got worse very quickly.
 
 The crack grew, and out poured more water, in great gushing waterfalls, flooding the playground and the field and the car park. At the same moment, balls of fire dropped out of the crack and rolled across the grass, setting fire to the football goals.
 
-Year 1 ran for the hall. The Reception children climbed on tables. Mr Harris shouted "Everybody inside!" and tried to carry nine chairs at once.
+The big children ran for the hall. The Reception children climbed on tables. Mr Harris shouted "Everybody inside!" and tried to carry nine chairs at once.
 
 The gods tried to help, but nothing worked. Mr Thorley's thunder made the crack go **wider.** Mr Hermes's wings got soaked. Mr Heston put up a bronze shield, and it melted. Mr Hanu leapt up to patch the hole with his hands, but the water was too strong.
 
@@ -277,7 +277,7 @@ Felix said, "That's not enough time to fix it."
 
 Ms Wa said, "I need five stones, in five colours. **Red, yellow, blue, white and black.** If we can find them, I can melt them with fire and mend the crack. But I don't have any left, and the old ones are gone."
 
-Alex and Felix looked at each other. They didn't say a word. They didn't have to.
+They didn't say a word. They didn't have to.
 
 They said together, "We'll find them."
 
@@ -371,9 +371,9 @@ He ran.
 
 ## THE WHITE STONE
 
-Felix came to the playground wall. He remembered something: the hopscotch grid was drawn in white chalk, and at the end of the grid was a big, white, round stone that Year 6 used as a marker.
+Felix came to the playground wall. He remembered something: the hopscotch grid was drawn in white chalk, and at the end of the grid was a big, white, round stone that the big kids used as a marker.
 
-A girl from Year 6 was sitting on it, with her arms folded. It was Arabella Webb, from the quiz.
+A girl from the class above was sitting on it, with her arms folded. It was Arabella Webb, from the quiz.
 
 She said, "What do you want?"
 
@@ -498,8 +498,6 @@ Ms Wa said, "Good. Now, **together.**"
 The pot glowed. The paste was ready. But the crack was far too high to reach.
 
 Ms Wa said, "I can't get up there on my own. I need someone small, who can climb the flagpole."
-
-Alex and Felix looked at each other.
 
 Alex said, "We'll do it."
 
@@ -641,7 +639,7 @@ And Dot said, "**I know you can.**"
 
 And Ao, very quietly, said, "**I don't know yet what comes next. But I'm looking forward to finding out.**"
 
-## THE ENDING (WITH A BEARD)
+## THE ENDING (WITH A SPADE)
 
 On the way home, Maya stopped at the gate.
 

@@ -61,7 +61,7 @@ Maya said, "People call it a box now, because of a very old mix-up in translatio
 
 Ollie said, "That's the worst rule in the world."
 
-Maya said, "I know. The jar was full of things the gods had put away because nobody wanted them. Worries and grumps and squabbles and sad days. If she opened it, they'd fly out all over the world."
+Maya said, "I know. The jar was full of things the gods had put away because nobody wanted them. Worries and grumps and squabbles and sad days, aches and empty tummies and fibs. If she opened it, they'd fly out all over the world."
 
 Alex said, "So why give it to her?"
 
@@ -175,7 +175,7 @@ She said, "But I **wanted** to. I wanted it so much. And now I've let them out."
 
 At first, nothing seemed different.
 
-But on Friday morning, Mr Harris came into assembly with a very sour face. He said, "Good morning, Year 1. I'd like to say that I'm in a **very bad mood**, and I don't know why."
+But on Friday morning, Mr Harris came into assembly with a very sour face. He said, "Good morning, everyone. I'd like to say that I'm in a **very bad mood**, and I don't know why."
 
 Everyone stared. Mr Harris is **never** grumpy before ten o'clock.
 
@@ -205,7 +205,7 @@ There were **seven** kinds of grey wisps floating about. Maya saw them first, th
 
 **THE WORRIES** were tiny and shivery, and they crept into people's ears, saying, "What if it all goes wrong? What if you're not good enough? What if?"
 
-**THE FIBS** were slippery and quick, and they tickled people's noses until they said things that weren't true. Dev from Year 3 told Mrs Tibbs a dragon ate his homework, and the dragon wasn't even real.
+**THE FIBS** were slippery and quick, and they tickled people's noses until they said things that weren't true. A boy from the class above told Mrs Tibbs a dragon ate his homework, and the dragon wasn't even real.
 
 **THE SADS** were big and heavy and slow, and they hung over people like rain clouds. Anybody they touched wanted to lie on the floor.
 
@@ -249,7 +249,7 @@ Mrs Felicity tried sharing her basket, and a Squabble made two children fight ov
 
 Ms Athene tried asking clever questions, and a Worry whispered, "What if you get the answer wrong?" and she went quiet.
 
-Mr Prome said, "I can't think ahead. The Worries have got my forethought." Mr Epp said, "Oh, **now** I'm thinking about it. This is awful."
+Mr Prome said, "I can't think ahead. The Worries have got my thinking-ahead." Mr Epp said, "Oh, **now** I'm thinking about it. This is awful."
 
 By the afternoon, the whole school was in a mess. Dinner ladies were arguing. Teachers were sulking. The children were sitting in a heap on the field, wrapped in blankets and coats, and not one of them wanted to play.
 
@@ -275,7 +275,7 @@ Alex noticed. He put his hand on Felix's back, and he said, "I've got you."
 
 And then, because a Squabble was passing, it zipped between them, and each twin suddenly wanted to say something rotten. Alex opened his mouth to say, "It's your fault we're stuck." Felix opened his mouth to say, "No, it's yours."
 
-They looked at each other. They both stopped.
+They both stopped.
 
 Felix said, very slowly, "That wasn't us."
 
@@ -296,8 +296,6 @@ Felix said, "I think it's because we're looking after each other."
 Alex said, "Maybe the grey things only really get you when you're on your own."
 
 Felix said, "Maybe that's how we fix it."
-
-They looked at each other.
 
 Alex said, "Maya said the jar was full of the things nobody wanted."
 
@@ -511,9 +509,9 @@ It looked at us, and in a slow, deep, creaky voice, it said:
 
 We all stared.
 
-Maya whispered, "That's **AO.**"
+Maya whispered, "I don't know that one. **Yet.**"
 
-Kenji whispered, "From the Nüwa story!"
+Kenji whispered, "Which Chinese goddess?"
 
 Alex looked at Felix. Felix looked at Alex.
 
