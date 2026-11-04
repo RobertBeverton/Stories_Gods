@@ -206,7 +206,7 @@ Behind them, Willow had crept forward. She stepped delicately up to Mrs Oshun, i
 
 It was lunchtime on Thursday when the real trouble began.
 
-We were all in the playground. The big tower, which had grown another floor overnight, was creaking. The Caretaker had added a rooftop terrace. Mister Raven had added a bigger nest. Mister Heston had added a very heavy anvil. The whole thing swayed in the wind like a giant drunken giraffe.
+We were all in the playground. The big tower, which had grown another floor overnight, was creaking. The Caretaker had added a rooftop terrace. Mister Raven had added a bigger nest. Mister Heston had added a very heavy anvil. The whole thing swayed in the wind like a giant wobbly giraffe.
 
 At the very top, on the third floor, was a rope bridge. And standing on the rope bridge, holding on to the rail with both hands, was Dot.
 
@@ -216,15 +216,15 @@ At the very top, on the third floor, was a rope bridge. And standing on the rope
 
 "I can't!" shouted Dot. "I don't know how!"
 
-There was a long, groaning creak. The tower gave a sickening lurch. A rivet pinged out of the frame, and shot across the playground. The rope bridge dipped. And the whole structure began to lean, slowly, steadily, towards the dinner hall.
+There was a long, groaning creak. The tower gave a great lurch. A rivet pinged out of the frame, and shot across the playground. The rope bridge dipped. And the whole structure began to lean, slowly, steadily, towards the dinner hall.
 
 "It's going to fall!" shouted Ollie.
 
 "Everyone stay calm!" shouted Mister Harris.
 
-"I'll fix it!" shouted the Caretaker. He swung his hammer at the leg of the tower. It rang like a bell, and the whole thing lurched worse.
+"I'll fix it!" boomed the Caretaker. He swung his hammer at the leg of the tower. It rang like a bell, and the whole thing lurched worse.
 
-"Let me!" shouted Mister Hadad. He pointed his staff, and a sheet of rain poured down. The metal went slippery. The tower slid another metre.
+"Let me!" cried Mister Hadad. He pointed his staff, and a sheet of rain poured down. The metal went slippery. The tower slid another metre.
 
 "Stop it!" shouted Maya. "You're making it worse!"
 
@@ -232,7 +232,7 @@ There was a long, groaning creak. The tower gave a sickening lurch. A rivet ping
 
 "Nobody's working together," said Alex. His face was white. "We need someone who can make them listen."
 
-He looked at Felix. Felix looked at Alex. They both said it at the same time.
+He turned to Felix, and Felix was already nodding. They both said it together.
 
 "Mrs Oshun."
 
@@ -284,7 +284,7 @@ Alex and Felix scrambled on to her back, one behind the other. Maya climbed up a
 
 With a great beat of wings, the peacock rose into the air.
 
-She swooped across the playground in a golden arc, with her mirrored tail flashing. Every eye on the field turned to look. Her feathers caught the light and threw it back in a thousand dazzling beams, so bright that the leaning tower lit up like a lantern. And down below, the people on the ground, the Caretaker, and Mister Hadad, and Mister Heston, all stopped shouting and shaded their eyes.
+She swooped across the playground in a golden arc, with her mirrored tail flashing. Every eye on the field turned to look. Her feathers caught the light and threw it back in a thousand dazzling beams, so bright that the leaning tower lit up like a lantern. And down below, the people on the ground, the Caretaker, and Mister Hadad, and Mister Heston, all stopped and shaded their eyes.
 
 ## Part Eleven. Honey
 
@@ -322,7 +322,7 @@ Then Mrs Oshun lifted her beak and began to sing.
 
 ## Part Twelve. The Song
 
-It wasn't a loud song. It was soft, and low, and warm, like honey on a spoon. It drifted down over the playground, over the leaning tower and the hissing volcano and the sixteen puzzled people in the middle.
+It wasn't a loud song. It was soft, and low, and warm, like honey on a spoon. It drifted down over the playground, over the leaning tower and the hissing volcano and the sixteen puzzled grown-ups in the middle.
 
 And as it floated down, something strange happened.
 
@@ -374,11 +374,11 @@ One by one, all sixteen said sorry. Mrs Oshun listened to each of them. Her eyes
 
 They built it again, together.
 
-This time, they did it properly. Mister Harris pulled up a long table in the school hall, with chairs in a circle, so that nobody sat at the head. There were seventeen chairs for the staff. There were small chairs on one side, for Alex and Felix and Maya and Dot and Kenji and Ollie, and a cushion for Willow. And every single person got a turn to speak, one at a time, while everyone else listened.
+This time, they did it properly. Mister Harris pulled out a round table in the school hall, with chairs all the way round, so that nobody sat at the head. There were seventeen chairs for the staff. There were small chairs on one side, for Alex and Felix and Maya and Dot and Kenji and Ollie, and a cushion for Willow. And every single person got a turn to speak, one at a time, while everyone else listened.
 
 Mrs Oshun brought honey cakes.
 
-It took four days. The tower stayed, but they strengthened it with honey and iron, and it stood perfectly straight, with a bell on top. Mister Hadad's rain slide ran downhill, into a stream, which wound through the middle of the playground, into a new pond, deep and clear and golden. Miss Pele's volcano became a warm little hill for sitting on. Mister Jackson's maze turned into a hedge with a gate at both ends. Persephone's garden and Baba Yaga's cabbages grew side by side. Mister Raven's nest was moved to a lower beam, where Dot could visit. And in the very middle of the new playground stood a single wooden bench, with a golden plaque. It read: *There is always room for one more.*
+It took four days. The tower stayed, but they strengthened it with honey and iron, and it stood perfectly straight, with a bell on top. Mister Hadad's rain slide ran downhill, into a stream, which wound through the middle of the playground, into a new pond, deep and clear and golden. Miss Pele's volcano became a warm little hill for sitting on. Mister Jackson's maze turned into a hedge with a gate at both ends. Miss Persey's garden and Baba Yaga's cabbages grew side by side. Mister Raven's nest was moved to a lower beam, where Dot could visit. And in the very middle of the new playground stood a single wooden bench, with a golden plaque. It read: *There is always room for one more.*
 
 It was the loveliest playground any of us had ever seen.
 
@@ -408,9 +408,9 @@ Alex and Felix and Maya and Willow sat with her. Dot was lying on the grass, wit
 
 "Why?" said Maya.
 
-"Because I like to help," said Mrs Oshun. "And because a sweet heart is not a soft one. Sweet things can be strong. Honey holds a tower together. A river carves out a canyon, one drop at a time. Being kind is not the opposite of being powerful. It's the same thing, if you do it long enough."
+"Because I like to help," said Mrs Oshun. "And because a sweet heart is not a soft one. Sweet things can be strong. Honey holds a tower together. A river carves out a valley, one drop at a time. Being kind is not the opposite of being powerful. It's the same thing, if you do it long enough."
 
-Maya wrote it down. She underlined it three times.
+Maya wrote it down. She wrote it in her very best handwriting.
 
 "And you two," said Mrs Oshun, looking at the twins. "You were left out, in the staff room, and you could have gone away and sulked. Instead, you came to find someone else who was left out. And you stood in the mud, and you asked. That is the bravest and kindest thing I know."
 
