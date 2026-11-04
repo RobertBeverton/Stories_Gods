@@ -106,7 +106,7 @@ Elfine told us how it went, while Mister Anansi was busy talking to Mister Harri
 
 "And the fairy?" said Felix.
 
-"He made a doll out of sticky gum and left it by a tree, with a bowl of yams," said Elfine. "When the fairy came, she said hello, and the doll didn't say anything back. So she got cross and hit it. And she got stuck. And then she got stuck again."
+"He made a doll out of sticky gum and left it by a tree, with a bowl of yams," said Elfine. "When the fairy came, she said hello, and the doll didn't say anything back. So she got cross and poked it. And she got stuck. And then she got stuck again."
 
 "That is the best story I've ever heard," said Marion.
 
@@ -202,7 +202,7 @@ Mister Anansi opened his mouth. Then he shut it again.
 
 "You were clever and brave," said Felix. "But that's not the only thing. Clever isn't the same as being kind."
 
-"Not always," said Mister Anansi. He looked at the pot. "And the pot has been a bit... greedy. Even I can't stop it."
+"Not always," said Mister Anansi. He looked at the pot. "And the pot has been a bit... greedy. Once I started keeping stories in it, it began to take every story told anywhere near it. Mine. Yours. Everybody's. And now even I can't stop it."
 
 That's when the wind howled across the field, so strong that the Old Oak creaked. And the lid on the pot began to rattle.
 
