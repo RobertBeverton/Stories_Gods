@@ -92,6 +92,14 @@ She told us, sitting under the climbing frame, where the nest was still wedged i
 
 "All of them. WHOOSH. And they went everywhere, in a big, messy, glittery splatter. That's the Milky Way, they say. And all the scattered stars that aren't in any pattern."
 
+"Did he say sorry?" said Kenji.
+
+"Not for about a thousand years," said Elfine.
+
+"That's longer than Ollie," said Marion.
+
+"I said sorry about the cake the same day," said Ollie, with his mouth full.
+
 "I like that," said Dot.
 
 "So do I," said Elfine. "But the careful stars were already finished, and they were beautiful. And the messy ones are beautiful too, just in a different way. The point is, Coyote's mistake made something new."
@@ -208,7 +216,7 @@ Alex and Felix started running toward the Gobbler before anyone else did. They d
 
 Elfine was already talking.
 
-"It's the Nez Perce story," she gasped. "The Monster who swallowed everyone. Coyote went in, with Fox's warning, and he fixed everything from the inside. This is the same one! We know how it goes!"
+"It's like an old story," she gasped. "The one where a Monster swallowed everyone, and Coyote went in and fixed it from the inside. This is the same sort of thing! We know how it goes!"
 
 "I'll go in with Mister Coyote," said Alex.
 
@@ -384,11 +392,7 @@ Everyone looked at Mister Coyote. He was covered in mud from his boots to his ha
 
 "What's that?" said Marion.
 
-"I listened," said Mister Coyote. "For the first time in my whole life, I listened to two very small people. And they were right." He looked at Alex and Felix. "You didn't need clever tricks. You needed kindness, and you needed each other. I've been trying to be noticed for years. All I had to do was help."
-
-"Everyone's good at something," said Felix.
-
-"And everyone can be better," said Alex.
+"I listened," said Mister Coyote. "For the first time in my whole life, I listened to two very small people. And they were right."
 
 From that day on, every Friday at three o'clock, Mister Coyote made forty-three sandwiches in the dinner hall kitchen, with Missus Tibbs supervising, and carried them up to Gobbler Hill. And the hill would sigh, and say thank you, and the whole school would sit on its warm green shoulders, eating together.
 
@@ -404,7 +408,7 @@ Then the ground began to shake again.
 
 Not a rumble this time, but a drumming. A rolling, thumping, thundering boom, like a hundred huge drums.
 
-We all turned. Out on the road, rolling slowly up to the school gate, was a deep stormy-blue van, with lightning bolts down the side. It was the same van we had seen the week before. Silver letters on the door read: HADAD'S STORM SUPPLIES. A great black cloud was gathering overhead, crackling and purple, and the air smelled of rain.
+We all turned. Out on the road, rolling slowly up to the school gate, was a deep stormy-blue van, with lightning bolts down the side. It was the same van we had seen before. Silver letters on the door read: HADAD'S STORM SUPPLIES. A great black cloud was gathering overhead, crackling and purple, and the air smelled of rain.
 
 "Oh no," said Mister Coyote, covering his face with his hat. "That's the big one. That's the Storm Lord himself. And I've got a feeling he's not going to be as funny as me."
 
