@@ -120,9 +120,9 @@ Mister Hadad turned. He had a strange, startled look on his face. "How do you kn
 
 "Elfine told us!" shouted Felix.
 
-"The first club doesn't work!" shouted Alex. "You have to say the name!"
+"The first club didn't work!" called Alex. "You have to say the name!"
 
-"Say its name and tell it what to do!" shouted Felix.
+"Say its name and tell it what to do!" cried Felix.
 
 Mister Hadad blinked. Then he threw back his head and let out a roar of laughter that shook the roof tiles. "Of course!" he boomed. "A name and a job! Chaser! Chase Yam away!"
 
@@ -256,7 +256,7 @@ Anat led the way, with her sword held low. Alex and Felix came next, with the li
 
 At the bottom of the stairs was a vast stone hall, full of cobwebs and shadows. In the middle of the hall stood a long grey table. Everything on it was covered with a thick layer of dust: a dusty plate, a dusty cup, a dusty candle that had never been lit.
 
-And at the head of the table sat a very tall, very thin man in a grey suit. His face was pale and long. His eyes were hollow. And his mouth was open so wide that it nearly touched the floor and the ceiling at the same time.
+And at the head of the table sat a very tall, very thin man in a grey suit. His face was pale and long. His eyes were hollow. And his mouth was open so wide that it nearly touched the floor and the ceiling at once.
 
 There was something wedged in the back of that mouth, just like a cork in a bottle. It had two boots, and a pair of bull's horns.
 
@@ -316,7 +316,7 @@ When Anat swung her sword, he turned into dust. Grey clouds of it swirled up and
 
 "What makes dust stay put?" yelled Elfine.
 
-Alex and Felix looked at each other. A tiny idea was forming in both their heads at the same moment, and they said it together:
+Alex and Felix looked at each other. A tiny idea popped into both their heads, and they said it together:
 
 "Water."
 
@@ -334,7 +334,7 @@ POP.
 
 ## Part Thirteen. Out Pops Baal
 
-Mister Hadad shot out of Mot's mouth like a champagne cork. He hit the ceiling, bounced off a cobweb, and landed in a heap on the table.
+Mister Hadad shot out of Mot's mouth like a cork from a bottle. He hit the ceiling, bounced off a cobweb, and landed in a heap on the table.
 
 "Thank you, little cat," he panted. "That was getting very stuffy."
 
@@ -358,7 +358,7 @@ She swept the seeds into a bag.
 
 ## Part Fourteen. The Rain Comes Back
 
-When we climbed back up the cellar steps and out into the sunlight, the whole school was waiting. Mister Harris, Missus Tibbs, every child from Year One and Reception, all of them standing in a silent ring on the dusty field.
+When we climbed back up the cellar steps and out into the sunlight, the whole school was waiting. Mister Harris, Missus Tibbs, every child in the school, all of them standing in a silent ring on the dusty field.
 
 Mister Hadad stepped out, blinking. He took off his helmet. He took a deep breath of fresh air.
 
@@ -422,7 +422,7 @@ We all sniffed. The air was getting warm. Not sunny warm, but something else. A 
 
 We looked at the playground. A long, thin crack was snaking across the tarmac, from the hopscotch to the climbing frame. A soft red glow was pouring out of it, like the light from an oven.
 
-Anat stopped juggling. She put down her sword. "Oh no," she said.
+Anat stopped mid-throw. She lowered her newspaper javelin. "Oh no," she said.
 
 "What?" said Alex.
 
