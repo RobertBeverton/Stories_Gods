@@ -30,7 +30,7 @@ If the cast changes, the user will say so. Keep the latest instruction until tol
 - Reading level Year 2 to 3, school reference Year 1.
 - Affirmations are woven into the narrative. No notes page, no questions for the children afterwards.
 - Each story ends with a hook for the next god, and the twins say "Monday" in unison.
-- About 4,000 words. (The Pele story, at about 3,200, is the short outlier.)
+- About 4,000 words. (Stories run longer or shorter as they need to.)
 - Keep sensitive subjects kid-appropriate. Moloch was declined because of child sacrifice. Living religions are portrayed warmly and respectfully.
 - Each story uses a different tradition, myth and moral.
 

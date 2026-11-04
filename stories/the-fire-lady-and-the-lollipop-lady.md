@@ -64,7 +64,53 @@ We sat on the far side of the playground, as far from the crack as we could get.
 
 "I don't know," said Elfine. "But I'm guessing Namaka is on her way."
 
-## Part Three. The Floor Is Lava
+## Part Three. Home Economics and Hot Water
+
+On Monday afternoon, we had our first lesson with Miss Pele.
+
+We were nervous. None of us had ever had a teacher with a crack in the playground. But the Home Economics room smelled like a bakery on a cold day, and Miss Pele stood at the front with a loaf of bread and a very small smile.
+
+"Today we are making toast," she said. "Does anybody know how to make toast?"
+
+"With a toaster," said Dot.
+
+"Watch," said Miss Pele.
+
+She took a slice of bread and held it between her two flat hands, like a sandwich. A faint orange glow came up through her fingers. There was a little sizzle. When she opened her hands, the bread was perfectly golden, crisp at the edges, and smelling so good that Ollie had to hold on to the table.
+
+She made a whole tray of it, one slice after another, and handed it round with butter. It was the best toast any of us had ever eaten. Alex ate his slowly, in tiny bites, to make it last. Felix ate his in about four seconds. Then they swapped halves, because that is how they do it.
+
+"This is perfect," said Alex.
+
+"Perfect," said Felix, with his mouth full.
+
+Miss Pele went a bit pink. It was the first time we had seen her smile properly.
+
+That was when the door opened and Mister Harris came in, with his clipboard.
+
+"Sorry to interrupt, Miss Pele," he said. "The council say that crack in the playground will take two weeks to mend. And I wondered, in the meantime, if you could perhaps try to stay a little calmer? We had a rather worried parent this morning." He looked at the sparks in her hair. "Calm down, that's all."
+
+The room went very quiet.
+
+Then her hair went up. Not slowly, the way it usually did. All at once, like a match dropped into straw. The tray of toast burst into flames. Dot shrieked. Mister Harris grabbed the fire bucket by the door and threw it, and the water hit the tray with a huge *PSSSHHH*. The whole room filled with steam.
+
+When it cleared, there were twenty slices of toast on the counter, every one as black as coal. Miss Pele was standing in the middle of them, with smoke curling off her shoulders and her eyes very bright.
+
+"I'm sorry," she whispered. "I'm sorry, I'm sorry. It just comes up."
+
+And she ran out through the steam. We heard her bare feet in the corridor, glowing and then fading.
+
+Mister Harris looked at his empty bucket. "Well," he said. "That didn't work."
+
+"She was already trying," said Felix.
+
+"And saying calm down never makes anyone calm down," said Alex. "It makes it worse."
+
+Felix looked at the loaf. There was one slice left in the bag, plain and pale. He picked it up, and thought for a moment, and put it in his pocket.
+
+"For later," he said.
+
+## Part Four. The Floor Is Lava
 
 It was Tuesday when everything went wrong.
 
@@ -88,7 +134,7 @@ It was real lava. It oozed. It bubbled. It lit up the whole playground in a flic
 
 Children scrambled onto the benches, the bike shelter and the roofs of the sheds. Reception clung to the top of the climbing frame. And the lava crept closer and closer, until the frame was surrounded on every side.
 
-## Part Four. Marion's Monkey Bars
+## Part Five. Marion's Monkey Bars
 
 "They can't get down!" shrieked Maya.
 
@@ -114,9 +160,9 @@ She swung from bar to bar, hand over hand, her feet dangling above the glowing r
 
 Dot wiped her nose. She took a deep, shaky breath. "I'm small," she called, "but I've got strong arms!"
 
-And one by one, hand over hand, with Marion and the twins holding on to her, the Reception children crossed the burning playground, until every last one was safe.
+And one by one, hand over hand, with Marion and the twins cheering her on, the Reception children crossed the burning playground, until every last one was safe.
 
-## Part Five. The Lollipop Lady
+## Part Six. The Lollipop Lady
 
 That was when a whistle blew.
 
@@ -146,15 +192,55 @@ The lava fizzed. The air was getting hotter. Pele stood up, and the ground crack
 
 "They're both going to do something terrible," said Kenji. "I can feel it."
 
-## Part Six. Alex and Felix Step In
+## Part Seven. The First Try
 
-It was Alex and Felix who noticed the thing that everyone else had missed.
+"We have to stop them," said Alex.
+
+"Before they flood the school," said Felix.
+
+"Or burn it," said Alex.
+
+They looked at each other. And then they did what twins do when something big is happening and there is no time to plan. They each picked a side. Alex ran towards Pele. Felix ran towards Namaka.
+
+"Please stop!" said Alex, tugging at Pele's cloak. "Somebody's going to get hurt!"
+
+"Stay out of it," said Pele. She did not even look down. A little flame jumped off her sleeve and singed one side of his fringe.
+
+"Please stop!" said Felix to Namaka. "You'll flood everything!"
+
+"This is between sisters," said Namaka coolly. A wave of mist rolled over him and soaked him from his hair to his socks.
+
+They ended up crouching behind the bench. Alex smelled of toast, and one side of his fringe had curled up. Felix dripped. A little puddle was spreading under his shoes. Neither of them had been the least bit of use.
+
+"She wouldn't listen to me," said Alex.
+
+"She wouldn't listen to me either," said Felix, wringing out his sleeve.
+
+"I was on Pele's side," said Alex.
+
+"I was on Namaka's side," said Felix.
+
+They both stopped.
+
+"That's the problem," said Alex slowly. "Everybody's picked a side."
+
+"Even us," said Felix.
+
+Under the bench, where she had been hiding with her paws over her nose, Willow gave them a long look. It was the look she gives when somebody finally gets it.
+
+## Part Eight. Nobody's Side
+
+So this time, Alex and Felix did not pick a side. And that was how they noticed the thing that everyone else had missed.
 
 Pele and Namaka were shouting at each other, but they weren't saying what they really meant. Pele was shouting about being chased. Namaka was shouting about being left. Neither of them was listening, and both of them were crying.
 
-Alex took Felix's hand, and Felix took Alex's.
+Alex took Felix's hand, and Felix took Alex's. Alex's fringe still smelled of toast.
 
-They walked through the glowing playground together, right between the two goddesses.
+"Smell the toast," Alex whispered. It was what Nana always said, when they were about to go off.
+
+"Blow out the candle," whispered Felix. They both breathed in, and out, and in again.
+
+Then they walked through the glowing playground together, right between the two goddesses.
 
 "Excuse me," said Alex, in his clear, careful voice.
 
@@ -180,7 +266,7 @@ Pele looked down. Her eyes were red from crying. A tear rolled down her face and
 
 "Because then it doesn't matter," said Felix. "You just want to be friends again more than you want to win."
 
-## Part Seven. The Canoe
+## Part Nine. The Canoe
 
 Pele sat down on the edge of the crack, with her chin in her hands.
 
@@ -208,17 +294,17 @@ There was a long pause. The lava gave a gentle bloop. The mist swirled. Neither 
 
 "On three," said Alex.
 
-## Part Eight. Willow's Moment
+## Part Ten. Willow's Moment
 
 Pele and Namaka glanced at Alex and Felix. Then at the ground.
 
 "I can't," said Pele. "I'm too hot. If I hug her, I'll burn her. And she's so wet, she'll put me out."
 
-"That's silly," said Marion, from the monkey bars. "You're sisters. You'll work it out."
+"Could somebody help me?" said Pele, in a very small voice. "I don't know how to stop."
 
-"We'll work it out," said Elfine, "because Willow's going to help."
+"We'll help," said Elfine. "Willow's going to help."
 
-Everyone looked at Willow. She was sitting on the climbing frame bench with her paws tucked neatly under her chest, looking at the goddesses with half-closed golden eyes.
+Everyone looked at Willow. She was sitting on the bench where she had been hiding, with her paws tucked neatly under her chest, looking at the goddesses with half-closed golden eyes.
 
 Elfine whispered in Marion's ear. Marion nodded. She picked Willow up gently and carried her across the playground, past the glowing lava, past the swirling mist, and held her out to Pele.
 
@@ -226,7 +312,7 @@ Elfine whispered in Marion's ear. Marion nodded. She picked Willow up gently and
 
 Pele hesitated. Then, very carefully, she took Willow in her arms.
 
-Willow looked up at her. She blinked, slowly. Then she started to purr.
+Willow looked at the glowing lava. She looked at the swirling mist. Her tail twitched, once. Then she looked up at Pele, and blinked, and tucked her nose into the red cloak. And she started to purr.
 
 It was the biggest purr we had ever heard. It rolled out of her chest like a motor, deep and slow and warm. And as it did, the orange glow in Pele's hair began to fade. Her shoulders loosened. The heat around her dropped, a little at a time, until her cloak stopped smoking and her feet stopped glowing.
 
@@ -236,7 +322,7 @@ It was the biggest purr we had ever heard. It rolled out of her chest like a mot
 
 "She puts up with us," said Elfine. "But sometimes she makes an exception."
 
-## Part Nine. Sorry on Three
+## Part Eleven. Sorry on Three
 
 Pele held out her hand to Namaka. It was warm, but not burning. Namaka took it. Her hand was cool, but not freezing.
 
@@ -260,7 +346,7 @@ When the steam cleared, the two goddesses were standing with their arms round ea
 
 "All you needed was a little help," said Alex.
 
-## Part Ten. How Islands Are Made
+## Part Twelve. How Islands Are Made
 
 But the lava was still creeping across the tarmac.
 
@@ -278,11 +364,11 @@ It had turned to black rock. Smooth and shiny, like glass. And along the edge, w
 
 "It's an island!" whispered Elfine.
 
-"It's a new bit of land," said Alex slowly. "Look. Fire made it, and water shaped it. They had to work together. Neither one could do it alone."
+"It's a very small island," said Alex, looking at it. "About the size of a bus stop."
 
-"That's how islands get made," said Felix.
+"Population, one worm," said Felix. A worm had popped up on the black sand and was looking round in alarm.
 
-"That's exactly how," said Pele, with a wobbly smile. "Fire pushes it up out of the ground. And the sea carves it into beaches. We were never meant to be enemies. We were meant to be partners. It just took us a hundred and four years to remember."
+"That's how islands get made," said Pele, with a wobbly smile. "Fire pushes it up out of the ground. And the sea carves it into beaches. We were never meant to be enemies. We were meant to be partners. It just took us a hundred and four years to remember."
 
 All around the playground, the black rock was cooling into smooth, shining patches. In the middle, where the crack had been, there was a round black stone, warm as a hot-water bottle, smooth enough to sit on.
 
@@ -290,7 +376,7 @@ All around the playground, the black rock was cooling into smooth, shining patch
 
 "It'll stay warm all winter," said Pele. "I'll make sure of it."
 
-## Part Eleven. What Pele Said
+## Part Thirteen. What Pele Said
 
 At the end of the day, Pele sat on the new warm stone and told us something.
 
@@ -300,15 +386,7 @@ She had a cup of cocoa in her hands, which Missus Tibbs had made, and Willow was
 
 "It doesn't," said Felix.
 
-"Having big feelings isn't bad," said Alex.
-
-"I know that now," said Pele. "It's what you do with them that counts. When I'm angry, I can burn things down. Or I can stop and breathe and ask for help. I didn't know I was allowed to ask."
-
-"Everybody is allowed to ask," said Dot.
-
-"And being cross doesn't mean you're not loved," said Namaka, squeezing her sister's hand.
-
-"The bravest thing anyone can do is say sorry first," said Pele. She looked at the twins. "And you two knew that all along. You didn't need magic. You just needed each other."
+"I always thought it was only me who got this cross," said Pele. "I didn't know I was allowed to ask for help."
 
 Marion nudged Elfine. "We should try the counting thing sometimes," she whispered.
 
@@ -318,7 +396,57 @@ Marion nudged Elfine. "We should try the counting thing sometimes," she whispere
 
 "Fair point," said Elfine.
 
-## Part Twelve. The Ending, with a Hook
+## Part Fourteen. Smell the Toast
+
+The next morning, Miss Pele was in the Home Economics room before any of us. We were early too, because Felix had said something might happen.
+
+"I'd like to try again," she said, "but I'm frightened it will go wrong."
+
+Felix took the slice of bread out of his pocket. It was a bit squashed, and still a little damp from the sea mist.
+
+"I kept this," he said. "For later. In case you wanted a go without the whole class watching."
+
+"You kept it?" said Pele, and her voice caught.
+
+"We've got a trick," said Alex. "Nana taught it to us. It's for when you feel like you're about to go off. You breathe in slowly, like you're smelling toast."
+
+"And then you breathe out slowly," said Felix, "like you're blowing out a candle."
+
+"Smell the toast," said Alex.
+
+"Blow out the candle," said Felix.
+
+They did it three times, all three of them, in and out. The first time, Pele's breath came out in a puff of smoke. The second time, a little wisp. The third time, nothing at all, only warm air.
+
+She held the slice between her hands. At once it began to glow, too bright and too fast, and her hair flickered.
+
+"Smell the toast," whispered Alex.
+
+"Blow out the candle," whispered Felix.
+
+She breathed in. She breathed out. The glow settled, steady and orange, like the flame on a birthday cake. When she opened her hands, there was a slice of perfect golden toast.
+
+She tore it into three. "One for Alex," she said. "One for Felix. One for me."
+
+We didn't get any. But we could smell it, and it smelled like the best morning ever.
+
+Just then the door opened, and Mister Harris put his head in. He had a full bucket of water behind his back, which he thought nobody had noticed. He saw Pele, and he stopped.
+
+"I was going to say something," he said carefully. "But I don't think I should."
+
+"You can say it," said Pele.
+
+"Calm down?" said Mister Harris, in a very small voice.
+
+Pele shut her eyes. She breathed in. A single wisp of smoke rose from her hair. She breathed out. It faded.
+
+"Thank you, Mister Harris," she said. "I'm working on it."
+
+Very quietly, he put the bucket down.
+
+Mister Harris turned the colour of a boiled sweet, said "Jolly good," and walked into the door.
+
+## Part Fifteen. The Ending, with a Hook
 
 Later that week, as the November evenings drew in, something very odd happened.
 

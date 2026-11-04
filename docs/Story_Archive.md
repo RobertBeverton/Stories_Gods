@@ -4,7 +4,7 @@ Every story written, in order, with its details. Entries 1 to 19 were seeded fro
 
 ## What to watch for across the series
 
-- **Length drift.** Stories run about 4,000 to 4,700 words. Pele's is the short one (about 3,200).
+- **Length drift.** Stories run about 4,000 to 4,700 words. Pele's was expanded to about 4,200.
 - **Hook chaining.** Most stories follow the previous hook. Story 3's hook (Hadad) was not followed immediately, because Raven and Coyote were asked for first.
 - **Cast changes.** Elfine and Marion are retired from story 12 onwards.
 - **Repeating beats.** Tower or structure about to fall, a small child in danger and rescued by the twins, a staff meeting that goes wrong, and a sunset speech have all been used many times. Vary them.
