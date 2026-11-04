@@ -1,4 +1,7 @@
-name: Build and Deploy
+name: Validate world data
+
+# Checks this world's stories and lore against the Stories app's rules.
+# It does not build or deploy a site: the Stories repo does that.
 
 on:
   pull_request:
@@ -7,36 +10,29 @@ on:
 
 permissions:
   contents: read
-  pages: write
-  id-token: write
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
 
 jobs:
-  build:
+  validate:
     runs-on: ubuntu-latest
     steps:
+      # Side by side, so the checks read this world as ../Gods-PrimarySchool.
       - uses: actions/checkout@v4
+        with:
+          path: Gods-PrimarySchool
+      - uses: actions/checkout@v4
+        with:
+          repository: RobertBeverton/Stories
+          path: Stories
       - uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 24
           cache: npm
+          cache-dependency-path: Stories/package-lock.json
       - run: npm ci
-      - run: npm run build
-      - if: github.ref == 'refs/heads/main'
-        uses: actions/upload-pages-artifact@v3
-        with:
-          path: _site
-
-  deploy:
-    if: github.ref == 'refs/heads/main'
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v4
+        working-directory: Stories
+      - run: node ../Stories/scripts/validate-world-data.mjs --strict --world legend-lane
+        working-directory: Gods-PrimarySchool

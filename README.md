@@ -1,41 +1,29 @@
 # The Staff Room Gods
 
-**Read the stories: https://robertbeverton.github.io/Stories_Gods/** (once Pages is switched on, see below)
+**Read and hear the stories in the Stories app:** https://robertbeverton.github.io/Stories/ (this world appears there as Legend Lane).
 
 Bedtime stories for Alex and Felix. In each one, a god or legend from a different part of the world turns up at their school as a new member of staff, the children work out who they are, and a school-sized version of the old myth has to be put right. About 4,000 words each, told by a group of classmates in the "we" voice, with an affirmation woven in and a hook for the next god.
 
-This repo holds the stories, the guides behind them, the narration tooling and the small static site that publishes it all. It is built the same way as the Isles of Yum repo (11ty site, ElevenLabs narration, Claude Code skills).
+This repo holds the stories, the lore, the guides behind them and this world's narration settings. The app, hosting and narrator live in the [Stories repo](https://github.com/RobertBeverton/Stories).
 
 ## What's in here
 
 | Path | What it is |
 |---|---|
-| `stories/` | The stories, as Markdown with front matter. A story's audio is the `.mp3` next to it with the same name (`some-story.md` plays `some-story.mp3`). |
+| `stories/` | The stories, as Markdown with front matter (`audioUrl`, `audioDuration` and `parts` once narrated). Paths and filenames are permanent: they key listeners' saved progress. |
+| `lore/` | One short lore entry per god, linked from each story. |
 | `docs/Story_Guide.md` | The method: the 17-part recipe, voice rules, fairness between twins, affirmations, choosing a god. Written so it can be handed to someone else. |
 | `docs/Story_Bible.md` | The cast, standing rules, staff roster and running threads for this family. |
 | `docs/Story_Archive.md` | Every story written, with details and the hook it ended on. |
 | `docs/God_Tracker.md` | Who is next (Janus), who has been covered, ideas not yet used. |
-| `audio-pipeline/` | ElevenLabs narration script, pronunciation list and notes. |
+| `narration/` | This world's narration settings: `pronunciations.json` (respellings for names the voice mangles). |
 | `.claude/skills/` | Claude Code skills: `god-story-process`, `story-consistency-check`, `listener-review`, `audio-narration-prep`. |
-| `site/`, `eleventy.config.js`, `scripts/` | The 11ty site, build helpers and content validation. |
 
-## Using the site locally
+## How this fits
 
-```bash
-npm install
-npm run serve      # local dev server with live reload
-npm run validate   # check story content (missing audio is a warning, not a failure)
-npx vitest run     # run the test suite
-npm run build      # validate, run contrast checks, build the site into _site/
-```
+Stories live here. The app, the hosting and the narrator live in the Stories repo, checked out beside this one as `../Stories`. This world is `legend-lane` there, and the Stories build reads this checkout. Audio is hosted on Cloudflare R2; no mp3s are kept in this repo.
 
-## Publishing
-
-1. Create the GitHub repo (the files assume it is called `Stories_Gods` under the `RobertBeverton` account) and push this folder to `main`.
-2. In the repo, go to Settings, then Pages, and set Source to **GitHub Actions**.
-3. Every push to `main` builds and deploys through `.github/workflows/build.yml`. Pull requests build without deploying.
-
-If you use a different repo name, search and replace `Stories_Gods` across the project. The places that matter are `PATH_PREFIX` in `scripts/stories-lib.mjs`, the `pathPrefix` in `eleventy.config.js`, `site/manifest.webmanifest`, and `package.json`.
+CI runs `node ../Stories/scripts/validate-world-data.mjs --strict --world legend-lane` on every push and pull request. It builds and deploys nothing.
 
 ## Writing a new story
 
@@ -58,17 +46,20 @@ If you use a different repo name, search and replace `Stories_Gods` across the p
    ```
 
    Chapters are `## Part N. Title` headings. A line containing only `• • •` also works as a scene break.
-3. Run `npm run validate` and `npx vitest run`, then update the archive, bible and tracker.
+3. Run the validate command above, then update the archive, bible and tracker.
 
 ## Narration
 
+From the Stories checkout:
+
 ```bash
 export ELEVENLABS_API_KEY=...        # needs ffmpeg on your PATH too
-node audio-pipeline/narrate-single-voice.mjs stories/some-story.md --dry-run   # preview the exact text the voice will read
-node audio-pipeline/narrate-single-voice.mjs stories/some-story.md             # writes stories/some-story.mp3
+npm run narrate -- ../Gods-PrimarySchool/stories/some-story.md --dry-run   # read what the voice will say
+npm run narrate -- ../Gods-PrimarySchool/stories/some-story.md             # spends ElevenLabs credits
+npm run upload-audio -- --apply --world legend-lane --story some-story     # host it on R2
 ```
 
-The script turns headings into spoken lines ("Part Three. The Old Myth."), strips italics markers, and swaps in respellings from `audio-pipeline/pronunciations.json` (so the page keeps "Quetzalcoatl" while the voice says "Ketsalkoatl"). It runs locally only, never in CI. Commit the `.mp3` next to its `.md`; the site finds it by filename and `npm run validate` fills in the duration. See `audio-pipeline/README.md`.
+Then commit the story's changed front matter here. Respellings (so the page keeps "Quetzalcoatl" while the voice says "Ketsalkoatl") live in `narration/pronunciations.json`. See `narrator/README.md` in the Stories repo.
 
 ## The stories so far
 
