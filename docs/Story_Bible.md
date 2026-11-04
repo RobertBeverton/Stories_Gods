@@ -92,10 +92,10 @@ Other early cameos: Ms Crabtree, School Inspector (story 10); Arabella Webb, Pri
 
 ### To decide
 
-Decided so far: the Thor and Loki naming (below); Fortuna as Felicitas's sister is a deliberate invention (the lore entry notes the Romans treated them as separate); Hephaestus making Zeus's thunderbolts is fine for a story; Yu "lived" about four thousand years ago is fine (these are myths, not history). Still open: the Nuwa and sky-mending overlap (stories 17 and 33).
+Decided so far: the Thor and Loki naming (below); Fortuna as Felicitas's sister is a deliberate invention (the lore entry notes the Romans treated them as separate); Hephaestus making Zeus's thunderbolts is fine for a story; Yu "lived" about four thousand years ago is fine (these are myths, not history).
 
 - **Thor and Loki (decided).** Always write Mister Thor and Mister Loki in new text: they are clear and unambiguous. Stories 1 and 6 keep their disguise names, Mr Thorley (Caretaker) and Mr Locke (Supply Teacher), as written. Story 37 introduces Mister Thor (Hammer and Heavy Lifting) and Mister Loki (Magic Tricks); they are the same gods. Loki is called Thor's "brother" in the stories on purpose (in the myths he is Odin's blood-brother); that is accepted.
-- **Nuwa.** Story 17 has Ms Wa, Pottery (and People). Story 33 has Mrs Nuwa, Art and Clay. Mrs Pandy (story 16) is also Art. Decide whether Ms Wa and Mrs Nuwa are one badge, and who holds Art.
+- **Nuwa (decided).** Ms Wa, Pottery (and People) in story 17 is the same woman as Mrs Nuwa, Art and Clay in story 33: she was promoted, and Mister Harris says so in story 33. The sky has cracked twice, once in each story. Both stories stay.
 - **Hephaestus' spelling.** Badge reads Mr Hepheston; text and later stories say Mister Heston. Treat Heston as the working name.
 - **The Postman.** Mr Hermes is the school Postman. Story 37 gives Thiazi the job of Sky Postman. Probably compatible (sky post versus school post), but not stated.
 
