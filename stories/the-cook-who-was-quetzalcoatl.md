@@ -24,7 +24,7 @@ On Monday morning, a man was crouching over that very puddle with his hands behi
 
 He was tall and slim, with a long green scarf that shimmered in the sun, and his hair was a mass of bright, feathery curls. His badge said Mister Ketz, Kitchen Garden and Wind. When he stood up, a small warm breeze rolled across the playground, even though the flags weren't moving.
 
-"Good morning, Year One," he said, with a little hissy s. "I'm told you have a Harvest Festival on Friday."
+"Good morning, class," he said, with a little hissy s. "I'm told you have a Harvest Festival on Friday."
 
 "We do," said Mister Harris, hurrying up behind him. "But we have a small problem."
 
@@ -138,7 +138,7 @@ The dog, hearing his name, wagged his tail and knocked over a bucket.
 
 ## Part Six. The Bump
 
-On Tuesday, Mister Ketz took Year One to the bottom of the field. The ground was soggy, but the Bump was still there, a round, grassy mound as tall as a bus, with a small crack in the side, no wider than a pencil.
+On Tuesday, Mister Ketz took the whole class to the bottom of the field. The ground was soggy, but the Bump was still there, a round, grassy mound as tall as a bus, with a small crack in the side, no wider than a pencil.
 
 He crouched down and whispered, "I think the corn is in there."
 
@@ -222,7 +222,7 @@ He looked at the Bump.
 
 He said, "I have an idea. But it needs two small helpers, who can make themselves even smaller, and who work well together."
 
-Alex and Felix looked at each other.
+Alex and Felix nodded.
 
 Mister Ketz said, "It will be dark, and it will be scary. But my brother will be with you."
 
@@ -238,7 +238,7 @@ They said it together, very quietly: "I can be scared and brave at the same time
 
 Mister Ketz waved his hand, and a warm wind rolled across the field, tickling their noses. It smelled of rain and flowers and the first day of spring.
 
-The twins felt a strange fizzing in their toes. The grass began to grow taller. The hedge shot up into the sky. Mister Harris turned into a giant, then a mountain, then a faraway cloud.
+The twins felt a strange fizzing in their toes. The grass began to grow taller. The hedge shot up into the sky. Mister Harris grew into a giant, then a mountain, then a faraway cloud.
 
 When the fizzing stopped, they were tiny. They were about as big as a button, standing in a forest of green grass blades, with a dewdrop beside them the size of a bath.
 
@@ -350,7 +350,7 @@ Alex whispered, "It's a leak."
 
 Felix whispered, "Mister Yu said, make a path, not a wall."
 
-They looked at each other. They both knew.
+They both knew.
 
 Alex said, "Your Majesty. We think we can help. Would you like to try something?"
 
@@ -418,7 +418,7 @@ Felix said, "Thank you."
 
 She said, "Thank you."
 
-Alex and Felix took a handle each, lifted the great golden kernel between them, and walked back up the tunnel, side by side, with a line of cheering ants behind them.
+Alex and Felix took an end each, lifted the great golden kernel between them, and walked back up the tunnel, side by side, with a line of cheering ants behind them.
 
 ## Part Eighteen. The Way Out
 
