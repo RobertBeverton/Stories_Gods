@@ -14,15 +14,15 @@ draft: false
 
 ## Part One. Reading Buddies
 
-Every Monday morning, the big kids from Year Three come to Year One for Reading Buddies. They sit next to us and listen while we read. It is the best part of the week.
+Every Monday morning, the big kids from the class above come to our class for Reading Buddies. They sit next to us and listen while we read. It is the best part of the week.
 
-This Monday it was even better, because two of the big kids were Alex and Felix's cousins. Their names are Elfine and Marion. They are eight years old, they are twins, and they look so alike that Mister Harris says he needs a clipboard to tell them apart. Elfine has glasses and a notebook. Marion has scabby knees and a pocket full of string.
+This Monday it was even better, because two of the big kids were Alex and Felix's cousins. Their names are Elfine and Marion. They are twins, and they look so alike that Mister Harris says he needs a clipboard to tell them apart. Elfine has glasses and a notebook. Marion has scabby knees and a pocket full of string.
 
 They had also brought Willow.
 
 Willow is a Bengal cat. She is nine, which is very old for a cat, and she is gold with black spots, like a tiny leopard. She is an official Reading Cat. She has a lanyard. She has a laminated badge. Missus Tibbs made her put a paw print in the visitors' book at the office, and Willow did it in a way that showed she thought it was a bit beneath her.
 
-Every Monday, Willow walks into Year One, ignores everybody, and chooses one child to sit beside. She never chooses the child who is shouting. She always chooses the child who needs her.
+Every Monday, Willow walks into our classroom, ignores everybody, and chooses one child to sit beside. She never chooses the child who is shouting. She always chooses the child who needs her.
 
 But today, Willow stopped in the doorway. She stood completely still, with her tail up like a question mark.
 
@@ -40,7 +40,7 @@ It was a man. He was thin and tall, and he wore a long waistcoat with eight pock
 
 His badge said Mister Anansi, Story Corner.
 
-"Good morning, Year One," he said. "And good morning to the big children. And good morning," he added, looking carefully at Willow, "to the cat."
+"Good morning, little ones," he said. "And good morning to the big children. And good morning," he added, looking carefully at Willow, "to the cat."
 
 Willow's tail twitched. Her eyes went very wide and very black.
 
@@ -128,7 +128,7 @@ Mister Anansi's eyes went small and narrow, like a spider's.
 
 "Not exactly," he said. "You borrowed it."
 
-Alex looked at Felix. Felix looked at Alex. They didn't say anything, but they both had exactly the same thought, which is that something was a bit odd.
+Alex and Felix said nothing, but they both had the same thought, which is that something was a bit odd.
 
 And that was not the only odd thing. When we went back to the classroom, Maya Singh opened her favourite picture book. It was the one about the dragon who can't sleep. She turned over the pages, one after another.
 
@@ -146,7 +146,7 @@ And it wasn't only books. Dot couldn't remember how Twinkle Twinkle Little Star 
 
 "This is a crisis," said Mister Harris.
 
-"It's the pot," said Elfine, on Thursday lunchtime, when she and Marion had come over to the Year One table. She had her notebook open, and her pencil was flying. "Everything he tells goes in the pot. And I think the pot has got hungry. It's pulling in every story in the school."
+"It's the pot," said Elfine, on Thursday lunchtime, when she and Marion had come over to our table. She had her notebook open, and her pencil was flying. "Everything he tells goes in the pot. And I think the pot has got hungry. It's pulling in every story in the school."
 
 "And he's letting it," said Marion, folding her arms.
 
@@ -232,7 +232,7 @@ The pot stopped. It teetered over the water, rocking back and forth.
 
 ## Part Ten. Marion's Rescue
 
-"I've got her!" yelled Marion.
+"I've got it!" yelled Marion.
 
 She was already running, with Alex and Felix right behind her. Marion has the fastest feet of anyone we know. She slid down the muddy slope on her knees, grabbed the other end of the rope with both hands, and braced her feet against a root.
 
@@ -260,7 +260,7 @@ We heaved. And the big clay pot lurched back out of the water, over the muddy ba
 
 "We have to open it," said Elfine, "but we can't just cut the knot. If it breaks the wrong way, the stories fly out too fast and scatter."
 
-She knelt down in the mud beside the pot, and peered at the cord. Her glasses were splashed all over with dirt. She pushed them up her nose anyway.
+She knelt down in the mud beside the pot, and peered at the cord. Her glasses were splashed all over with dirt. She did not stop to clean them.
 
 "It's no ordinary knot," she said. "Look. It's a story knot. It's tied in a pattern. And I think it's a riddle."
 
@@ -384,7 +384,7 @@ He gave the school a big, friendly wave.
 
 Up on the curtain rail, Mister Anansi put his hand over his face. "Oh no," he said. "Not the storm lot. Not already."
 
-Elfine and Marion looked at each other. Willow fluffed up to twice her size.
+Elfine and Marion went very quiet. Willow fluffed up to twice her size.
 
 And all eyes turned to Alex and Felix. The twins looked at each other, grinning, with the thunder rolling around the roof. They said, at exactly the same time, "Monday."
 
