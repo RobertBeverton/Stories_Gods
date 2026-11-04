@@ -2,7 +2,7 @@
 title: "The Man with Two Faces"
 description: "A two-faced god of doors can't decide whether to say hello or goodbye, and the twins show him you can feel both at once."
 series: "The Staff Room Gods"
-seriesOrder: 20
+seriesOrder: 38
 tags: ["mythology", "roman", "feelings"]
 gods: ["Janus (Roman)"]
 lore: janus

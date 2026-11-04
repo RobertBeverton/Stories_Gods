@@ -1,10 +1,11 @@
 ---
 title: "The Play Director Who Was PAN"
 description: "A goat-legged play director gets a fright, and the twins stay calm when everyone else panics."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 11
 tags: ["mythology", "school"]
 gods: ["Pan (Greek)"]
+lore: pan
 draft: false
 ---
 

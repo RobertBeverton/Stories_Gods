@@ -2,7 +2,7 @@
 title: "The Sandwich Inspector Who Woke the Hill"
 description: "A sandwich-stealing trickster and a very hungry hill. Everyone gets hungry; it is better to ask, and to share."
 series: "The Staff Room Gods"
-seriesOrder: 5
+seriesOrder: 23
 tags: ["mythology", "native-american", "asking"]
 gods: ["Coyote (Native American)"]
 lore: coyote

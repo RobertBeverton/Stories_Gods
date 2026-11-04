@@ -2,7 +2,7 @@
 title: "The Lady Who Wasn't Asked"
 description: "The sweetest goddess in the school is left off the playground committee, and the whole tower starts to lean. Everybody needs a chair."
 series: "The Staff Room Gods"
-seriesOrder: 13
+seriesOrder: 31
 tags: ["mythology", "yoruba", "inclusion"]
 gods: ["Oshun (Yoruba)"]
 lore: oshun

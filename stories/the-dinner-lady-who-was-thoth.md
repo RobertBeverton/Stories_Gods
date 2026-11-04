@@ -1,10 +1,11 @@
 ---
 title: "The Dinner Lady Who Was THOTH"
 description: "A dinner lady who counts everything and corrects the menu is the Egyptian god of writing and numbers."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 7
 tags: ["mythology", "school"]
 gods: ["Thoth (Egyptian)"]
+lore: thoth
 draft: false
 ---
 

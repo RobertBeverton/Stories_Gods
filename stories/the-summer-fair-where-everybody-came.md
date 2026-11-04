@@ -1,7 +1,7 @@
 ---
 title: "The Summer Fair Where EVERYBODY Came"
 description: "Every god at the school runs a stall at the summer fair, and a bouncy castle floats away."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 13
 tags: ["mythology", "school"]
 gods: ["All the gods so far"]

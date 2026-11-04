@@ -13,7 +13,7 @@ Read `docs/Story_Bible.md` and `docs/Story_Archive.md` fresh, then check the out
 - [ ] Willow does one brave or clever thing and never speaks.
 - [ ] Maya works out who the god is and tells a real myth from the tradition.
 - [ ] A child "we" narrator throughout, with a few "That's when" turns.
-- [ ] About 4,000 words in 16 to 18 parts, each with a `## Part N. Title` heading.
+- [ ] At least about 4,000 words (about 6,000 is fine for a story that deserves it), in short parts with `## Part N. Title` headings (16 to 18 is a rough guide, not a rule).
 - [ ] Reading level Year 2 to 3: short sentences, short paragraphs, a few big words carried by context.
 - [ ] An affirmation woven in, spoken by the god late in the story. No notes page, no questions for the children, nothing after "The End."
 - [ ] The story opens on the previous hook (or the user's chosen god) and ends with a new, unnamed hook and the twins saying "Monday" at exactly the same time.

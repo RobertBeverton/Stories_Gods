@@ -2,7 +2,7 @@
 title: "The Soup Cook with the Iron Teeth"
 description: "A witch with a hut on chicken legs frightens everyone, then starts the first ever Friday Soup Club."
 series: "The Staff Room Gods"
-seriesOrder: 9
+seriesOrder: 27
 tags: ["mythology", "slavic", "not-scary"]
 gods: ["Baba Yaga (Slavic)"]
 lore: baba-yaga

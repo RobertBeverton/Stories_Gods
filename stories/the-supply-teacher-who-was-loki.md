@@ -1,10 +1,11 @@
 ---
 title: "The Supply Teacher Who Was LOKI"
 description: "A supply teacher who can't stop playing pranks goes too far, then learns to say sorry and make it right."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 6
 tags: ["mythology", "school"]
 gods: ["Loki (Norse)"]
+lore: loki
 draft: false
 ---
 

@@ -1,10 +1,11 @@
 ---
 title: "The Gardening Teacher Who Was PERSEPHONE"
 description: "Flowers grow wherever the new gardening teacher walks, until the spring goes missing and the twins go looking."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 8
 tags: ["mythology", "school"]
 gods: ["Persephone (Greek)"]
+lore: persephone
 draft: false
 ---
 

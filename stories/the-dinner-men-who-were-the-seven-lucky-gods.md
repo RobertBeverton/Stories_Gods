@@ -1,10 +1,11 @@
 ---
 title: "The Dinner Men Who Were SEVEN LUCKY GODS"
 description: "Seven new lunchtime staff arrive in a boat-shaped bus, and the children find out who they are one by one."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 5
 tags: ["mythology", "school"]
 gods: ["The Seven Lucky Gods (Japanese)"]
+lore: seven-lucky-gods
 draft: false
 ---
 

@@ -6,7 +6,7 @@ How to write a story in this series. It is written so that anyone (a parent, a C
 
 A god or legend from a different world mythology turns up as a new member of school staff. The children work out who they are, tell the real myth, and help the god and the school through a problem that echoes the myth. Each story is about 4,000 words (a 25 to 30 minute read-aloud), told by a group of classmates saying "we", and ends on a hook for the next god.
 
-## The recipe: 16 to 18 short parts
+## The recipe: about 16 to 18 short parts (a rough guide)
 
 Each part is a short chapter of about 200 to 300 words with a plain heading, for example `## Part Three. The Sixteen and the One`. Short chapters keep young listeners with you and give natural stopping points.
 
@@ -26,7 +26,7 @@ Each part is a short chapter of about 200 to 300 words with a plain heading, for
 | 16. The god's words | At sunset the god says something wise in plain words. The affirmation lands here. |
 | 17. The hook | A strange sign of the next god. The twins say "Monday" at exactly the same time. "The End." |
 
-Parts 6 to 8 and 11 to 13 can run longer, because that is where the action is. The series has used 12 to 21 parts; 16 to 18 is the sweet spot.
+Parts 6 to 8 and 11 to 13 can run longer, because that is where the action is. The series has used 7 to 24 sections (the short early stories at the low end, the later ones 12 to 21 parts); 16 to 18 is the sweet spot, but the recipe is a guide and not a rule. Aim for at least about 4,000 words; a story that deserves the room can run to about 6,000.
 
 ## Voice and style
 

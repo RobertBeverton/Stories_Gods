@@ -9,7 +9,7 @@ Bedtime stories for the twins Alex and Felix (5, Year 1). A god or legend from a
 **Non-negotiables** (details in the Bible):
 - Alex and Felix get equal weight in every scene.
 - The cast is Alex, Felix, Willow, Maya, with Dot, Kenji, Ollie, Mister Harris and others as needed. Elfine and Marion are retired unless the user asks.
-- About 4,000 words, 16 to 18 short parts with `## Part N. Title` headings, a child "we" narrator, Year 2 to 3 reading level.
+- At least about 4,000 words, and up to about 6,000 when a story deserves the room. Short parts (the 16 to 18 part recipe is a rough guide, not a rule), a child "we" narrator, Year 2 to 3 reading level.
 - An affirmation woven into the story, no notes page, no questions for the children afterwards.
 - End with a hook for the next god and the twins saying "Monday" at exactly the same time, then "The End."
 - Kid-appropriate; respectful to living religions; no child sacrifice (Moloch was declined).

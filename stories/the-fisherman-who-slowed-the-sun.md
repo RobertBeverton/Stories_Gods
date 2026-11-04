@@ -2,7 +2,7 @@
 title: "The Fisherman Who Slowed the Sun"
 description: "A cheeky fisherman fishing in the playground, a fire goddess in the boiler room and a sun that races too fast. Clever is good, but kind is better."
 series: "The Staff Room Gods"
-seriesOrder: 2
+seriesOrder: 20
 tags: ["mythology", "polynesian", "patience"]
 gods: ["Maui (Polynesian)"]
 lore: maui

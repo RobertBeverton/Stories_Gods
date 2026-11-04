@@ -1,10 +1,11 @@
 ---
 title: "The Groundsman Who Was YU THE GREAT"
 description: "When a wall of sandbags bursts, the groundsman shows the school how to make a path, not a wall."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 18
 tags: ["mythology", "school"]
 gods: ["Yu the Great (Chinese)"]
+lore: yu-the-great
 draft: false
 ---
 
@@ -28,7 +29,7 @@ Mr Yu said, "I've got a lot to dig, and not a lot of time."
 
 They looked at each other and said, "We need Maya."
 
-## THE FLOOD GOD'S NEPHEW
+## YU THE GREAT
 
 Maya Singh was behind the compost bin, which was now an island. She was sitting on top of it with her clipboard, and Kenji Mori and Ollie were on upside-down buckets in the water. Dot from Reception had a lilo.
 

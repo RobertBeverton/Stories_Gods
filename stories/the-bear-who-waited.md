@@ -2,7 +2,7 @@
 title: "The Bear Who Waited"
 description: "A bear and a tiger want to learn to be people, and the twins sit with them through a hundred days of garlic, patience and one very brave rescue."
 series: "The Staff Room Gods"
-seriesOrder: 18
+seriesOrder: 36
 tags: ["mythology", "korean", "patience"]
 gods: ["Hwanung and Ungnyeo (Korean)"]
 lore: hwanung-and-ungnyeo

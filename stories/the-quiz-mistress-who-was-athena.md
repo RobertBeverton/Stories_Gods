@@ -1,10 +1,11 @@
 ---
 title: "The Quiz Mistress Who Was ATHENA"
 description: "A quiz mistress with an owl meets a boastful weaver, and the twins learn the power of 'I don't know yet'."
-series: "Earlier Staff Room Gods"
+series: "The Staff Room Gods"
 seriesOrder: 14
 tags: ["mythology", "school"]
 gods: ["Athena (Greek)"]
+lore: athena
 draft: false
 ---
 

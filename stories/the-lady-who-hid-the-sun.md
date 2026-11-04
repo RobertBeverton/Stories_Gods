@@ -2,7 +2,7 @@
 title: "The Lady Who Hid the Sun"
 description: "The sun goddess hides in a stone storeroom after a noisy accident, and the whole school throws a party to coax her out."
 series: "The Staff Room Gods"
-seriesOrder: 16
+seriesOrder: 34
 tags: ["mythology", "japanese", "hurt-feelings"]
 gods: ["Amaterasu (Japanese)"]
 lore: amaterasu

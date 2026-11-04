@@ -2,7 +2,7 @@
 title: "The Bird Who Looked After Lost Things"
 description: "A giant bird of Persian myth takes charge of Lost Property, and when fog swallows a school walk the twins call her with a feather held between them."
 series: "The Staff Room Gods"
-seriesOrder: 14
+seriesOrder: 32
 tags: ["mythology", "persian", "asking-for-help"]
 gods: ["Simurgh (Persian)"]
 lore: simurgh

@@ -2,7 +2,7 @@
 title: "The Lady Who Mended the Sky"
 description: "The sky cracks over the playground, and the staff discover it can only be mended with every one of their creation stories sewn together."
 series: "The Staff Room Gods"
-seriesOrder: 15
+seriesOrder: 33
 tags: ["mythology", "chinese", "many-stories"]
 gods: ["Nuwa (Chinese)"]
 lore: nuwa
@@ -56,6 +56,10 @@ Mister Harris came running out of the school. He had his clipboard under one arm
 
 "I am," said Mrs Nuwa. "I'm so sorry about the mess. May I borrow your art cupboard?"
 
+Mister Harris blinked. "Haven't we met before? You were Ms Wa. The pottery lady. With the turtle."
+
+"That was me," said Mrs Nuwa. "I've been promoted. Art and Clay is a much bigger cupboard."
+
 ## Part Three. Maya Knows
 
 "She's Nüwa," said Maya.
@@ -90,7 +94,7 @@ There were pots of clay on every shelf: red clay and brown clay and cream clay. 
 
 On the big table in the middle were five stones. They were red, yellow, blue-green, white and black, and each one was as big as a loaf of bread.
 
-"I have the stones," said Mrs Nuwa. "I've done all this before. Heat them till they melt, mix them, paint the patch over the crack. It worked the last time, thousands of years ago. But this time, it won't hold."
+"I have the stones," said Mrs Nuwa. "I've done all this before. Heat them till they melt, mix them, paint the patch over the crack. It worked every time before, thousands of years ago, and it worked again when I was Ms Wa. But this time, it won't hold."
 
 "Why not?" said Alex.
 

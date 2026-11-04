@@ -2,7 +2,7 @@
 title: "The Spider Who Owned the Stories"
 description: "A spider tries to buy up every story in the school, until the twins show him that stories are for sharing."
 series: "The Staff Room Gods"
-seriesOrder: 3
+seriesOrder: 21
 tags: ["mythology", "west-african", "sharing"]
 gods: ["Anansi (West African)"]
 lore: anansi
