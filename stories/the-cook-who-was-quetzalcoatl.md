@@ -348,7 +348,7 @@ She said, "From the roof. It trickles through the ground."
 
 Alex whispered, "It's a leak."
 
-Felix whispered, "Mister Yu said, make a path, not a wall."
+Felix whispered, "Then don't stop it. Give it somewhere to go."
 
 They both knew.
 
@@ -468,7 +468,7 @@ Mister Harris, wiping his eyes, said, "I take back everything I said about the B
 
 On Friday, we had the best Harvest Festival in the history of the school.
 
-There was cornbread, and corn soup, and corn fritters. There was popcorn in every colour. Mister Ebbie, who had turned up on the morning of the Festival with the boat-bus, made corn on the cob, and every time anyone asked for butter, we had to knock on the table.
+There was cornbread, and corn soup, and corn fritters. There was popcorn in every colour. Mister Ebbie, who had turned up on the morning of the Festival with the boat-bus, made corn on the cob.
 
 Every ant who had helped was invited. They sat in a long line on the windowsill, each with a tiny plate. Mister Ketz shrank, just a little, to sit with them. The ant queen sat next to him, in her daisy crown. They talked all night about gardens.
 
@@ -476,11 +476,9 @@ Mister Harris stood on a chair and read out a speech he had written. It said, th
 
 In the middle of the party, Mister Ketz stood up on the stage, and the hall went quiet. A little breeze rolled over us.
 
-He said, "I want to tell you something I have learned in all my years. Everything big begins very small. A mountain starts as a pebble. A forest starts as a seed. A friendship starts with a hello."
-
 He looked at Alex and Felix.
 
-He said, "And sometimes, to find something very big, you have to make yourself small enough to listen."
+He said, "To find something very big, sometimes you have to make yourself small enough to listen."
 
 He lifted his hands.
 
@@ -488,23 +486,15 @@ He said, "Listen small, grow big."
 
 We all said it back, every child, every god and every ant, in tiny squeaky voices from the windowsill: "Listen small, grow big."
 
-Then Alex said, "I am a seed. The dark is where I grow."
-
-And Felix said, "I can be scared and brave at the same time."
-
-And Dot said, "I am not alone."
-
-And the ant queen, in a very tiny, very proud voice, said, "I know you can."
-
 ## Part Twenty-One. The Ending, with a Hook
 
 At the end of the evening, Maya stayed behind in the playground, looking at the sky. It was dark, and clear, and full of stars. A very bright one hung low over the roof. It twinkled green.
 
-She said, "That's the morning star."
+She said, "That's the evening star."
 
-Kenji said, "Is that Mister Ketz's star?"
+Kenji said, "Whose star is that?"
 
-Maya said, "I think so."
+Maya said, "Sholotl's. The scruffy one's. He guides the sun home."
 
 The scruffy dog trotted past, and sat down beside her, and looked up too.
 
