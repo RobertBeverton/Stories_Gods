@@ -1,7 +1,5 @@
 {
-  "_readme": "Written spelling on the left, what the voice should say on the right. Whole words only, case-sensitive. Applied only when narrating, so the site text keeps the proper spelling. Tune by ear after the first listen.",
-  "Mrs": "Missus",
-  "Ms": "Mizz",
+  "_readme": "Written spelling on the left, what the voice should say on the right. Whole words only, case-sensitive. Applied only when narrating, so the story text keeps the proper spelling. Added to the shared map in the Stories repo (narrator/pronunciations.json, which already has Mrs and Ms); this file wins. Tune by ear after the first listen.",
   "Quetzalcoatl": "Ketsalkoatl",
   "Väinämöinen": "Vai-nuh-moy-nen",
   "Väinö": "Vai-no",
