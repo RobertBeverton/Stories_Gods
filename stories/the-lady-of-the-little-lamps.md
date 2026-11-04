@@ -262,9 +262,11 @@ Alex picked up the squirrel in his cupped hands. It was Dot. She had a tiny bush
 
 "I'm only small," said the squirrel, in Dot's voice. "But I can do this."
 
-Alex gently stroked down her back, from her head to her tail, with three fingers. And where his fingers passed, three soft stripes appeared on her fur.
+Alex gently stroked down her back, from her head to her tail, with three fingers. Felix stroked down after him, with three more. And where their fingers passed, three soft stripes appeared on her fur.
 
 "That is the bravest squirrel in the story," said Alex.
+
+"And the smallest," said Felix. "So she wins by a mile."
 
 ## Part Nine. The Arrows
 
@@ -446,7 +448,7 @@ Dot looked down at her arms and let out a gasp. On the back of her cardigan, sof
 
 She turned to Alex and Felix.
 
-"And you two," she said. "Brothers who listened. Brothers who held on. Brothers who gave Ravana a chance to be better, even when he did not take it. That is real wealth. Not gold. Not coins. Kindness, and courage, and having someone beside you."
+"And you two," she said. "Brothers who listened, and held on, and gave even Ravana a chance. That is real wealth."
 
 "We were scared," said Alex.
 
@@ -462,9 +464,9 @@ Diwali night came on Sunday, and it was the best night of the whole year.
 
 Every window of the school was lined with tiny glowing lamps. A row of them marched down the front steps. The play went off perfectly, and Mister Harris cried at the end. Alex and Felix's nana clapped so hard that her bracelets flew off. Mrs Lakshmi stood in the doorway, with her owl on her shoulder, as the families came in, greeting everyone by name.
 
-But on Thursday, a few days before, something strange had happened.
+And late that evening, when everyone had gathered on the school field to watch the fireworks, something strange happened.
 
-It was Bonfire Night, and the school field was crowded. Everyone had come to watch the fireworks. The sky was full of sparkles. And, in the middle of it all, Alex and Felix noticed that the ground beside the bonfire was shaking.
+The sky was full of sparkles. Every window of the school glowed with its little lamps. And, in the middle of it all, Alex and Felix noticed that the ground at the edge of the field was shaking.
 
 Not much. Just a gentle thump, thump, thump.
 
@@ -474,7 +476,7 @@ Not much. Just a gentle thump, thump, thump.
 
 Over the fence, coming down the hill behind the school, was a tiny wooden hut. It was standing on two enormous yellow chicken legs. The legs were scratching at the earth, one after the other, like a hen looking for corn. A thin plume of smoke curled from the chimney.
 
-There was a small round window. In the window, a candle was flickering. And behind the candle, a face was peering out. It was old and crooked and wrinkled, with a long, pointed nose and a chin like a boot. A pair of bright, beady eyes glinted in the firelight.
+There was a small round window. In the window, a candle was flickering. And behind the candle, a face was peering out. It was old and crooked and wrinkled, with a long, pointed nose and a very pointy chin. A pair of bright, curious eyes glinted in the candlelight.
 
 "Is that a house?" said Ollie.
 
@@ -486,6 +488,6 @@ The hut stopped at the school gate, and squatted down, with a creak, like an old
 
 "Hello, hello, my little darlings! I hear you have a lovely school. Does it have a kitchen? I have such a wonderful recipe."
 
-Willow arched her back to twice her size. Mister Harris dropped his sparkler. And everybody turned to look at Alex and Felix. The twins looked at each other, with the fireworks flashing red and gold in their eyes. They said, at exactly the same time, "Monday."
+Willow arched her back to twice her size. Mister Harris dropped his sparkler. And everybody turned to look at Alex and Felix. The twins looked at each other, with the fireworks flashing red and gold in their eyes, and all the little lamps glowing in the windows behind them. They said, at exactly the same time, "Monday."
 
 The End.
