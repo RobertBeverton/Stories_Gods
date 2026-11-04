@@ -16,7 +16,7 @@ draft: false
 
 The first thing Father Frost said to us, once he was properly awake, was "Are you warm?"
 
-It was Wednesday evening, and the playground was silver with frost. He had stepped out of the staff room and yawned a small blizzard, and now he was walking slowly down the line of Year One, bending low, with his long white beard swinging and his crystal staff tapping on the ground. At every child he stopped and looked them straight in the eye, and asked it.
+It was Wednesday morning, and the playground was silver with frost. He had stepped out of the staff room and yawned a small blizzard, and now he was walking slowly down the line of our class, bending low, with his long white beard swinging and his crystal staff tapping on the ground. At every child he stopped and looked them straight in the eye, and asked it.
 
 "Are you warm?"
 
@@ -76,7 +76,7 @@ But we didn't need Elfine to tell us. Dot had already decided.
 
 She marched straight up to Miss Snow, took her hand (it was very, very cold, like a cube of ice from the freezer), and said, in her biggest voice: "I'm Dot, and you can play with me."
 
-Miss Snow looked down at her. She had very pale eyes, like frozen puddles.
+Miss Snow looked down at her. She had pale eyes, like frozen puddles.
 
 "I'm not good at playing," she whispered. "I can't go inside. I can't go near fires. And I can't hold hands for long, or they get all wet."
 
@@ -88,7 +88,7 @@ So she did. Dot and Miss Snow spent the whole afternoon building an entire snow 
 
 "I'm always too noisy," said Dot. "So we're even."
 
-That was when Father Frost came striding across the field. He stopped. He looked at the little snow village for a very long time. And then he knelt down, which took a while because of his knees, and stroked a snow roof with one huge frozen finger.
+That was when Father Frost came striding across the field. He stopped. He looked at the little snow village for a long time. And then he knelt down, which took a while because of his knees, and stroked a snow roof with one huge frozen finger.
 
 "Hm," he said. "That's very good."
 
@@ -96,7 +96,7 @@ That was when Father Frost came striding across the field. He stopped. He looked
 
 It was Alex who asked.
 
-Father Frost was sitting on the edge of the snow village with his staff across his knees, looking at the tiny snow school. The sun was low. His breath rose in slow silver curls. And he suddenly looked, to Alex, very old, and very tired.
+Father Frost was sitting on the edge of the snow village with his staff across his knees, looking at the tiny snow school. The sun was low. His breath rose in slow silver curls. And he suddenly looked, to Alex, old and tired.
 
 Alex looked at Felix. Felix gave a tiny nod.
 
@@ -110,7 +110,7 @@ Father Frost stared at him.
 
 "Are *you* warm?" said Felix.
 
-The old man didn't say anything. His beard trembled. Slowly, very slowly, he put one big hand to his chest.
+The old man didn't say anything. His beard trembled. Slowly, he put one big hand to his chest.
 
 "No," he said, in a creaky voice. "I'm not."
 
@@ -132,7 +132,7 @@ Father Frost took them in his huge hands. He looked at the scarf, and the hat, a
 
 Posy Pinch arrived on Thursday.
 
-She was in Year Two, and she had just moved to the area. She had a sleek black bob, a sharp little nose, and an expensive pink coat with a fur collar. She looked at the school as if it smelled of something.
+She was in the class above ours, and she had just moved to the area. She had a sleek black bob, a sharp little nose, and an expensive pink coat with a fur collar. She looked at the school as if it smelled of something.
 
 "I heard there are presents," she said, to the first person she met, who was Ollie. "Where are they? I want mine. I've been good for ages."
 
@@ -188,7 +188,7 @@ It was the worst snowstorm in thirty years.
 
 It started as a few flakes, and in ten minutes, the whole sky was white. The wind screamed round the school. Snow piled against the windows, up to the sills. The field vanished. The trees vanished. The world became a wall of swirling white.
 
-"She'll never survive out there," said Mister Harris, with his hands shaking. "I'm calling the police. I'm calling everyone."
+"She'll freeze out there," said Mister Harris, with his hands shaking. "I'm calling the police. I'm calling everyone."
 
 "We can find her," said Alex.
 
@@ -210,7 +210,7 @@ But Willow was already at the door. She had her whiskers forward, and her tail h
 
 "Posy's on her own," said Alex, "and it's very cold. Nobody should be cold on their own."
 
-Mister Harris opened his mouth, and shut it. He looked at the six children in the doorway, and the golden cat, and the roaring white outside. Then Missus Tibbs put a hand on his arm.
+Mister Harris opened his mouth, and shut it. He looked at the children in the doorway, and the golden cat, and the roaring white outside. Then Missus Tibbs put a hand on his arm.
 
 "Let them go with the cat," she said quietly. "And I'll phone for help."
 
@@ -218,7 +218,7 @@ Mister Harris opened his mouth, and shut it. He looked at the six children in th
 
 We set off in a line, tied together with Marion's string. Alex was at the front, with Willow in his arms, and Felix at the back with the thermos. In between were Elfine, Marion, Dot and Kenji, all holding hands.
 
-The snow hit us like a wall. We couldn't see more than a metre. The wind tore at our coats and our breath froze on our scarves. Every step was a wade. In ten minutes, we couldn't tell which way the school was.
+The snow hit us like a wall. We couldn't see more than a metre. The wind tore at our coats and our breath froze on our scarves. Every step was a wade. Soon we couldn't tell which way the school was.
 
 "I can't see Willow," said Elfine.
 
@@ -442,7 +442,7 @@ On her wrist, a thick gold bracelet shone in the winter sun. On her shoulder sat
 
 She stopped. She looked straight at Willow.
 
-And Willow, nine years old, official Reading Cat of Year One, who has never bowed to anyone in her life, dropped her chin to her paws, and lowered her whole body to the ground.
+And Willow, nine years old, official Reading Cat of our class, who has never bowed to anyone in her life, dropped her chin to her paws, and lowered her whole body to the ground.
 
 "Hello, little one," said the woman, in a voice like warm honey. "I have come to see how you are getting on."
 
