@@ -40,7 +40,7 @@ Run `listener-review` on the outline (twin fairness, five-year-old, sensitivity)
 
 - About 4,000 words, 16 to 18 parts, each with a `## Part N. Title` heading. Child "we" narrator, deadpan kid logic, a few "That's when" turns, short paragraphs, lots of dialogue, Year 2 to 3 vocabulary.
 - Write in stages for a long story: outline, then sections, then one full read-through.
-- Keep normal spelling in the text (Quetzalcoatl, Väinämöinen). Pronunciation fixes go in `audio-pipeline/pronunciations.json`, not the story.
+- Keep normal spelling in the text (Quetzalcoatl, Väinämöinen). Pronunciation fixes go in `narration/pronunciations.json`, not the story.
 - No notes page, no questions for the children, no moral box. Nothing after "The End."
 
 ## 4. Check
@@ -66,7 +66,7 @@ Run `listener-review` on the outline (twin fairness, five-year-old, sensitivity)
    draft: false
    ---
    ```
-2. Run `npm run validate` and `npx vitest run`. A missing-audio warning is expected until narration exists.
+2. Run `node ../Stories/scripts/validate-world-data.mjs --strict --world legend-lane` (needs the Stories repo checked out beside this one). Check the front matter by eye against a recent story too.
 3. Append an entry to `docs/Story_Archive.md` (same shape as the others: file, god, badge, cast, length, summary, closing scene, hook) plus one honest line on what to watch for next time. Update the "What to watch for" list if a new pattern showed up.
 4. Update `docs/God_Tracker.md`: add the god to the covered table, set "Next up" from the new hook, move any used idea out of "Ideas not yet used".
 5. Update `docs/Story_Bible.md`: add the staff roster row and any new running threads or changed cast rules.

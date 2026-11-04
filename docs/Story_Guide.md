@@ -84,7 +84,7 @@ Skip or soften:
 
 ## Narration
 
-Stories are narrated by one ElevenLabs voice. The Markdown keeps normal spelling, italics and `## Part` headings, and the narration script cleans these up and applies `audio-pipeline/pronunciations.json` at generation time. See `audio-pipeline/README.md`.
+Stories are narrated by one ElevenLabs voice. The Markdown keeps normal spelling, italics and `## Part` headings, and the narrator (in the Stories repo) cleans these up and applies `narration/pronunciations.json` at generation time.
 
 ## Starting your own version
 
@@ -92,4 +92,4 @@ Stories are narrated by one ElevenLabs voice. The Markdown keeps normal spelling
 2. Rewrite `docs/Story_Bible.md` with your own children, pet, friends and school.
 3. Empty `stories/` and `docs/Story_Archive.md`, and keep `docs/God_Tracker.md`'s candidate list.
 4. Ask Claude Code to "write the next story" and the `god-story-process` skill takes over.
-5. Search and replace `Stories_Gods` with your repo name (see the README), and enable GitHub Pages.
+5. Publishing and narration are handled by the separate Stories app repo (see the README).

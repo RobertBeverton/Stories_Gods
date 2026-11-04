@@ -1,6 +1,6 @@
 # The Staff Room Gods
 
-Bedtime stories for the twins Alex and Felix (5, Year 1). A god or legend from a different mythology joins their school as new staff in each story. Static 11ty site on GitHub Pages, narrated with ElevenLabs.
+Bedtime stories for the twins Alex and Felix (5, Year 1). A god or legend from a different mythology joins their school as new staff in each story. Narrated with ElevenLabs. Published by the separate Stories app.
 
 **Read first, always:** `docs/Story_Bible.md` (cast, standing rules, staff roster, running threads), then `docs/Story_Archive.md` (what has been written and how each ended), then `docs/God_Tracker.md` (what is next). The method is in `docs/Story_Guide.md`.
 
@@ -14,15 +14,8 @@ Bedtime stories for the twins Alex and Felix (5, Year 1). A god or legend from a
 - End with a hook for the next god and the twins saying "Monday" at exactly the same time, then "The End."
 - Kid-appropriate; respectful to living religions; no child sacrifice (Moloch was declined).
 
-**Local development:**
-```bash
-npm install
-npm run serve      # local dev server
-npm run validate   # check story front matter
-npx vitest run     # tests
-npm run build      # full production build
-```
+**How this fits:** this repo is a content source: the stories, lore, canon and the docs on how they are written. The app, hosting and narrator live in the `RobertBeverton/Stories` repo (checked out beside this one as `../Stories`). This world is `legend-lane` in its `content-sources.json`. Narration audio is hosted on Cloudflare R2; no mp3s live here and none may be added.
 
-**Narration:** `node audio-pipeline/narrate-single-voice.mjs stories/<name>.md` (needs `ELEVENLABS_API_KEY` and ffmpeg; local only). Use `--dry-run` first. Story and audio filenames must match: `stories/x.md` plays `stories/x.mp3`. Never rename one side without the other. Respellings live in `audio-pipeline/pronunciations.json`; do not put them in the story text.
+**Checking:** `node ../Stories/scripts/validate-world-data.mjs --strict --world legend-lane` (this is also the CI check).
 
-**Repo name:** the site assumes the repo is `Stories_Gods` (`PATH_PREFIX` in `scripts/stories-lib.mjs`, `pathPrefix` in `eleventy.config.js`, the manifest). Change them together if the repo is renamed.
+**Narration:** from the Stories checkout, `npm run narrate -- ../Gods-PrimarySchool/stories/<name>.md --dry-run` first, then without `--dry-run` (needs `ELEVENLABS_API_KEY` and ffmpeg; local only, never CI), then `npm run upload-audio`. Commit the story's changed front matter (`audioUrl`, `audioDuration`, `parts`) here. Story paths and filenames are load-bearing (they key listeners' saved progress), so never rename, move or delete a story file. Respellings live in `narration/pronunciations.json`; do not put them in the story text.
