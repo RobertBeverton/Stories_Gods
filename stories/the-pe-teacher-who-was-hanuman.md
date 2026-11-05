@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Mar
 icon: sun
 publishDate: 2026-10-17
 draft: false
+audioDuration: 2329
+parts:
+  - title: "Part One. The Banana Thief"
+    start: 0
+  - title: "Part Two. The Worst PE Lesson"
+    start: 189.64
+  - title: "Part Three. The Shelf"
+    start: 339.05
+  - title: "Part Four. Behind the Compost Bin"
+    start: 472.98
+  - title: "Part Five. The List"
+    start: 650.14
+  - title: "Part Six. The Wheel"
+    start: 769.87
+  - title: "Part Seven. The Empty Basket"
+    start: 887.51
+  - title: "Part Eight. The Splash"
+    start: 1022
+  - title: "Part Nine. The List Is Not Enough"
+    start: 1112.12
+  - title: "Part Ten. I Know You Can"
+    start: 1234.76
+  - title: "Part Eleven. The Leap"
+    start: 1372.66
+  - title: "Part Twelve. The Hill in the Dark"
+    start: 1461.35
+  - title: "Part Thirteen. Who Walks on My Hill"
+    start: 1543.54
+  - title: "Part Fourteen. The Last Light"
+    start: 1701.67
+  - title: "Part Fifteen. The Sofa"
+    start: 1848.95
+  - title: "Part Sixteen. Sports Day, at Last"
+    start: 1966.27
+  - title: "Part Seventeen. The Seed"
+    start: 2056.51
+  - title: "Part Eighteen. Everybody"
+    start: 2195.28
+audioUrl: https://audio.kinly.download/legend-lane/the-pe-teacher-who-was-hanuman.mp3?v=098082c1
 ---
 
 ## Part One. The Banana Thief

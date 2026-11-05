@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Mar
 icon: shell
 publishDate: 2026-10-07
 draft: false
+audioDuration: 2228
+parts:
+  - title: "Part One. The Little Drum"
+    start: 0
+  - title: "Part Two. A Scarf in the Heat"
+    start: 105.75
+  - title: "Part Three. Behind the Compost Bin"
+    start: 300.48
+  - title: "Part Four. Dripping"
+    start: 416.1
+  - title: "Part Five. Brenda"
+    start: 515.35
+  - title: "Part Six. The Great Churning"
+    start: 609.77
+  - title: "Part Seven. The Dance That Shook the Floor"
+    start: 797.29
+  - title: "Part Eight. The Family"
+    start: 897.11
+  - title: "Part Nine. Everybody's Soup"
+    start: 1025.12
+  - title: "Part Ten. The Green Bubble"
+    start: 1155.61
+  - title: "Part Eleven. Nobody's Soup"
+    start: 1246.08
+  - title: "Part Twelve. Stand Still"
+    start: 1344.38
+  - title: "Part Thirteen. The Cat and the Paddle"
+    start: 1474.97
+  - title: "Part Fourteen. Alex Goes for Mrs Rao"
+    start: 1608.89
+  - title: "Part Fifteen. The Ladle"
+    start: 1741.06
+  - title: "Part Sixteen. A Brave Soup"
+    start: 1907.82
+  - title: "Part Seventeen. One Whole Minute"
+    start: 2001.73
+  - title: "Part Eighteen. The Straight Line"
+    start: 2129.26
+audioUrl: https://audio.kinly.download/legend-lane/the-music-teacher-who-was-shiva.mp3?v=de084a4c
 ---
 
 ## Part One. The Little Drum

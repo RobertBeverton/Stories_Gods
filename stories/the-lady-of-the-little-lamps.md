@@ -10,6 +10,41 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Elfine
 icon: sun
 publishDate: 2026-10-27
 draft: false
+audioDuration: 1867
+parts:
+  - title: "Part One. Golden Footprints"
+    start: 0
+  - title: "Part Two. Elfine Has a Fact"
+    start: 109.44
+  - title: "Part Three. The Story of the Lamps"
+    start: 238.83
+  - title: "Part Four. The First Lamp"
+    start: 377.3
+  - title: "Part Five. The Forest"
+    start: 471.05
+  - title: "Part Six. Mister Ten"
+    start: 617.85
+  - title: "Part Seven. The Monkey King's Friend"
+    start: 712.55
+  - title: "Part Eight. The Bridge"
+    start: 827.42
+  - title: "Part Nine. The Arrows"
+    start: 991.58
+  - title: "Part Ten. The Whole Mountain"
+    start: 1106.24
+  - title: "Part Eleven. The Ten-Headed Argument"
+    start: 1191.59
+  - title: "Part Twelve. One Arrow, Two Hands"
+    start: 1307.61
+  - title: "Part Thirteen. The Long Way Home"
+    start: 1400.6
+  - title: "Part Fourteen. The Lamps"
+    start: 1486.5
+  - title: "Part Fifteen. What Mrs Lakshmi Said"
+    start: 1589.9
+  - title: "Part Sixteen. The Ending, with a Hook"
+    start: 1707.16
+audioUrl: https://audio.kinly.download/legend-lane/the-lady-of-the-little-lamps.mp3?v=a51d9086
 ---
 
 ## Part One. Golden Footprints
