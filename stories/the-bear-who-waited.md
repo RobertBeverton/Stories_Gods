@@ -34,7 +34,7 @@ Willow, the Bengal reading cat, walked all the way round the tiger twice, very s
 
 "Cousin," said the tiger.
 
-"Meow," said Willow, which meant: *barely.*
+Willow made one small, flat sound, which meant: *barely.*
 
 ## Part Two. The Teacher with Three Helpers
 
@@ -88,7 +88,7 @@ It was the old coal cellar, under the oldest part of the school, behind the boil
 
 "Do they really have to stay a hundred days?" said Mister Harris, anxiously, clutching his clipboard. "The Easter holidays aren't for months."
 
-"In the cave, the days will pass quickly," said Mister Hwanung. "The Cloud Master will see to it. Every morning on the outside will be ten days on the inside. They will be ready by Friday."
+"In the cave, the days will pass quickly," said Mister Hwanung. "The Cloud Master will see to it. Every break out here will be ten days in there. That is two breaks a day, so they will be ready by Friday."
 
 "*Puff*," said the Cloud Master, proudly.
 
@@ -180,7 +180,7 @@ We did what we could.
 
 We couldn't bring food, and we couldn't bring light. But on every break, the whole class took turns climbing down the eleven steps and sitting in the dark. Ollie read stories out loud from memory, doing all the voices. Kenji told jokes through the bars, until the tiger giggled and the bear shook her head. Maya brought her notebook and read them facts, and the bear listened with her eyes shut.
 
-Dot made marks on the wall with her chalk. She made a mark every morning, in a neat little row. By the end of the first week, she had made forty-one, and nine hearts, and a drawing of a dog.
+Dot made marks on the wall with her chalk. She made a mark for every day, ten after each break, in a neat little row. By Tuesday afternoon, she had made forty-one, and nine hearts, and a drawing of a dog.
 
 "That's not very accurate," said Maya.
 
@@ -198,7 +198,7 @@ And Mister Hwanung came down every evening, with his three helpers. He sat cross
 
 That's when the tiger broke.
 
-It was Thursday afternoon, and raining. We had gone down at break and found her pacing round the cellar with her tail lashing. She had stopped eating the mugwort three days before. She'd stopped talking, too. She'd gone thin and snappy.
+It was Wednesday afternoon, and raining. Sixty days, and six breaks. We had gone down at break and found her pacing round the cellar with her tail lashing. She had stopped eating the mugwort the day before. She'd stopped talking, too. She'd gone thin and snappy.
 
 "I can't!" she roared.
 
@@ -344,7 +344,9 @@ Mister Harris was waiting at the gate with a flask of hot chocolate and a very r
 
 "I'm all right," said Dot. "The tiger rescued me."
 
-"Then I owe her a very large bucket of thanks," said Mister Harris.
+"Then I owe her a very large bucket of thanks," said Mister Harris. He wiped his nose. "And nobody is ever, ever to follow a tiger into the woods again. Not even a nice one."
+
+"Not even a nice one," said Dot, sleepily, which was not a promise.
 
 At the top of the cellar steps, the tiger stopped.
 
@@ -412,9 +414,7 @@ Mrs Ungnyeo and the tiger sat on the steps, side by side. Alex and Felix sat on 
 
 "What?" said Alex.
 
-"Hard things take as long as they take," said Mrs Ungnyeo. "That is all. There is no shortcut. You cannot hurry a bear. You cannot hurry a seed. You cannot hurry anybody, and it does not mean they are slow. It means they are growing."
-
-"And the one thing that helped me," she went on, "was not to look at the hundred. I looked at the one. Today. This breath. And then the next one. And when I got tired, I thought of somebody sitting outside the door, waiting."
+"Hard things take as long as they take," said Mrs Ungnyeo. "The one thing that helped me was not to look at the hundred. I looked at the one. Today. And when I got tired, I thought of somebody sitting outside the door, waiting."
 
 "We were waiting," said Felix.
 
@@ -426,7 +426,9 @@ The tiger yawned.
 
 She nudged Alex with her nose, and then Felix, one each, so neither was left out.
 
-"You do not have to be a person, to be good," said the tiger. "You only have to be kind. And you were."
+"One day at a time," said Alex.
+
+"And somebody waiting," said Felix.
 
 Maya wrote down *you were enough when you walked in*, in her very best handwriting, and drew a small, smiling, striped face next to it.
 
@@ -434,7 +436,7 @@ Maya wrote down *you were enough when you walked in*, in her very best handwriti
 
 The first stars came out over the school.
 
-Alex and Felix walked home with Willow between them, and Maya behind. The playground was quiet, except for the tiger's faint snore from the steps, and the purr of a very small cloud.
+Alex and Felix walked home with Willow between them, and Maya behind.
 
 At the gate, Willow stopped.
 
@@ -446,13 +448,13 @@ Then another rolled up. Then another, and another, and then a whole shower of th
 
 "Where are they coming from?" whispered Maya.
 
-From very high above, over the dark of the hill, came a long, whistling cry. A huge shadow passed over the moon. It had wide, dark wings, and a curved beak, and in its claws, struggling and kicking, was something small and bright and shouting.
+From very high above, over the dark of the hill, came a long, whistling cry. A huge shadow passed over the moon. It had wide, dark wings, and a curved beak, and in its claws, struggling and kicking, was something small and bright and cross.
 
-"PUT ME DOWN!" shouted a voice, getting fainter. "THOSE ARE MY APPLES! DO YOU KNOW HOW LONG THEY TAKE TO GROW?"
+"THOSE ARE MY APPLES!" shouted a voice, far away. "DO YOU KNOW HOW LONG THEY TAKE TO GROW?"
 
-The shadow vanished into the clouds.
+Then the shadow slipped into the clouds, and the shouting faded into the night, and the lane was quiet again.
 
-The apples went on rolling, one by one, down the lane, glowing softly in the dark.
+Behind us, we could hear the tiger's faint snore from the steps, and the purr of a very small cloud. The apples went on rolling, one by one, down the lane, glowing softly in the dark.
 
 Alex and Felix each held a golden apple. They said, at exactly the same time, "Monday."
 
