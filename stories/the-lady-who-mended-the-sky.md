@@ -136,15 +136,15 @@ We were not meant to be in the staff room. But we had come to return a rather la
 
 "A duck," said Kenji, dreamily.
 
-"Mine is a good one," said Mister Ketsalkoatl, from the kitchen door. He was the cook, in a tall white hat, with a ladle. "The old gods wanted to make people who could say thank you. They tried mud, and the mud people fell apart. They tried wood, and the wood people forgot to look up. And at last they tried corn. They ground the yellow and white corn into dough, and shaped it, and people who were made of corn were the right ones."
+"Mine is a good one," said Mister Ketz, from the kitchen door. He was the cook, in a tall white hat, with a ladle. "The old gods wanted to make people who could say thank you. They tried mud, and the mud people fell apart. They tried wood, and the wood people forgot to look up. And at last they tried corn. They ground the yellow and white corn into dough, and shaped it, and people who were made of corn were the right ones."
 
 "That's why I like corn," said Ollie, seriously.
 
 "I was in a clamshell," said Mister Raven, from the windowsill. "Or the first people were, anyway. I found it on the beach, a big one, and inside were tiny creatures, too shy to come out. So I talked them out with chatter and tricks until they stepped into the light."
 
-"On a lotus," said Mrs Lakshmi, softly. She held a pink flower. "In the beginning there was a vast, still ocean, and a god lay asleep on it. And a lotus grew from the god's middle, and on the lotus sat Brahma, who began to make everything."
+Mrs Lakshmi told about a lotus floating on a still ocean, and Miss Bastet about a hill that rose out of the dark water, in only a few quiet words each.
 
-"On a hill," said Miss Bastet, who had been washing her whiskers. "A small mound of earth rose out of the dark water, and the first sun climbed onto it. And everything woke."
+"Mine is mostly weather," said Mister Hadad, and his cloud rumbled shyly.
 
 "A tree," said Madam Simurgh, quietly, from the back. "A tree with every seed in it, and I shook it, and they flew out to every corner of the earth."
 
@@ -160,13 +160,13 @@ That's when it went wrong.
 
 "The water was always there," said Mrs Oshun.
 
-"I don't think a duck can lay an egg on a knee," said Mister Coyote, with his mouth full. "I'd have noticed."
+"I wasn't listening," said Mister Coyote, with his mouth full. "I was busy with my sandwich. But I'm sure mine was first."
 
-"A duck certainly can," said Mister Väinö, going pink.
+"Mine was first," said Mister Väinö, going pink.
 
 "It was a *clamshell*," said Mister Raven, ruffling.
 
-"It was *corn*," said Mister Ketsalkoatl.
+"It was *corn*," said Mister Ketz.
 
 "A lotus!"
 
@@ -264,7 +264,7 @@ Then Mister Maui took off his fish hook and held it up. "Well, mine's the colour
 
 "Mine's gold," said Mrs Oshun. "Like honey."
 
-"Mine's all the colours of corn," said Mister Ketsalkoatl.
+"Mine's all the colours of corn," said Mister Ketz.
 
 "Mine's blue-white," said Mister Väinö. "Like an egg in the moon."
 
@@ -276,9 +276,7 @@ Then Mister Maui took off his fish hook and held it up. "Well, mine's the colour
 
 "We were loud," said Mister Coyote.
 
-"We were scared," said Madam Simurgh. "Because when the sky cracks, everyone wants to hold tight to the one thing they know. But what holds the sky up is not holding tight. It is holding *together*."
-
-Maya wrote it down, and underlined it twice.
+"We were scared," said Madam Simurgh. "Because when the sky cracks, everyone wants to hold tight to the one thing they know."
 
 "So how do we do it?" said Dot, who was still wrapped in clay rope.
 
@@ -294,7 +292,7 @@ Mrs Nuwa laid the five stones on a flat rock in the middle of the playground. Th
 
 Mister Maui went first. He told how the islands came up out of the sea on the end of a fish hook, and as he spoke, a ribbon of silver-blue curled out of his mouth and dropped into the pool.
 
-Ms Athene told how the world came out of a great open space, and a ribbon of grey-green slid in. Mrs Oshun told about the chain and the hen, and her ribbon was honey-gold. Mister Väinö told about the duck's egg, and his was blue-white. Mister Ketsalkoatl told about the corn, and it was yellow. Mister Raven's was black, shot with green. Mrs Lakshmi's was pink. Miss Bastet's was sand. Madam Simurgh's was copper.
+Ms Athene told how the world came out of a great open space, and a ribbon of grey-green slid in. Mrs Oshun told about the chain and the hen, and her ribbon was honey-gold. Mister Väinö told about the duck's egg, and his was blue-white. Mister Ketz told about the corn, and it was yellow. Mister Raven's was black, shot with green. Mrs Lakshmi's was pink. Miss Bastet's was sand. Madam Simurgh's was copper.
 
 The pool grew deeper, and brighter, and richer, and more beautiful, until it looked like a stained glass window lying on the ground.
 
@@ -332,7 +330,7 @@ Alex thought for a long time. Felix thought for a long time. And then they both 
 
 "Because they were so happy," said Alex.
 
-"And we were made," said Felix, "by hand, one at a time."
+"And we were made," said Felix, "one at a time. Well, two."
 
 "And we were loved before we even got here," said Alex.
 
@@ -346,7 +344,7 @@ One by one, the rest of us added ours. Maya told hers, and Dot told hers, and Ke
 
 She scooped up the blazing pool in her bucket. It didn't spill or burn. It shimmered in her hands like a bucket full of rainbows. Then she coiled her tail round the ladder and began to climb, faster than a squirrel, higher than the school roof, higher than the tallest tree.
 
-At the bottom, we held the ladder. Alex had the left side, and Felix had the right. Mister Harris and Mister Hadad leant against the legs. Miss Pele sent up a plume of warm air, to carry Mrs Nuwa higher, and Madam Simurgh opened her wings behind her like a net, just in case.
+At the bottom, we held the ladder. Alex had the left side, and Felix had the right. Mister Harris and Mister Hadad leant against the legs. Miss Pele sent up a plume of warm air, to carry Mrs Nuwa higher, and Madam Simurgh opened her wings behind her like a net, just in case. And Willow, who hates anything that wobbles, climbed onto the bottom rung and sat there as heavy and still as a paperweight, so the ladder could not slide.
 
 At the top, Mrs Nuwa dipped her brush into the bucket. She leant out over the dark gap. And with a great, sweeping stroke, she painted the first colour across the hole in the sky.
 
@@ -366,11 +364,8 @@ It was the same blue as before, but threaded all through it, from one side of th
 
 "It's beautiful," said Dot.
 
-"It's the strongest part," said Mrs Nuwa, as she slid down the ladder. She was covered in paint from head to tail. "The mend is always the strongest part. Things that have been broken, and put back with care, hold better than things that never broke at all."
+"Look how it shines," said Mrs Nuwa, as she slid down the ladder. She was covered in paint from head to tail.
 
-"Is that true?" said Alex.
-
-"It's true of skies," said Mrs Nuwa, "and it's true of people."
 
 We all looked up for a long time. Even Mister Hadad's cloud had gone quiet, and was hanging in the air like a puffy white hat. Mister Coyote didn't say anything. Ms Athene's owl had its beak open.
 
@@ -398,7 +393,7 @@ Mrs Nuwa sat on the steps of the art cupboard with her tail curled round her, sc
 
 "And us?" said Alex.
 
-"You were made by hand," said Mrs Nuwa. "Both of you, together, and the world has been waiting for you for a long time. That is the first part of your story, and it will always be true, however many more parts you add."
+"You were each made with care," said Mrs Nuwa. "Both of you, together, and the world has been waiting for you for a long time. That is the first part of your story, and it will always be true, however many more parts you add."
 
 She looked up at the shimmering seam.
 
@@ -414,7 +409,7 @@ Maya wrote it down. She wrote it very slowly, in her best handwriting, and drew 
 
 The sun went down in a blaze of colour.
 
-We went home through the playground, past the quilt-coloured sky, with the scroll of stories rolled up under Mrs Nuwa's arm. Willow walked between the twins with her tail up. Maya trailed behind, drawing a picture of a duck laying an egg on somebody's knee.
+We went home through the playground, past the quilt-coloured sky, with the scroll of stories rolled up under Mrs Nuwa's arm. Willow walked between the twins with her tail up. Maya trailed behind, drawing a picture of the whole new sky, seam and all.
 
 At the gate, Felix stopped.
 
