@@ -7,7 +7,7 @@ tags: ["mythology", "yoruba", "inclusion"]
 gods: ["Oshun (Yoruba)"]
 lore: oshun
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot"]
-icon: shell
+icon: west-african
 publishDate: 2026-10-30
 draft: false
 ---

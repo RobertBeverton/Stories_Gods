@@ -7,7 +7,7 @@ tags: ["mythology", "egyptian", "balance"]
 gods: ["Bast (Egyptian)"]
 lore: bast
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Ollie"]
-icon: shell
+icon: egyptian
 publishDate: 2026-10-30
 draft: false
 ---

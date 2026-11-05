@@ -7,7 +7,7 @@ tags: ["mythology", "russian-and-slavic", "kindness"]
 gods: ["Father Frost (Russian and Slavic)"]
 lore: father-frost
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Elfine", "Marion", "Mister Harris", "Posy"]
-icon: cloud
+icon: slavic
 publishDate: 2026-10-28
 draft: false
 ---

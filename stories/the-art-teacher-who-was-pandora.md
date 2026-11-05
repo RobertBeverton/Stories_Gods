@@ -7,7 +7,7 @@ tags: ["mythology", "school", "hope"]
 gods: ["Pandora (Greek)"]
 lore: pandora
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Mr Harris", "Elfine", "Marion"]
-icon: sun
+icon: greek
 publishDate: 2026-10-21
 draft: false
 ---

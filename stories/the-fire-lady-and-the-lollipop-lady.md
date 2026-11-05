@@ -7,7 +7,7 @@ tags: ["mythology", "hawaiian", "big-feelings"]
 gods: ["Pele (Hawaiian)"]
 lore: pele
 characters: ["Alex", "Felix", "Willow", "Dot", "Elfine", "Marion"]
-icon: sun
+icon: pacific
 publishDate: 2026-10-26
 draft: false
 ---

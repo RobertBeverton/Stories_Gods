@@ -7,7 +7,7 @@ tags: ["mythology", "norse", "asking"]
 gods: ["Idun (Norse)"]
 lore: idun
 characters: ["Alex", "Felix", "Willow", "Maya"]
-icon: berry
+icon: norse
 publishDate: 2026-11-02
 draft: false
 ---

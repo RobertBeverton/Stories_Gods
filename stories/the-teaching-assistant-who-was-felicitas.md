@@ -7,7 +7,7 @@ tags: ["mythology", "roman", "looking after things"]
 gods: ["Felicitas (Roman)"]
 lore: felicitas
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mister Harris", "Mrs Tibbs", "Mr Pickering"]
-icon: berry
+icon: roman
 publishDate: 2026-10-09
 draft: false
 audioDuration: 2120

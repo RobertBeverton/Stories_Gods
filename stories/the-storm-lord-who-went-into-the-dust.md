@@ -7,7 +7,7 @@ tags: ["mythology", "canaanite", "courage"]
 gods: ["Hadad (Canaanite)"]
 lore: hadad
 characters: ["Alex", "Felix", "Willow", "Dot", "Ollie", "Elfine", "Marion"]
-icon: cloud
+icon: canaanite
 publishDate: 2026-10-26
 draft: false
 ---

@@ -7,7 +7,7 @@ tags: ["mythology", "hindu", "light"]
 gods: ["Lakshmi (Hindu)"]
 lore: lakshmi
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Elfine", "Marion"]
-icon: sun
+icon: hindu
 publishDate: 2026-10-27
 draft: false
 audioDuration: 1867

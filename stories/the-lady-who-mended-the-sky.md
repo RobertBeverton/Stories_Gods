@@ -7,7 +7,7 @@ tags: ["mythology", "chinese", "many-stories"]
 gods: ["Nuwa (Chinese)"]
 lore: nuwa
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Ollie"]
-icon: cloud
+icon: chinese
 publishDate: 2026-11-01
 draft: false
 ---

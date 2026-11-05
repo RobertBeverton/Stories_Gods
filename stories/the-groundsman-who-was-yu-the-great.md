@@ -7,7 +7,7 @@ tags: ["mythology", "chinese", "floods", "school"]
 gods: ["Yu the Great (Chinese)"]
 lore: yu-the-great
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs"]
-icon: boat
+icon: chinese
 publishDate: 2026-10-23
 draft: false
 ---

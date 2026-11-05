@@ -7,7 +7,7 @@ tags: ["mythology", "korean", "patience"]
 gods: ["Hwanung and Ungnyeo (Korean)"]
 lore: hwanung-and-ungnyeo
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji"]
-icon: shell
+icon: korean
 publishDate: 2026-11-02
 draft: false
 ---

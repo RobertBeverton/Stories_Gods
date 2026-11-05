@@ -7,7 +7,7 @@ tags: ["mythology", "polynesian", "patience"]
 gods: ["Maui (Polynesian)"]
 lore: maui
 characters: ["Alex", "Felix", "Maya", "Dot", "Kenji", "Ollie"]
-icon: sun
+icon: pacific
 publishDate: 2026-10-24
 draft: false
 ---

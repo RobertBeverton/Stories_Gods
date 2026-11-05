@@ -7,7 +7,7 @@ tags: ["mythology", "slavic", "not-scary"]
 gods: ["Baba Yaga (Slavic)"]
 lore: baba-yaga
 characters: ["Alex", "Felix", "Willow", "Dot", "Ollie", "Elfine", "Marion"]
-icon: berry
+icon: slavic
 publishDate: 2026-10-27
 draft: false
 ---

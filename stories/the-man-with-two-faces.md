@@ -7,7 +7,7 @@ tags: ["mythology", "roman", "feelings"]
 gods: ["Janus (Roman)"]
 lore: janus
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Mister Harris", "Nana"]
-icon: cloud
+icon: roman
 publishDate: 2026-11-03
 draft: false
 audioDuration: 1576

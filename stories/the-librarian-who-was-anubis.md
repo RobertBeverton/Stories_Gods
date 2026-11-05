@@ -7,7 +7,7 @@ tags: ["mythology", "egyptian", "heavy hearts"]
 gods: ["Anubis (Egyptian)"]
 lore: anubis
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mr Thorley", "Mr Pickering"]
-icon: boat
+icon: egyptian
 publishDate: 2026-10-08
 draft: false
 audioDuration: 2004

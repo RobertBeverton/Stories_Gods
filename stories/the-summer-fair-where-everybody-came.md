@@ -6,7 +6,7 @@ seriesOrder: 13
 tags: ["mythology", "school", "being brave"]
 gods: ["All the gods so far"]
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs"]
-icon: boat
+icon: gathering
 publishDate: 2026-10-18
 draft: false
 ---

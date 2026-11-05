@@ -7,7 +7,7 @@ tags: ["mythology", "japanese", "knocking and waiting"]
 gods: ["The Seven Lucky Gods (Japanese)"]
 lore: seven-lucky-gods
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mr Pickering"]
-icon: boat
+icon: japanese
 publishDate: 2026-10-10
 draft: false
 audioDuration: 2212

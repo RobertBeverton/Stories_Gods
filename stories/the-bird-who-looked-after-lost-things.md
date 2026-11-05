@@ -7,7 +7,7 @@ tags: ["mythology", "persian", "asking-for-help"]
 gods: ["Simurgh (Persian)"]
 lore: simurgh
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie"]
-icon: cloud
+icon: persian
 publishDate: 2026-10-31
 draft: false
 ---

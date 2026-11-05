@@ -7,7 +7,7 @@ tags: ["mythology", "greek", "being brave"]
 gods: ["Pan (Greek)"]
 lore: pan
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mr Thorley"]
-icon: cloud
+icon: greek
 publishDate: 2026-10-16
 draft: false
 ---

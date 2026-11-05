@@ -7,7 +7,7 @@ tags: ["mythology", "greek", "wisdom"]
 gods: ["Athena (Greek)"]
 lore: athena
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion"]
-icon: cloud
+icon: greek
 publishDate: 2026-10-19
 draft: false
 ---

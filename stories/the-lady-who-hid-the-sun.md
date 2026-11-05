@@ -7,7 +7,7 @@ tags: ["mythology", "japanese", "hurt-feelings"]
 gods: ["Amaterasu (Japanese)"]
 lore: amaterasu
 characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Ollie"]
-icon: sun
+icon: japanese
 publishDate: 2026-11-01
 draft: false
 ---

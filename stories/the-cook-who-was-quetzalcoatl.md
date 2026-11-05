@@ -7,7 +7,7 @@ tags: ["mythology", "mesoamerican", "corn"]
 gods: ["Quetzalcoatl (Mesoamerican)"]
 lore: quetzalcoatl
 characters: ["Alex", "Felix", "Maya", "Dot", "Kenji", "Ollie"]
-icon: berry
+icon: mesoamerican
 publishDate: 2026-10-24
 draft: false
 ---

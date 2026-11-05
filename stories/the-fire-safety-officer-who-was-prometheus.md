@@ -7,7 +7,7 @@ tags: ["mythology", "greek", "safety"]
 gods: ["Prometheus (Greek)"]
 lore: prometheus
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Mister Harris", "Mrs Tibbs", "Mr Pickering", "Elfine", "Marion"]
-icon: sun
+icon: greek
 publishDate: 2026-10-20
 draft: false
 ---

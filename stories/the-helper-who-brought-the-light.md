@@ -7,7 +7,7 @@ tags: ["mythology", "haida-and-tlingit", "sharing"]
 gods: ["Raven (Haida and Tlingit)"]
 lore: raven
 characters: ["Alex", "Felix", "Willow", "Dot", "Ollie", "Elfine", "Marion"]
-icon: sun
+icon: north-american
 publishDate: 2026-10-25
 draft: false
 ---

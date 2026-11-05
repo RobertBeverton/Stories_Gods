@@ -7,7 +7,7 @@ tags: ["mythology", "norse", "telling the truth"]
 gods: ["Loki (Norse)"]
 lore: loki
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mr Thorley"]
-icon: sun
+icon: norse
 publishDate: 2026-10-11
 draft: false
 audioDuration: 2307

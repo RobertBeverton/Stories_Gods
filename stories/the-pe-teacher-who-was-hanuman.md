@@ -7,7 +7,7 @@ tags: ["mythology", "hindu", "remembering who you are"]
 gods: ["Hanuman (Hindu)"]
 lore: hanuman
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Ms Fortune", "Mrs Felicity"]
-icon: sun
+icon: hindu
 publishDate: 2026-10-17
 draft: false
 audioDuration: 2329

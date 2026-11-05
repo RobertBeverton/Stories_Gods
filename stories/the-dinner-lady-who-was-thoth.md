@@ -7,7 +7,7 @@ tags: ["mythology", "egyptian", "asking and giving"]
 gods: ["Thoth (Egyptian)"]
 lore: thoth
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mrs Dunn", "Mr Thorley"]
-icon: boat
+icon: egyptian
 publishDate: 2026-10-12
 draft: false
 audioDuration: 2314

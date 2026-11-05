@@ -7,7 +7,7 @@ tags: ["mythology", "finnish", "music"]
 gods: ["Väinämöinen (Finnish)"]
 lore: vainamoinen
 characters: ["Alex", "Felix", "Willow", "Dot", "Kenji", "Elfine", "Marion"]
-icon: boat
+icon: finnish
 publishDate: 2026-10-27
 draft: false
 ---

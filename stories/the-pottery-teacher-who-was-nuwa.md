@@ -7,7 +7,7 @@ tags: ["mythology", "school"]
 gods: ["Nüwa (Chinese)"]
 lore: nuwa
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion"]
-icon: cloud
+icon: chinese
 publishDate: 2026-10-22
 draft: false
 ---
