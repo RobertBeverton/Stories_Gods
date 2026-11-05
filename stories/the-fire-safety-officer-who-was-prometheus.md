@@ -1,491 +1,557 @@
 ---
 title: "The Fire Safety Officer Who Was PROMETHEUS"
-description: "The fire safety officer teaches the fire rules before Bonfire Night, and the children use them when it counts."
+description: "The new fire safety officer teaches the fire rules before Bonfire Night, and when a spark gets loose the children use them, speak up, and learn that careful is brave."
 series: "The Staff Room Gods"
 seriesOrder: 15
-tags: ["mythology", "school"]
+tags: ["mythology", "greek", "safety"]
 gods: ["Prometheus (Greek)"]
 lore: prometheus
+characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Mister Harris", "Mrs Tibbs", "Mr Pickering", "Elfine", "Marion"]
+icon: sun
+publishDate: 2026-11-04
 draft: false
 ---
 
-The first time we saw Mr Prome was on a Monday, and his TORCH WASN'T PLUGGED IN.
+## Part One. Mind the Flicker
 
-It wasn't a normal torch. It was a long, hollow green stalk, like a giant celery stick, and at one end a tiny orange glow flickered inside it. It didn't need batteries and it never went out, not even when Ollie Grant blew on it for a full minute.
+On Monday morning, the green stalk was not leaning on the gatepost any more. A tall man was carrying it.
 
-Mr Harris said, "Class, this is Mr Prome. He's our new Fire Safety Officer. He's here to help with Bonfire Night."
+We knew the stalk. It was hollow, like a giant stick of celery, and right at the top of it there was a tiny orange glow. Ollie Grant had blown on it for a whole minute on Friday, and it had not gone out.
 
-Mr Prome was tall and thoughtful, with a bushy beard and eyes that looked like they were always thinking three steps ahead. His badge said **MR PROME, FIRE SAFETY (AND FORESIGHT).** He had a clipboard, a bucket of sand, and a very worried-looking man standing behind him.
+"Ah," said the tall man, and his face went all soft with relief. "You minded it. Thank you."
+
+He had a bushy beard and eyes that looked as if they were always thinking three steps ahead. He also had a worried look, the kind you get when you have lost something very important and have just found it. His badge said **MR PROME, FIRE SAFETY (AND FORESIGHT).**
+
+Under his other arm he had a clipboard. In his other hand he had a bucket of sand.
+
+"I wrote the sign," he said. "MIND THE FLICKER. It is only a little flame, but it likes to be looked after."
+
+"I blew on it," said Ollie. "For a whole minute."
+
+"I know," said Mr Prome. "It liked that. It does not go out. That is rather the point."
+
+Mister Harris came across the playground with his own clipboard, which he had brought in case Mr Prome's clipboard felt lonely. "Class, this is our new Fire Safety Officer. He is going to help us get ready for Bonfire Night."
+
+Behind Mr Prome, a second man was trying to wave and carry a bag at the same time. He tripped over the bucket of sand, sat down in it, and said, "Oh! I should've looked first."
 
 "This is my brother, Mr Epp," said Mr Prome. "He helps."
 
-Mr Epp waved, tripped over the bucket, and said, "Oh! I should've looked first."
+"Sometimes," said Mr Epp, from the sand.
 
-## THE BONFIRE PLAN
+## Part Two. Backwards
 
-Mr Harris explained that our school has a bonfire and fireworks evening every November, on the field, with hot chocolate and toffee apples. This year, it would be on Thursday.
+Mister Harris explained the plan. Every November, our school has a bonfire evening on the field, with hot chocolate and toffee apples and everybody's mums and dads and grandparents in woolly hats. This year it would be on Friday.
 
-Ollie said, "Why do we have a bonfire?"
+"Why do we have a bonfire?" said Ollie.
 
-Mr Harris said, "To remember something that happened a very long time ago, and because it's lovely and warm in the cold and the dark."
+"To remember something that happened a very long time ago," said Mister Harris, "and because it is lovely and warm when it is cold and dark."
 
-Nobody could argue with that.
+Nobody could argue with that. Alex noticed something about Mr Epp. He noticed it before break, and then again at break, and then twice more at lunch. Mr Epp did everything in the wrong order.
 
-Alex and Felix Bailey are twins, so they have a system. Alex notices things and Felix asks about them. Then they swap, and it works every time.
+He put his coat on over his jumper, and then put his jumper on over his coat, which did not work. He ate his pudding before his dinner. He opened the staffroom door and then looked to see whether anyone was behind it. (Mr Thorley was. It was fine. Mr Thorley said it was fine in quite a high voice.)
 
-Alex noticed that the glow in Mr Prome's stalk never got smaller. Felix asked, "Mr Prome, how long has it been lit?"
+"Mr Epp," said Felix. "Why do you do everything backwards?"
 
-Mr Prome said, "Oh, a good while."
+"I don't know," said Mr Epp, and he sounded truly puzzled. "I only seem to think about things afterwards."
 
-Alex noticed that Mr Epp always did things in the wrong order. He put his coat on over his jumper before he put the jumper on. He ate his pudding before his dinner. He lit a match and *then* checked for a bucket.
+"We need Maya," said Alex.
 
-Felix asked, "Mr Epp, why do you do everything backwards?"
+"We need Maya," said Felix.
 
-Mr Epp said, "I don't know. I only think about things afterwards."
+## Part Three. Behind the Compost Bin
 
-The twins looked at each other and said, "We need Maya."
+Maya Singh was already behind the compost bin, with her notebook and the pencil she keeps behind her ear. Willow was sitting on the lid like a cat on a throne. Kenji and Ollie were on their upside-down buckets, and Dot, who is in Reception but is an official member of the bin, sat on the end of the log with her feet not touching the ground.
 
-## WHO IS PROMETHEUS?
+"I have been waiting," said Maya. "Mr Prome is **PROMETHEUS.**"
 
-Maya Singh was behind the compost bin, with her clipboard, as usual. Kenji Mori and Ollie sat on their upside-down buckets, and Dot from Reception sat on the lid, because she was an official member now.
+"Is that a sneeze?" said Kenji.
 
-Maya said, "I've been waiting. Mr Prome is **PROMETHEUS.**"
+"No, Kenji."
 
-Kenji asked, "Is that a sneeze?"
+Maya said that long before the Greek gods, there were older, bigger beings called Titans, and one of them was Prometheus. His name means **forethought**, which means thinking ahead. He was the cleverest of the Titans, and he cared about people.
 
-Maya said, "No, Kenji."
+"What did he do?" said Ollie.
 
-She explained that before the Greek gods, there were older, bigger beings called **Titans**, and one of them was Prometheus. His name means **'forethought'**, which means thinking ahead. He was the cleverest of them, and he cared about people.
+"Long ago, the first people had no fire. The nights were freezing. They ate their food raw. They sat in the dark, and they could not even see each other's faces. And the king of the gods, Zeus, said that fire was only for gods."
 
-Ollie said, "What did he do?"
+"That is NOT fair," said Dot.
 
-Maya said, "Long ago, the first people had **no fire.** The nights were freezing. They ate their food raw. They sat in the dark, with nothing to light the way. And the king of the gods, **Zeus**, said, 'Fire is only for gods. Humans can't be trusted with it.'"
+"Prometheus thought so too. So he took a tiny spark from the gods' fire, hid it inside a hollow fennel stalk, and carried it down to Earth, very, very carefully."
 
-Dot gasped. "That's not fair."
+"The torch," said Alex.
 
-Maya said, "Prometheus thought so too. So he made a plan. He took a tiny spark from the gods' fire, hid it inside a hollow **fennel stalk**, and carried it down to Earth."
+"The torch," said Maya. "And with fire, people could keep warm and cook and make pots and tools and light their way home. It changed everything. Zeus was not pleased, but that is a long story, and it is for another day."
 
-Alex said, "That's the torch."
+"What about Mr Epp?" said Felix.
 
-Maya said, "Yes. And people had fire, so they could keep warm, cook food, and light their homes. They could make tools, and pots, and pictures. Fire changed everything."
+"His name is **Epimetheus**. It means **afterthought**. Prometheus thinks first. Epimetheus does things first and thinks afterwards. They are brothers, and they are always getting each other out of trouble."
 
-Felix said, "What about Zeus?"
+Alex held the pencil. Felix held the notebook, because they always share jobs.
 
-Maya said, "He wasn't pleased. But that's a long, sad story, and it's for another day."
+**1. THE FENNEL TORCH.** A glow that does not go out.
 
-Kenji said, "What about Mr Epp?"
-
-Maya said, "His name is **Epimetheus**, and it means **'afterthought'**. Prometheus thinks first. Epimetheus does things first and thinks later. They're brothers. They're always getting each other out of trouble."
-
-## THE LIST
-
-Alex held the pencil. Felix held the notebook, because they always share.
-
-**1. THE FENNEL TORCH.** It has a glow that never goes out.
-
-**2. THE FORETHOUGHT.** On his badge. Maya said that was **not subtle.**
+**2. THE FORETHOUGHT.** It is on his badge. Maya said that was **not subtle.**
 
 **3. MR EPP.** He is an afterthought.
 
-**4. THE BUCKET OF SAND.** Mr Prome carries it everywhere. He says it's a good habit.
+**4. THE BUCKET OF SAND.** Mr Prome takes it everywhere. He says it is a good habit.
 
-**5. THE WARM HANDS.** Every child he's shaken hands with says they feel warm for hours afterwards.
+Willow stood up on the compost bin, stretched, and sat down again with her face to the field. When Willow does this, something is going to happen on the field.
 
-Maya said, "It's a perfect list."
+## Part Four. The Rules
 
-## THE FIRE RULES
+On Tuesday, Mr Prome sat our whole class in a circle on the playground, round his bucket of sand.
 
-On Tuesday, Mr Prome took our whole class out to the playground, and sat us in a circle round his bucket.
+"Fire is the best present anybody ever gave," he said. "But a present with no rules can hurt people. So I am going to teach you the rules. It will not take long, and I will not say it too loudly."
 
-He said, "Fire is the best gift ever given. But do you know what makes it a **gift** and not a **danger?**"
+He held up a finger for each one.
 
-We shook our heads.
+"One. **Fire is not a toy.** Matches and lighters are for grown-ups who are careful. If you find some, do not touch. Tell a grown-up.
 
-He said, "**Rules.** A gift with no rules can hurt people. So I'm going to teach you the fire rules, and you have to promise to remember them."
+Two. **Stay back.** If there is a fire, you keep a long way away.
 
-He held up one finger at a time.
+Three. **Smoke rises, so stay low and go.** If a room is smoky, bend down low, where the air is better, and go to the door.
 
-"**One. Fire is not a toy.** We never touch it, and we never play with matches or lighters.
+Four. **Get out, stay out.** You never go back for anything, not even a toy, not even a pet.
 
-**Two. Stay back.** If there's a fire, we stay far away, as far as the oak tree.
+Five. **Never hide.** Some people hide under a bed or a table when they are frightened, because a scared brain says, 'If I cannot see it, it cannot see me.' But then the grown-ups cannot find you. Come out. Go out. Be found.
 
-**Three. Tell a grown-up.** If you see flames or smell smoke, tell a grown-up straight away.
+Six. **Grown-ups call for help.** That is the number nine, nine, nine. You tell a grown-up, and the grown-up calls."
 
-**Four. Stop, drop and roll.** If your clothes ever catch fire, you stop, drop to the floor, cover your face with your hands, and roll until it's out.
+Kenji's hand went up. "I would hide," he said. "I think. Probably."
 
-**Five. Get out, stay out.** If there's a fire inside, you get out, you **stay** out, and you **never** go back for anything, not even a toy. And you let a grown-up call for help. In Britain, you call 999."
+"A lot of people would," said Mr Prome, and he did not look surprised, or cross. "That is why we practise. Practising teaches your feet what to do when your brain is too frightened to think."
 
-Ollie said, "What if I forget?"
+While he was saying it, something small and rattly fell out of Mr Epp's pocket and rolled across the playground. It was a box of matches.
 
-Mr Prome smiled. "I made it into a song."
+Mr Prome caught it before it stopped. He did not shout. He put it in his own pocket.
 
-## THE FIRE SONG
+"Matches are for grown-ups who are careful, Epp."
 
-He taught it to us. It went like this:
+"I am careful," said Mr Epp. "Afterwards."
+
+"Careful afterwards is not careful," said Mr Prome, quite gently, and quite firmly, and Mr Epp went pink and looked at his shoes.
+
+Then Mr Prome taught us the fire song, so that the rules would stay in our heads:
 
 *"Fire is a friend, but it has some rules,*
-*Stay back, tell someone, don't play with the tools.*
-*Stop, drop, and roll, if the flames come near,*
-*Get out and stay out, and the helpers will hear!"*
+*Matches and lighters are grown-ups' tools.*
+*Low and go, and never hide,*
+*Get out, stay out, and wait outside!"*
 
-We sang it three times. By the third time, even Dot had it. Mr Epp tried to join in, but he started at the end, and sang the last line first, and got so muddled that he sat down on the bucket.
+Mr Epp tried to join in, but he started at the last line, and finished at the first, and got so muddled that he sat down on the sand bucket again.
 
-Alex said the rules back, slowly. Felix said them back too, perfectly. They looked at each other, and they both grinned, because they both knew them.
+## Part Five. The Practice
 
-## THE INSPECTOR
+"Now," said Mr Prome. "We will practise. Imagine that the playground is a room, and that this is smoke."
 
-On Wednesday, a very important person arrived in a long grey coat and a tie shaped like a **lightning bolt.**
+He held up a long blue scarf, high in the air.
 
-He was tall and broad, with white hair, a white beard and a very loud voice. He carried a briefcase with a **ZIP** on the front. His badge said **MR ZED, COUNCIL SAFETY INSPECTOR.**
+"First try," he said. "Go."
 
-He marched across the playground, into the staffroom, and said to Mr Harris, "I've heard there's a bonfire."
+Ollie stood up and ran the wrong way. "My lunchbox!" he said. "It has a sausage roll in it!"
 
-Mr Harris said, "Yes, on Thursday."
+"Never go back," said Mr Prome.
 
-Mr Zed said, "With children."
+"It is a really good sausage roll."
 
-Mr Harris said, "Yes, but..."
+Everyone else squashed into one big lump in the corner, with their heads right up high in the smoke. Dot was being sat on by two people.
 
-Mr Zed said, "With **FIRE.**"
+"Second try," said Mr Prome, and he sounded entirely cheerful about it.
 
-His voice was so loud that a pigeon fell off the roof.
+This time we remembered to bend down, but we did it all at once, so that we bumped heads and fell over each other like a pile of coats. And when we got to the oak tree, which is where the school meets if there is a fire, nobody knew whether we were all there.
 
-Maya whispered, "Lightning bolt. White beard. Big voice. That's **ZEUS.**"
+"It's a mess," whispered Felix. "How does anyone know who is missing?"
 
-Kenji whispered, "The one who didn't want people to have fire?"
+"Somebody has to count," said Alex, who had noticed that nobody had. "Not in a hurry. At the tree, as soon as we get there."
 
-Maya whispered, "The very same."
+"Mrs Tibbs counts at the tree," said Felix. "And a big person stays with us. And the line has a front and a back, so nobody gets left in the middle."
 
-## ZEUS AND PROMETHEUS
+Mr Prome wrote it on his clipboard.
 
-Mr Prome stood in the doorway, holding his stalk. The two of them stared at each other for a very long time.
+"Third try," said Mrs Tibbs, who had joined us. "Slowly. Low. Walking."
 
-Mr Zed said, in a low, grumbly voice, "I see you're still at it."
+It worked. We went out in a long wobbly line, low as ducks, with Alex at the front and Felix at the back, all the way to the oak tree. Mrs Tibbs counted us, out loud, with her finger. We were all there. Willow was there as well, sitting at the end of the line, waiting for someone to notice that she had been first.
 
-Mr Prome said, "I see you're still worried."
+"Good," said Mr Prome. "That is what the rules are for. Not to make you afraid. To make you ready."
 
-Mr Zed said, "Fire is dangerous."
+## Part Six. Mr Zed
 
-Mr Prome said, "So is a lot of things. That's why we teach people how to use it."
+On Wednesday, a very important person arrived in a long grey coat, with a tie shaped like a lightning bolt.
 
-Mr Zed said, "Children cannot be trusted."
+He was tall and broad, with white hair, a white beard and a very loud voice. He carried a briefcase with a ZIP on the front. His badge said **MR ZED, COUNCIL SAFETY INSPECTOR.**
 
-Mr Prome said, "They can if you trust them. I've taught them the rules. They know."
+He marched across the playground, into the staffroom, and said to Mister Harris, "I have heard there is a bonfire."
 
-Mr Zed folded his arms. He said, "I'm cancelling the bonfire."
+"On Friday," said Mister Harris. "Yes."
 
-The whole staffroom gasped. Mr Harris said, "Oh, please, no."
+"With children."
 
-Mr Zed said, "It's for their own safety. And, **Prometheus**, you'd better hand over that torch."
+"Yes, but..."
 
-Mr Prome gripped it tight. Mr Epp, who was sitting on the sofa, accidentally ate Mr Harris's sandwich and said, "Oh! I should've asked."
+"With **FIRE.**"
 
-For a moment, it looked like there might be a very big argument. But Mr Prome only sighed, and said, quietly, "You're not wrong to worry. But you can't keep fire away from people. They need it."
+His voice was so loud that a pigeon fell off the roof. It flew back up, and looked again to check.
 
-Mr Zed said, "I'm cancelling it. **End of discussion.**"
+"Lightning tie," whispered Maya, behind the staffroom door. "White beard. Voice like thunder. A name that starts with Z."
 
-## THE CANCELLED BONFIRE
+"So?" whispered Kenji.
 
-The whole class was sad that night. Ollie said it was the worst day of his life. Kenji drew a picture of a very sad toffee apple. Dot refused to eat her tea.
+"So I am not saying anything," whispered Maya. "I am only writing down **Z.** And underlining it."
 
-Alex and Felix didn't say much. They were too busy thinking.
+Mr Prome stood in the doorway holding his stalk. He and Mr Zed stared at each other for a very long time, the way two people do when they have had the same argument for a very, very long time.
 
-At bedtime, Alex said, "It's not fair that they don't trust us."
+"I see you are still at it," said Mr Zed, quite low.
 
-Felix said, "But what if he's a bit right?"
+"I see you are still worried," said Mr Prome.
 
-Alex said, "About what?"
+"Fire is dangerous."
 
-Felix said, "About fire being dangerous."
+"So are lots of things. That is why we teach people how to use them."
 
-Alex thought for a long time. Then he said, "I think they're both right."
+"Children cannot be trusted with it."
 
-Felix said, "That's what Maya says about everything."
+"They can, if you trust them. I have taught them the rules. They know."
 
-They both laughed. They fell asleep.
+Mr Zed folded his arms. "I am cancelling the bonfire."
 
-## THURSDAY NIGHT
+The whole staffroom gasped. Mr Epp accidentally ate Mister Harris's sandwich and said, "Oh! I should've asked."
 
-But the bonfire wasn't cancelled for everyone.
+"It is for their own safety," said Mr Zed, and he held out a big hand. "And you had better give me that torch."
 
-Mr Epp, who thought about things afterwards, had felt awful about the whole thing all evening. He wanted to cheer up the class. He wanted to put things right. And so, on Thursday after school, while Mr Prome was talking to Mr Harris, Mr Epp crept out to the field with a box of matches.
+Mr Prome held it tight. "You are not wrong to worry," he said. "But you cannot keep fire away from people. They need it."
 
-He didn't think about the wind.
+"End of discussion," said Mr Zed, and he zipped his briefcase so hard that the zip said ZIP.
 
-He didn't think about the pile of dry leaves behind the Reading Cabin, where the after-school club was having a story.
+## Part Seven. The Sad Wednesday
 
-He didn't think about the sign that said **NO FIRE UNTIL A GROWN-UP SAYS.**
+The whole class was sad that night. Ollie said it was the worst day of his whole life. Kenji drew a picture of a very sad toffee apple. Dot refused to eat her tea, until someone said there was crumble.
 
-He lit a match.
+Alex and Felix were quiet at bedtime. They were thinking.
 
-## THE SPARK
+"It is not fair," said Alex. "They do not trust us."
 
-It was a very small match. But the wind was strong, and a single spark spun up in the air, carried across the field like a tiny orange firefly, and landed in the dry leaves.
+"What if he is a bit right?" said Felix.
 
-Mr Epp said, "Oh." Then he said, "**OH NO.**"
+"About what?"
 
-The leaves caught. A thin ribbon of smoke curled up. Then a flicker. Then a small, hungry flame, crawling across the ground towards the Reading Cabin.
+"Fire being dangerous."
 
-Mr Epp panicked. He ran in circles. He said, "I should've thought! I should've thought!"
+Alex thought for a long time. "I think they are both right," he said.
 
-Inside the Reading Cabin, twelve children from our class were sitting on beanbags, listening to a story. Mrs Tibbs was reading the Three Billy Goats Gruff. Nobody noticed the smoke at first.
+"That is what Maya says about everything."
+
+They both laughed, quietly, so as not to wake anyone. Then they said the song under their breath, all the way through, to the end, and fell asleep with it still in their heads.
+
+Meanwhile, at the school, Mr Epp was standing by the staffroom drawer that says **BIRTHDAY CANDLES ONLY.** He had a very sad face and a very bad idea starting.
+
+"Someone should do something," he said to nobody. "Someone should cheer them up. I will think of something. I will think about it afterwards."
+
+Willow, who was asleep on the radiator, opened one eye and looked at him for a long time. Then she shut it again.
+
+## Part Eight. The Wrong Idea
+
+On Thursday after school, the Reading Cabin was full of fancy dress.
+
+Mrs Tibbs says stories are better if you dress for them, so the whole after-school club had come as goats, or bees, or in Ollie's case, a very large tomato. Kenji had goat ears on. Mrs Tibbs was in the story chair. We were all on beanbags. Willow was on a cushion by the window, which was where she always sat, because she says nobody should have to read a story without a cat.
+
+Outside, on the field, behind the cabin, there was a pile of dry leaves that Mr Thorley had been saving for the compost. It was against the cabin wall, round the corner from the door.
+
+Mr Prome was in the office with Mister Harris and Mr Zed, filling in forms. It took a long time, because Mr Zed's forms had forms.
+
+And Mr Epp crept out across the field with a box of matches from the drawer.
+
+He only wanted a tiny fire, he told himself. As small as a teacup. A little fire to show everyone that fires could be nice. He did not think about the wind. He did not think about the dry leaves, or the wall, or the sign on the cabin that said **NO FIRE UNTIL A GROWN-UP SAYS.** He did not think that he *was* a grown-up, and that he was not being careful.
+
+He struck a match.
+
+The wind took the little flame and blew it sideways. A spark leaped off it, spun up like a tiny orange firefly, and landed in the leaves.
+
+"Oh," said Mr Epp. And then, very much louder, "**OH NO.**"
+
+A thin ribbon of smoke curled up. Then a flicker. Then a small, hungry flame, crawling up the wall of the Reading Cabin.
+
+Mr Epp did not hide. We want to say that, because it is true. He dropped the matches, and he ran across the field shouting for his brother.
+
+"**PROME! FIRE! IT IS ME! IT IS FIRE!**"
+
+## Part Nine. Alex Notices
+
+Inside the cabin, Mrs Tibbs was reading the bit of the story where the goat says, "Who is that trip-trapping over my bridge?" Nobody had noticed anything.
 
 Except Alex.
 
-## ALEX NOTICES
+He had been looking out of the window, past Willow. He saw a thin grey line floating by the glass. It was not fog, and it was not a cloud. It was going UP, and it smelled like a burnt toast that nobody wanted.
 
-Alex had been looking out of the window. He saw a thin grey line floating past the glass. He saw something orange flicker in the leaves.
+His stomach went cold. For a moment he thought, *Perhaps it is nothing. Perhaps everyone will laugh.*
 
-He tugged Felix's sleeve. He said, in a quiet voice, "Felix. Smoke."
+Then he thought of Mr Prome saying, Tell a grown-up.
 
-Felix looked. His eyes went wide.
+He tugged Felix's sleeve. "Felix. Smoke."
 
-They both knew what to do. They had learned it that very week.
+Felix looked, and his eyes went wide. We would like to tell you that he was not afraid. He was. He took Alex's hand, and he held it tight.
 
-Alex put up his hand and said, very calmly, "Mrs Tibbs. There's a fire outside."
+Alex put up his other hand, very high, and said, in a voice that came out smaller than he wanted, "Mrs Tibbs. There is smoke outside."
 
-Mrs Tibbs looked. Her face went white, but her voice stayed steady. She said, "Thank you, Alex. Everyone, stand up. **Get out, stay out.** Line up by the door. Quickly, but walking."
+Mrs Tibbs stopped. She looked at the window. Her face went white, but her voice came out steady as a table.
 
-## FELIX ASKS
+"Thank you, Alex. Everyone, stand up. Leave your things. Low and go. Walking, please."
 
-The children stood up, all at once, and the room filled with noise. Some were frightened. A girl in a bumblebee costume started to cry.
+## Part Ten. Low and Go
 
-Felix stepped forward. He said, in a loud, clear voice, "Everyone, listen. We know what to do. Let's sing the song."
+Everybody stood up at once, and the cabin filled with noise. A girl in a bee costume started to cry, a big, wobbling cry. The smoke was only just beginning, thin and grey, high up near the ceiling.
 
-He started it, shakily:
+Felix opened his mouth. He was not sure what would come out.
+
+Out came the song.
 
 *"Fire is a friend, but it has some rules..."*
 
-Alex joined in. Then Mrs Tibbs. Then the whole room.
+His voice shook on the first line. Alex joined in on the second. Mrs Tibbs joined in on the third. By the end of the verse the whole cabin was singing, even the bee, who was still crying, but was singing as well.
 
-*"Stay back, tell someone, don't play with the tools.*
-*Stop, drop and roll, if the flames come near,*
-*Get out and stay out, and the helpers will hear!"*
+*"Low and go, and never hide,*
+*Get out, stay out, and wait outside!"*
 
-It helped. The crying got quieter. The line got straighter. By the second verse, everyone was at the door.
+We went low, like ducks. Mrs Tibbs went to the door and held it open, and as we went past she touched each of us on the head, one, two, three, as if she were saying thank you to every one. The air outside was cold and clear, with a thin smell of smoke, and the fire was round the corner on the far wall of the cabin, a long way from the door. We walked across the grass to the oak tree. Nobody ran. Willow walked beside us, with her tail straight up, past the smoke, and past the noise of the school bell, which had started to clang, clang, clang across the field.
 
-Mrs Tibbs opened it, and led the children out, in a long, neat line, across the grass to the big oak tree, which was the meeting point.
+At the oak tree, we found Mr Pickering the lollipop man, who had been going home. He had stuck his lollipop sign in the ground like a flag. Elfine and Marion, who are big kids and had been sitting on the bench under the tree, had already stood up and held out their hands.
 
-## THE COUNT
+"I am Mr Pickering," he said. "I am staying right here with you, and I am not going anywhere. Everyone stay by the sign, please."
 
-Alex stood at the door, counting heads out loud. Felix stood at the back, making sure nobody was left behind.
+## Part Eleven. Eleven
 
-Alex said, "One, two, three, four, five, six, seven, eight, nine, ten, eleven."
+Mrs Tibbs had to go and tell the grown-ups, so Mr Pickering was in charge. He stood in front of us with his big, calm face. "Right," he said. "We count at the tree. Who is going to help me?"
 
-Felix said, "That's eleven."
+"We will," said Alex.
 
-Alex said, "There should be twelve."
+Elfine took one end of the line, and Marion took the other, and Alex and Felix counted every head together, out loud, with a finger. "One, two, three, four, five, six, seven, eight, nine, ten, eleven," said Alex.
 
-Alex and Felix went still. Their hearts went cold.
+"That is eleven," said Felix.
 
-Felix said, "Who's missing?"
+"There should be twelve," said Alex.
 
-Alex looked round the room from the doorway. He noticed a tiny thing. Under the table in the corner, there was a small blue shoe, sticking out.
+It went very quiet under the oak tree. We could hear the school bell, and some far-off shouting, and the little crackle from behind the cabin. Dot slipped her hand into Alex's. Ollie, who is always hungry, was suddenly not hungry at all.
 
-He said, "Kenji."
+"Who is missing?" said Felix.
 
-## THE SHOE
+Alex ran through the line in his head, like a finger down a list. Then he thought of the cabin as they had stood up. The beanbags. The story table in the corner.
 
-Kenji had been so frightened that he had crawled under a table and shut his eyes. He thought if he couldn't see the fire, it couldn't see him. The smoke was starting to creep in under the door.
+"A small blue shoe," said Alex, in a funny, thin voice. "It was sticking out from under the story table. I thought it was only a shoe."
 
-Alex didn't go in. He knew the rule. He shouted, "Mrs Tibbs! Kenji's inside, under the table!"
+"Kenji," said Felix.
 
-Mrs Tibbs, who was at the oak tree with the rest of the children, ran back to the doorway. She called, in her firmest voice, "Kenji! It's Mrs Tibbs! Come to me, now!"
+Neither of them moved towards the cabin. They wanted to, very much, and their hearts were pounding. But they had practised the rule, and they stayed where they were, holding hands.
 
-But Kenji didn't move. He was too scared. He couldn't hear.
+"MR PICKERING!" they shouted, together. "KENJI IS STILL INSIDE! UNDER THE STORY TABLE, AT THE BACK!"
 
-Felix said, "I'll talk to him from the door."
+## Part Twelve. The Back Window
 
-Mrs Tibbs said, "Stay at the door. **Stay low.** Do not go in."
+Mr Pickering did not go in. He cupped his hands round his mouth and used the voice he normally uses for stopping lorries.
 
-Felix got down on his hands and knees, on the doorstep, where the air was clear. He called, in a gentle voice, "Kenji. It's Felix. Can you hear me?"
+"**GROWN-UPS! ONE CHILD STILL INSIDE! THE BACK OF THE CABIN!**"
 
-A tiny voice said, "I'm scared."
+Everything happened at once. Mr Shah, the music teacher, came running in his blue scarf. Mr Thorley came running behind him with his hammer. Mr Prome came running from the office, with Mister Harris, who was holding his phone to his ear and saying, "Yes. Yes. Nine, nine, nine. Yes, as fast as you can." Mrs Tibbs came running back too, and she stopped at the corner, and she did not go in.
 
-Felix said, "I know. I'm scared too. But I need you to do something brave. I need you to crawl towards my voice."
+The side with the fire was too hot to go near. But the back of the cabin was a long way from the flames, and it had a big, low window.
 
-Kenji said, "I can't."
+"That way!" said Mr Prome, and the grown-ups ran round to the back.
 
-Alex got down beside Felix. He said, "Kenji. Say it with us."
+Felix, who had been standing very still, pulled on Mr Shah's scarf as he passed. "Kenji will not hear shouting," he said. "He goes quiet when he is scared. But he knows the song. If you sing him the song, he will remember what to do."
 
-They said it together, very clearly:
+Mr Shah did not ask any questions. He put his face to the window.
 
-**"I CAN BE SCARED AND BRAVE AT THE SAME TIME."**
+"*Low and go, low and go,*" sang Mr Shah, as loudly and as gently as he could, a voice that sounded like a warm hug with a drum in it. "*Low and go, Kenji. Never hide.*"
 
-There was a silence. And then, a small, wobbly voice said it back.
+We held our breath under the oak tree. We could not see. Alex squeezed Felix's hand so hard it went white.
 
-**"I can be scared and brave at the same time."**
+From inside the cabin there came a tiny, wobbly voice. "I am under the table. I am scared."
 
-A little shape began to crawl across the floor, low, under the smoke. A hand appeared. Then a face, grey with dust. Then a whole small boy, in a costume of goat ears.
+"That is all right," sang Mr Shah. "Be scared. Come out anyway. Low and go."
 
-Mrs Tibbs scooped him up and ran.
+A small hand came out. Then a grey face. Then a whole small boy, with goat ears, crawling very low, below the smoke, towards the window.
 
-## THE FIRE GROWS
+Mr Thorley opened it, very gently, so as not to startle anyone, and lifted Kenji out with his big hands like somebody lifting a bird.
 
-At that moment, the wind picked up.
+"Gotcha," said Mr Thorley, in the quietest voice we have ever heard him use.
 
-The fire leaped. The flames shot up the wall of the Reading Cabin, and a shower of sparks flew into the sky. The dry leaves roared. The heat was so strong that we had to step back, back, **back**, as far as the oak tree.
+## Part Thirteen. Wait
 
-All the teachers were running. Mr Harris was on the phone, shouting, "**FIRE!**" Mr Jackson was counting every child, twice. Mrs Ibbs was writing down the time. Mr Shah stood in front of the children, very still, to keep them calm.
+We cheered, a ragged little cheer from the oak tree, and Dot cried a bit.
 
-Mr Thorley was running, too, with his hammer. He roared, "I'LL SEND A STORM!" And he lifted his hammer to the sky.
+But the fire was not finished.
 
-Mr Zed grabbed his arm. He said, "**Wait.**"
+The wind picked up. The flames leaped up the side of the Reading Cabin, and a shower of sparks flew off into the sky. The dry leaves roared. The heat was so strong that all of us were moved back, back, **back**, behind the oak, with Mr Pickering and his lollipop sign at the front, and the grown-ups making a long line in front of us. Mr Prome threw his bucket of sand on the smallest flames. It stopped a few of them, but the rest were too big, so he stepped back, as he had taught us. Mrs Ibbs wrote down the time. Mr Jackson counted the children, twice. Mr Shah stood in front of us, with Kenji wrapped in his scarf.
 
-Mr Thorley said, "What?"
+Mr Thorley was shaking with fury. "I'LL SEND A STORM!" he roared, and he raised his hammer to the sky.
 
-Mr Zed said, "Every child is **out.** Every one is counted. We've called for help. If you bring a storm now, the wind could blow the fire the wrong way."
+"**Wait,**" said Mr Zed. He had a hand on Mr Thorley's arm. His voice was very quiet.
 
-Mr Thorley froze.
+"WHAT?"
 
-## THE FIRE ENGINE
+"Every child is out," said Mr Zed. "Every one is counted. Help is coming. If you make a storm now, the wind will blow the fire the wrong way, across the field, towards the children."
 
-A siren began to wail, a long way off. A bright red fire engine roared down the road. It screeched to a stop at the gate. Four firefighters in yellow helmets jumped out, and ran straight to the cabin with a long, fat hose.
+"But..."
+
+"Wait," said Mr Zed again. "Waiting is the hard part. It is the bravest part too."
+
+Mr Thorley did not like it at all. His knuckles went white on the hammer. But he lowered his arm, and he waited.
+
+## Part Fourteen. The Engine and the Rain
+
+A siren began to wail, a long way off, and then not so far off. A bright red fire engine roared down the road and stopped at the school gate with a squeal, and four firefighters in yellow helmets jumped out and ran across the grass with a long, fat hose.
 
 They sprayed the flames. Water poured out in a great silver arc. The fire hissed and spat, and the smoke went from black to grey to white.
 
-Alex and Felix stood by the oak tree with the others. They were holding hands. They watched the firefighters work.
+A firefighter walked over to us, her helmet in her hand. She knelt in front of the twins. "I heard that two of you spotted it first," she said.
 
-Felix said, "They're so brave."
+We could not think of anything to say.
 
-Alex said, "They do it every day."
+"That is exactly what you are supposed to do," she said. "You told a grown-up. You got out. You counted at the tree. You did not go back in, even though you wanted to. That is the hardest thing there is."
 
-A firefighter came over to the group, her helmet in her hand. She knelt, and said, "I heard that two of you got everyone out."
+"We learned it from Mr Prome," said Alex.
 
-The twins went quiet.
+"He made it into a song," said Felix.
 
-She said, "That is **exactly** what you're supposed to do. Stay calm, count everyone, get out, stay out. You didn't go back in. You did the **bravest** thing, which is following the rules."
+The firefighter smiled. "I shall have to borrow it."
 
-Alex said, "We learned it from Mr Prome."
+Then the air went quiet, and the wind dropped. Mr Zed nodded at Mr Thorley, and Mr Thorley said, "NOW?"
 
-Felix said, "He made it into a song."
+"Now," said Mr Zed.
 
-The firefighter smiled. "I'll have to borrow it."
+Mr Thorley raised his hammer, and this time nobody stopped him. A small round grey cloud gathered above the field. A few fat drops fell. Then a few more. Then a gentle, steady rain that sizzled on the black leaves and soaked every last spark.
 
-## THE REAL RAIN
-
-By then, the flames were nearly out. And then the air went very, very quiet.
-
-Mr Thorley looked up. His beard went still. He said, softly, "Now."
-
-He raised his hammer, and this time, nobody stopped him. A small, round, grey cloud gathered above the field. A few fat drops fell. Then a few more. Then a gentle, steady rain, which sizzled on the black remains of the leaves, and soaked every last spark.
-
-The firefighters rolled up their hose. A last curl of smoke rose from the Reading Cabin, and faded.
-
-The fire was out.
+The fire was out. The firefighters rolled up their hose. A last curl of smoke rose from the cabin, and faded.
 
 Nobody was hurt.
 
-## MR EPP
+## Part Fifteen. Blankets
 
-Mr Epp was sitting on the grass, with his head in his hands. He was soaking wet and shaking. He said, "It was me. I did it. I lit the match. I didn't think."
+We sat under the oak tree in a row, wrapped in the firefighters' silver blankets, which crackled whenever anyone moved. Elfine and Marion had made a rule that nobody was allowed to be on their own. Dot was on Ollie's lap. Ollie was eating a biscuit that Mrs Ibbs had found somewhere.
 
-Mr Prome sat beside him. He put an arm round him. He didn't say, "I told you so." He said, "I know."
+Kenji was between the twins, with his goat ears gone crooked. He did not say anything for a long time.
 
-Mr Epp said, "I'm so sorry."
+"I hid," he said at last. "I said I would, and I did. I put my hands over my eyes, and I thought, if I cannot see it, it cannot see me."
 
-Mr Prome said, "I know you are. And you said it. That matters."
+"We know," said Felix.
 
-Mr Epp sniffed. "It was my fault they were in danger."
+"Mr Prome said never to."
 
-Mr Prome said, "It was your fault. And it was also the twins' doing that everyone was safe. Both of those are true."
+"Mr Prome said you would want to," said Alex. "He said a scared brain says hide. He said it is why we practise."
 
-Mr Epp looked up, and saw Alex and Felix standing in front of him. He said, "I'm sorry."
+"I forgot," said Kenji.
 
-Alex said, "Thank you for saying it."
+"Your feet did not," said Felix. "When Mr Shah sang, you came out. That was the practice."
 
-Felix said, "Next time, think first."
+"You came out even though you were scared," said Alex. "That is the hard bit."
 
-Mr Epp said, "I'll try. I'm really bad at it."
+"So were we," said Alex.
 
-Alex said, "You can say it to yourself. **Stop. Breathe. Think.**"
+"I was so scared my knees went floppy," said Felix.
 
-Mr Epp said, "That's very good."
+"I could not feel my hand," said Alex.
 
-He said it three times. Then he said it again, and he looked a little less wobbly.
+"I ate a whole biscuit without tasting it," said Ollie, which for Ollie was very serious.
 
-## ZEUS LISTENS
+Kenji laughed, a wet, hiccuping laugh. Willow got up from the end of the row, stepped over four people in silver blankets, and sat in Kenji's lap, where she stayed. Willow had walked beside the smoke without bolting, through the bell and the sirens and the hose, and for a cat who hates loud noises that is the bravest thing there is. She turned round three times and went to sleep.
 
-Mr Zed was standing apart from everyone, in his grey coat, with rain dripping off his beard. His lightning tie had gone limp.
+## Part Sixteen. Mr Epp
 
-He walked across the wet grass, slowly. He stopped in front of the twins. He looked at them for a long time.
+Mr Epp was sitting on the wet grass by himself, with his head in his hands. He was soaking, and he was shaking. When the other grown-ups had gone to look at the cabin, Mr Prome sat down beside him.
 
-He said, in a voice that was much quieter than before, "I said fire was dangerous."
+"It was me," said Mr Epp. "I lit the match. I did not think."
 
-The twins nodded.
+"I know," said Mr Prome.
 
-He said, "And I said children couldn't be trusted with it."
+He did not put an arm round him. Not yet. He waited, and then he held out his hand, with the palm up.
 
-They nodded again.
+"Matches, please."
 
-He said, "I was wrong. Not about the danger. That is real. But about the children." He took a deep breath. "You did exactly what you were taught. You were braver, and calmer, and wiser than a lot of grown-ups I know."
+Mr Epp gave him the box. His hand was shaking so hard that the matches rattled.
 
-Mr Prome came and stood beside him. Mr Zed turned and said, "Prometheus."
+"Listen to me, Epp," said Mr Prome, very calm and very firm. "Matches are for grown-ups who are careful. Today you were not careful. You lit a flame beside dry leaves, beside a cabin full of children, and any one of them could have been badly hurt. That is not a small thing. Nobody was, but that was luck, and a lot of other people being careful. It was not because of you."
 
-Mr Prome said, "Zeus."
+"I know," said Mr Epp, and tears dripped off his nose. "I am so sorry."
 
-Mr Zed said, "I should have trusted you. A very long time ago."
+"I know you are. Saying sorry is a good start. Now there are other things."
 
-Mr Prome smiled, a slow and warm smile. He said, "We were both trying to keep people safe. We just did it in different ways."
+Mr Zed had come to stand behind them. He had a very serious face. "No matches. No lighters. No candles. Not a birthday candle, for the rest of the year," he said. "And you will help Mr Thorley clear the burnt leaves, every day, until they are gone. And you will tell the whole school what happened, plainly, on Monday."
 
-Neither of them said a word. And then, for the first time in a very long time, they shook hands.
+Mr Epp nodded at every one of them. Then he stood up, a bit wobbly, and spoke to the twins, who were standing nearby.
 
-## BONFIRE NIGHT, THE REAL ONE
+"I lit a match next to dry leaves and a cabin full of children," said Mr Epp, quite slowly, so that he got it right. "That was wrong. It could have hurt somebody. I am sorry, and I will never do it again."
 
-Because of the wet weather and the fire, we couldn't have our bonfire that Thursday. But on Saturday night, Mr Zed made an announcement. He said that he was "reconsidering" the ban, and that our class could have a **small, safe** bonfire, if every child did **one** thing first.
+"Thank you for saying it," said Alex.
 
-They had to sing the fire song.
+"When you want to do something quickly," said Felix, "you can say, Stop. Breathe. Think."
 
-We all did. Every single child, and every teacher, and every mum and dad and grandparent. Even the firefighters came, and they stood by the bonfire, with their helmets on, and joined in the chorus.
+"Before anything," said Felix. "It helps."
 
-The fire was small and golden, in a ring of stones, with a bucket of water on one side and a bucket of sand on the other. We stood back, as far as the oak tree. We ate hot dogs and toffee apples, and drank hot chocolate. The sparks floated up into the dark, like little stars.
+"Stop," said Mr Epp. "Breathe. Think." He said it three times, and then he put his arms round his brother and cried properly, and Mr Prome held him, and for once he did not say anything clever at all.
 
-Mr Prome stood at the edge of the circle, holding his torch, with the glow of the fire on his face. He looked happier than we'd ever seen him.
+## Part Seventeen. Careful Is Brave
 
-He said, "That's what fire is for. Warmth. Light. Friends. Stories."
+Because of the fire, and the wet, the bonfire could not happen on Thursday. But on Friday morning, Mr Zed stood up in assembly with a very serious face and said that he was **reconsidering.**
 
-Mr Zed stood next to him, holding a toffee apple. He said, "It's rather lovely, isn't it?"
+He said the school could have a small, safe bonfire on Friday night, if every single person, including every grown-up, first sang the fire song.
 
-Mr Prome said, "It always was."
+We did. Every child, every teacher, every mum and dad and grandparent, and four firefighters, who stood by the ring of stones in their helmets and sang the chorus louder than anyone.
 
-## THE LESSON
+The fire was small and golden. There was a bucket of water on one side and a bucket of sand on the other, and everybody stood back as far as the oak tree. Mr Prome lit it himself, with a little flame from the end of his green stalk, very slowly, with Mr Zed beside him holding a bucket. Mr Epp stood at the edge with a bucket in each hand. It was a proper job, and nobody treated it as a joke.
 
-Later, as we were going home, Mr Prome knelt in front of Alex and Felix. He gave each of them a tiny, hollow stalk, with a small glow inside.
+We ate toffee apples and drank hot chocolate. The sparks went up into the dark like little stars,.
 
-He said, "This isn't real fire. It's a little bit of light. It won't burn you. It's a reminder."
+"That is what fire is for," said Mr Prome. "Warm. Light. Friends. Stories."
 
-The twins held them up. They glowed softly, like two small fireflies.
+"It is rather lovely," said Mr Zed, who had a toffee apple stuck to his beard.
 
-He said, "Fire is a gift, and so is courage, and so is knowing the rules. When you share what you've learned, it's like lighting a candle from your own. Your light doesn't get smaller. The world gets brighter."
+"It always was," said Mr Prome.
 
-Alex said, "Like the fire song."
+Later, as we were going home, he knelt in front of the twins. He gave each of them a tiny hollow stalk, with a small glow inside.
 
-Felix said, "And the fire rules."
+"This is not real fire," he said. "It is a little light, and it will not burn you. It is a reminder."
 
-Mr Prome said, "Exactly. You shared them, and everyone was safe."
+Alex and Felix held them up, and they glowed like two small fireflies.
 
-We all said it together, under the stars:
+"A fire needs rules to be a gift. A courage needs rules too. When it counted, you did not rush in. You noticed, and you spoke up, and you counted, and you stayed where you were put. That was not the easy thing. That was the brave thing. **Careful is brave.**"
 
-**"CAREFUL IS BRAVE."**
+"Waiting was brave," said Dot, who had been hanging on to the back of Alex's coat.
 
-## THE ENDING (WITH A BOX)
+"Singing was brave," said Ollie.
 
-On the way to the gate, we saw the postman, Mr Hermes, coming up the road. He was walking backwards, and he was carrying a very large wooden box.
+"Saying the sorry was brave," said Kenji.
 
-It was covered in locks. A big sign on the lid said:
+"Staying at the tree and not going into the cabin was brave," said Maya, and wrote it down.
+
+Willow blinked, once, slowly.
+
+## Part Eighteen. The Box
+
+On the way to the gate, we saw Mr Hermes coming up the road. He was walking backwards, and he was carrying a very large wooden box.
+
+The box was covered in locks. There were big locks, and small locks, and locks on top of locks. It was so heavy that Mr Hermes puffed, and then it was so heavy that he stopped, and then he just dropped it, with a **THUD** that made the gravel jump.
+
+"Not mine," said Mr Hermes. "I only deliver. Mind your toes."
+
+A big sign on the lid said:
 
 **FOR MR EPP. FROM PANDORA. DO NOT OPEN.**
 
-(There was a second line, in smaller writing: *Seriously, Epimetheus.*)
+There was a second line, in smaller writing: *Seriously, Epimetheus.*
 
-Maya went pale. She said, "**Oh no.**"
+Maya went very pale. She opened her notebook, and a new line was there in grey writing, as if someone were writing it that very second. It said: **15. Careful is brave.**
 
-Mr Epp, who was standing by the bonfire with a marshmallow, looked at the box. He looked at the lid.
+Mr Epp, who was standing by the bonfire with a bucket in each hand, stared at the box. He looked at the locks. He looked at the lid.
 
-He said, "I wonder what's inside."
+"I wonder what is inside," he said.
 
-Alex and Felix looked at each other. They both shouted, at exactly the same time:
+"**STOP. BREATHE. THINK!**" shouted Alex and Felix.
 
-**"STOP. BREATHE. THINK!"**
+Mr Epp stopped. He took a deep breath. He thought. And very slowly, he put his hands in his pockets, where there was nothing at all.
+
+Willow got up from Kenji's arms, walked across the gravel, and sat down beside the box, facing it, like somebody on guard.
+
+Nobody said anything.
+
+And at exactly the same time, Alex and Felix said, "Monday."
 
 **The End.**
