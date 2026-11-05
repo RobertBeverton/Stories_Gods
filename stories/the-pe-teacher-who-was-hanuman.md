@@ -1,386 +1,543 @@
 ---
 title: "The PE Teacher Who Was HANUMAN"
-description: "A very fast PE teacher has forgotten who he is, and the twins remind him."
+description: "The fastest PE teacher in the world has forgotten how strong he is, and when Sports Day goes wrong, Felix and Alex have to remind him."
 series: "The Staff Room Gods"
 seriesOrder: 12
-tags: ["mythology", "school"]
+tags: ["mythology", "hindu", "remembering who you are"]
 gods: ["Hanuman (Hindu)"]
 lore: hanuman
+characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Ms Fortune", "Mrs Felicity"]
+icon: sun
+publishDate: 2026-11-04
 draft: false
 ---
 
-The first time we saw Mr Hanu was on a Monday, and he was HANGING UPSIDE DOWN from the climbing frame, eating a banana.
+## Part One. The Banana Thief
 
-Mr Harris said, "Class, this is our new PE teacher." Mr Hanu waved with his foot.
+On Monday morning we still had not worked out who had folded the banana peels up the drainpipe. Maya had drawn a map. Kenji had a theory about pigeons. Ollie had a different problem.
 
-He was small and wiry, with a very long ponytail that looked a bit like a tail. He wore a bright orange tracksuit and a whistle, and when he grinned, his chin stuck out in a funny, cheeky way. He was the fastest person we had ever seen. He ran round the hall seven times while Mr Harris was still saying "Good morning."
+"It was MY banana," he said, for the fifth time, as we crossed the playground. "It was a really good banana."
 
-There was just one problem. Mr Hanu was **TERRIBLE** at PE.
+"We know, Ollie," said Alex.
 
-## THE PROBLEM WITH MR HANU
+And that's when we saw him. A man was hanging upside down from the top of the climbing frame, by his knees, peeling a banana with both hands.
 
-He kept forgetting things. He forgot where the cones were. He forgot the rules of dodgeball. On Tuesday, he blew his whistle so hard that he blew himself backwards into the beanbags.
+He was small and quick, in a bright orange tracksuit. His ponytail was so long that it hung right down, and it was swinging, although there was no wind at all. His chin stuck out, a little crooked on one side, in a cheerful sort of way. Round his neck was a whistle on a chain, and as he swung, something tiny on the chain flashed in the sun.
 
-On Wednesday, we saw something odd. He was trying to reach a ball on a high shelf, and he got **bigger.** Just for a second, he stretched up like a giant, grabbed the ball, and shrank back down. Then he looked around very quickly and said, "Nobody saw that."
+Mr Harris was standing underneath him with his clipboard held up like a shield. "Class," he said, "this is Mr Hanu. He is our new PE teacher. Mr Hanu, would you mind coming down?"
 
-We all had.
+"Good morning!" said Mr Hanu, and he came down so fast that we did not see him do it. One second he was on the bar. The next, he was standing on the ground, and then he was running. He ran round the whole playground seven times while Mr Harris was still saying, "Good morning."
 
-Alex Bailey whispered, "He grew."
+Ollie put up his hand. "Excuse me. Is that my banana?"
 
-Felix Bailey whispered, "And he doesn't know how he did it."
+Mr Hanu stopped. His eyes went very round.
 
-Alex said, "He looks surprised every time."
+"Your banana," he said. "Oh dear. Oh, I am so sorry." He put his hands together and bowed, with the banana still in one of them. "I was so hungry, and it was just sitting there. Yes. It was yours. I have eaten yours, and Mr Harris's, and half of the dinner hall's."
 
-They are twins, so they have a system. Alex notices things and Felix asks about them. Then they swap, and it works every time. They looked at each other and said, "We need Maya."
+"Everything," said Mr Harris faintly, "is under control."
 
-## WHO IS HANUMAN?
+"I will make it up to you," said Mr Hanu. He opened a lunchbox, and inside were four mangoes, each one wrapped in its own tea towel. He picked the biggest and put it in Ollie's hands. "That is the best one I have."
 
-Maya Singh was behind the compost bin, with a book from her gran called *Stories of Rama*.
+Ollie looked at the mango. He looked at Mr Hanu. "Apology accepted," he said, and his whole face changed.
 
-She said, "I've been waiting. Mr Hanu is **HANUMAN.**"
+"Mr Hanu," said Felix, who is the one who asks, "how did you get up the drainpipe on Friday?"
 
-Ollie Grant asked, "Is he the one who was in the mango story?"
+"The drainpipe?" said Mr Hanu. He scratched his crooked chin. "I don't know. That is the funny thing. I woke up on a roof with a banana in each hand, and I could not remember how I got there. I could not remember very much at all." He folded the peel he was holding into a neat little square and put it in his pocket. "I always tidy up," he said. "It is rude not to."
 
-Maya said, "Yes! He's a god from Hinduism, a religion from India. He's the monkey god, and one of the most loved of all. He's famous for three things: being strong, being brave, and being a **very good friend.**"
+## Part Two. The Worst PE Lesson
 
-She told us the story from the beginning.
+Mr Hanu was the fastest person we had ever seen, and he was the worst PE teacher in the history of the school.
 
-She said that when Hanuman was a baby monkey, he woke up hungry. He saw the sun rising, glowing orange, and he thought it was a giant mango. So he **leapt into the sky** to eat it. The god of storms, **Indra**, got worried that the world would go dark, so he threw a thunderbolt, and it hit Hanuman on the chin.
+On Monday afternoon, he could not find the cones. They were in the cone cupboard, which is where cones live, but he looked in the bins, in the piano, and in Mrs Tibbs's handbag. Elfine and Marion were helping too. They are twin cousins from the class above, and they are big kids, so they were in charge of the stopwatch. Elfine has glasses and tells facts. Marion counts things.
 
-Kenji Mori gasped. "Ow."
+On Tuesday, we played dodgeball, and he could not remember the rules. "So you throw the ball at someone," he said. "And then... what do they do? Do they thank you?"
 
-Maya said, "He fell all the way to the ground, and his chin was a bit crooked. That's why his name means **'the one with the jaw'**. But all the gods felt sorry, and every one of them gave him a gift. He got great strength. He could fly. He could make himself as big as a mountain or as small as an ant. And nothing could hurt him."
+"They get out," said Kenji.
 
-Alex said, "That's amazing."
+"That does not sound kind," said Mr Hanu.
 
-Maya said, "But there's a catch. As a boy, he was so cheeky with his powers that some wise old sages put a gentle spell on him. They said, 'You will **forget** how strong you are, until a friend reminds you.'"
+Then he blew his whistle to start the game. It was a tiny silver whistle, but he blew it so hard that the sound shook the windows, and the force of it blew him straight over backwards into the pile of beanbags. We could see his shoes sticking out. Ollie said it was the best PE lesson he had ever been to.
 
-Felix said, "So he forgot."
+There was another teacher in the cupboard that afternoon. It was Ms Fortune, who wears a scarf over her eyes, and who runs games and chance. She was dusting her wheel, a big wooden one with painted slots, which she keeps under a cloth. She spins it to decide who goes first.
 
-Maya said, "Yes. Until he needed them."
+"Ms Fortune does the games," said Mr Harris, when Marion asked. "Mr Hanu does the sport. They share the cupboard. Everything is perfectly under control."
 
-We all looked through the window. Mr Hanu was trying to put on a bib the wrong way round.
+"The cupboard is very full," said Marion, counting. "There are four cones, one wheel, nine hoops and a mop."
 
-## THE FRIEND HE SERVES
+"And there is a swan on the field," said Kenji, looking out of the window.
 
-Maya said there was one more important thing.
+"A swan?" said Mr Harris.
 
-Hanuman has a best friend called **Rama**, a kind and brave prince. He helped him once, and he loves him more than anyone. When Rama's wife **Sita** was taken far away across the sea, Hanuman was the one who found her. He made himself small, crossed the ocean in a single leap, and brought back good news.
+Nobody had an answer. A swan had arrived on the school field on Monday night, because the rain had made a huge puddle, and the swan had decided it was now a lake. It stood in the middle of the field, in the wet, with an expression like a visiting inspector.
 
-Ollie asked, "Did he fly there on his own?"
+"Sports Day is on Friday," said Mr Harris, to the swan. "Please do not be there."
 
-Maya said, "No. At first, he didn't know he could. A wise old bear called **Jambavan** said to him, 'Hanuman, do you remember who you are? You can fly. You can do hard things.' And then he remembered, and he leapt."
+## Part Three. The Shelf
 
-Alex looked at Felix. They both went quiet, because they were thinking the same thing.
+On Wednesday, something odd happened in the PE cupboard.
 
-## THE LIST
+We were fetching the hoops. Mr Hanu was trying to get a ball down from the very top shelf, which was too high for a person of his size, and he jumped, and he reached, and he got **bigger.**
 
-Alex held the pencil. Felix held the notebook, because they always share.
+It happened in one blink. His arm stretched up like a long golden elastic band, and his shoulders went past the shelf, and then he had the ball in his fist and he shrank back to his normal size with a small *pop.*
 
-**1. THE FAST RUNNING.** Faster than the wind.
+He looked around the cupboard, very quickly.
 
-**2. THE GROWING AND SHRINKING.** Wednesday, the shelf.
+"Nobody saw that," he said.
 
-**3. THE TAIL.** His ponytail swings when there's no breeze.
+We all had. There were five of us. Ollie said, "I saw it twice."
 
-**4. THE CHIN.** It's a bit crooked, and he rubs it when he's thinking.
+"He's surprised," whispered Alex. "Look at his face. He's more surprised than we are."
 
-**5. THE BANANAS AND MANGOES.** He had four mangoes in his lunchbox, and he looked at the sun a bit too long on Thursday.
+"He doesn't know how he did it," whispered Felix.
 
-**6. THE LITTLE PICTURE.** On his whistle chain is a tiny picture of a prince and princess. Maya said it was Rama and Sita.
+They are twins, so they have a system. Alex notices things and Felix asks about them, and then they swap. That is how they work out nearly everything, and Alex had noticed a few other things already. Mr Hanu rubbed his chin when he was thinking, and he looked at the sun for a bit too long, every lunchtime, like a man trying to remember a word.
 
-Kenji said, "He's got a lot of evidence."
+On Thursday, they noticed something else.
 
-Maya said, "He's got the **most** evidence."
+Mrs Felicity, our teaching assistant, sat on the bench outside the cupboard with her basket on her lap, and she yawned. Mrs Felicity is always smiling, and her basket is always full. But she yawned three times that afternoon, one after another, and each yawn was bigger than the last.
 
-## SPORTS DAY
+Inside the cupboard, the wheel was moving. It was under its cloth, and nobody was touching it, but it was turning, slowly, with a *click, click, click,* as if it were thinking of something.
 
-On Friday, it was Sports Day.
+"It does that before it rains," said Ms Fortune, a bit too quickly. "And before... never mind."
 
-It had rained all week, and the school field was a huge **lake.** It was brown, wide and wobbly, and a swan was floating in the middle. Mr Harris said we would have to hold the races in the hall, but everybody was sad, because the hall smells like feet.
+Felix wrote **THE WHEEL** at the bottom of the page. He did not know why. It just seemed like a thing to write.
 
-Then something terrible happened.
+## Part Four. Behind the Compost Bin
 
-We were just about to start when we heard a thump from the staffroom. Mrs Felicity, our teaching assistant, was lying on the sofa with her eyes shut. Her basket had rolled onto the floor. It was **empty.**
+On Thursday lunchtime, Maya called a meeting behind the compost bin.
 
-For the first time ever, there were no apples. No grapes. Not even a crumb.
+She had her gran's book under her arm. It was called *Stories of Rama,* and it had a picture on the front of a man with a long ponytail and a golden face, kneeling with his hands together. Kenji and Ollie sat on their upside-down buckets, and Willow sat on top of the bin, looking at nothing. She is the Bengal Reading Cat, and she does that very well.
 
-Mr Harris shook her gently. "Mrs Felicity? Mrs Felicity?"
+"Mr Hanu," said Maya, "is **HANUMAN.**"
 
-She didn't wake up.
+"The mango one?" said Ollie. He was holding his mango.
 
-## THE SLEEP
+"Yes! He is a god in Hinduism, which is a religion from India with millions of people in it, so we tell his story with care. He is the strongest and bravest of the monkey heroes. And he is the most loved because he is kind, and humble, and a very good friend."
 
-The nurse came. She said, "I've never seen this. She's not ill. She's not hurt. She's just **very, very asleep.**"
+"What did he do?" said Kenji.
 
-Then Ms Fortune from PE walked in, with her scarf over her eyes. She wasn't smiling.
+"When he was a baby," said Maya, "he woke up hungry, just as the sun was coming up. It was big and round and orange. And he thought..."
 
-She said, "It's my fault. I spun my wheel this morning, just for fun. It landed on **'SLEEP.'** I didn't mean for it to hit my sister."
+"It was a mango!" said Ollie, hugging his.
 
-We all looked at her. She looked very small for a goddess.
+"Yes. So he jumped. Right up into the sky, to eat it."
 
-She said, "There's only one cure. A glowing flower called **Moonbloom.** It grows on the hill on the far side of the lake. It only glows at sunset, and it has to be picked before the last light goes. After that, it fades, and she will sleep for a hundred years."
+"Did he get it?" said Kenji.
 
-Maya whispered to us, "It's like the herb Hanuman once had to fetch. A prince's brother was hurt in a great battle, and the only cure grew on a **mountain** far away. Hanuman flew there in a single night."
+"No. The king of the storm gods got worried that the world would go dark, so he threw a thunderbolt, and it hit Hanuman on the chin."
 
-Ollie said, "That's... very like this."
+"Ow," said Kenji.
 
-Maya said, "I know."
+"That's why his chin is crooked," said Maya. "And the word for jaw is hanu. So Mr Hanu's name is a clue." She turned the page. "But all the gods felt sorry, and every one of them gave him a gift. He could fly. He could grow as big as a mountain, or shrink as small as an ant. And nothing could hurt him."
 
-We all turned and looked at the lake. It was huge, and the sun was already sinking.
+"That's the best present ever," said Ollie.
 
-## MR HANU TRIES
+"There was a catch, in one telling," said Maya. "He was so playful with his powers, when he was young, that some wise old sages gave him a gentle spell. They said, 'You will forget how strong you are, until somebody reminds you.'"
 
-Mr Hanu stepped forward. He said, "I'll go."
+"That's the worst catch ever," said Ollie.
 
-He took a run-up. He leapt as high as he could. And **SPLASH**, he landed in the lake, in the shallow bit, right next to the swan.
+"So he forgot," said Alex.
+
+"And what reminded him?" said Felix.
+
+Maya had been waiting for that. "A long time later, he was standing at the edge of the sea. His friends needed somebody to cross it, and he thought he was too small. And an old bear called Jambavan came and sat beside him. He didn't list all the things Hanuman could do. He just said, 'I know you can.' And Hanuman remembered, and he leapt."
+
+"That's how I tell it," she added. "The old words are longer."
+
+## Part Five. The List
+
+Alex held the pencil. Felix held Maya's notebook, because they always share jobs.
+
+**1. THE SPEED.** He runs round the playground seven times while Mr Harris says good morning.
+
+**2. THE GROWING.** Wednesday, the top shelf.
+
+**3. THE CHIN.** It is crooked. He rubs it when he thinks.
+
+**4. THE PONYTAIL.** It swings with no wind.
+
+**5. THE FRUIT.** Four mangoes in a lunchbox, wrapped in tea towels. And every banana in the school.
+
+**6. THE SUN.** He looks at it a bit too long at lunchtime.
+
+**7. THE WHISTLE.** On the chain is a tiny picture of a man and a lady. Maya says it is Rama and Sita.
+
+"Rama is a prince, and a very important figure in Hinduism," said Maya. "Many people pray to him. He is Hanuman's dearest friend, and Hanuman has served him with love for always. So we say his name carefully."
+
+At the end of lunchtime, Felix went to find Mr Hanu. Alex went with him, and Felix read the list out loud, one item at a time.
+
+Mr Hanu listened with his head on one side, and he did not stop smiling. When Felix had finished, he said, "That is the kindest list anyone has ever made about me." He rubbed his chin. "But I think you have mistaken me for somebody with a better memory. I am just a PE teacher who lost the cones in a cupboard."
+
+"But you grew," said Alex.
+
+"I probably stretched," said Mr Hanu. "Thank you. Thank you very much." And he ran off to find a ball, and forgot where he was going halfway across the playground.
+
+"He didn't believe a word," said Alex.
+
+"He was so nice about it," said Felix. "That's what made it worse."
+
+## Part Six. The Wheel
+
+On Friday it was Sports Day, and the field was a lake.
+
+It had rained all week. The grass had gone away, and where it had been was a wide brown sheet of water, with ripples, and in the middle was the swan, floating like a very small boat that had opinions. Mr Harris said we would have to run the races in the hall. Everybody said, "Oh," because the hall smells of feet.
+
+We had the first race all ready. Elfine and Marion stood at the start with the stopwatch. Mrs Tibbs held a bucket of egg-and-spoon spoons. Mr Hanu stood with his silver whistle, and he had practised blowing it all week, very gently. And Mrs Felicity sat on the bench by the wall, with her basket on her lap, and she had her eyes half closed.
+
+"Please spin the wheel, Ms Fortune," said Mr Harris. "To decide who goes first."
+
+Ms Fortune wheeled it out from the cupboard and took off the cloth. It was a big wooden wheel with a lot of painted slots. FREE HUG. HOP ONE LAP. ICE CREAM. TWO LEFT SOCKS. She pushed it, with her eyes still covered, and it began to turn, *click, click, click.*
+
+It went round, and slower, and slower, and just as it was about to stop on ICE CREAM, we all leaned in. And that's when a tiny silver spark jumped off the pointer, like a spark from a plug, and the wheel gave one last click, and it stopped on a slot that nobody had ever seen before. It was small and dark blue, and written on it, in pencil, was one word.
+
+**SLEEP.**
+
+A silver spark drifted across the hall. It landed on the bench. And Mrs Felicity's eyes shut, very gently, like a book closing, and her head went down on her chest.
+
+## Part Seven. The Empty Basket
+
+"Mrs Felicity?" said Mr Harris.
+
+She didn't move. He shook her shoulder, very gently, and said it again. "Mrs Felicity? It is Sports Day."
+
+The school nurse came, and looked and listened and took her pulse. Then she sat back on her heels and said, "I have never seen this. She isn't ill. She isn't hurt. She is just very, very asleep."
+
+Felix was looking at the basket. It was on the floor. It had slipped off her knee, and it was lying on its side. It was **empty.**
+
+"Her basket is always full," he said.
+
+For the very first time, there were no apples, no grapes, and not even a crumb.
+
+Ms Fortune had pulled the scarf up off her eyes, which we had never seen her do. She looked very small for a goddess.
+
+"It is my fault," she said. "I don't choose where the wheel stops. It chooses. And it is not meant to have that slot on it. I don't know where it came from. It landed on my own sister." She took a breath. "There is one cure. A glowing flower called Moonbloom. It grows on the hill on the far side of the lake. It only glows at sunset, and it must be picked before the last light goes. After that, she will sleep for a hundred years."
+
+"A hundred," said Kenji.
+
+"What time is sunset?" said Alex.
+
+"Twelve minutes past eight," said Elfine, who knows, and she had said it before she thought. Then she went very quiet.
+
+Marion pressed the button on the stopwatch. "Forty minutes," she said, and from then on, she said the time out loud every ten minutes.
+
+Maya leaned in beside the twins and whispered. "It's like the herb in the old story. A prince's brother was hurt in a great battle, and the cure grew on a mountain far away, and it had to be fetched before sunrise. Hanuman flew there in one night."
+
+"That's very like this," said Ollie.
+
+"I know," said Maya.
+
+All of us turned round and looked at the lake. It was very wide. The swan looked back.
+
+## Part Eight. The Splash
+
+"I will go," said Mr Hanu.
+
+He tied his whistle chain round his neck. He took a run-up, past the hoops and the bucket of spoons, and he leapt as high as he could, with his arms out.
+
+**SPLASH.**
+
+He landed in the shallows, right next to the swan.
 
 The swan looked at him. He looked at the swan.
 
-He said, "That didn't work."
+"That did not work," said Mr Hanu.
 
-He tried again. SPLASH. He tried a third time, and swam in a circle. He was soaked, and the whistle was full of water.
+He tried again, faster, and **SPLASH.** He got three whole steps further, and the swan moved over to give him room.
 
-He climbed out and sat on the bank, with his head in his hands. He said, in a small voice, "I don't know why I can't do it. I feel like I used to be able to do something special. But I can't remember what."
+He tried a third time, and just fell in on his front and swam round in a circle. When he climbed out, his orange tracksuit was brown and his whistle was full of water, and a bit of pondweed was stuck to his ponytail.
 
-Everybody was quiet.
+"Thirty-one minutes," said Marion, very quietly.
 
-The sun sank a bit lower. The sky turned orange.
+Mr Hanu sat down on the bank, with his head in his hands. We had never heard him sound small before.
 
-## THE TWINS REMEMBER
+"I don't know why I can't," he said. "I feel as if I used to be able to do something special. A great thing. And I cannot remember what it was." He rubbed his chin. "I'm so sorry. She is asleep, and I'm just a man who cannot jump."
 
-Alex sat down on one side of Mr Hanu. Felix sat on the other.
+Nobody said anything. The swan, which is not the sort of bird who comforts people, stood next to him on one leg and did not go away.
 
-Alex said, "Mr Hanu. Do you know who you are?"
+## Part Nine. The List Is Not Enough
 
-Mr Hanu said, "I'm just a PE teacher."
+Felix sat down on one side of Mr Hanu, and Alex sat down on the other.
 
-Felix said, "No. You're **Hanuman.**"
+"Mr Hanu," said Felix, "we think you can do it. We've got a list."
 
-Mr Hanu blinked. His crooked chin wobbled. He said, "Hanuman?"
+"We have," said Alex. He had the notebook, which Felix had passed him, and he read out everything on it. The speed. The shelf. The chin. The ponytail. The sun. Mr Hanu listened, with his head down, and as Alex read, something began to happen. His shoulders went up. His arms stretched. He got taller, and taller, as tall as a wardrobe, and his ponytail curled up in the air...
 
-Alex said, "You're the monkey god. You leapt into the sky when you were a baby, because you thought the sun was a mango."
+"Yes!" said Kenji. "Yes!"
 
-Felix said, "You found Sita. You crossed the whole ocean in one jump."
+...and then Mr Hanu looked down and saw how high up he was, and he went white. "No," he said. "No, no, no," and he shrank back with a pop and sat on the grass with a bump.
 
-Alex said, "You grew as big as a mountain."
+"It stopped," he said. "I'm sorry. I'm scared. When I start, I get frightened that it won't carry on."
 
-Felix said, "You can fly. You can make yourself small, or huge. Nothing can hurt you."
+Alex was watching Mr Hanu. He noticed the thing he always noticed. Mr Hanu was rubbing his chin, and looking at the sky, at the big orange sun sinking over the hill. He looked at it the way you look at a word you have nearly remembered.
 
-Mr Hanu's eyes grew wide. His tail, which had been drooping, gave a tiny twitch. He said, "I... I used to **know** that."
+"Felix," said Alex. "He keeps looking at the sun."
 
-Alex said, "You just forgot. Sometimes people do."
+Felix wasn't listening. Felix was thinking about the bear. About what Maya had said, behind the bin. *He didn't list all the things Hanuman could do. He just said, I know you can.*
 
-Felix said, "And a friend reminds them."
+"We've been doing it wrong," said Felix. "We told him what he can do. Like a list. But nobody believes a list about themselves." He put the notebook down on the grass. "Jambavan didn't tell him. He just sat down next to him. Alex, put the pencil away."
 
-## THE WORDS
+## Part Ten. I Know You Can
 
-Mr Hanu stood up very slowly. His hands were shaking. He said, "But what if I try, and I can't?"
+Alex put the pencil in his pocket. Felix turned round and knelt in front of Mr Hanu, on the wet grass, and took both his hands. Alex knelt next to him.
 
-Alex took his left hand. Felix took his right.
+They did not say anything about the sun, or the shelf, or a mountain. Felix looked up into Mr Hanu's face and said, in an ordinary voice, as if he were telling him the time:
 
-They said, together, the thing we had learned from Miss Persey:
+"I know you can."
 
-**"I CAN DO HARD THINGS."**
+"So do I," said Alex.
 
-Mr Hanu closed his eyes. He said it with them.
+Mr Hanu's crooked chin wobbled. "Say it again."
 
-**"I CAN BE SCARED AND BRAVE AT THE SAME TIME."**
+"I know you can," said Felix.
 
-A warm wind started to blow. His orange tracksuit began to glow.
+"I know you can," said Alex.
 
-Felix whispered, "You remember."
+Mr Hanu closed his eyes. His hands, which had been shaking, went still. The swan, which had been standing very close, took one step back. And a warm wind blew across the water, and ruffled the pondweed in his ponytail, and he opened his eyes.
 
-Mr Hanu opened his eyes. They were sparkling, bright gold. He grinned the biggest grin we had ever seen.
+They were gold. Not yellow. Gold, like the inside of a very old bell.
 
-He said, in a voice like a drum, "**I REMEMBER!**"
+"I was looking at the sun," said Mr Hanu, slowly. "I was looking at it because I thought... It was so round. And orange. And I was so very hungry." He began to laugh. "I tried to eat it! I tried to eat the sun! And the king of the storm gods threw a thunderbolt at me, and it hit me right on the chin." He put his hand to his jaw. "I REMEMBER!"
 
-## THE GROWING
+And then he grew.
 
-He grew.
+He was as tall as the door, and then as tall as the hall, and then as tall as the whole school, with his golden head up in the clouds, and his tail swinging down, long and bright, like the biggest rope in the world. A Reception child said, "It's a GIANT!"
 
-First he was as tall as the door. Then as tall as the hall. Then as tall as the **school**, with his head up in the clouds, and his tail swinging down like a rope. He was the biggest, most golden monkey that anyone had ever seen.
+Mr Hanu bent down and held out one great finger to the twins.
 
-Every single person on the field gasped. Mr Harris dropped his clipboard. A Reception child said, "It's a **GIANT.**"
+"Thank you," he said, in a voice like a drum, but gentle. "Both of you. I would still be lost in a cupboard if not for you. I needed one friend to say it, and I got two." He smiled, and the whole sky seemed to smile with him. "Now. Who would like to come with me?"
 
-Mr Hanu bent down and put one huge finger in front of the twins. He said, in a gentle boom, "Thank you. I would still be a PE teacher who can't blow a whistle if it wasn't for you two. Both of you. You were **equal**, and you were **right.**"
+## Part Eleven. The Leap
 
-Alex and Felix grinned at each other.
+We did not go on the leap. We watched it from the field, with our heads tipped back. But Alex and Felix told us about it afterwards, very carefully, so that we could picture every part.
 
-He said, "Now. **Hold on.**"
+Mr Hanu put the twins on his shoulders, one on each side. "Hold on," he said.
 
-## THE LEAP
+"Wait," said Alex. "Willow's coming."
 
-He scooped up the twins, one in each hand, set them gently on his shoulders, and took a deep breath. His legs bent. The ground shook.
+Willow had walked across the field. She does not like heights, and everybody knows it, and she looked at Mr Hanu's giant shoe for a long time. Then she climbed up his leg, with her claws in his tracksuit, all the way up his arm and onto his shoulder, and she curled up in Felix's hood and shut her eyes.
 
-**WHOOOOOSH!**
+Mr Hanu bent his knees. The ground shook. The swan said something rude and moved.
 
-He leapt.
+**WHOOOOOSH.**
 
-He flew over the school, over the lake, over the swan, who looked up in surprise, and over the dark trees at the far side. The wind whistled in the twins' ears. Far below, the whole world looked like a map.
+They flew. They went over the school, and the lake, and the swan, who looked up in surprise. They went over the dark trees at the far side, with the wind whistling in their ears and the whole world laid out below them like a map.
 
-Felix shouted, "It's amazing!"
+"I can see the school!" shouted Alex.
 
-Alex shouted, "I can see the whole school!"
+"I can see Maya's compost bin!" shouted Felix.
 
-Felix shouted, "I can see **Maya's compost bin!**"
-
-They laughed and laughed. For one moment, the two of them were the happiest children in the whole world.
+They laughed and laughed. In Felix's hood, Willow kept her eyes tight shut, and her tail was wrapped round her own nose.
 
 Then they landed on the hill.
 
-## THE HILL
+## Part Twelve. The Hill in the Dark
 
-It was dark, and covered in tangled bushes. The sun was a thin orange line on the horizon, and the first star was out.
+It was darker than they had thought.
 
-Alex said, "We have to find the Moonbloom before the last light."
+The hill was covered with tangled bushes and rocks, and the sun was a thin orange line on the edge of the sky. A single star had come out.
 
-Felix said, "What does it look like?"
+Mr Hanu shrank down to his ordinary size. "If I stay big, I shall tread on every flower," he said. "We shall have to look carefully."
 
-Alex said, "I don't know. Maya didn't say."
+"What does it look like?" said Alex.
 
-They ran in different directions. Alex searched the left side, Felix searched the right. They pushed through brambles and checked under rocks. Mr Hanu searched everywhere, but he was far too big to see the little plants.
+Nobody knew. 
 
-The sun sank lower.
+So they split up. Alex went up the left side of the hill, and Felix went up the right, and Mr Hanu searched the middle. Alex found a bluebell. It was not glowing.
 
-Alex found a bluebell. It wasn't glowing.
-
-Felix found a daisy. It wasn't glowing either.
+Felix found a daisy. It was not glowing either.
 
 They both found a dandelion, and they both said, "No."
 
-The line of orange light was almost gone.
+The orange line was getting thinner.
 
-## THE PROBLEM
+Alex had stopped. He was standing still, with his hands at his sides, the way you do when you have noticed something, and he watched the cat. Willow had climbed out of Felix's hood. She was walking slowly up the hill, in a very straight line, like a cat with a plan, and she was looking at a heap of rocks higher up. Her tail was straight up.
 
-Felix sat down on a rock. He said, in a wobbly voice, "I can't find it. What if we're too late?"
+"Felix," said Alex quietly. "Willow's found something."
 
-Alex sat next to him. He said, "We can't be too late."
+## Part Thirteen. Who Walks on My Hill
 
-Felix said, "But what if..."
+The rocks were not rocks.
 
-Alex said, "Felix. Stop. Breathe."
+Willow sat down in front of them, and the whole heap began to shake. Moss fell off. Two big flat stones opened, and they were eyes. A long grassy ridge moved, and it was a mouth, and out of it came a voice as deep as a cellar.
 
-They said it together, very quietly:
+"WHO WALKS ON MY HILL?"
 
-**"STOP. BREATHE. I AM SAFE."**
+It was a mountain spirit. It had a face of rock and a beard of moss, and it was looking down at the four of them with great stony eyes. Alex's knees went wobbly. Felix grabbed his sleeve.
 
-They took three slow breaths. And then, because they were quiet, they both heard it. A tiny, silvery sound, like a bell far away.
+"Nobody takes my Moonbloom," said the mountain. "Nobody. Not without asking. Last time, someone picked up my whole cousin, and he still talks about it."
 
-**Ting. Ting. Ting.**
+"That was me," whispered Mr Hanu. "I'm very sorry. I put it back."
 
-Alex said, "Did you hear that?"
+"You did," said the mountain, a bit grumpily. "That's more than most."
 
-Felix said, "It's coming from over there."
+Between the cat and the great stone chin, in a crack in the rock, was a small plant with one pale blue flower. It was only just beginning to glow, soft and silver, like a little bit of moonlight. Willow had sat down right next to it. She was looking straight into the mountain's face, with her paws together, and she did not blink.
 
-They crept round a big rock. And there, growing in a crack in the stone, was a single, small plant with a pale blue flower. It was just beginning to glow, soft and silvery, like a little bit of moonlight.
+Alex took a step forward and opened his mouth. And nothing came out.
 
-They knelt down. They each reached out one hand, and they picked it together, very gently, just as the last thin strip of orange vanished from the sky.
+He tried again. His throat had gone tight, and the words had got stuck. He looked at the huge stone face, and the shadow, and the sinking sun.
 
-The flower lit up like a lantern.
+Mr Hanu crouched down beside him. He did not say anything about being brave. He just looked at Alex, with his gold eyes, and said, quietly, in an ordinary voice:
 
-## THE MOUNTAIN
+"I know you can."
 
-Mr Hanu said, "Got it?"
+Alex took a breath.
 
-Felix held it up. Alex said, "Got it!"
+"We're sorry," he said. "We should have asked before we came. We walked all over your hill."
 
-Mr Hanu said, "Right. Hold on."
-
-But as he bent down to pick them up, the hill began to **tremble.** The ground cracked. A big, dark shadow rose from behind the rocks, and a deep voice rumbled, "WHO TAKES THE MOONBLOOM?"
-
-It was the **hill itself.** A big grassy face had appeared in the side, with two stony eyes and a mossy beard. It was a mountain spirit, and it did not look pleased.
-
-It said, "That flower is mine. Nobody takes it without asking."
-
-Alex and Felix said nothing for a moment.
-
-Alex said, "We're sorry. We should have asked."
-
-Felix said, "Please, may we borrow it? A kind lady is asleep, and she needs it."
+Felix had found his voice, too. "A kind lady is asleep," he said, "and this flower is the only thing that can wake her. May we borrow it? Please?"
 
 The mountain looked at them for a long time. The moss on its beard fluttered.
 
-It said, "You said sorry. And you asked. That's more than most do."
+"You said sorry," it said. "And you asked. That is more than anybody has done since my cousin."
 
-It said, "Take it. But bring me a new seed in return, so there will always be Moonbloom."
+"Take it," it said. "But bring me back a seed, so there will always be Moonbloom."
 
-Felix said, "We will."
+"We promise," said Felix.
 
-Alex said, "We promise."
+"We promise," said Alex.
 
-## THE FLIGHT BACK
+## Part Fourteen. The Last Light
 
-Mr Hanu scooped them up, and **WHOOOSH**, they flew back. The lake sparkled below, and the stars came out. The school windows glowed gold.
+They knelt down, the two of them, and they each put out one hand, and they picked the flower together. It lit up like a lantern.
 
-They landed on the field with a soft thump, and ran straight to the staffroom. Mr Harris held the door open. Ms Fortune stood by the sofa with her scarf pushed up on her head, looking very worried.
+"Right," said Mr Hanu. "Hold on, and do not let go of that."
+
+He grew, and he scooped them up, and Willow climbed on, and he bent his knees and leapt.
+
+**WHOOOOSH.**
+
+The flower shone in Felix's hands. Far below was the lake, and the school with every window lit, and the sun, a last thin line of orange on the edge of the world.
+
+"We're going to make it!" shouted Alex.
+
+And that's when the flower flickered.
+
+It was a tiny flicker, like a candle in a draught, and the flower was dimmer. Mr Hanu looked down, and saw how far it was, and how wide the lake was, and how fast the light was going.
+
+"I cannot," he said. "I... I cannot do it. It is too far."
+
+His voice shook. He began to shrink.
+
+He got smaller, and smaller, and the lake came up. They were not flying any more. They were falling, and the water was very big, and very black, and very near.
+
+"MR HANU!" shouted Alex. "LOOK AT THE SUN!"
+
+It was the thing that Alex had noticed. He had noticed it for days. "It's only a mango!" he shouted. "You jumped for it once, remember? When you were a baby! You weren't scared of it!"
+
+Mr Hanu looked.
+
+The sun was low and round and orange, with a golden edge. He stared at it. And he began to laugh, in the middle of the sky, in the middle of the fall.
+
+"Old friend," he said. "I'm sorry I tried to eat you. Could you wait for me, just a little?"
+
+And the sun, which is very old and very patient, did.
+
+It stood still on the edge of the world, for no more than a breath. That was enough. Mr Hanu grew bigger, and bigger, and he gathered up the twins and the cat and the shining flower, and he flew. He skimmed over the surface of the water, so low that the wake splashed the swan, and across the field, and he landed on the grass with a soft thump, just as the very last of the orange went out.
+
+Felix held up the flower. It was still glowing.
+
+## Part Fifteen. The Sofa
+
+Maya, Kenji and Ollie ran to meet them, with Elfine and Marion behind. Marion had the stopwatch in both hands. "Seven seconds," she said, in a wobbling voice. "That's how long you had left."
+
+"Is that all?" said Ollie.
+
+"It was enough," said Elfine.
+
+They carried Mrs Felicity in from the bench, on a gym mat, with Mr Harris at one end and Mr Hanu, who was normal size again, at the other. They laid her on the staffroom sofa. Ms Fortune stood beside it, with her scarf pushed up on her head and her hands over her mouth.
 
 Alex and Felix held the flower together, over Mrs Felicity's face. It glowed brighter, and brighter.
 
-A tiny sparkle fell from its petals onto her cheek. Then another. And another.
+A tiny silver sparkle fell from the petals onto her cheek. Then another. Then another.
 
 Mrs Felicity's eyes opened. She blinked. She said, in a sleepy voice, "Oh. Have I been napping?"
 
-Ms Fortune burst into tears and hugged her so hard that she nearly fell off the sofa.
+Ms Fortune burst into tears and hugged her so hard that the pair of them nearly fell off the sofa.
 
-Mrs Felicity's basket gave a little shake. And then, with a pop, it filled up again, with apples, grapes, plums, and a very big pear.
+Mr Harris took off his glasses and polished them for quite a long time.
 
-## SPORTS DAY (AT LAST)
+Then the basket on the floor gave a little shake. And, with a pop, it filled up again. It was full of apples, and grapes, and plums, and one very large pear. And, on the top, there was a mango.
 
-By then, it was late, and the sky was dark. But the lake had drained a little, and Mr Hanu said, "I know how to dry a field."
+"I think that's for you," said Mrs Felicity, and handed it to Mr Hanu.
 
-He took one deep breath. Then he blew, a long, slow, gentle blow. The water rolled gently back across the grass, and trickled into the drain. A swan stood up, shook its feathers and waddled off, looking offended.
+Later, Ms Fortune lifted the cloth off her wheel. The small dark blue slot had gone. In its place, in pencil, somebody had written NAP AFTER LUNCH.
+
+"It has a sense of humour," said Ms Fortune. She sounded as if she did not know whether to be cross.
+
+## Part Sixteen. Sports Day, at Last
+
+By then, it was late, and the sky was dark. But the lake was still there, and Mr Hanu stood at the edge of it, and looked at it.
+
+"I have blown myself into a lot of beanbags this week," he said. "I think I know how to do this properly."
+
+He took one deep breath. Then he blew, a long, slow, gentle blow, the way you blow on a hot spoon of soup.
+
+The water began to move. It rolled back across the grass, in one smooth sheet, and ran gently down the drain. A swan stood up in the middle, shook out its feathers, and waddled off with a very offended expression.
 
 And just like that, the field was dry.
 
-The whole school cheered. And then, under the stars, with the torches from the hall, we had the best Sports Day in history.
+The whole school cheered. And under the stars, with the torches from the hall, we had the best Sports Day in history.
 
-The twins won the three-legged race, **together**, in a perfect tie. Maya won the sack race. Kenji won the egg and spoon, and he only dropped the egg once. Ollie came last in the running and said it was the best day of his life.
+Alex and Felix won the three-legged race, together, in a perfect tie. Maya won the sack race. Kenji won the egg-and-spoon, and he only dropped the egg once. Mr Hanu invented a new race, the mango-and-spoon, and everybody had one. Ollie came last in it, because he ate his, and he said it was the best day of his life.
 
-And Mr Hanu, who was back to his normal size, in his orange tracksuit, ran every single race, and he never once forgot the rules.
+And Mr Hanu, in his orange tracksuit, ran every single race, and he never once forgot the rules.
 
-## THE LESSON
+## Part Seventeen. The Seed
 
-When it was all over, Mr Hanu sat on the grass with us, eating a banana.
+When it was all over, and the others had gone to find their coats, Alex and Felix went to the gate.
 
-He said, "I forgot who I was. It happens to everybody. When you feel small, or confused, it's easy to forget how strong you are. That's why we need friends. They remind us."
+They had a seed. It had fallen out of the flower when they picked it, into Felix's pocket, and they had both been holding on to it ever since. They knelt down by the gatepost, in the dark, and Alex dug a little hole with the pencil, and Felix put the seed in, and they covered it up.
 
-Alex said, "Like we reminded each other at the Pan play."
+"A promise is a promise," said Felix.
 
-Felix said, "Or at the Hermes day."
+Willow sat down beside it, like a very small guard.
 
-Mr Hanu said, "Exactly. Everyone has something special inside, even when they can't see it. Sometimes it takes a friend to say, **'I know you can.'**"
+Mr Hanu came and sat on the wall above them. He had a banana, and he was holding it in both hands, and he did not seem to be eating it.
 
-He took out his whistle, and he showed us the little picture on the chain.
+"This afternoon I forgot who I was," he said. "Completely. And it took two small friends to remember it for me."
 
-He said, "This is my friend Rama. I've been his helper for a very, very long time. I do things for him because I love him, and he's never asked me for anything back. That's the best kind of friend there is."
+"You did the same for me, on the hill," said Alex. "My voice stopped."
 
-He smiled. "And now I've got some new ones."
+"Friends take turns," said Felix.
 
-We all said it, together, with Mr Hanu:
+Mr Hanu smiled. He turned the whistle on its chain and showed us the tiny picture. "This is my friend, Rama," he said. "I have helped him for a very long time. I don't do it for anything back. I do it because I love him, and he has never once asked me to." He put the whistle back. "And now I have some new friends, too."
 
-**"I KNOW YOU CAN."**
+Alex looked up first, and then Felix. There were two people standing at the school gate, in a gentle golden light that was not from any streetlamp. They told us afterwards, and they both told it the same way. A calm man stood there, with a bow slung on his back, and beside him was a tall woman in a green dress, holding a small lamp. They did not come in. They stood just outside, with their hands together.
 
-## THE ENDING
+"Rama," whispered Felix. "And Sita," whispered Alex.
 
-At the gate, as we were going home, Maya noticed something odd.
+Mr Hanu stood up on the wall. He put his hands together and bowed, very low, and they bowed to him, and then they turned, and went away down the lane, into the dark, and nobody saw where they went.
 
-Mr Hanu was hanging upside down from the gatepost, eating a mango. And standing next to him, in the dark, was a very tall, very calm woman in a long green dress.
+## Part Eighteen. Everybody
 
-She was holding a lamp. She was smiling, and next to her stood a gentle, brave-looking man with a bow.
+When we went out to the road, Mr Hermes was waiting by the kerb, walking backwards, with a letter.
 
-Maya said, very softly, "**Rama. And Sita.**"
+He gave it to Alex and Felix. It was in curly, careful writing, and it said:
 
-Mr Hanu waved to them with his foot. The two of them waved back, and then they turned and walked away down the road, into the moonlight, and nobody saw where they went.
+*Dear Alex and Felix. Thank you for reminding my friend. A friend who remembers is worth a great deal. A friend who reminds is worth more. With blessings, Rama.*
 
-On the doorstep of the school, the postman, Mr Hermes, was waiting, with a letter.
+At the bottom, in quick, small writing, somebody had added:
 
-He gave it to Alex and Felix. It was in curly writing, and it said:
+*P.S. Hanu tells me there was a mango race. Sita says that she would like to enter the next one.*
 
-*Dear Alex and Felix. Thank you for reminding my friend. Love, Rama.*
+We were still reading when we saw something at the gate. It was Mr Harris. He was standing on the top of a stepladder in the dark, with a torch in his teeth, a roll of bedsheet under one arm and a pot of paint under the other, and his clipboard stuck in his collar. He was painting very large letters, very slowly, with his tongue out.
 
-Under it, in a little monkey scrawl, someone had added:
+"Good morning, Mr Harris," said Felix. "What are you doing?"
 
-*P.S. I'M STILL WAITING FOR THAT MANGO RACE.*
+"Good news!" said Mr Harris. His voice came out very high. "Wonderful news. I asked, and I thought they would say no. But EVERYONE we have ever met has said yes."
+
+"Yes to what?" said Alex.
+
+"I cannot tell you," said Mr Harris. "It is a surprise. Perfectly under control." And he went on painting.
+
+Far down the lane, something was coming. It was too far away to see, but there was a little flag over the hedge, flapping in no wind at all, and a sound like seven men arguing about a boat.
+
+Maya had opened her notebook to a clean page. She wrote the numbers one to twelve down the side, very quickly, and then she stopped.
+
+"If everyone has said yes," she said slowly, "then who is going to be in charge?"
+
+Alex looked at the lane. Felix looked at the lane.
+
+And at exactly the same time, they said, "Monday."
 
 **The End.**
