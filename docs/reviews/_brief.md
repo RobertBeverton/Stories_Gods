@@ -6,6 +6,10 @@ Each story in `stories/` is reviewed once, by a fresh reviewer, through three le
 
 Twins who are six now and will be listening for several years. Stories are read aloud at bedtime by a parent (about 25 to 30 minutes) and later narrated by one voice. The story should still work when they are eight or nine, so it must not date itself to one age or year group.
 
+## Second-pass note (early stories)
+
+Stories 1 to 18 were written earlier, in a separate chat, and were folded into the series after the first library review. They are in `stories/`. The first review of the series covered stories 19 to 38. Stories 1 to 7 use a different class (Dev, Ruby, Priya, Nell, Kofi, Poppy, Archie) and the twins lead from about story 8, so judge twin balance only where the twins are leads. Read the Bible sections 'How the early staff fit later canon' and 'To decide' so you know what is already settled: Mister Thor and Mister Loki are the names for new text; stories 1 and 6 keep their disguise names Mr Thorley and Mr Locke; Ms Wa in story 17 is Mrs Nuwa before her promotion; the order of 4 and 5 is unconfirmed. Do not re-raise settled points. Flag only new continuity problems.
+
 ## Before you start
 
 1. Read `docs/Story_Bible.md` and `docs/Story_Guide.md` (cast, standing rules, voice).
@@ -14,7 +18,7 @@ Twins who are six now and will be listening for several years. Stories are read 
 
 ## The three lenses
 
-**A. Senior children's editor.** Structure and shape. Does it follow the 16 to 18 part recipe? Does each part end with a reason to turn the page? Does the middle sag? Is the problem clear and does it echo the myth? Is the ending earned, the affirmation short and plot-earned, the hook a real mystery, and does "Monday" land with both twins at once? Any part that is confusing, too scary without relief, unfair without being put right, or too long without a laugh? Any grown-up behaviour that is cruel rather than funny?
+**A. Senior children's editor.** Structure and shape. Is the shape sound? (Length is a rough guide: at least about 4,000 words, up to about 6,000 if the story earns it. The 16 to 18 part recipe is a guide, not a rule, and the early stories use plain all-caps section headings instead of `## Part N.` headings. Note the word count and say whether the story feels too thin or too long for what it does; do not fail it for the heading style.) Does each part end with a reason to turn the page? Does the middle sag? Is the problem clear and does it echo the myth? Is the ending earned, the affirmation short and plot-earned, the hook a real mystery, and does "Monday" land with both twins at once? Any part that is confusing, too scary without relief, unfair without being put right, or too long without a laugh? Any grown-up behaviour that is cruel rather than funny?
 
 **B. Working children's writer.** Line-level craft and read-aloud. Can each sentence be said in one breath? Tongue-twisters, confusing name clusters, dialogue where you cannot tell who is speaking? Is the child "we" narrator consistent? Are the details specific and funny? Overused phrases and tics ("looked at each other", "underlined it three times", "at exactly the same time" outside the ritual, "That's when" beyond about four uses)? Stock beats (tower about to fall, small child in danger, staff meeting that goes wrong, sunset speech)? Words too hard for a six-year-old even with context?
 
@@ -30,7 +34,7 @@ Write the report in this shape, and keep it tight (a page or two):
 
 ```
 # Review: <story title>
-File: stories/<file>.md | Words: <n> | Parts: <n>
+File: stories/<file>.md | Words: <n> | Parts or sections: <n>
 
 ## Verdicts
 - Editor: <1-2 lines>

@@ -1,453 +1,602 @@
 ---
 title: "The Summer Fair Where EVERYBODY Came"
-description: "Every god at the school runs a stall at the summer fair, and a bouncy castle floats away."
+description: "Every god the twins have met runs a stall at the school fair, and a bouncy castle full of children drifts up into the clouds."
 series: "The Staff Room Gods"
 seriesOrder: 13
-tags: ["mythology", "school"]
+tags: ["mythology", "school", "being brave"]
 gods: ["All the gods so far"]
+characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs"]
+icon: boat
+publishDate: 2026-10-18
 draft: false
 ---
 
+## Part One. The Banner
+
 The first sign that something was different about our Summer Fair was the sign.
 
-It was painted on a bedsheet and hung across the school gate, and it said:
+It was painted on a bedsheet and hung across the school gate. Mr Harris had finished it in the dark, and the paint was still a bit shiny. It said:
 
-**WELCOME TO THE YEAR 1 SUMMER FAIR! ALL STAFF WILL BE RUNNING STALLS. PLEASE DO NOT ASK QUESTIONS.**
+**WELCOME TO THE SUMMER FAIR! ALL STAFF WILL BE RUNNING STALLS. PLEASE DO NOT ASK QUESTIONS.**
 
 Underneath, in tiny writing, someone had added: **(ESPECIALLY NOT ABOUT THE BOAT.)**
 
-We looked into the car park, and there it was. The boat-bus. It was parked across four spaces with its little flag flapping, even though there was no wind.
+Alex Bailey noticed the boat first. It was in the car park, parked across four spaces, with its little flag flapping, although there was no wind at all. It was the boat-bus. It had a real anchor on the front, and a sign in the window that said **BACK SOON, KNOCK.**
 
-Alex Bailey whispered, "They've ALL come."
+The boat-bus was not the only strange thing. There was a green cart full of pots of flowers, and the flowers were all looking at the sun. There was a small shed on wheels, and the wheels were glowing.
 
-Felix Bailey whispered, "Every single one."
+"Felix," said Alex. "Everyone has come."
 
-They are twins, so they have a system. Alex notices things and Felix asks about them, then they swap. They looked at each other and said, "We need Maya."
+Felix Bailey asked the right question, which is the thing Felix does. "Who is everyone?"
 
-## THE MEETING
+Alex and Felix are twins, so they have a system. Alex notices things and Felix asks about them. Then they swap.
 
-Maya Singh was behind the compost bin, as she had been for weeks. Ollie Grant and Kenji Mori were on their upside-down buckets, and Dot from Reception had been allowed to sit on the lid, because she was now an official member.
+They found Mr Harris on a stepladder, hanging the last corner of the bedsheet. His glasses were on his forehead. His clipboard was in his collar.
 
-Maya had a clipboard. She had never had a clipboard before.
+"Mr Harris," said Felix, "who is coming to the fair?"
 
-She said, "I've done a list of every god in this school. If anything goes wrong today, we need to know who can do what."
+"Everybody!" said Mr Harris. His voice came out very high. "Marvellous. Everybody. Everyone who has ever helped us said yes. Perfectly under control." He wobbled on the ladder. "Please do not ask about the boat."
+
+Together they said, "We need Maya."
+
+## Part Two. The First Four
+
+Maya Singh was behind the compost bin, as she had been since six o'clock. Kenji Mori and Ollie Grant were on their upside-down buckets, Dot from Reception was sitting on the lid, and Willow was lying on the warm wall, looking at everybody as if she had seen it all before.
+
+Maya was holding her notebook very tightly. On the page, she had written the numbers one to twelve down the side.
+
+"Mr Harris has asked every grown-up we have met," she said. "I have counted, and it is twelve lots of them. If something goes wrong today, we need to know who can do what. So I have made a list."
 
 Dot put up her hand. "What if nothing goes wrong?"
 
-Maya said, "Dot, that has never once happened."
+"Dot," said Maya, "that has never once happened."
 
-She read out her list, and we all leaned in.
+"I will read it in three goes," said Maya, "because twelve at once is too many to hold. Here is the first go. Kenji, you read the bold bits."
 
-## THE LIST OF GODS (BY MAYA)
+Kenji pushed up his sleeves. Maya read:
 
-**1. MR THORLEY, CARETAKER.** Thor, Norse god of thunder. Hammer, red beard, goats (he says it's a van). Very strong. **MUST NOT BE STARTLED.** *(Dot said this was in bold because of the Pan Play. Maya said yes.)*
+"Number one. Mr Thorley, the caretaker. He is Thor."
 
-**2. MR SHAH, MUSIC.** Shiva, Hindu god of stillness and dancing. Blue scarf. Once drank a bowl of green soup so nobody else had to. His wife, Mrs Rao, runs the office, and their son Ganesh Rao is in Year 4. Ganesha, the elephant-headed god, removes obstacles.
+"Hammer," said Kenji, "red beard, goats that he says are a van."
 
-**3. MR JACKSON, LIBRARIAN.** Anubis, Egyptian guide of the lost. Never loses anyone. Excellent nose.
+"Very strong," said Ollie.
 
-**4. MRS IBBS, DINNER LADY.** Thoth, Egyptian god of writing and numbers. Counts everything. Stands on one leg.
+"And," said Maya, "MUST NOT BE STARTLED."
 
-**5. MRS FELICITY, TEACHING ASSISTANT.** Felicitas, Roman goddess of good luck. Her basket is always full. Her sister **MS FORTUNE**, PE, is Fortuna, who spins a wheel of chance. Anything can happen.
+"Why?" said Dot.
 
-**6. THE SEVEN LUCKY MEN.** Japanese gods of luck, who arrive by boat. Mr Ebbie can't hear unless you knock.
+"Boom," said everyone but Dot, all together. It was a very good boom.
 
-**7. MR LOCKE, SUPPLY TEACHER.** Loki, Norse trickster. Can change shape. **WATCH HIM.**
+"Number two. Mr Shah, the music teacher. He is Shiva."
 
-**8. MISS PERSEY, GARDENING.** Persephone, Greek goddess of spring. Mrs Demmer is her mum. Mr Haydes, the boiler man, is Hades.
+"Calm is a kind of strong," said Felix. "He said it to me once."
 
-**9. MR HERMES, POSTMAN.** Messenger of the gods. Wings on his heels. Walks backwards.
+"He drank the green soup so nobody else had to," said Kenji. "His wife is Mrs Rao in the office, and his son is Ganesh Rao, a few classes above us. Ganesh clears the way."
 
-**10. MR HESTON, MAKING CLUB.** Hephaestus, Greek god of fire and inventing. Talos the bronze giant is asleep in the shed. **DO NOT TOUCH WITHOUT ASKING.**
+"Number three. Mr Jackson, the librarian. He is Anubis. He finds the lost."
 
-**11. MR PANN, DRAMA.** Pan, goat-legged god. **PANIC IS HIS FAULT, BUT IT'S NOT REALLY HIS FAULT.**
+"He found the whole class under the school once," said Ollie, "and I was one of them."
 
-**12. MR HANU, PE.** Hanuman, the monkey god. Strong, brave, and now remembers it.
+"Number four. Two sisters." Maya turned the page. "Mrs Felicity and Ms Fortune. They are Felicitas and Fortuna."
 
-Ollie said, "That's a lot of gods."
+"Luck you keep," said Alex, "and luck you spin."
 
-Maya said, "I know. That's what worries me."
+Maya nodded, and underlined the sentence. She did it only once. She does not believe in too much underlining.
 
-## THE STALLS
+"That's four," she said. "The next four are for after the gate opens. Brains need a break."
 
-We went in through the gate, and it was the best fair we had ever seen.
+Ollie looked at the bedsheet banner through the gap in the hedge. "That's a lot of gods," he said.
 
-Mrs Felicity ran the tombola. She didn't win anything herself, which was fair, and she gave out prizes so that **everyone** got one. Even Gideon Fox from Year 6, who got a bag of marbles, went very pink and said, "Thank you."
+"I know," said Maya. "That's what worries me."
 
-Ms Fortune ran the Wheel of Chance, with her scarf over her eyes. It had **ICE CREAM**, **FREE HUG**, **HOP ONE LAP** and **SWAP SHOES WITH A FRIEND** on it. Kenji got **SWAP SHOES WITH A FRIEND**, and spent the afternoon in Ollie's trainers.
+## Part Three. The Balloon
 
-The Seven Lucky Men ran a stall each. Mr Ebbie sold fish pies, and we had to knock on the counter to buy one. Mr Daikon pulled lost property out of his sack. Mr Bish stood at the gate and said "THANK YOU" to every grown-up who came in. Ms Benny played the lute. Mr Fuku answered spelling questions. Mr Jury fed a white dog. Mr Hot gave out stickers, and mine said **YOU ARE BRAVE**, which felt a bit like he knew.
+The gate opened at eleven o'clock, and the crowd came in like water.
 
-Mr Heston's stall was a hoopla made from horseshoes, which glowed when they landed. Miss Persey sold potted flowers that opened when you said please. Mr Shah danced very slowly in the middle of the field while Mrs Rao took the money, and Ganesh Rao ran a sweet stall, which he ate.
+There were mums and dads and grandmas, and Mr Pickering the lollipop man, who said it was his day off and he was still holding a lollipop. Mrs Tibbs, our class teacher, wore an enormous sunhat. Gideon Fox from the top class stood by himself at the gate, looking cross, because he was too big for the fair and had come anyway.
 
-Mr Jackson ran a **Lost and Found**, which found things before people had lost them. Mrs Ibbs ran the **Count the Jelly Beans** guess, and won it, and said, "Sorry, habit."
+Elfine and Marion ran the facts stall, behind a banner that said **FACTS, FIVE FOR ONE PENCE.** Marion held a clicker and counted everybody through the gate.
 
-Mr Hermes did all the deliveries. He kept walking backwards with a tray of drinks, and he never dropped a single one.
+"Four hundred and twelve so far," said Marion.
 
-## MR LOCKE'S IDEA
+"Fact," said Elfine, pushing up her glasses. "That is more people than have ever been on this field at once. It is just a fact. It depends what they do."
 
-At two o'clock, Mr Locke came out of the school hall with a big grin and a bigger secret.
+The fair did strange things on its own. A tombola ticket read itself aloud. A horseshoe on the hoopla stall glowed so brightly that Mr Heston had to put a bucket over it.
 
-He had a stall at the back, behind a purple curtain, that said **SOMETHING SPECIAL**.
+"Too many gods in one place," said Maya quietly. "It's like twelve radios playing at once. They bump."
 
-Mr Harris said, "Mr Locke, what's behind the curtain?"
+That's when it happened. A helium balloon floated gently over the hedge, and it drifted down, and it bumped into the back of Mr Thorley's neck.
 
-Mr Locke said, "A surprise. For the Year 1s. You'll love it."
+It popped.
+
+There was a small, flat **BOOM**. A thin crack of lightning ran up the lollipop man's lollipop. Mr Thorley leaped straight up, and landed a long way from where he had started, with his hammer in both hands.
+
+"WHO," he said, "WHO IS... Oh."
+
+He looked at the little children, who were all staring at him. He put down the hammer. His beard had gone slightly pink, and sparks were fizzing from the ends.
+
+"I am so sorry," he said. "It was only a balloon. Er. The goats are fine."
+
+Mr Shah was beside him in a moment, with his hands held out, palms down, and he said gently, "Slow, my friend. In for four, and out for four." The sparks went out. It took six breaths.
+
+"Hmm," said Maya, and wrote **MUST NOT BE STARTLED** again, three times. She underlined it. This time she did it twice.
+
+## Part Four. The Stalls
+
+Alex held the pencil. Felix held Maya's notebook, because they always share jobs, and we all walked up and down the stalls while Maya read out her second go in a whisper.
+
+"Number five. The Dinner Men. There are seven of them, and they arrive by boat. Mr Ebbie is the one you knock for."
+
+Mr Ebbie's stall was a table of fish pies. A sign said **PLEASE KNOCK ON THE COUNTER.** Felix knocked three times, and then he waited. After a while, Mr Ebbie's whole face lit up like a lamp.
+
+"Ah!" said Mr Ebbie. "A customer who knocks and waits! The pie is free, because you are worth waiting for."
+
+Felix looked at his pie. "I'm supposed to pay," he said.
+
+"Pay with a smile," said Mr Ebbie, and Felix did, which was an easy sort of pay.
+
+"Number six," said Maya. "Mr Locke. He is Loki."
+
+Mr Locke was at the cake stall, tying a long green ribbon in a bow round every single cake. He was very good at it. He was humming. When he saw us, he waved a ribbon.
+
+"Hello, my favourites," he said.
+
+Alex noticed his hands. They moved so fast that the ribbons seemed to tie themselves. Everything he touched was a bow or a knot. That is the thing about Mr Locke, Alex thought. He is tidy in a very tangly way.
+
+"He took the lion's mane once," whispered Maya. "Then he said sorry, and he meant it, and he plaited tinsel along the edge so it would be better. I still watch him. But kindly."
+
+"Number seven. Mrs Ibbs is Thoth. She keeps the Record of the school. And gave us an extra Thursday."
+
+Mrs Ibbs stood on one leg behind the Count the Jelly Beans jar. She said the answer, 1,204, before anyone had started. Then she won it, and said, "Sorry. Habit."
+
+"Number eight. Miss Persey. She is Persephone. She goes below in the autumn, and the flowers wait for her."
+
+Miss Persey's flowers opened when you said please. She gave one to every child. Beside her, in a woolly hat in the middle of summer, stood Mr Haydes the boiler man, holding a lemonade as if it were a very small, very important crown.
+
+"That's Hades," whispered Maya, "and he's having a lovely time. Everyone is lovely today. That's what worries me."
+
+## Part Five. The Purple Curtain
+
+At two o'clock, there was a clanging of a cowbell, and Mr Harris stood on a hay bale.
+
+"Ladies and gentlemen," he said. "A surprise, from our supply teacher, Mr Locke, as a gift to the little ones."
+
+On the far side of the field, there was a big purple curtain, which had been there all morning. Mr Locke stood in front of it with his hands behind his back. He looked nervous, and he looked happy, and he looked as if he had been practising.
 
 Mr Thorley said, in a very low voice, "Locke."
 
-Mr Locke said, "I promise it's safe."
+"I know," said Mr Locke.
+
+"What is behind the curtain?"
+
+"A surprise. For the little ones. It's safe. I promise it's safe."
 
 Mr Thorley said, "Last time you said that, you took a lion's mane."
 
-Mr Locke said, "I **fixed** that. It was better with tinsel."
+Mr Locke said, "I fixed that. It was better with tinsel."
 
-Mr Thorley sighed. He said, "If this goes wrong, I'm not saying anything. I'm just holding my hammer."
+Mr Thorley shut his mouth. His eyebrows said, "It was." His whole face said, "Still."
 
-Mr Locke pulled back the curtain.
+"This time I've done it properly," said Mr Locke. "I asked Mr Harris, and I wrote it all down. I made it for the children. Not for a joke." He looked at the ground. "I wanted to do one thing at this school that was only kind."
 
-It was the **BIGGEST BOUNCY CASTLE** we had ever seen.
+Mr Thorley sighed. He sat down on a hay bale and put his hammer across his knees. "If this goes wrong," he said, "I shan't say a word. I'll just be holding my hammer."
 
-## THE BOUNCY CASTLE
+Mr Locke pulled the curtain.
 
-It was as big as a house. It was purple, green and gold, with huge turrets on every corner and a flag on top. It was so shiny that it sparkled, and when we looked closely, we could see little stars drifting through the plastic.
+It was the BIGGEST BOUNCY CASTLE we had ever seen. It was as big as a house, purple and green and gold, with a turret on every corner and a flag on the top. It sparkled. Little stars drifted slowly through the plastic, as if it were full of night.
 
-There was a sign on the front:
+The sign on the front said:
 
-**MR LOCKE'S MAGIC BOUNCY CASTLE. GRAVITY HAS BEEN ADJUSTED. ENJOY.**
+**MR LOCKE'S MAGIC BOUNCY CASTLE. GRAVITY HAS BEEN ADJUSTED. IT LISTENS TO FEELINGS. ENJOY.**
 
-Alex said, "What does 'adjusted' mean?"
+"What does 'listens to feelings' mean?" said Felix.
 
-Felix said, "It means it's not normal."
+"The more you laugh," said Mr Locke, "the higher you bounce. Only a tiny bit. It's the soft sort of magic. Just a metre."
 
-Mr Locke said, "It means it's **extra bouncy.** One bounce, and you'll feel like a feather."
+"What about a really big feeling?" said Alex.
 
-Every Year 1 child in the school lined up. There were about thirty of us. Even Dot. Even Maya, who said she was only going in to check it was safe.
+Mr Locke thought about it. "Then it's a really big bounce," he said. "I'd imagine."
 
-Mr Harris said, "How long will it last?"
+Maya wrote it down. Alex saw her write **BIG FEELING = BIG BOUNCE**, and underline it, and put a small question mark next to it, as if it were looking at her.
 
-Mr Locke said, "Until four o'clock."
+## Part Six. The Last Four
 
-Mr Harris looked at his watch and said, "Fine."
+We lined up in the queue, and Maya read us her third and last go, in a whisper that went from one end of the line to the other.
 
-We all kicked off our shoes and climbed in.
+"Number nine. Mr Hermes, the postman. Walks backwards. Delivers anything."
 
-## THE BOUNCING
+"Number ten," said Kenji, who had learned this one. "Mr Heston, Making Club. He is Hephaestus. Talos the bronze giant is asleep in the shed, and DON'T TOUCH WITHOUT ASKING."
 
-It was AMAZING.
+"Number eleven," said Ollie. "Mr Pann. He's Pan. Panic is catching."
 
-The first bounce took us as high as the roof. The second took us as high as the trees. We bounced and giggled and flipped, and every landing felt like falling on a cloud. Kenji bounced so high that he could see his own house. Ollie did a backflip, and said, "This is the best day of my whole entire life."
+"But so is calm," said Dot, who had been told this one in the play.
 
-Alex and Felix bounced side by side, holding hands, and every time they landed, the castle gave a happy little *boing*.
+"Number twelve." Maya paused. "Mr Hanu. PE. Hanuman. He has a whistle with a picture of his friends on it. The best thing to say to him is 'I know you can.'"
 
-Outside, the gods were chatting and laughing. Mr Thorley had a hot dog. Mr Hermes was polishing his wings.
+"That's all twelve," said Maya. She closed the notebook. "Now I know who can do what. Please let me not need it."
 
-And that's when the castle began to **RISE**.
+We climbed in.
 
-## THE RISING
+It was marvellous inside. The floor was soft as a cloud, the walls were made of purple light, and the stars floated all round us. We kicked off our shoes. Ollie was first, and went up like a rocket. Kenji went up after him. Alex and Felix went up together, holding hands, and every time they landed the castle gave a happy little *boing*.
 
-It happened slowly. We didn't notice at first. Our bounces got higher and higher, and our landings got softer and softer.
+Willow did not bounce. Alex had carried her in, because the noise outside was too loud for a cat who likes quiet. She sat very neatly in the middle of the floor on a cushion, with her paws together, watching everything.
 
-Then Maya said, "Everyone, stop. Look down."
+Outside, the gods were laughing at their stalls. Mr Thorley had a hot dog. Mr Hermes was polishing his heels. The sun was warm. A hundred people were smiling.
 
-We looked. The grass was a long way below. The stalls looked like toys. The gods were tiny, with their faces turned up.
+"Look at me!" shouted Ollie. "It's the best day of my whole entire life!"
 
-The whole castle, with all thirty of us inside, was floating **UP.**
+He laughed so hard that he went up past the top of the turrets, and came down very slowly, like a feather. We all laughed. We all went higher. Maya laughed too, though she said she was only checking.
 
-Mr Hermes shouted, "LOCKE! What did you do?"
+That's when the castle began to rise.
 
-Mr Locke's face had gone completely white. He said, in a very small voice, "I... made it float. A tiny bit. Just to be funny. It was only supposed to go up a **metre.**"
+## Part Seven. Up
 
-Mr Thorley said, "Locke."
+At first it was slow. We did not notice. Our bounces got a bit higher, and our landings a bit softer, and the grass got a bit further away.
 
-Mr Locke said, "I know. I know. I didn't think. I'm so sorry. I'll fix it. I'll fix it right now."
+Then Maya stopped laughing.
 
-He waved his arms, and tried every spell he knew. A cloud of green sparkles. A flash of orange. A small puff of smoke.
+"Everyone," she said. "Stop. Look down."
 
-None of it worked. The castle kept floating up.
+We looked. The grass was a long way below. The stalls looked like toys. The faces turned up at us were small and pale, and Mr Harris's clipboard was a speck.
 
-## THE PANIC
+The whole castle, with thirty-one of us inside, was floating UP.
 
-The children inside began to cry.
+Down below, Mr Hermes shouted, "LOCKE! What did you do?"
 
-It started with the smallest, and it spread. A Reception child shrieked, "I want my mum!" Then someone else cried, and someone else, and soon the whole castle was shaking with sobs.
+Mr Locke's face had gone completely white. He said, in a thin, high voice, "It's meant to go up a metre! I only gave it one tiny spell." He waved his arms. A shower of green sparks, a flash of orange. A small puff of smoke. "It's tangled. There's so much magic on this field that it's like threads in a drawer. I should have asked before. I should have asked everybody."
 
-And then, **the castle began to rise faster.**
+"Locke," said Mr Thorley, very quietly, and he stood up.
 
-Maya, who was holding on to a turret, gasped. "It's the **panic.** The more scared we are, the higher it goes! Locke's spell is tied to our feelings!"
+From the castle, a small voice said, "I want my mum."
 
-Ollie shouted, "Then how do we stop it?"
+Someone sobbed. Someone else sobbed. Then every little voice in the castle went up in a wail, and the castle jerked.
 
-Maya shouted, "We have to stay **calm!**"
+"Big feeling," said Alex, in a very small voice, "big bounce."
 
-But nobody could. The castle was above the school roof now, swaying in the wind, and the cries were getting louder and louder. A flag snapped off the top and spun away.
+The castle shot up twice as fast.
 
-Down below, the gods were running.
+## Part Eight. The Gods Try
 
-## THE GODS TRY
+Mr Hanu was first. He leaped from the ground in one huge golden bound, caught the side of the castle with both hands, and pulled.
 
-Mr Hanu leaped first. He shot up into the sky like a golden arrow, grabbed the side of the castle in both hands, and **pulled.**
+The castle shot up faster than ever.
 
-The castle shot **up** twice as fast.
+"It went the wrong way!" shouted Mr Hanu, and fell back down in a heap on the tombola.
 
-Mr Hanu shouted, "It went the wrong way!"
+Mr Hermes flew up on his heels, and tied a rope round the lowest turret, and tugged with all his strength, and the rope snapped like cotton. Mr Heston threw a chain from the ground. It snapped too. Mr Shah began to dance very slowly in the middle of the field, with his eyes closed, and the castle drifted a little slower, but only a little, because thirty-one children were still too scared.
 
-Mr Hermes flew up on his sandals, grabbed a rope, and tugged. Up went the castle. Mr Heston threw a chain from the ground, and the chain broke. Mr Shah danced a slow, careful dance, and the castle drifted a little slower, but it kept rising, because thirty children were still too scared.
+Mr Thorley raised his hammer high in the air, and bellowed, "I'LL BRING IT DOWN WITH THUNDER!"
 
-Mr Thorley raised his hammer and shouted, "I'LL BRING IT DOWN WITH THUNDER!"
+Everybody on the ground and everybody in the castle yelled together, "NO!"
 
-Everyone, on the ground **and** in the castle, yelled, "NO!"
+Mr Thorley stopped. He looked at his hammer. He looked up at the castle, and then, very slowly, at his own hands.
 
-Mr Thorley froze, with his hammer in the air. He lowered it, and said, in a very small voice, "Ah. Yes. Thunder would make them more scared."
+"Ah," he said. "Yes. Thunder would make it worse. Wouldn't it." He put the hammer on the ground. His hands were shaking.
 
-He put the hammer down. His hands were shaking.
+"Nobody can go in," said Mr Jackson, with his nose in the air. "Nobody can pull. Anything strong makes it worse."
 
-Mr Jackson looked up and said, quietly, "Nobody can go in and nobody can pull it down. Anything strong makes it worse."
+Mrs Ibbs wrote something in her notebook, crossed it out, and wrote something else. She looked up. "It needs someone small," she said. "Someone calm. Someone who is on the inside."
 
-Mrs Ibbs wrote something in her notebook, and then crossed it out, and wrote something else.
+Everyone looked up at the castle. A few of them looked at the same two small shapes, in the biggest turret, holding hands.
 
-She said, "It needs someone **small.** Someone who is calm. Someone who isn't a god."
+"Thirty-one," said Marion. "I counted them in. I will count them out."
 
-Everyone looked up at the castle. Then they all looked at the same two people.
+## Part Nine. Above the School
 
-## THE TWINS
+The castle was higher than the school roof. Then it was higher than the trees. A cold wind blew across the turrets, and the flag on top snapped and tugged.
 
-Alex and Felix were standing in the middle of the castle, in the biggest turret, hand in hand. They were scared. Their knees were wobbling, and their eyes were wide.
+It was the scariest we had ever been.
 
-But they were also **quiet.**
+Inside, it was louder than a playground. A boy in a sheep costume was crying with his mouth wide open. Three flower girls were sobbing in a heap. Gideon Fox, who had climbed in at the last minute with his arms folded, was crying the loudest of anyone.
 
-The wind blew the hair on their foreheads, and the world spread out below them, green and gold. They looked at each other, and they both knew exactly what to do.
+"I'm one of the big kids," said Gideon, wiping his nose on his sleeve. "I shouldn't be crying."
 
-Alex said, "Felix."
+"Everyone cries," said Felix.
 
-Felix said, "Alex."
+"I am NOT crying," said Gideon, crying.
 
-They said it together, very quietly:
+Alex tried first. He knelt down by the boy in the sheep costume and said, in his clearest voice, "Breathe in, and count to three! One! Two! Three!"
 
-**"STOP. BREATHE. I AM SAFE."**
+Nobody heard him. It was too loud. The boy only sobbed louder, and the castle bumped up another turret-length.
 
-They closed their eyes. They took a big breath in through their noses, and let it out through their mouths.
+Felix tried next. He took a deep breath and shouted, "DON'T BE SCARED!"
 
-The castle slowed. Just a tiny bit.
+That was the worst thing he could have said. Every child in the castle looked at him as if he had said "THE FLOOR IS LAVA."
 
-## THE FIRST CALM
+The castle jumped.
 
-Alex opened his eyes. He turned to the nearest crying child, a small boy in a sheep costume (he'd been wearing it since the play). Alex knelt down.
+"That did not work," said Felix, in a small voice.
 
-He said, "Hello. I'm Alex. Do you want to breathe with me?"
+"No," said Alex.
 
-The boy sniffed. "I'm scared."
+"We have to do something different," said Felix.
 
-Alex said, "I know. Me too. But if we breathe together, it gets smaller."
+They held hands. They closed their eyes. In the middle of all that crying, Felix said, very quietly, "Alex. When I'm scared, I don't want someone shouting. I want somebody to be next to me."
 
-He held up one finger. "Breathe in, and count to three. One, two, three. Breathe out. One, two, three."
+Alex opened his eyes.
 
-The boy did it. His sobs got quieter. His shoulders loosened.
+"Then we'll whisper," said Alex.
 
-At the other end of the castle, Felix was kneeling in front of three flower girls, who were huddled in a heap.
+## Part Ten. The Whisper
 
-He said, "Hello. I'm Felix. I'm going to tell you a secret."
+It is hard to be loud and scared when someone is whispering to you. That is a secret. You have to lean in to hear.
 
-They looked up, with wet faces.
+Alex knelt beside the boy in the sheep costume, and he whispered, "Hello. I'm Alex. Breathe with me. In, one, two, three."
 
-He said, "I'm scared too. But I know a thing we can say, and it helps. Do you want to say it with me?"
+The boy leaned in. Alex whispered, "Out, one, two, three."
 
-They nodded.
+"I'm scared," whispered the boy.
 
-He said, "**I CAN BE SCARED AND BRAVE AT THE SAME TIME.**"
+"Me too," whispered Alex. "But look. If we breathe, it gets smaller. It's a sort of magic that's only ours. *Stop. Breathe. I am safe.*"
 
-The girls said it, shakily. Then they said it again, louder.
+The boy breathed. It was wobbly. It was only a little bit like breathing. But after a moment, he was just crying, and not crying and screaming.
 
-## THE CALM SPREADS
+Across the castle, Felix knelt by the flower girls, who were still in a heap. He did not shout. He whispered, "I'll tell you a secret. I'm scared too. So what do you say to yourself, when you're scared?"
 
-Alex and Felix moved round the castle, each on their own side, comforting the children one at a time.
+One flower girl sniffed. "Nothing."
 
-Alex taught the breathing. Felix taught the words. Alex found the smallest, shakiest Reception child and held her hand. Felix found Gideon Fox, who had climbed in at the last minute, and who was crying the loudest of anybody, and gave him a hug.
+"Would you like a thing to say?"
 
-Gideon said, "I'm sorry I was mean to Mr Heston."
+She nodded.
 
-Felix said, "That's okay. You can say it to him later."
+"I can be scared and brave at the same time," whispered Felix.
 
-Gideon sniffed. "I'm a Year 6. I shouldn't be crying."
+The flower girl said it, in a very small voice. Her sister said it. Their friend said it. It was the first time anybody in the castle had said anything which was not a cry.
 
-Alex said, "Everyone cries. It's okay. Breathe with us."
+Ollie wiped his nose. "I can do hard things," he said, and he looked cross at himself for sounding wobbly. Kenji said it as well, and put an arm round him.
 
-Gideon nodded, and breathed.
+Alex and Felix moved round the castle in opposite directions, one whisper at a time. They did not shout. They did not need to. The whispers went from child to child, like a spark going along a string.
 
-Ollie, who had been the loudest of all, wiped his eyes. He said, "I am a seed. The dark is where I grow." Kenji said, "I can do hard things." Maya said, "I am small, but I am strong." Dot held up her hand and said, in her wobbly little voice:
+The castle slowed. It did not stop.
 
-**"I AM NOT ALONE."**
+## Part Eleven. The Brave Thing
 
-Every child in the castle looked at her. And then, one by one, they said it back.
+At the very top of the castle, in the highest turret, there was a gap in the wall where the plastic had come unstitched. Through it, we could see the clouds. And leaning out of the gap, with her arms wrapped round the flagpole, was the smallest child in the castle.
 
-**"I AM NOT ALONE."**
+She was shaking so hard that the flag shook with her. She would not let go. She was not crying any more; she was too scared. She was only holding on and staring at the clouds.
 
-**"I AM NOT ALONE."**
+"I'll go," said Alex.
 
-**"I AM NOT ALONE."**
+"It's too wobbly," said Felix. "The wall is too thin."
 
-The castle stopped rising.
+Nobody could get there without making the wall tear.
 
-## THE SINKING
+Willow got up from her cushion.
 
-It hung in the sky for a moment, glittering in the sun. The wind dropped. A bird landed on a turret.
+Willow does not like heights. She does not like wind. She does not like crowds or noise, and she had been in all three since breakfast. But she looked at the little girl, and she looked at the long, thin edge of the wall where the plastic had come unstitched, and she stepped up onto it. She walked all the way along it, one paw at a time, with her tail up like a flag. The wind pulled her fur. The clouds were below her. She did not look down.
 
-Then, very slowly, as thirty children breathed together, the castle began to **sink.**
+She reached the little girl. She sat. She leaned against the girl's side, and she purred.
 
-Down, down, down it floated, past the clouds, past the trees, past the roof of the school. It was like going down in a lift. The children held hands, and counted breaths. Outside, everybody watched in silence.
+It was the loudest purr we have ever heard, and it was the only sound in the turret. The girl's arms came loose from the flagpole. She put one hand on the cat. Then the other. Then she was holding Willow, with her face in her fur, and she was breathing, slowly, in and out.
 
-At last, the castle touched down in the middle of the field, with a soft, gentle *flump*.
+We held our breath. Nobody moved.
 
-For a moment, nobody moved.
+And the castle stopped rising.
 
-Then Mr Harris, who had been holding his breath, said, "Everyone out. Gently."
+It hung there in the sky, quite still, above the clouds, with the sun on its stars, and a bird came and sat on a turret and looked at us.
 
-We all stepped out, and the castle gave a long, happy sigh, and slowly deflated into a puddle of purple plastic.
+## Part Twelve. The Quiet
 
-Every grown-up in the school ran over at once. There were mums and dads and teachers and dinner ladies, all hugging their children, and every god in the school stood back, with very serious faces.
+It was the quietest we have ever been.
 
-## LOCKE SAYS SORRY
+The wind had dropped. We could see the whole school underneath, small as a drawing, and a silver line which was the sea.
 
-In the middle of it all, Mr Locke was standing on his own, with his hands behind his back and his head down.
+Nobody cried. We sat down together on the floor of the castle, thirty-one children and a cat, holding hands in a ring, breathing together.
 
-Mr Thorley walked up to him, very slowly. His hammer was in his hand. Every person at the fair stopped talking.
+"Is anyone coming to get us?" whispered the boy in the sheep costume.
 
-Mr Thorley said, quietly, "Locke."
+"They'll find a way," said Felix.
 
-Mr Locke looked up. His bright green eyes were wet.
+"How do you know?"
 
-He said, "I'm sorry. I'm so, so sorry. I wanted it to be fun. And I didn't think about what could happen. I put the children in danger. I'll never forgive myself."
+"Because," said Alex, "they always do. And because we're not alone."
 
-Mr Thorley looked at him for a long time. A drop of rain fell on his red beard.
+Dot, who had been silent for a long time, looked round the ring. She was the smallest after the girl by the flagpole. She had her arms wrapped round her knees.
 
-Then, to everyone's surprise, he put down the hammer and put both arms around Mr Locke, and gave him a big, tight hug.
+"I'll say it," said Dot. "I'll say mine. But everybody else says theirs first."
 
-Mr Thorley said, "You said sorry. You meant it. And you didn't run away. That's what matters. Everyone gets it wrong sometimes, brother."
+So we did.
 
-Mr Locke sniffed. He said, "Even you?"
+We passed it round the ring, like passing a parcel, without anyone telling us how.
 
-Mr Thorley said, "I ate a whole ox once and dressed as a bride. I know all about getting it wrong."
+Ollie said, "I am a seed. The dark is where I grow."
 
-Everyone laughed, even Mr Locke, who was crying and laughing at once.
+Felix said, "I can be scared and brave at the same time."
 
-## THE ENDING OF THE FAIR
+Kenji said, "I can do hard things."
 
-When everything had settled, Mr Harris climbed on a chair, tapped his glasses, and said, "Ladies and gentlemen, boys and girls. I'd like to say a few words."
+Gideon Fox wiped his face, and sat up straight. "I can say sorry, make it right, and keep going. I did it. I said it to Mr Heston. It wasn't even hard, in the end."
 
-Everyone went quiet.
+Maya said, "Different is clever."
 
-He said, "I've been a headteacher for twenty-three years. And in all that time, I have never seen anything like today."
+Alex said, "Stop. Breathe. I am safe."
 
-He looked at Alex and Felix.
+The smallest girl, with Willow in her lap, whispered to Dot, "I know you can."
 
-He said, "Thirty children were in real danger, and two of them, **two**, who are only in Year 1, worked out that the way to make everyone safe was to **stay calm and look after each other.** They didn't need a hammer, or wings, or a magic spell. They needed breathing and kindness."
+And Dot said, in her wobbly, tiny voice, "I am not alone."
 
-Alex and Felix looked at each other. They were holding hands.
+We said it all together once more, very softly. Down below, nobody heard it. But something heard it, because the stars on the castle walls got brighter, one by one, like a lamp being turned up.
 
-He said, "I'd like you all to give them a round of applause."
+## Part Thirteen. The Message
 
-The whole school clapped. It went on for at least five minutes. Mr Hanu whooped. Mr Hermes did a backflip. Miss Persey threw a handful of flower petals, and Mr Shah began to dance, very slowly, with tears in his eyes.
+The castle had stopped rising, and it was staying in the sky.
 
-## THE GODS SAY GOODBYE (SORT OF)
+"Why isn't it coming down?" said Kenji. "We're calm. We're all calm."
 
-At five o'clock, as the sun began to set, we noticed something strange. The gods were all lining up by the front gate.
+"The calm stopped it going up," said Maya. "But Mr Locke's spell is still snagged. It's tangled in all the other gods' magic. Calm cannot untie a knot."
 
-Mr Thorley, Mr Shah and Mrs Rao, Mr Jackson, Mrs Ibbs, Mrs Felicity and Ms Fortune, the Seven Lucky Men, Mr Locke, Miss Persey and her mum, Mr Hermes, Mr Heston, Mr Pann, Mr Hanu. Even Mr Haydes had come up from the boiler room, in his woolly hat.
+Alex held the pencil tight, and thought, and then he turned to Felix.
 
-They stood in a long line, with their hands by their sides.
+"Who is the best in the world at knots?" said Alex.
 
-Mr Hermes stepped forward, and said, "We're not going. Don't worry. We're staying until the end of term. But we wanted to say something."
+Felix thought of green ribbons on cakes. He thought of every spoon in the dinner hall, with a little bow. "Mr Locke."
 
-He cleared his throat.
+"He does tangles," said Alex. "That's his gift. He's been tying things in bows all day. He didn't know it, but he was practising."
 
-He said, "Every single one of us has been around for a very long time. Thousands of years. We've seen lots of children, and we've learned something. When you're little, you think that gods are the strong ones. But the real power isn't the thunder or the wings. It's what **you** did today."
+Maya got out her pencil. "We need to tell him. But how?"
 
-Mr Shah said, "It's kindness."
+A sound came from underneath. It was a soft little tinkle, like a bicycle bell. A pair of small gold wings flicked in the sun, and Mr Hermes was hovering by the open turret, walking backwards on the air.
 
-Mrs Ibbs said, "It's counting your breaths."
+"Message?" said Mr Hermes.
 
-Mr Hanu said, "It's remembering who you are."
+Maya wrote a note, in her neatest handwriting. It said:
 
-Mr Pann said, "It's staying calm when everyone else runs."
+*Mr Locke. The spell is tangled at the top, at the flag. You know knots better than anyone. Please untie it. We know you can. Love, Alex, Felix and Maya.*
 
-Miss Persey said, "It's knowing the dark is only the start."
+Mr Hermes read it. His eyebrows went up. "I like this one," he said. "Straight to him." He winked at Willow, tucked the note in his belt, and went down so fast that he left a streak of light.
 
-Mr Heston said, "It's being different."
+## Part Fourteen. Locke Goes Up
 
-Mrs Felicity said, "It's sharing your luck."
+From the castle, we saw the whole thing, as small as a puppet show.
 
-Mr Locke said, "It's saying sorry."
+Mr Hermes landed in front of Mr Locke. He gave him the note. Mr Locke read it, and went very white, and sat down on a hay bale.
 
-Mr Thorley looked at us all and said, in his big, deep, rumbly voice:
+Mr Thorley walked over. He stood in front of Mr Locke, with the hammer hanging at his side.
+
+"Locke," he said.
+
+"I know," said Mr Locke. "Last time I said it was safe. It wasn't. I shan't say it this time." He swallowed. "I'm not good at heights. I'm not good at being the one who has to put it right. I'll probably get it wrong. But I'll try. And I'll tell the truth about how it's going."
+
+Mr Thorley said nothing. He looked at Mr Locke for a very long time.
+
+Then he held out his hand and pulled him up off the hay bale.
+
+"Go on, then," said Mr Thorley. "I'll be here."
+
+Mr Locke took a breath. He shut his eyes. His shoulders shrank, and feathers spread along his arms, long, grey-green, sharp. In the old stories, said Maya in a quiet voice, he had a cloak of falcon feathers that he borrowed from a goddess, and sometimes he did not need the cloak. Now he was a long-winged bird with bright green eyes, and he leaped into the air and came up towards us, rocking in the wind.
+
+He landed on the top of the highest turret, beside Willow and the smallest girl. His claws gripped the flagpole.
+
+He looked at us. The falcon-Locke said, in a rough, wind-whipped voice, "I'm sorry. I'm so sorry. Let me make it right."
+
+"I know you can," said Felix.
+
+"I know you can," said Alex.
+
+At the very top, around the flag, there was a mess of gold thread, tangled like a ball of wool that a cat had got into. And caught in the tangle were a dozen other threads: orange and silver, blue and white, green, each one a different god's.
+
+Mr Locke put his beak into the knot. He began to untie it.
+
+## Part Fifteen. The Knot
+
+It took longer than a school assembly.
+
+Mr Locke worked on the knots with his beak and claws. One was tight as a drum. One came undone with a *ping*. One was so small that he had to peer at it with one eye shut, and Maya held her breath beside him.
+
+The wind came back. The flag snapped. Once, the whole tangle slid down the flagpole, and he nearly fell.
+
+"Go slowly," said the smallest girl suddenly, from the next turret.
+
+"That's right," said Mr Locke, between his teeth. "Slowly. Slowly."
+
+The last knot was the biggest. It had blue and white in it. It had thunder in it. Locke pulled, and the thread shot out of his beak with a *crack* like a branch.
+
+Down below, in the field, Mr Thorley was holding his hat. The crack went through the air, and Mr Thorley's whole body jumped. There was a flat, small **BOOM** from his chest. The castle gave a shudder.
+
+Everyone held their breath.
+
+"Slow," said Mr Shah, softly, to Mr Thorley, from the ground. "In for four, out for four."
+
+Mr Thorley breathed. In the castle, thirty-one children and a cat breathed with him, in time.
+
+The tangle was gone. Gold thread floated away on the wind like a trail of dandelion seeds. And the stars on the castle walls went out, one by one, as gently as stars at dawn.
+
+The castle gave a long, happy sigh.
+
+It began to sink.
+
+## Part Sixteen. Down
+
+Down we went, past the cloud, past the hill, past the roof of the school, with a feeling like a lift going down. The ground came up to meet us. It was not fast. The faces got bigger, and the grass got closer.
+
+At last, the castle touched down in the middle of the field with a soft *flump*.
+
+For a long moment, nobody moved.
+
+Then Mr Harris, who had been holding his breath since two o'clock, said, "Everyone out. Gently."
+
+We stepped out onto the grass. The castle gave a long, sad *pffff* and slowly folded into a puddle of purple plastic. Every grown-up in the school ran over at once, all at once, to hug their children. Mrs Tibbs hugged us both. Marion clicked her clicker thirty-one times and let out a very long sigh.
+
+The smallest girl would not let go of Willow until her mum came, and then she said "Thank you" to the cat, very seriously, and the cat blinked.
+
+In the middle of it all, a tired man in a green jumper sat on the grass with his knees up. He had changed back from a falcon, and his hair was full of feathers. Mr Thorley stood in front of him.
+
+"Locke," said Mr Thorley.
+
+Mr Locke looked up. His green eyes were wet. "I'm sorry," he said. "I got it wrong again."
+
+"You said sorry," said Mr Thorley. "You meant it. And you didn't run away. That's what matters. Everyone gets it wrong sometimes, brother."
+
+He put down his hammer and put both arms round Mr Locke.
+
+"Even you?" said Mr Locke, into his shoulder.
+
+"I once ate a whole ox," said Mr Thorley, "and dressed as a bride. I know a great deal about getting it wrong."
+
+Everyone laughed, even Mr Locke, who was laughing and crying at the same time. Ollie said, "Can we go again?" and every single adult said "NO."
+
+## Part Seventeen. More Powerful
+
+When the field was tidy, the gods gathered by the gate, and Mr Hermes stepped forward, with his hands behind his back.
+
+"We've been alive a very long time," he said. "Thunder, wings, hammers, music, we have all those, and they all have their jobs. Today they were no use at all, because the thing that was needed was something we couldn't do from the ground. It needed someone small and calm and on the inside."
+
+Mr Shah said, "It needed whispering."
+
+Mr Locke said, in a husky voice, "It needed someone to say they were sorry, and then stay."
+
+Mr Thorley looked at all of us. He cleared his throat. It rumbled like a distant lorry. He said:
 
 **"YOU ARE ALL MORE POWERFUL THAN WE ARE."**
 
-Alex and Felix looked at each other.
-
-Felix said, "Really?"
-
 Alex said, "Even more than Thor?"
 
-Mr Thorley said, "Even more than Thor."
+"Even more than Thor," said Mr Thorley, "on a good day."
 
-## THE LAST WORDS
+Then he looked at us, and his big face went soft and shy, and he said, "Today, you were."
 
-We said it together, one last time, every child and every god, in the golden light of the evening:
+Dot put up her hand. She was holding a flower from Miss Persey, and a sticker from Mr Hot, and she had a smudge of fish pie on her chin.
 
-**"I AM A SEED. THE DARK IS WHERE I GROW."**
+"Does that mean," said Dot, "that we can be like gods?"
 
-**"I CAN BE SCARED AND BRAVE AT THE SAME TIME."**
+Mr Hermes looked at all of us. He smiled the biggest smile we had ever seen.
 
-**"I CAN DO HARD THINGS."**
+"Today," he said, "you were."
 
-**"I CAN SAY SORRY, MAKE IT RIGHT, AND KEEP GOING."**
+## Part Eighteen. The Feather
 
-**"DIFFERENT IS CLEVER."**
+The sun went down, and the fair went quiet. The stalls were folded. The boat-bus's engine started with a sound like seven men arguing about a boat. Mr Ebbie leaned out of the window and knocked on the air.
 
-**"STOP. BREATHE. I AM SAFE."**
+"GOODBYE!" he shouted. "WE'LL BE BACK FOR LUNCH ON TUESDAY! KNOCK LOUDER NEXT TIME!"
 
-**"I KNOW YOU CAN."**
+The boat-bus rolled round the corner of the school to put itself to bed. Everyone else went home in the golden light, in twos and threes, humming.
 
-**"I AM NOT ALONE."**
+We sat on the wall by the gate, the six of us and a cat. Maya looked at her notebook, where every one of the twelve had a small tick beside it.
 
-Our voices rolled across the field and echoed off the hills, and somewhere, far away, a swan honked.
+"I think that was all of them," said Maya.
 
-When we finished, nobody said a word. Then Dot, who was standing at the front, put up her hand.
+"Almost," said Alex.
 
-She said, "Does that mean we can be gods too?"
+Maya looked up. "Why almost?"
 
-Everyone looked at Mr Hermes.
+"I noticed something," said Alex. "On the banner."
 
-He looked at Dot. He looked at all of us. He smiled the biggest smile we had ever seen.
+We turned round.
 
-He said, "You already are."
+On the top of the bedsheet, above the words **WELCOME TO THE SUMMER FAIR**, sat an owl. It was the biggest owl we had ever seen. Its eyes were grey and round, and it was looking at us, very steadily, like somebody reading.
 
-## THE BIGGEST SURPRISE
+It blinked, one eye and then the other. It dipped its head. Then it opened its wings and glided down in a silent circle and dropped a single grey feather into Maya's notebook.
 
-As the sun went down, the Seven Lucky Men walked back to the boat-bus and climbed in. The little flag on the top fluttered. It started to rise off the ground, bobbing gently like a ship on the sea, and sailed up over the roof of the school.
+The feather landed on the page, just under the number twelve. Where it touched the paper, neat grey writing appeared by itself, as if it were being written.
 
-Mr Ebbie leaned over the side and knocked on the air. He shouted, "GOODBYE! KNOCK LOUDER NEXT TIME!"
+It said: **13. Ask me anything.**
 
-We all waved until they were gone.
+The owl hooted once and flew away into the dusk.
 
-Then Maya, who had been very quiet, put down her clipboard. She said, "I think that's all of them."
+Nobody said anything. Willow lifted her head. Dot said, "It knew our names."
 
-Kenji said, "Almost."
+Maya had gone completely still. She slowly closed the notebook, with the feather inside.
 
-We turned around.
-
-At the front gate, with the evening sun shining behind her, stood a woman we had never seen before. She was very tall, and she wore an owl on her shoulder. She had grey eyes and a sharp, clever face, and she was carrying a very big book.
-
-She said, "Good evening. I'm the new Quiz Mistress. I believe your school has a competition coming up."
-
-Maya whispered, "That's **ATHENA.**"
-
-Alex whispered, "She's the goddess of wisdom."
-
-Felix whispered, "Is she going to be next?"
-
-The woman smiled. The owl hooted.
-
-She said, "**Monday.**"
+And at exactly the same time, they said, "Monday."
 
 **The End.**

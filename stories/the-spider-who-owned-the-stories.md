@@ -16,7 +16,7 @@ draft: false
 
 Every Monday morning, the big kids from the class above come to our class for Reading Buddies. They sit next to us and listen while we read. It is the best part of the week.
 
-This Monday it was even better, because two of the big kids were Alex and Felix's cousins. Their names are Elfine and Marion. They are twins, and they look so alike that Mister Harris says he needs a clipboard to tell them apart. Elfine has glasses and a notebook. Marion has scabby knees and a pocket full of string.
+This Monday it was even better, because two of the big kids were Alex and Felix's cousins, Elfine and Marion. You might remember them from the day of the soup. They are twins, and they look so alike that Mister Harris says he needs a clipboard to tell them apart. Elfine has glasses and a notebook. Marion has scabby knees and a pocket full of string.
 
 They had also brought Willow.
 

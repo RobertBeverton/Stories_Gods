@@ -1,13 +1,18 @@
 ---
 title: "The Pottery Teacher Who Was NÜWA"
-description: "The sky cracks, and the twins gather five stones to help the pottery teacher mend it."
+description: "When a fight between two new teachers cracks the sky, the twins gather five freely given stones to help the pottery teacher and her very old turtle mend it."
 series: "The Staff Room Gods"
 seriesOrder: 17
 tags: ["mythology", "school"]
 gods: ["Nüwa (Chinese)"]
 lore: nuwa
+characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion"]
+icon: cloud
+publishDate: 2026-10-22
 draft: false
 ---
+
+## Part One. The Turtle Is Still There
 
 The first time we saw Ao was on a Monday, and he was IN THE POND.
 
@@ -23,49 +28,61 @@ On Monday morning, the turtle was still there. He was floating very slowly, with
 
 Alex and Felix Bailey are twins, so they have a system. Alex notices things and Felix asks about them. Then they swap, and it works every time.
 
-Alex noticed that the pond water was very still, even though it was windy. Felix asked Ao how long he had been travelling. Ao said, "Oh, about three thousand years. I walk slowly."
+Alex noticed that the pond was perfectly flat, even though the wind was blowing the flag about like a tea towel. It was as if the water did not want to wobble the turtle. Felix asked Ao how long he had been travelling.
 
-They looked at each other and said, "We need Maya."
+"Oh, about three thousand years," said Ao. "I walk slowly."
 
-## THE NEW TEACHER
+Willow, our Bengal Reading Cat, sat on the edge of the pond and looked at Ao for a long time. Then she looked up at the sky, very hard, the way you look at a ceiling when you think you heard a creak.
 
-Maya Singh was behind the compost bin, with her clipboard. Kenji Mori and Ollie sat on their upside-down buckets, and Dot from Reception sat on the lid.
+Alex and Felix said, "We need Maya."
 
-Before Maya could say anything, a voice floated across the playground.
+## Part Two. The Lady in Jade
+
+Maya Singh was behind the compost bin with her notebook. Kenji Mori and Ollie sat on their upside-down buckets, and Dot from Reception sat on the lid, swinging her boots.
+
+Before Maya could say a word, a voice floated across the playground.
 
 "Good morning, my little clay pots!"
 
-It was a new teacher, walking across the grass with a tray of wet lumps of clay. She was tall and smiling, in a long skirt the colour of jade that swished behind her like a tail. Her fingers were yellow with clay up to the elbows, and her badge said **MS WA, POTTERY (AND PEOPLE).**
+It was a new teacher, walking across the grass with a tray of wet lumps of clay. She was tall and smiling, in a long skirt the colour of jade that swished behind her like a tail. Her hands were yellow with clay up to the elbows, and her badge said **MS WA, POTTERY (AND PEOPLE).**
 
-She saw the pond and stopped. Her whole face lit up.
+Mr Harris was hurrying along beside her with his clipboard, saying, "And that is the hall, and that is our brand new flagpole, which I am VERY proud of."
+
+It stood in the middle of the playground, taller than the roof of the dinner hall, with the school flag on top. It was the tallest thing for miles. Mr Harris patted it like a horse.
+
+Ms Wa nodded politely. But her eyes were on the pond.
+
+She stopped. Her whole face lit up.
 
 "Ao!" she said. "You're early!"
 
 "I'm three thousand years late," said Ao. "But I came as fast as I could."
 
-Maya put down her clipboard very slowly.
+The duckling woke up, looked at the lady in jade, and quacked as if it had known her all its life.
+
+Maya put down her pencil very slowly.
 
 "That," she whispered, "is **NÜWA.**"
 
-## WHO IS NÜWA?
+## Part Three. Who Is Nüwa?
 
 Kenji said, "Is that a type of noodle?"
 
-Maya said, "No, Kenji. It's said *Nwah*. Like you're saying *new* and *wah* really fast."
+"No, Kenji," said Maya. "It's said *Nwah*. Like you're saying *new* and *wah* really fast."
 
-She told us that in China, a very long time ago, people told stories about a goddess called Nüwa. She had the face of a kind woman, and, in the old pictures, the body of a long, shimmery dragon, with scales the colour of jade.
+She told us that in China, a very long time ago, people told stories about a goddess called Nüwa. In the old pictures she had the face of a kind woman and the body of a long, shimmery dragon, with scales the colour of jade.
 
 Dot said, "A dragon lady?"
 
-Maya said, "A dragon lady. And the best bit is this. When the world was new and empty, Nüwa got lonely. So she knelt by the Yellow River, scooped up a handful of yellow clay, and shaped a tiny person. She blew on it, and it jumped up and said hello."
+"A dragon lady," said Maya. "And the best bit is this. When the world was new and empty, Nüwa got lonely. So she knelt by the Yellow River, scooped up a handful of yellow clay, and shaped a tiny person. She blew on it, and it jumped up and said hello."
 
-Ollie said, "She MADE people?"
+"She MADE people?" said Ollie.
 
-Maya said, "Out of clay. She made hundreds. She flicked a vine in the mud, and every drop that landed turned into another person."
+"Out of clay. Hundreds of them. Every one different." Maya turned a page. "That is how the old story goes. People tell it in lots of ways, and this is only one."
 
 Alex said, "That's why she's the pottery teacher."
 
-Maya said, "And that's not even the best bit. Years later, the sky **broke.** Two very cross gods had a fight, and one of them banged his head on a mountain that was holding it up. A huge crack opened, and floods and fires poured through."
+"And that's not even the best bit," said Maya. "Years later, the sky **broke.** Two very cross gods had a fight, and one of them banged his head on the mountain that was holding it up. A huge crack opened, and floods and fires poured through."
 
 We all went very quiet.
 
@@ -75,9 +92,37 @@ Everyone slowly turned and looked at the pond.
 
 Ao gave a small, shy wave with one flipper.
 
-## THE LIST
+## Part Four. No Two the Same
 
-Alex held the pencil. Felix held the notebook, because they always share.
+The pottery room was the old art cupboard, and by lunchtime it smelled of rain on a flowerpot.
+
+Ms Wa put the whole class at long tables and gave each of us a lump of clay the size of an orange. "Clay has three rules," she said, holding up her yellow fingers. "Keep it wet. Keep it warm. Keep it moving. Clay that is left alone goes hard, and hard clay cannot be mended."
+
+Ollie put his lump straight in his mouth to see if it was warm. It was not food. Ms Wa gave him a spoon of water and no telling off.
+
+On the shelf behind her desk stood five tall jars of glaze, one each of red, yellow, blue, white and black. "Every colour of glaze is only a ground-up stone," she said. "People forget that. Stones are what the world is made of, and so are pots."
+
+On the desk sat fifty tiny clay people, lined up like a very small audience. None of them was the same. One had a hat. One was laughing. One was holding a very small umbrella.
+
+"Make a person," said Ms Wa. "Anyone you like."
+
+Alex made a person with sticky-out ears. Felix, next to him, tried to make exactly the same one. He looked at Alex's person and copied the ears, the arms, the smile, and he pressed a pea-sized nose in the middle.
+
+They put them side by side.
+
+They were not the same. Felix's person had a lopsided grin and a hump on its back, and Alex's had one ear bigger than the other. The harder they tried to fix it, the more different they got.
+
+"Why can't I make it the same?" said Felix.
+
+Ms Wa smiled. "I have been trying that for thousands of years," she said. "It has never once worked. I think that is the best thing about people."
+
+Felix looked at his lopsided person and decided he liked it. Then he looked at Alex's, and said, "Yours is better."
+
+"It isn't," said Alex. "It's different."
+
+Willow sniffed both figures and sat down between them. Everyone agreed this meant she had no favourite.
+
+Alex held the pencil. Felix held Maya's notebook, because they always share jobs.
 
 **1. THE GREEN SKIRT.** It swishes even when there is no wind, and sometimes it seems longer than she is.
 
@@ -89,39 +134,39 @@ Alex held the pencil. Felix held the notebook, because they always share.
 
 **5. THE WORRIED LOOK.** Every lunchtime, Ms Wa looks at the sky. Not at the clouds. At the **blue**, like she's checking it's still there.
 
-Maya said, "That's the saddest and best list yet."
+Maya read it over twice. "That," she said, "is the saddest and best list yet."
 
-## AO'S PROBLEM
+Elfine and Marion, our twin cousins from the class above, looked at the list over Felix's shoulder. "Item five is true," said Elfine. "She does it with her whole neck." "I counted," said Marion. "Eleven times at lunch."
 
-At break, we sat by the pond with Ao. He didn't say much. He just floated, looking sad, with the duckling still asleep on his head.
+## Part Five. Ao Is Worried
 
-Dot said, "Why are you sad, Ao?"
+At break we sat by the pond with Ao. He did not say much. He just floated, looking sad, with the duckling still asleep on his head.
 
-Ao said, "I am old and slow, and I am not clever. The others are clever. They are quick and they have plans and they know things. I am just a turtle. I hold things up. That's all I do."
+"Why are you sad, Ao?" said Dot.
 
-Felix said, "That sounds like a very important job."
+"I am old and slow, and I am not clever," said Ao. "The others are clever. They are quick and they have plans and they know things. I am just a turtle. I hold things up. That's all I do."
 
-Ao said, "It is only important if I'm strong enough. What if I'm not? What if the sky is too heavy, and I wobble?"
+"That sounds like a very important job," said Felix.
 
-Alex said, "Did you wobble before?"
+"It is only important if I am strong enough," said Ao. "What if I am not? What if the sky is too heavy, and I wobble?"
 
-Ao said, "No. But before I was younger."
+"Did you wobble before?" asked Alex.
 
-We didn't know what to say. Dot patted his shell very gently, and the duckling woke up and quacked.
+"No. But before I was younger."
 
-Ms Wa sat down on the grass beside the pond, with her skirt swishing round her. She said, "Ao, my dear. Do you know why I picked your legs?"
+We did not know what to say. Dot patted his shell very gently, and the duckling woke up and quacked.
 
-Ao said, "Because I was nearby?"
+Ms Wa sat down on the grass beside the pond, with her skirt swishing round her. "Ao, my dear," she said. "Do you know why I picked your legs?"
 
-She said, "Because you are **steady.** You never rush. You never give up. You keep going, one slow step at a time. That's the strongest thing there is."
+"Because I was nearby?"
 
-Ao said, very quietly, "Slow and steady holds up the sky?"
+"Because you are **steady.** You never rush. You never give up. You keep going, one slow step at a time. Slow is not small, Ao. Slow and steady holds up the sky."
 
-She said, "Slow and steady holds up the sky."
+Ao said it back, very quietly, to see how it felt. A tiny smile crept across his wrinkly face.
 
-He said it again, and a tiny smile crept across his wrinkly face.
+Then Ms Wa looked up at the blue, and her smile went a little thin.
 
-## THE TWO GODS
+## Part Six. Fire Against Water
 
 That would have been a happy end to Monday. But on Tuesday, two new people arrived at school, and they were **arguing.**
 
@@ -129,7 +174,7 @@ One was a short, stocky man with a red face, a bushy orange beard and sparks fly
 
 The other was a tall, damp man with a long blue-green beard that dripped on the floor. His badge said **MR GONG, SWIMMING POOL (WET).**
 
-They were standing in the middle of the playground, nose to nose.
+They stood in the middle of the playground, nose to nose.
 
 "Fire is the strongest," said Mr Zhu.
 
@@ -145,524 +190,486 @@ They were standing in the middle of the playground, nose to nose.
 
 Maya whispered, "Oh no. It's **Zhurong** and **Gong Gong.** They're the two gods who broke the sky."
 
-Kenji whispered, "Why are they here?"
+"Why are they here?" whispered Kenji.
 
-Maya whispered, "Because they were hired by Mr Harris. He didn't read the CVs."
+"Because Mr Harris hired them," whispered Maya. "He didn't read the CVs."
 
-## THE CONTEST
-
-By Wednesday, they were still arguing. By Thursday, the whole school was sick of it. Mr Harris said, "Gentlemen, please settle this in a friendly way, with a game."
+By Thursday the whole school was sick of it. Mr Harris said, "Gentlemen, please settle this in a friendly way, with a game."
 
 That was a terrible idea.
 
-On Friday lunchtime, in front of the whole school, they stood at opposite ends of the playground. Mr Harris blew the whistle.
+On Friday lunchtime, in front of the whole school, they stood at opposite ends of the playground. A minibus from Pridefield Primary had pulled up for a return visit, and its team, led by Arabella Webb from the quiz, sat along the wall with their sandwiches. Arabella thought it was a rather silly game, and she was right.
 
 "First to push the other off the playground wins!" said Mr Zhu.
 
 "Agreed!" said Mr Gong.
 
-They charged. **WHOOSH!** A great cloud of steam hissed up where fire met water. They pushed and shoved and stamped, back and forth across the playground, as Year 1 scattered in all directions.
+Ms Wa called, "Please! Think about what happened last time!"
 
-Ms Wa shouted, "Stop! Please! Think about what happened last time!"
+They did not hear. They were far too busy.
 
-They didn't hear. They were far too busy.
+They charged. **WHOOSH!** A great cloud of steam hissed up where fire met water. They pushed and shoved and stamped across the playground, as the little ones scattered to the edges and Mrs Tibbs blew her whistle at nobody in particular.
 
-At last, Mr Zhu gave a mighty shove, and Mr Gong stumbled backwards, tripped over a skipping rope, and fell flat on his back.
+At last Mr Zhu gave a mighty shove, and Mr Gong stumbled backwards, tripped over a skipping rope, and fell flat on his back.
 
 "I WIN!" shouted Mr Zhu.
 
-Mr Gong went purple. He leaped up. He shouted, "IT'S NOT FAIR!"
+Mr Gong went purple. He leaped up. "IT'S NOT FAIR!" he shouted.
 
-And in his anger, he lowered his head, and ran straight at the tallest thing in the playground.
+And in his anger, he put down his head and ran straight at the tallest thing in the playground.
 
-It was the **flagpole.**
+It was the brand new **flagpole.**
 
 **BONK.**
 
-## THE CRACK
+For a moment, nothing happened. The flagpole rang like a bell. Mr Harris said, "My flagpole!" in a very small voice.
 
-For a moment, nothing happened. Then, high above the school, there was a long, slow, horrible sound.
+Then, high above the school, there was a long, slow, horrible sound.
 
 **CRRRRRRRRRRRRRACK.**
 
 We all looked up.
 
-A thin, black line was spreading across the blue sky, like a crack in a plate. It zigzagged from one side of the school to the other, getting wider and wider. Through it, we could see something dark and swirling behind.
+A thin black line was spreading across the blue sky, like a crack in a plate. It zigzagged from one side of the school to the other, getting wider and wider. Through it we could see something dark and swirling.
 
-A single, enormous drop of water fell out. It landed on the playground with a **SPLAT** the size of a paddling pool.
+A single enormous drop of water fell out and landed on the playground with a **SPLAT** the size of a paddling pool.
 
-Then a **spark**, as big as a football, shot out and set the bin on fire.
+Then a spark as big as a football shot out and set the bin on fire.
 
 Mr Gong said, in a very small voice, "Oh."
 
-Mr Zhu said, "What have you done?"
+"What have you done?" said Mr Zhu.
 
-Mr Gong said, "I think... I broke the sky."
+"I think," said Mr Gong, "I broke the sky."
 
-## FLOODS AND FIRES
+## Part Seven. Floods and Fires
 
 It got worse very quickly.
 
-The crack grew, and out poured more water, in great gushing waterfalls, flooding the playground and the field and the car park. At the same moment, balls of fire dropped out of the crack and rolled across the grass, setting fire to the football goals.
+The crack grew, and out poured more water in great gushing waterfalls, flooding the playground and the field and the car park. At the same moment, balls of fire dropped out of the crack and rolled across the grass, setting light to the football goals.
 
-Year 1 ran for the hall. The Reception children climbed on tables. Mr Harris shouted "Everybody inside!" and tried to carry nine chairs at once.
+Mrs Tibbs took charge at once, the way she does. "Whole school into the hall. Little ones first. Hold hands." Elfine and Marion each took a line of Reception children by the hand, and Marion counted them in out loud. Mr Harris shouted, "Everybody inside!" and tried to carry nine chairs at once.
 
-The gods tried to help, but nothing worked. Mr Thorley's thunder made the crack go **wider.** Mr Hermes's wings got soaked. Mr Heston put up a bronze shield, and it melted. Mr Hanu leapt up to patch the hole with his hands, but the water was too strong.
+The gods tried to help, but nothing worked. Mr Thorley's thunder made the crack go **wider.** Mr Heston put up a bronze shield, and it melted. Mr Hanu leapt up to patch the hole with his hands, but the water was too strong.
 
-Ms Athene said, "Anything strong makes it worse. We must be clever."
+"Anything strong makes it worse," said Ms Athene. "We must be clever."
 
-Mr Locke said, "I'm not clever. I'm just sorry for everything."
+"I'm not clever," said Mr Locke. "I'm just sorry for everything."
 
-From the oak tree, Mr Prome shouted, "I can't think ahead! The sky is too big!"
+Then everyone looked at Ms Wa.
 
-Everyone looked at Ms Wa.
+## Part Eight. Nüwa Says No
 
-## NÜWA SAYS NO
+Ms Wa stood in the middle of the playground with water swirling round her knees. Her skirt was glowing green. She had gone very pale.
 
-Ms Wa stood in the middle of the playground, with water swirling round her knees. Her skirt was glowing green. She had gone very pale.
+"I did this once before," she said. "I can't do it again."
 
-She said, "I did this once before. I can't do it again."
+"Why not?" said Dot, who had not gone to the hall. She was holding Alex's hand on one side and Felix's on the other, very tightly. Nobody had noticed her come.
 
-Dot said, "Why not?"
+"I used up all five stones last time. I melted every one. There aren't any left." She looked up at the broken sky. "And I am older now. I'm not as strong."
 
-She said, "I used up all five stones last time. I melted every one. There aren't any left."
+Nobody said anything. The water rose higher. Somewhere, a fire alarm was beeping.
 
-She looked up at the broken sky.
+Ao slowly climbed out of the pond. He walked across the flooded playground, one slow flipper at a time, and stopped next to Ms Wa.
 
-"And I'm older now," she said. "I'm not as strong."
+"I will hold it up," he said.
 
-Nobody said anything. The water rose higher. Somewhere, a fire alarm was beeping, and Mr Epp was saying, "I should have put the flagpole somewhere safer."
+"Ao, you are not strong enough to hold it on your own. And the crack is far too wide."
 
-Ao slowly climbed out of the pond. He walked across the flooded playground, one slow flipper at a time. He stopped next to Ms Wa.
+"I know," said Ao. "But I am here. And I am slow."
 
-He said, "I will hold it up."
+He took a deep breath. He planted his four big feet in the mud and raised his huge shell. And the shell began to **glow.**
 
-She said, "Ao, you're not strong enough to hold it on your own. And the crack is far too wide."
+He grew. His shell grew as big as a bus. Then as big as a house. Then it rose into the air on his four giant legs, higher and higher, until it touched the sky like a roof over the whole school.
 
-He said, "I know. But I'm here. And I'm slow, and I'm steady."
-
-He took a deep breath.
-
-He said, "I am slow, and I am strong. Slow and steady holds up the sky."
-
-He planted his four big feet in the mud. He raised his huge shell. And the shell began to **glow.**
-
-## AO STANDS
-
-He grew. His shell grew as big as a bus. Then as big as a house. Then it rose up into the air on his four giant legs, higher and higher, until his shell was touching the sky, like a roof over the whole school.
-
-The crack stopped growing. The water slowed to a trickle. The fire balls bounced off his shell and fizzled.
+The crack stopped growing. The water slowed to a trickle. The fireballs bounced off his shell and fizzled.
 
 But he was shaking. Every part of him was trembling.
 
-He said, in a small, strained voice, "I cannot hold it for long."
+"I cannot hold it for long," he said, in a small, strained voice.
 
-Ms Wa said, "How long?"
+"How long?" said Ms Wa.
 
-Ao said, "Until the sun sets. Maybe less."
+"Until the sun sets. Maybe less."
 
-Maya looked at her watch. It was twelve forty-five.
+Maya looked at her watch. It was a quarter to one.
 
-Ollie said, "That's... a lot of hours."
+"That's a lot of hours," said Ollie.
 
-Maya said, "No. It's the **afternoon.** The sun doesn't set until... oh no. It's **November.** It sets at four."
+"No," said Maya. "It's the afternoon. The sun doesn't set until... oh no. It's **November.** It sets at four."
 
-Everyone looked at the sky, and the fading light.
+Everyone looked up at the grey light.
 
-Alex said, "That's three hours."
+"That's three hours," said Alex.
 
-Felix said, "That's not enough time to fix it."
+"That's not enough time to fix it," said Felix.
 
-## THE FIVE STONES
+And then Alex noticed something. High up, under the edge of Ao's shell, the crack was not still. It was opening a tiny bit, then closing a tiny bit, then opening again, very slowly, like something asleep.
 
-Ms Wa said, "I need five stones, in five colours. **Red, yellow, blue, white and black.** If we can find them, I can melt them with fire and mend the crack. But I don't have any left, and the old ones are gone."
+He wrote it in the notebook, with a question mark, and said nothing yet.
 
-Alex and Felix looked at each other. They didn't say a word. They didn't have to.
+## Part Nine. The Rule of Five
 
-They said together, "We'll find them."
+"I need five stones in five colours," said Ms Wa. "**Red, yellow, blue, white and black.** If we can find them, I can melt them with fire and mend the crack. But the old ones are gone."
 
-Ms Wa said, "It has to be done properly. They must be real stones, from the real world. And they have to be given freely, not taken."
+She held up a yellow finger. "And there is a rule. They must be real stones, from the real world. And they must be given freely. Not taken, not swapped, not borrowed. Given."
 
-Maya said, "That's the hard part."
+"That's the hard part," said Maya.
 
-Alex said, "We'll ask nicely."
+The twins did not say a word. They did not have to.
 
-Felix said, "And we'll ask together."
+"We'll find them," they said together.
 
-They ran.
+Mrs Tibbs had followed them out with her coat held over Dot's head. She looked at the water and at the twins for a long moment. "Inside the gates," she said. "Back at the pond by half past three. Mr Hanu will watch from the roof, and if I blow my whistle, you come running."
 
-## THE RED STONE
+Alex went left. Felix went right. They split up because it was faster, and because they both knew exactly where to go.
 
-Alex went left. Felix went right. They split up, because it was faster, and because they both knew exactly where to go.
+## Part Ten. Red and Yellow
 
-Alex ran to the Making Club shed. Mr Heston was inside, with the doors shut and a shield melted over his head.
+Alex ran to the Making Club shed. Mr Heston was inside with the doors shut and a melted shield over his head.
 
-Alex said, "Mr Heston, please, we need a red stone. The reddest one in the world. It has to be given freely."
+"Mr Heston, please," said Alex. "We need a red stone. The reddest in the world. It has to be given freely."
 
-Mr Heston said, "What for?"
+"What for?"
 
 Alex told him. Mr Heston's eyes grew wide. He limped to the forge, reached into the heart of the fire, and drew out a lump of glowing red rock, as bright as a ruby.
 
-He said, "It's from the heart of my volcano. It's the hottest red there is. It's yours."
+"It's from the heart of my volcano," he said. "The hottest red there is. It's yours."
 
-Alex said, "Thank you."
+Alex held it in his sleeve, because it was warm. "Thank you."
 
-Mr Heston said, "Take care. And Alex?"
+"Take care," said Mr Heston. "Are you scared?"
 
-Alex said, "Yes?"
+"Yes," said Alex. He ran anyway.
 
-Mr Heston said, "Be brave."
-
-Alex said, "I can be scared and brave at the same time."
-
-He ran.
-
-## THE YELLOW STONE
-
-Meanwhile, Felix ran to the sandpit in the Reception garden. He knelt in the wet sand, and dug with his hands.
+Meanwhile, Felix ran to the sandpit in the Reception garden, and knelt in the wet sand, and dug with his hands.
 
 A very small voice said, "What are you looking for?"
 
-It was a little Reception girl, in a sparkly coat. She was sitting on the side with a bucket.
+It was a little Reception girl in a sparkly coat. She was sitting on the edge with a bucket. Nobody had managed to move her to the hall, because she had been busy.
 
-Felix said, "A yellow stone. It has to be given freely."
+"A yellow stone," said Felix. "It has to be given freely."
 
-The girl said, "I've got one."
+"I've got one."
 
-She reached into her bucket and took out a smooth, round, golden pebble, the colour of butter. It was the prettiest one she had.
+She reached into her bucket and took out a smooth, round, golden pebble the colour of butter. It was the prettiest one she had.
 
-She said, "I found it on holiday. It's my best one."
+"I found it on holiday," she said. "It's my best one."
 
-Felix said, "Are you sure?"
+"Are you sure?"
 
-She said, "Is it for the sky?"
+"Is it for the sky?"
 
-He said, "Yes."
+"Yes."
 
-She said, "Then you can have it."
+"Then you can have it."
 
-Felix felt his eyes prickle. He said, "Thank you. You're very brave."
+Felix felt his eyes prickle. "Thank you," he said. "You're very brave."
 
-She said, "I'm not scared. I've got my coat."
+"I'm not scared," said the girl. "I've got my coat."
 
-He ran.
+He ran. And Mr Hanu, from the roof, picked her up gently in one hand and carried her to the hall, because a sparkly coat is not enough in a flood.
 
-## THE BLUE STONE
+## Part Eleven. The Blue Stone
 
 Alex was racing past the pond when he saw something shine in the shallows. It was a flat, round, blue pebble, smooth as glass.
 
-He knelt to pick it up. A voice said, "Hello."
+The pond had gone wild. Waves slapped the bank where Ao had climbed out. On the far side, a very small duckling was standing at the edge, quacking at the water as if it could scold it.
 
-It was the duckling. It was sitting on the bank, looking at him.
+Alex stopped. The pebble lay in the deep part, right where the waves were biggest. The duckling would not go near it. And Alex knew better than to go into deep water on his own.
 
-Alex said, "Is this yours?"
+Somebody walked past his knees.
 
-The duckling quacked.
+It was Willow. She hates water. She hates it more than she hates the vacuum cleaner. But she put one paw in, and then another, and waded into the pond with her whiskers back and her tail held high like a flag, as if she did this every day. The water came up to her chest. She did not make a single sound.
 
-Alex said, "I need it for the sky. It has to be given freely. May I take it?"
+She waded all the way across, and sat down beside the duckling, wet and shaking, and began to purr.
 
-The duckling pushed the pebble towards him with its little beak. Alex scooped it up.
+The duckling stopped quacking. It looked at Willow. Then it paddled slowly out to the pebble and pushed it towards the bank with its little beak, all the way to Alex's hands.
 
-He said, "Thank you."
+"Is it yours?" said Alex. "I need it for the sky. It has to be given freely."
 
-Quack.
+The duckling quacked once, very politely.
 
-He ran.
+"Thank you," said Alex.
 
-## THE WHITE STONE
+Willow waded back out, as dignified as a queen, and shook herself over his shoes. Alex rubbed her dry with his scarf, and she let him. Then he ran.
 
-Felix came to the playground wall. He remembered something: the hopscotch grid was drawn in white chalk, and at the end of the grid was a big, white, round stone that Year 6 used as a marker.
+## Part Twelve. The White Stone
 
-A girl from Year 6 was sitting on it, with her arms folded. It was Arabella Webb, from the quiz.
+Felix came to the playground wall. He remembered something: the hopscotch grid was drawn in white chalk, and at the end of the grid sat a big white stone the big kids used as a marker.
 
-She said, "What do you want?"
+He looked for it, and there was only a pale ring in the mud where it had been. Somebody had picked it up. That somebody was sitting on the wall, away from the others, with her arms folded very tight.
 
-Felix said, "A white stone. It has to be given freely."
+"Arabella?" said Felix.
 
-She said, "It's our marker. We've had it for years."
+"I'm waiting for my lift," said Arabella Webb. "They told me to stay on the bus. I'm not good at staying on things." She looked at the sky. Her chin wobbled. "It's very big, isn't it? And I've never been the one who doesn't know what to do."
 
-Felix said, "I know. But the sky's broken, and we need it."
+"What's in your pocket?" said Felix.
 
-Arabella looked at him for a long time. Then she looked up at the crack in the sky, and at Ao, shaking.
+She took out a stone. It was white, and round, and worn smooth. "It's my lucky one," she said. "I take it to every quiz. I've had it since I was little. I always hold it when I'm nervous." She turned it over. "Why?"
 
-She said, "I don't know what I'm doing. But I'd like to help."
+"The sky needs a white one," said Felix. "It has to be given freely. But you don't have to."
 
-She stood up. She rolled the white stone to Felix.
+Arabella looked at the stone for a long time. Then she looked at Ao, shaking.
 
-Felix said, "I don't know yet if this will work."
+"I don't know how to help," she said. "Yet."
 
-Arabella said, "Neither do I."
+She put the stone in Felix's hand and closed his fingers round it.
 
-They looked at each other and grinned.
+"Go on, run," she said.
 
-She said, "Go on, run."
+"What about your luck?" said Felix.
 
-## THE BLACK STONE
+"I think," said Arabella, "that I'd like to find out how much of it was the stone."
 
-The last one was the hardest. They met halfway, at the edge of the field, and checked their lists.
+## Part Thirteen. The Black Stone
 
-Alex said, "We've got red, yellow, blue and white."
+The last one was the hardest. They met halfway, at the edge of the field, and checked their list.
 
-Felix said, "We need black."
+"We've got red, yellow, blue and white," said Alex.
 
-They looked round. There was nothing black on the field. The grass was green, the sky was grey, the wall was brown.
+"We need black," said Felix.
+
+They looked round. There was nothing black on the field. The grass was green, the sky was grey, and the wall was brown.
 
 Then they both remembered.
 
-They said it together: "The boiler room."
+"The boiler room," they said together.
 
-They ran down the stairs, and past the sleeping three-headed dog (who opened one eye and thumped a tail), and down to the very bottom, where the walls were black stone.
+They ran down the stairs, past the sleeping three-headed dog (who opened one eye and thumped a tail), and down to the very bottom, where the walls were black stone.
 
-Mr Haydes was sitting at the bottom, wearing his woolly hat. He looked up.
+Mr Haydes was sitting at the bottom in his woolly hat. He looked up.
 
-He said, "I've been expecting you."
+"I've been expecting you," he said.
 
-Alex said, "We need a black stone."
+"We need a black stone," said Alex.
 
-Felix said, "It has to be given freely."
+"It has to be given freely," said Felix.
 
-Mr Haydes stood up. He walked to the wall and put his hand on a particular stone, a dark, shiny, smooth one, as black as the night.
+Mr Haydes stood up. He walked to the wall and put his hand on a dark, shiny, smooth stone, as black as the night.
 
-He said, "This is from the very bottom of the world. Nobody has ever had one before."
-
-He pulled it out. He held it for a moment.
-
-He said, "I was once a very lonely god. You two came down here and asked me a kind question, and I didn't forget it. Here."
+"This is from the very bottom of the world," he said. "Nobody has ever had one before." He pulled it out and held it for a moment. "You came down here once and asked me how I was, and I didn't forget. Here."
 
 Alex took the stone. Felix touched it too.
 
-Mr Haydes said, "Good luck."
+"Good luck," said Mr Haydes.
 
-They said, together, "Thank you."
+"Thank you," they said, and they ran up the stairs two at a time, with all five stones in their arms, and the light going.
 
-## BACK TO THE SKY
+## Part Fourteen. Back to the Sky
 
-They raced up the stairs, through the wet, past the flooded playground, with all five stones in their hands. The light was fading. It was three-thirty.
+It was half past three when they got back to the pond. The light was fading. Ao was trembling so hard that the whole school shook. His legs were buckling. His shell was creaking. A tiny crack had appeared at the very edge of it.
 
-Ao was trembling so hard that the whole school shook. His legs were buckling. His shell was creaking. A tiny crack had appeared at the edge.
+"Ao!" cried Ms Wa. "Hold on!"
 
-Ms Wa stood next to him. She was holding a pot, and she was holding a ladle. She looked up and saw the twins running, soaked and muddy, with their hands full of colours.
+"I am holding," said Ao. His voice was a whisper. "I am... slow."
 
-She said, "You found them."
+Everyone froze. Then one leg slipped in the mud, and the whole sky seemed to tip.
+
+Ms Wa put both hands flat against his front leg, and Mr Hanu and Mr Thorley and Mr Heston came running and pushed against his side until he steadied. It was the longest moment of the day.
+
+"Better," said Ao, at last. "A bit better."
+
+Then she turned and saw the twins, soaked and muddy, with their hands full of colours.
+
+"You found them," she said.
 
 They held them out. Red, yellow, blue, white and black, sparkling in the twilight.
 
-She said, "They were freely given?"
+"They were freely given?"
 
-Alex said, "Every one."
+"Every one," said Alex.
 
-Felix said, "Even the duckling's."
+"Even the duckling's," said Felix.
 
-She smiled. She said, "Then it will work."
+"Even Arabella's," said Alex. "She asked if she could find out how much of her luck was the stone."
 
-## THE MENDING
+Ms Wa smiled. "Then it will work," she said. "But slowly. Please do not rush. A thing that is mended in a hurry is broken again by teatime."
 
-Ms Wa put the stones in the pot. She said, "Mr Zhu."
+She sat us all down for three slow breaths, even Mr Zhu and Mr Gong, who had been standing at the edge of the field looking at their feet. Even Ao breathed along, a very deep, very old breath that went all the way down his legs.
 
-Mr Zhu, who was standing nearby, with his head hanging low, looked up.
+## Part Fifteen. Slowly
 
-She said, "I need your fire. The hottest you've got. It has to be gentle. Can you do that?"
+Ms Wa put the five stones in a clay pot. "Mr Zhu," she said.
 
-He said, "After what I did?"
+Mr Zhu looked up.
 
-She said, "You didn't break the sky. But you can help mend it."
+"I need your fire. The hottest you've got. It has to be gentle. Can you do that?"
 
-His eyes filled with tears. He said, "I'm sorry. I'm so sorry I boasted."
+"After what I did?"
 
-She said, "Then show me."
+"You did not break the sky," she said. "But you can help mend it."
 
-He stepped forward, and took a deep breath, and breathed out a long, steady stream of golden flame. It was not wild. It was not angry. It was warm and controlled.
+His eyes filled up. "I'm sorry. I'm so sorry I boasted."
 
-The stones began to glow. The red turned bright. The yellow bubbled. The blue, the white and the black softened, and swirled together, a rainbow in a pot.
+"Then show me."
 
-Ms Wa said, "Mr Gong."
+He stepped forward and breathed out a long, steady stream of golden flame. It was not wild. It was not angry. It was warm and controlled. The stones began to glow, the red turned bright, the yellow bubbled, and the blue, the white and the black softened and swirled together like a rainbow in a pot.
 
-Mr Gong, who was knee-deep in the flooded car park, looked up.
+"Mr Gong," said Ms Wa.
 
-She said, "The water is still pouring. Can you guide it to the drains?"
+Mr Gong looked up, knee-deep in the flooded car park.
 
-He said, "I broke it."
+"Can you guide the water to the drains?"
 
-She said, "You did. And you can help fix it. Water knows where to go. Show it."
+"I broke it," he said.
 
-He wiped his eyes. He stood very straight, and swept his arms through the floodwater. It parted like curtains. It slid across the playground, down the drains, and out of the school gate and into the river, where it belonged.
+"You did. And you can help fix it. Water knows where to go. Show it."
 
-Mr Gong said, "I'm sorry."
+He wiped his eyes. He stood very straight and swept his arms through the floodwater. It parted like curtains, slid across the playground and down the drains, and out of the school gate into the river, where it belonged.
 
-Mr Zhu said, "Me too."
+"I'm sorry," said Mr Gong.
 
-Ms Wa said, "Good. Now, **together.**"
+"Me too," said Mr Zhu.
 
-## THE TWINS CLIMB
+"Good," said Ms Wa. "Now, **together.**"
 
-The pot glowed. The paste was ready. But the crack was far too high to reach.
+The paste glowed. But the crack was far too high to reach, even for Mr Hanu.
 
-Ms Wa said, "I can't get up there on my own. I need someone small, who can climb the flagpole."
+Mr Heston limped forward. "Give me six minutes," he said. In six minutes, with Mr Thorley holding the planks and Mr Hanu holding the base, he built a tall wooden tower with rails on every side, set on four wheels, and nailed it to the ground so it could not move. Mrs Tibbs checked the knot on each twin's harness twice, and then once more.
 
-Alex and Felix looked at each other.
+"Nobody lets go of the rail," she said. "And I am standing at the bottom."
 
-Alex said, "We'll do it."
+"We'll do it," said Alex.
 
-Felix said, "We'll do it together."
+"We'll do it together," said Felix.
 
-Ms Wa put a small amount of the glowing paste into two little pots, one for each of them. They tied them to their belts. They looked up at the flagpole, which was tall and wet and wobbly.
+Ms Wa filled two little pots with the paste and tied one to each of their belts. They climbed the tower, one rung after another, with the whole school watching from below and Dot peeking through her fingers.
 
-Felix said, in a very small voice, "I'm not sure I can."
+At the top, the sky was just above their heads. The crack was jagged and black, and it hummed. Behind it, something enormous was swirling, and it did not feel angry. It felt very, very curious, as if it wanted to know who was there.
 
-Alex said, "Look at me. Not down."
+"Hello," Felix told it, politely.
 
-Felix looked.
+Then they began.
 
-Alex said, "Say it with me. **I can be scared and brave at the same time.**"
+## Part Sixteen. The Mending
 
-They said it. And Felix started to climb.
+The first try went wrong at once.
 
-A bit higher, Alex stopped. The wind was blowing, and the pole was swaying, and he felt dizzy.
+Alex smeared paste along the edge of the crack. It hissed, and turned grey, and crumbled off in lumps onto Mr Zhu's head.
 
-Felix said, "Alex. Look at me."
+"Sorry!" called Alex.
 
-Alex looked.
+"It's all right," said Mr Zhu, who had paste in his beard. "It's very warm."
 
-Felix said, "**I can do hard things.**"
+The second try wobbled. Felix pasted a long stripe, and it held for one whole second. Then Ao breathed in, and the crack opened wide, and the stripe tore like paper.
 
-Alex said it with him. And he started to climb again.
+"It won't stay," said Alex.
 
-They climbed all the way up, one hand after another, side by side, with the whole school watching from below. Every child held their breath. Dot had her hands over her eyes, and peeked through her fingers.
+"It keeps going grey," said Felix. "Why does it go grey? Ms Wa, what are the three rules?"
 
-At the very top of the pole, the sky was just above their heads.
+"Keep it wet," called Ms Wa. "Keep it warm. Keep it moving."
 
-## THE LAST PIECE
+Felix stared at the pot. It had been bubbling at the bottom when they left the ground. Now it was cold at the top.
 
-The crack was jagged and black, and it hummed. Behind it, they could see something swirling, enormous, and not entirely friendly.
+"It's gone cold up here," he said. "It's too far from Mr Zhu. It's going hard before it gets there."
 
-Alex said, "I'm scared."
+"Mr Zhu!" called Ms Wa. "A little fire, on the pot. All the way up!"
 
-Felix said, "Me too."
+Mr Zhu aimed one thin gold flame at the pot, and the flame travelled up the tower like a golden thread, and the paste began to bubble again.
 
-They took a breath, in through their noses, out through their mouths.
+"And look," said Alex. He had been watching the crack all this time. "It's breathing. It opens when Ao breathes in. It closes when he breathes out. If we paste it when it's open, it squeezes out. We have to wait for the out-breath, and then press."
 
-They said, "**Stop. Breathe. I am safe.**"
+"Together," said Felix.
 
-Alex took his pot. Felix took his. They each reached up, with one hand, and smeared the glowing paste along the edge of the crack, one on each side, working towards the middle.
-
-The paste hissed, and turned into a shimmering rainbow. The black crack began to close. Slowly, slowly, the two sides crept together.
+"Together," said Alex.
 
 Below them, Ao groaned. His legs were shaking. A single tear rolled down his wrinkled cheek.
 
-Ms Wa called, "Hold on, Ao! You're doing wonderfully!"
+"Slow," he whispered. "Slow..."
 
-Ao whispered, "Slow... and steady..."
+They waited. They breathed in with him, and the crack opened. They breathed out, and the crack came together, and they spread the glowing paste along its edge, one on each side, working towards the middle.
+
+The paste hissed, and turned into a shimmering rainbow. The black crack began to close. Slowly, slowly, the two edges crept together.
+
+"Hold on, Ao!" called Ms Wa. "You are doing wonderfully!"
+
+"Steady," whispered Ao. "Steady."
 
 The two edges met in the middle. The twins pressed them together with both hands. There was a flash of coloured light.
 
 And then, with a soft, sweet **click**, the sky was whole.
 
-## THE SKY STAYS UP
+## Part Seventeen. The Sky Stays Up
 
 For a moment, nothing happened. Then a wide, warm, golden light spread across the playground, as the last of the sunset slid through the mended sky.
 
 Ao let out a great, long, trembling sigh. His shell shrank. His legs steadied. He lowered himself gently to the grass, one slow leg at a time.
 
-He said, "It's holding."
+"It's holding," he said.
 
-Ms Wa put her arms round his neck, and she said, "You were magnificent."
+Ms Wa put her arms round his neck. "You were magnificent."
 
-Ao said, "I wobbled."
+"I wobbled."
 
-She said, "You did. And you held on anyway. That is what strength is."
+"You did. And you held on anyway. That is what strength is."
 
 He looked up. A tiny sparkle of five colours was shining in the sky over the school, red, yellow, blue, white and black, like the faintest rainbow.
 
-He said, "Is that... for me?"
+"Is that for me?" he said.
 
-She said, "It's for all of us."
+"It's for all of us."
 
-## MR ZHU AND MR GONG
+The two gods stood side by side at the edge of the field, dripping and singed.
 
-The two gods stood at the edge of the field, side by side, dripping and singed. They looked at each other.
+"Fire isn't the strongest," said Mr Zhu.
 
-Mr Zhu said, "I'm sorry I boasted."
+"Neither is water," said Mr Gong.
 
-Mr Gong said, "I'm sorry I lost my temper."
+"What is?" said Ms Wa.
 
-Mr Zhu said, "Fire isn't the strongest."
+They thought about it. "Working together?" said Mr Zhu.
 
-Mr Gong said, "Water isn't, either."
+"It's the only thing that mended the sky," said Mr Gong.
 
-Ms Wa said, "What is?"
+They shook hands. There was a tiny hiss of steam where fire met water. Then they both started to laugh, and they couldn't stop. Mr Harris, who had come out with a mop, laughed too, because it seemed rude not to.
 
-They thought about it. Mr Zhu said, "Working together?"
+At home time we sat under the oak tree with Ao, who was by the pond again, with a duckling on his head and a very wet cat beside him. Ms Wa stood in front of us with the golden light on her face.
 
-Mr Gong nodded. "It's the only thing that mended the sky."
+"I made all of you out of clay, a very long time ago," she said. "Not you yourselves, but people like you. I wanted to make something that could laugh and think and look after each other. And do you know, you still do."
 
-Ms Wa smiled. She said, "I believe you've learned something."
+"Like we did today," said Alex.
 
-They shook hands. There was a tiny hiss of steam where fire met water. Then they both started to laugh, and they couldn't stop.
+"We all did," said Felix.
 
-## THE LAST WORDS
+"The sky broke because two people argued," said Ms Wa. "It was mended by a lot of people doing small things. A girl in a sparkly coat gave a pebble. A duckling gave a pebble. A girl with a lucky stone gave it away. A god gave a stone from the bottom of the world. A cat walked into a pond. A turtle stood very still."
 
-At home time, we sat under the oak tree with Ao, who was sitting next to the pond with a duckling on his head. Ms Wa stood in front of us, with the golden light on her face.
+She looked at Ao. "Slow and steady holds up the sky. Never think you are not important. Everyone holds up a bit of it."
 
-She said, "I made all of you out of clay, a very long time ago. Not you personally, but people like you. I wanted to make something that could laugh and think and look after each other. And do you know, you still do."
+"Even me?" said Dot.
 
-Alex said, "Like we did today."
-
-Felix said, "We all did."
-
-Ms Wa said, "The sky broke because two people argued. It was mended by a lot of people doing small things. A girl gave a pebble. A duckling gave a pebble. A god gave a stone from the bottom of the world. A turtle stood very still."
-
-She looked at Ao. She said, "Never think you're not important. Everyone holds up a bit of the sky."
-
-Dot said, "Even me?"
-
-Ms Wa said, "Especially you. You held the twins' hands at the beginning."
+"Especially you," said Ms Wa. "You held two hands very tightly when nobody else was holding anything."
 
 Dot went pink.
 
-Ao said, in his slow, creaky voice, "I should like to say something."
+"I came here thinking I was too slow, and too old, and not clever enough," said Ao, in his slow, creaky voice. "And I was wrong. I am exactly the right speed."
 
-We all waited.
+"So are we," said Felix, in his own words. "Even if it's a different speed."
 
-He said, "I came here thinking I was too slow, and too old, and not clever enough. And I was wrong. I'm exactly the right speed. And so are you."
+"And that's allowed," said Alex.
 
-He raised one flipper.
+"Slow and steady holds up the sky," said Ms Wa, and Ao nodded, and the sun went down behind the school.
 
-He said, "**Slow and steady holds up the sky.**"
+## Part Eighteen. The Ending (With a Spade)
 
-We all said it back, every child and every god, as the sun went down behind the school:
+On the way out, a single drop of rain fell through the new seam in the sky and landed on Ollie's nose.
 
-**"SLOW AND STEADY HOLDS UP THE SKY."**
+"Rain," said Ollie.
 
-Then Alex said, "**I am not alone.**"
+"It's only the sky settling," said Ms Wa. "It might drizzle for a while."
 
-And Felix said, "**There is always hope.**"
+At the school gate, there was a puddle, and in the middle of the puddle a long wooden spade was standing upright, as if somebody had planted it. Beyond it, in the mud, a line had been dug, straight and thin, running from the gate across the field towards the drain. It was freshly done. The water was already running along it.
 
-And Dot said, "**I know you can.**"
+There was nobody there. But down the lane, in the rain and the dusk, a tall shape was walking away, with its trousers rolled up to the knee, looking at the ground rather than at us. We could hear a tired voice, talking to nobody.
 
-And Ao, very quietly, said, "**I don't know yet what comes next. But I'm looking forward to finding out.**"
+"Wherever it goes," it said, "it has to go somewhere."
 
-## THE ENDING (WITH A BEARD)
+Kenji whispered, "Who was that?"
 
-On the way home, Maya stopped at the gate.
-
-A very tall man was standing there, in the dusk, with wide shoulders and a tired, smiling face. He was holding a long wooden spade, and his trousers were rolled up above the knee. He was soaking wet, and there was river mud up to his ankles.
-
-He said, "Excuse me. I heard the sky broke, and there's a lot of water. I'm sorry I'm late. I've been digging ditches for thirteen years."
-
-Maya's mouth fell open.
-
-She whispered, "**That's Yu the Great.**"
-
-Kenji whispered, "Who?"
-
-Maya said, "The man who tamed the floods. He dug the rivers so they run to the sea."
-
-The man smiled and looked at the pond, and at the school, and at the rainbow in the sky.
-
-He said, "Looks like I missed all the fun."
+Maya did not answer. She was already flicking through her notebook, to a page headed, in her neatest writing, RIVERS (CHINA).
 
 Alex looked at Felix. Felix looked at Alex.
 
-They said, at exactly the same time, "**Monday.**"
+They said, together, "**Monday.**"
 
 **The End.**

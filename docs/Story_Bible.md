@@ -18,9 +18,9 @@ Alex and Felix Bailey are twin boys, aged 5, in Year 1. Each story, a god or leg
 **Tertiary (as needed)**
 - **Dot** (Reception, the youngest, fearless, loves lost property and dancing), **Kenji** (first to ask questions), **Ollie** (always hungry).
 - **Mister Harris**, the head teacher. Flustered, kind, has a clipboard.
-- **Missus Tibbs**, the dinner lady (in the early stories). **Nana**, the twins' grandmother (cameo).
+- **Missus Tibbs**, the twins' class teacher (stories 1, 11, 14, 15; Mrs Dunn is the dinner lady in story 2). **Nana**, the twins' grandmother (cameo).
 
-**Elfine and Marion** (twin cousins, aged 8) appeared in stories 21 to 29 (Anansi to Father Frost). They were retired at the user's request from story 30 (Bast) onwards. Do not include them unless asked.
+**Elfine and Marion** (twin cousins, aged 8, big kids in the class above, so Reading Buddies) appear where they fit from story 2 (Shiva) to story 29 (Father Frost). The user asked for them in the early stories and for Willow throughout, so story 21's introductions now read as a return. They were retired at the user's request from story 30 (Bast) onwards. Do not include them from story 30 unless asked.
 
 If the cast changes, the user will say so. Keep the latest instruction until told otherwise.
 
@@ -39,18 +39,18 @@ If the cast changes, the user will say so. Keep the latest instruction until tol
 | God | Badge | Tradition | Story |
 |---|---|---|---|
 | Thor | Mr Thorley, Caretaker | Norse | 1 |
-| Shiva | Mr Shah, Music Teacher (wife Mrs Parvati Rao, School Secretary; son Ganesh Rao, Year 4) | Hindu | 2 |
-| Anubis | Mr Jackson, Librarian | Egyptian | 3 |
-| Felicitas, Fortuna | Mrs Felicity, Teaching Assistant; Ms Fortune, PE | Roman | 4 |
-| Ebisu and the Seven Lucky Gods | Mr Ebbie, Mr Daikon, Mr Bish, Ms Benny, Mr Fuku, Mr Jury, Mr Hot (the Dinner Men; the badges give names only) | Japanese | 5 |
-| Loki | Mr Locke, Supply Teacher | Norse | 6 |
-| Thoth | Mrs Ibbs, Dinner Lady | Egyptian | 7 |
+| Shiva | Mr Shah, Music Teacher (wife Mrs Parvati Rao, School Secretary; son Ganesh Rao, a few classes above; Mrs Dunn, dinner lady; Brenda the snake) | Hindu | 2 |
+| Anubis | Mr Jackson, Librarian (black clothes, ear-shaped hair, shushes breathing, a famous nose; Thoth is his friend on the phone) | Egyptian | 3 |
+| Felicitas, Fortuna (sisters) | Mrs Felicity, Teaching Assistant (basket, clover coat, umbrella with a silver wing); Ms Fortune, PE (scarf over her eyes, the wheel) | Roman | 4 |
+| Ebisu and the Seven Lucky Gods | Mr Ebbie, Mr Daikon, Mr Bish (on the gate), Ms Benny, Mr Fuku, Mr Jury, Mr Hot (the Dinner Men, extra lunchtime helpers; the badges give names only) | Japanese | 5 |
+| Loki | Mr Locke, Supply Teacher (green eyes, green jumper with a gold stripe, "Hello, my favourites!"; goes by the name "Mr Locke"; gold thread slips from his sleeve when he fibs; now on Mr Harris's call list) | Norse | 6 |
+| Thoth | Mrs Ibbs, Dinner Lady (reed pen, black ink, one leg, counts peas; keeps the Record, sealed at the full moon; serves fish pie) | Egyptian | 7 |
 | Persephone (with Demeter and Hades) | Miss Persey, Gardening Club leader; Mrs Demmer, runs the allotments; Mr Haydes, Boiler Maintenance | Greek | 8 |
 | Hermes | Mr Hermes, Royal Mail (ish), the Postman | Greek | 9 |
 | Hephaestus | Mr Hepheston, Design and Technology (called Mr Heston in the text; Making Club) | Greek | 10 |
-| Pan | Mr Pann, director of the Year 1 Autumn Play | Greek | 11 |
-| Hanuman | Mr Hanu, PE Teacher | Hindu | 12 |
-| All the gods so far | Summer Fair crossover: Maya's list of twelve staff gods | Mixed | 13 |
+| Pan | Mr Pann, director of the Autumn Play | Greek | 11 |
+| Hanuman | Mr Hanu, PE Teacher (orange tracksuit, crooked chin, long ponytail, tiny silver whistle with a picture of Rama and Sita; shares the PE cupboard with Ms Fortune: she does games and chance, he does sport) | Hindu | 12 |
+| All the gods so far | Summer Fair crossover: Maya's list of twelve staff gods, told in three groups of four; Mr Locke's feelings-powered bouncy castle drifts up and he unpicks it as a falcon | Mixed | 13 |
 | Athena | Ms Athene, Quiz Mistress (owl: Glaux) | Greek | 14 |
 | Prometheus, Epimetheus | Mr Prome, Fire Safety (and Foresight); his brother Mr Epp; Mr Zed, Council Safety Inspector (a god, probably Zeus; not named) | Greek | 15 |
 | Pandora | Mrs Pandy, Art (and Wondering); Mr Epp's wife | Greek | 16 |
@@ -81,12 +81,12 @@ Badge format: a title and a school job joined by a comma, read off a badge the c
 
 Stories 1 to 18 are the school-setting stories written first (full entries in `Story_Archive.md`). Their badges are as printed in the story text, so some differ from later versions of the same staff, and they use "Mr", "Mrs" and "Ms". Story 13 is the Summer Fair crossover with no new god of its own.
 
-Other early cameos: Ms Crabtree, School Inspector (story 10); Arabella Webb, Pridefield Primary team captain (story 14); Gideon Fox, Year 6 (stories 10 and 13).
+Other early cameos: Ms Crabtree, School Inspector (story 10); Arabella Webb, Pridefield Primary team captain (story 14); Gideon Fox, a big kid from the top class (stories 10 and 13).
 
 ### How the early staff fit later canon
 
 - **Order.** Stories 1 to 18 come first. Story 18 ends with a quetzal feather and a feathered snake asking for "the school with the corn", which leads into story 19 (Quetzalcoatl). Story 19 already treats Mister Thorley, Mister Jackson, Missus Ibbs, Missus Felicity, Mister Hanu and Mister Heston as established staff. The order of stories 1 to 18 was reconstructed from hooks and clues in the texts and is not 100% confirmed (Felicitas, 4, and the Seven Lucky Gods, 5, are the one open pair).
-- **Class cast.** Stories 1 to 7 use a different class (Dev Okafor, Ruby Finch, Priya Nair, Nell Brooks, Kofi Mensah, Poppy Doyle, Archie Bell and others) and an unnamed "we" narrator. The twins, Maya, Kenji, Ollie and Dot take over from about story 8 or 9, with the "Alex notices, Felix asks, then they swap" system. The story 1 to 7 children are not part of the later cast; do not bring them back unless asked.
+- **Class cast.** Every story now uses the series cast: Alex and Felix, Maya, Kenji, Ollie, Willow, Mister Harris and Mrs Tibbs, with Dot from story 9 and Elfine and Marion where they fit in stories 2 to 29. Stories 1 to 7 were originally written for a different class (Dev Okafor, Ruby Finch, Priya Nair, Nell Brooks, Kofi Mensah, Poppy Doyle, Archie Bell and others) and an unnamed "we" narrator, and have all been rewritten; those children no longer appear and should not come back unless asked. Leads alternate: odd-numbered stories 1 to 18 Alex, even-numbered Felix. The system is "Alex notices, Felix asks, then they swap".
 - **Form.** The early stories are shorter and use different headings. They are canon for staff and facts, not a model for form.
 - **Spelling.** Early texts use "Mr", "Mrs" and "Ms". Later stories use "Mister" and "Missus". Use the later forms in new stories (Mister Thor, Missus Ibbs).
 
@@ -97,12 +97,17 @@ Decided so far: the Thor and Loki naming (below); Fortuna as Felicitas's sister 
 - **Thor and Loki (decided).** Always write Mister Thor and Mister Loki in new text: they are clear and unambiguous. Stories 1 and 6 keep their disguise names, Mr Thorley (Caretaker) and Mr Locke (Supply Teacher), as written. Story 37 introduces Mister Thor (Hammer and Heavy Lifting) and Mister Loki (Magic Tricks); they are the same gods. Loki is called Thor's "brother" in the stories on purpose (in the myths he is Odin's blood-brother); that is accepted.
 - **Nuwa (decided).** Ms Wa, Pottery (and People) in story 17 is the same woman as Mrs Nuwa, Art and Clay in story 33: she was promoted, and Mister Harris says so in story 33. The sky has cracked twice, once in each story. Both stories stay.
 - **Hephaestus' spelling.** Badge reads Mr Hepheston; text and later stories say Mister Heston. Treat Heston as the working name.
-- **The Postman.** Mr Hermes is the school Postman. Story 37 gives Thiazi the job of Sky Postman. Probably compatible (sky post versus school post), but not stated.
+- **The Postman.** Mr Hermes is the school Postman. In story 9 he is afraid of heights, never late, never seen arriving, and walks backwards; Dot first appears there, fearless, and her letter-from-everybody is the story's tender part. Story 37 gives Thiazi the job of Sky Postman. Probably compatible (sky post versus school post), but not stated.
 
 Other staff who appear as cameos in later stories (the Oshun playground committee, for example) include Ms Athene, Mister Heston, Mister Prome, the Postman, Mister Pann, Mister Jackson, Mrs Ibbs and Miss Persey. These are the early staff above, each with a story of their own (stories 1 to 18). Check the story text before reusing them.
 
 ## Running threads and established facts
 
+- **Thor's brother** (story 1): Mr Thorley says "Not tonight, brother" to prank rain clouds, and Maya's notebook says "Who is his brother? Unknown." Paid off in story 6 (Mr Locke): Maya answers it "Sort of. Not exactly. It's complicated." Mr Thorley calls him "brother" there. Mr Thorley must not be startled (a startle makes a BOOM). Maya's Thorley list is the famous "strongest list" (item 19, that he smells a bit of goat, is never mentioned again). Saying: "Asking for a hand is a strong thing to do."
+- **Sir Lionel's mane** (story 6): the school's toy lion in the front hall has a real wool mane; the school roars at him each morning and he never roars back. Mr Locke's joke spell made it grow with every fib and shrink with every true thing; it is sewn back on by Mrs Tibbs with gold tinsel plaited along the edge ("better with tinsel", story 13). Mr Locke is Mr Harris's name to ring when someone is missing. Mr Harris's "Good luck" went from a warning to a kindness. Saying: "A true thing makes room."
+- **Felicitas and Fortuna** (story 4): one luck with two halves, the keeping half (Mrs Felicity's basket, which fills where people look after each other) and the spinning half (Ms Fortune's wheel). Mrs Felicity's name for Felix: "the one who looks after it"; Alex's name means defender. Saying: "It grows where people look after each other." Refrain: "Anything can happen" / "Something can be done". Mr Pickering's rabbit knot (up the hole, round the tree, back down) comes from here.
+- **Mr Shah's throat** (story 2): he drank the poisonous green soup bubble at the end of Science Week and holds it in his throat, with Mrs Rao's hand to steady him; the scarf stays blue. His little drum (the damaru) calms the school. Maya told the Great Churning there (story 26 refers back to it). Saying: "Calm is a kind of strong." Mr Harris's "everybody's soup" went wrong because it became nobody's.
+- **Mr Jackson's gift** (story 3): lost things "lie in a line, if you let them"; he finds people by sniffing once and saying "This way", and the lost, when scared in the dark, sing (the bus song). He had a cold on Lantern Night and asked for help. The boiler room is locked "forever" (Mr Harris wears the key on his clipboard string). The iron hatch by the old tool shed leads to old brick tunnels under the field. Gary the goldfish is buried under the oak tree. He phones Thoth to "write it down". Saying: "A heart gets lighter when you say it out loud and let someone share it."
 - **Soup Club** runs on Fridays in the dinner hall, with Baba Yaga cooking and Dot as her assistant.
 - **Gobbler Hill** is the hill behind the school. Coyote's story woke it; it is now round, green, full and sleepy.
 - **The Playground Committee** and the rebuilt playground: Oshun's golden pond, a tower with a bell, and a bench with the plaque "There is always room for one more."
@@ -115,14 +120,17 @@ Other staff who appear as cameos in later stories (the Oshun playground committe
 - **Father Frost** and Miss Snow have a snow house.
 - **Janus's keys:** Alex and Felix each hold one of Mister Janus's two-toothed golden keys and lock the front doors each night: Alex says goodbye to the day and turns his key, Felix says hello to tomorrow and turns his. The green door from the field now stands beside the playground like a gate. Willow once held the great front doors open by refusing to be in or out.
 - Mister Ebbie and his boat-bus appear in story 19. He is one of the Seven Lucky Men from story 5 and cannot hear unless you knock.
+- **Knocking and the sack** (story 5): Mr Ebbie (Ebisu) cannot hear; the school knocks on the hatch, waits for him to look, and speaks slowly (one knock yes, two knocks no works through a door). Mr Daikon's sack gives whatever is asked until the asker knocks three slow times and says thank you. Mr Harris asked it for "plenty" and never said when, flooding the kitchen with rice; he does not like the dark. Mrs Dunn was at her sister's wedding that week. Saying: "Knock, and then wait. People are worth waiting for."
 - **Pandora's box** (stories 15 and 16): Mr Hermes delivers a locked box marked "For Mr Epp. From Pandora. Do not open." at the end of story 15. In story 16 the bad things get out and the school catches them. What stays at the bottom is Hope, a little golden bird, who is still with the school in story 18 (on Mr Yu's shoulder). Motto: "There is always hope."
 - **Ao the turtle** lives in the pond behind the Reception classroom (story 16 hook, story 17). The sky was mended in story 17. Since then it has rained every day (story 18).
 - **Mr Yu's channel** runs along the lane by the school gate to carry floodwater away (story 18). Motto: "Make a path, not a wall."
-- **Persephone** (story 8) leaves in the autumn and comes home in spring. Mrs Demmer runs the allotments. Mr Haydes, the boiler man, is Hades. The children were given seed pots.
-- **The Making Club** (story 10): Mr Heston's workshop in the old shed. Talos, the bronze giant, sleeps there. Golden helpers pour the tea. The twins were given spanner badges.
-- **Mr Hanu's whistle** has a picture of Rama on its chain. Rama and Sita visited the gate, and Rama wrote the twins a letter (story 12).
+- **Mrs Ibbs's Record** (story 7): she keeps a big old book; she copies the school's week chart into it every Tuesday night and the pages are sealed at the full moon, after which what is written is how things are. Spelling she may mend, facts she may not ("a record that changes its mind is no record"). Mr Harris's four-column chart lost Thursday; Alex and Felix won it from the moon at dice (five little lights; the moon is a little thinner). The moon and Thoth are "not on speaking terms" for losing, so children ask. Saying: "Nobody has to give everything. A little is enough, if you ask kindly, and if everyone gives their little." Mr Harris now adds "with help" to "perfectly under control". Mrs Ibbs writes in black ink only; the green-ink "Do not water until spring" label on the dinner hall step is not hers.
+- **Persephone** (story 8) goes below "next autumn, when the leaves come down" and comes home in spring (six pomegranate seeds, six months; the rule is "eat the food and you belong a little"). Mrs Demmer runs the allotments. Mr Haydes, the boiler man, is Hades, and the twins gave him their two seeds to grow. The children were given seed pots, and the twins keep Miss Persey's green-label pot ("Do not water until spring").
+- **The Making Club** (story 10): Mr Heston's workshop in the old shed. Talos, the bronze giant, sleeps there. Golden helpers pour the tea. The twins were given spanner badges. Mr Heston's screws and plugs turn the other way round (righty-loosey). The golden chair from his "crosser days" was melted down after Gideon Fox was caught in it.
+- **The Pan play** (story 11): Mr Pann naps from noon to one in the costume cupboard, and nobody may wake him. Mr Thorley's SORRY toolbox (painted on the side) fell when Maya's Troll roar startled him up a ladder, and Pann's shout sent the school running into the wood. Willow waded a stream, which she hates, to bring the smallest child (the one dressed as a hat) back. Rule: "Panic is catching, but so is calm" (slow breaths, in for four, out for four, and soft pipe music). Mr Thorley must not be startled (a startle makes a small BOOM). The twins have small reed pipes (Alex low, Felix high) and wake Pann gently with them. Saying: "I can be scared and brave at the same time" (Pann's, said in the wood; "Stop. Breathe. I am safe" is used once as the in-for-four, out-for-four breathing rhythm with the pipes, not as a speech). Hook: a trail of banana peels up the drainpipe, a tail shadow, a tiny whistle and an orange flash on the roofs (Hanuman).
+- **Mr Hanu** (story 12): he forgot who he was (a gentle spell: forget until a friend reminds you). Maya's retelling ends with Jambavan saying "I know you can". His whistle has a picture of Rama and Sita on its chain. The twins' list of evidence did not remind him; saying it like a friend did. Saying: "I know you can" (said by Felix and Alex to him, and by him to Alex). The Moonbloom seed the twins promised the mountain spirit is planted by the gatepost, with Willow on guard. Ms Fortune's wheel briefly grew a SLEEP slot (it is now NAP AFTER LUNCH). Rama and Sita stood at the gate in lamplight; Rama's letter ("A friend who reminds is worth more") says Sita would like to enter the next mango-and-spoon race. Mr Hanu blows the school field dry, gently. The hook leads to the Summer Fair: Mr Harris painting a banner, "EVERYONE we have ever met has said yes".
 - **Fire stalks** (story 15): Alex and Felix each have a hollow stalk with a small glow that does not burn. Rule: "Careful is brave."
-- **The sayings** from stories 8 to 12 were all said together at the Summer Fair (story 13): "I am a seed, the dark is where I grow", "I can be scared and brave at the same time", "I can do hard things", "I can say sorry, make it right, and keep going", "Different is clever", "Stop. Breathe. I am safe", "I know you can", "I am not alone". Later: "I don't know yet", "Careful is brave", "There is always hope", "Slow and steady holds up the sky", "Make a path, not a wall". Reuse with care.
+- **The sayings** are all said together at the Summer Fair (story 13), in exactly these words. Where each is first spoken: "I am a seed, the dark is where I grow" (story 8); "I can say sorry, make it right, and keep going" (story 9); "Different is clever" (story 10); "I can be scared and brave at the same time" (story 11, spoken by Mr Pann in the wood); "Stop. Breathe. I am safe" (story 11, as the breathing rhythm with the pipes); "I know you can" (story 12). "I can do hard things" and "I am not alone" are acted in stories 9 to 12 but first said aloud at the fair. Later: "I don't know yet", "Careful is brave", "There is always hope", "Slow and steady holds up the sky", "Make a path, not a wall". Reuse with care.
 
 ## What is waiting next
 

@@ -33,6 +33,8 @@ Write the outline as the 17-part recipe from the Guide, one line per part. Inclu
 - The twin split: which big moments go to Alex, to Felix, and which they do together. Swap who leads from the last story.
 - Where the affirmation lands, in the god's mouth, late.
 - The hook: a strange sign of the next god, unnamed, then "Monday".
+- A tension tag for every part (mystery, problem to solve, physical jeopardy, social and emotional), with no two the same back to back, the biggest beat near the climax, a quiet "catching your breath" beat after the scariest moment, and a quiet part before the hook.
+- The plant list: every late fix, joke or twist with the part that seeds it and the part that pays it off (the school problem itself is planted by Part Three). Include the learning beat if the children do something new (fail, wobble, work).
 
 Run `listener-review` on the outline (twin fairness, five-year-old, sensitivity) before drafting. If the user is away or has asked for a straight run, carry on and note any assumptions at the top of your reply.
 
@@ -48,6 +50,7 @@ Run `listener-review` on the outline (twin fairness, five-year-old, sensitivity)
 1. Run `story-consistency-check` on the draft. Fix every real issue.
 2. Run `listener-review` on the draft. Cross-review the notes against each other before editing; where two lenses flag the same passage, make one edit that serves both. Not everything flagged needs fixing.
 3. Count words (at least about 4,000, up to about 6,000 if earned) and parts (16 to 18 is a guide, not a rule).
+4. Read the Guide's 'Tension, stakes and peril', 'Plant and pay off' and 'Common problems to catch before filing' sections against the draft, one item at a time.
 
 ## 5. File it
 

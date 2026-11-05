@@ -1,310 +1,574 @@
 ---
 title: "The Play Director Who Was PAN"
-description: "A goat-legged play director gets a fright, and the twins stay calm when everyone else panics."
+description: "The new director of the Autumn Play gets a fright, his shout sends the whole school running, and Alex and Felix find out that calm is catching too."
 series: "The Staff Room Gods"
 seriesOrder: 11
-tags: ["mythology", "school"]
+tags: ["mythology", "greek", "being brave"]
 gods: ["Pan (Greek)"]
 lore: pan
+characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mr Thorley"]
+icon: cloud
+publishDate: 2026-10-16
 draft: false
 ---
 
+## Part One. The Man Who Ate the Scenery
+
 The first time we saw Mr Pann was on a Monday, and he was EATING THE SCENERY.
 
-Not all of it. Just a bit of the painted grass on the school hall wall. He nibbled the corner, chewed for a while, and said, "Crunchy."
+Not all of it. Just a corner of the painted grass on the hall wall, left over from last year's play. He nibbled the edge, chewed for a while, and said, "Crunchy."
 
-Mr Pann was the new director of the Year 1 Autumn Play. He was short and hairy, with curly brown hair, two small bumps on his forehead like tiny horns, and a green scarf. He wore very baggy trousers, and under them, his legs went in and out the wrong way.
+Mr Harris was standing next to him with his clipboard against his chest. "This is Mr Pann," he said, a bit faster than usual. "He is the new director of our Autumn Play. We perform it on Friday. For the parents. Everything is perfectly under control."
 
-Alex Bailey saw it first. He whispered, "His knees bend backwards."
+"It is," said Mr Pann. "Apart from the grass."
 
-Felix Bailey asked, "Does everyone's?"
+He was short and hairy, with curly brown hair, two small bumps on his forehead like the start of horns, and a green scarf wound twice round his neck. He wore very baggy trousers. Under the trousers, his legs did something we had never seen legs do.
 
-Alex said, "No."
+Alex noticed it first. He whispered, "Felix. His knees bend backwards."
 
-## THE PLAY
+Felix put up his hand. "Mr Pann, do your knees always bend that way?"
+
+"Always," said Mr Pann cheerfully. "Very good for hills."
+
+Up above us, Mr Thorley was standing at the top of a tall ladder, poking at the big hall light, which had been flickering all week. It went *buzz, flick, buzz*. At the foot of the ladder sat his toolbox, an old red one, and on the side of it, in white paint, was written SORRY.
+
+"Why does it say sorry?" asked Ollie.
+
+"Because I drop it," called Mr Thorley, from the ceiling, "and then I say it anyway. Saves time."
+
+"Please do not startle Mr Thorley," said Mr Harris, in a whisper, to the whole hall. "You know what happens."
+
+We did know. A startled Mr Thorley goes BOOM. It is only a small boom, like thunder in the next street. But it is very hard to carry on with a rehearsal once it has happened.
+
+## Part Two. Two Middle Billy Goats
 
 Our play was **The Three Billy Goats Gruff.**
 
-Alex was cast as the Middle Billy Goat. Felix was cast as the Middle Billy Goat too, because Mr Pann said he couldn't tell them apart and didn't want to pick, so we had **two** Middle Billy Goats. They trip-trapped over the bridge at the same time, one on each side, and it was the best bit.
+Kenji was the Little Billy Goat, and he was so pleased that his goat ears fell off at once. Ollie was the Big Billy Goat, and he asked if there would be real grass on stage.
 
-Maya Singh was the Troll. Kenji Mori was the Little Billy Goat, and Ollie Grant was the Big Billy Goat. I was a tree.
+"And the Middle Billy Goat," said Mr Pann. He looked at Alex. Then he looked at Felix. He looked at Alex again.
 
-Mr Pann led us in warm-ups. He played a little set of pipes made of reeds, joined in a row like a mini organ. When he blew across them, the tune made your toes tap, and one of the Reception children fell asleep standing up.
+"I cannot tell which of you is which," he said. "And I do not want to pick."
 
-## WHO IS PAN?
+"Therefore," he said, "two Middle Billy Goats. One on each side of the bridge. Trip-trap, trip-trap, at the same time. It will be marvellous. And the Troll. Who has a big voice?"
 
-At break, Maya pulled us behind the compost bin. She had a book from her gran with a picture on the front.
+Every head in the hall turned slowly towards Maya Singh.
 
-She said, "Mr Pann is **PAN.**"
+Maya has a notebook, a sharp pencil, and the biggest voice in the school, which she keeps for emergencies. She went pink, and said, "I could try."
 
-Kenji said, "Like a frying pan?"
+"WHO'S THAT TRIP-TRAPPING OVER MY BRIDGE?" roared Maya.
 
-Maya said, "NO, Kenji."
+It was a wonderful roar. The curtains shook, and above us, very far up, Mr Thorley made a small noise like a kettle starting to boil. A single spark popped out of his screwdriver.
 
-She explained that in ancient Greece, there was a god called Pan who looked after shepherds, sheep, goats, forests and wild, quiet places. He had the legs and horns of a goat, curly hair, and a very cheeky grin.
+"Not quite so much, Maya," said Mr Harris, in a hush. "Save it for Friday."
 
-Ollie said, "That's Mr Pann."
+"Sorry," whispered Maya.
 
-Maya said, "Obviously."
+Mr Pann yawned. It was an enormous yawn, wide and slow, with a little squeak at the end. And then Kenji yawned, and Ollie yawned, and four of the Reception children who had come to watch yawned, one after another, all down the row, like dominoes.
 
-She said Pan loved music more than anything. One day, he chased a river nymph called Syrinx, who just wanted to be left alone, and she turned herself into reeds to hide. Pan was so sorry that he cut the reeds into different lengths and made them into pipes, so that her voice would always be in the music. Those are **panpipes.**
+"Yawns are catching," said Felix, who was doing one himself.
 
-Alex said, "That's quite sad."
+"Everything is," said Mr Pann, rather mysteriously, and he wandered off to find his lunch, which was a bunch of dandelions.
 
-Felix said, "But he made something beautiful."
+## Part Three. Twelve O'Clock
 
-Maya said, "Yes. That's why people still play them."
+At playtime that day, Alex was watching the clock.
 
-## THE NAP
+It is not usual for Alex to watch a clock. But at twelve, when the whole class was going to lunch, Mr Pann had walked the other way. He went into the costume cupboard behind the stage, and closed the door.
 
-Maya had one more thing to tell us, and she lowered her voice.
+"He's tidying," said Kenji.
 
-She said, "Pan has one big rule. **Nobody wakes him up from his nap.**"
+"For an hour," said Felix, who had been counting. "Every day."
 
-Kenji said, "What happens?"
+On Tuesday, a bit of the stage curtain went missing, and a leaf from Mr Harris's pot plant. On Wednesday, Felix found a clue that was not a nibble. It was by the back door, in the soft mud, and he found it with his shoe.
 
-Maya said, "He always has a nap in the middle of the day. And if someone makes a loud noise and wakes him up, he gets such a fright that he lets out a HUGE shout. And everybody who hears it gets scared and runs away, even if they don't know why."
+"Alex," he said. "Look at these."
 
-She said, "That's where we get the word **PANIC.**"
+They were little round prints, with two toes, split in the middle. They were not shoes.
 
-We all went quiet. Ollie said, "Does Mr Pann have a nap?"
+Willow was sitting on the back step with her tail wrapped round her paws. Willow is the Bengal Reading Cat, and she is dignified. It had been raining, and there was a big puddle at the bottom of the step, and she was looking at it the way you look at a bill. Willow does not like being wet. She walks all the way round puddles, even if it takes ten minutes.
 
-Alex said, "Every day. At twelve o'clock. He goes into the costume cupboard and shuts the door."
+She sniffed the hoof print. Then she blinked, slowly, which from Willow means *I told you so*.
 
-Felix said, "We thought he was just tidying."
+That afternoon, in the warm-up, Mr Pann showed us his pipes.
 
-## THE LIST
+He had a little row of reeds, joined side by side, each one a bit shorter than the last. When he blew across the tops, a soft, round tune came out, and it made your toes tap and your shoulders go loose. A very small Reception girl called Dot sat down on the floor with her eyes shut and said, "Again, please," in the voice of a very small queen.
 
-Alex held the pencil. Felix held the notebook, because they always share jobs.
+"It is the oldest tune I know," said Mr Pann. "I made it a long time ago."
+
+"How long?" said Kenji.
+
+"Hm," said Mr Pann. "Is it Wednesday?"
+
+## Part Four. Behind the Compost Bin
+
+When the warm-up was over, Maya called a meeting behind the compost bin.
+
+She had her gran's old book under one arm. Alex held the pencil, and Felix held the notebook, because they always share jobs. Kenji and Ollie sat on their upside-down buckets, and Willow sat on top of the bin, looking at nothing, which she does with great skill.
+
+"Mr Pann," said Maya, "is **PAN.**"
+
+"Like a frying pan?" said Kenji.
+
+"No, Kenji."
+
+She opened the book. On the first page was a drawing of a man with little horns and legs that bent the wrong way.
+
+"That's Mr Pann," said Ollie.
+
+"Obviously," said Maya.
+
+"Pan is a god from ancient Greece," she said. "That is an old religion, and the old stories are still told today, so we tell them nicely. He looks after shepherds and goats, wild places, quiet places, and music."
+
+She turned a page. "One day he was chasing a river girl called Syrinx. He only wanted to be friends. But she didn't want that, and she ran, and when she got to the water she turned herself into a patch of reeds, to hide. Pan found only reeds, whispering in the wind. He was so sorry. He cut the reeds into different lengths, and tied them together, and blew across the top, and that was the first panpipe. After that, her voice was always in the music."
+
+"That's a bit sad," said Alex.
+
+"But he made something beautiful," said Felix.
+
+"Now here is the most important part," said Maya, and she lowered her voice. "Pan has one rule. **Nobody wakes him from his midday nap.**"
+
+"What happens?" said Ollie.
+
+"If somebody makes a loud noise and wakes him, he gets such a fright that he lets out an enormous shout. And everyone who hears it runs away. They run and run, and they don't even know what from. They only feel that something is right behind them."
+
+"That's horrible," said Kenji.
+
+"It's where we get the word," said Maya. "Panic."
+
+Nobody said anything for a bit.
+
+Alex wrote it in the notebook, in capitals, and Felix read it over his shoulder.
+
+**PANIC IS CATCHING. BUT SO IS CALM.**
+
+"Like yawns," said Felix.
+
+"Yes," said Maya, rather surprised. "Exactly like yawns."
+
+## Part Five. The List and the Pipes
+
+We had the list ready by the end of the afternoon.
 
 **1. THE KNEES.** They bend the wrong way.
 
 **2. THE PIPES.** They are made of reeds.
 
-**3. THE NIBBLING.** He eats the scenery, and a bit of Mr Harris's pot plant.
+**3. THE NIBBLING.** He eats the scenery. And a bit of Mr Harris's plant.
 
 **4. THE NAP.** Every day at twelve, in the costume cupboard.
 
-**5. THE HOOF PRINTS.** Felix found little round marks in the mud by the back door. They were not shoe-shaped.
+**5. THE HOOF PRINTS.** Little round marks by the back door.
 
-Maya said, "That is a very good list."
+"That," said Maya, "is a very good list."
 
-## THE DRESS REHEARSAL
+"It does not have a number nineteen," said Maya, "so it is easier to talk about."
 
-On Thursday, we had the Dress Rehearsal, with all our costumes on. I was a tree with real leaves stuck on. Kenji's goat ears kept falling off.
+We went to find Mr Pann before home time, in a line, all five of us. He was sitting on a stool at the side of the stage, with his hooves up on a box and a dandelion in his mouth. Alex held out the notebook.
 
-It was twelve o'clock exactly, which was when Mr Pann was **supposed** to be having his nap, but he'd said, "Just this once, I'll watch."
+"We think you're Pan," said Alex.
 
-He sat in the front row and closed his eyes. A small snore came out.
+"We think you might not want everybody to know," said Felix.
 
-We got to the best bit. The two Middle Billy Goats began to trip-trap across the bridge, side by side. **Trip-trap, trip-trap.** Maya the Troll leaped out and roared, "WHO'S THAT TRIP-TRAPPING OVER MY BRIDGE?"
+Mr Pann read the list twice. "That is a thorough list," he said at last. "The hoof prints are a bit unfair. I try to wipe my feet." He sighed. "Yes. I am Pan. I came for the echo, and for children who might like to learn the pipes. Please do not wake me at midday. Nobody has ever managed it quietly."
 
-And at exactly that moment, from the back of the hall, came the loudest crash we'd ever heard.
+"We won't," said Alex.
 
-**CRASH! CLANG! BANG!**
+"We'll tell everybody to be quiet at twelve," said Felix.
 
-## THE SHOUT
+"Thank you," said Mr Pann. He reached under the stool and brought out two tiny sets of pipes, carved from short, pale reeds, small enough to fit in the middle of a hand. "For the Middle Billy Goats."
 
-It was Mr Thorley the caretaker. He had been up a ladder, fixing a light, and he had dropped his toolbox. It said **sorry** on the side, but that didn't help.
+It is not as easy as it looks, playing a reed pipe.
 
-Mr Pann's eyes flew open. He jumped to his feet. His curls stood straight up. His mouth opened wider than any mouth we had ever seen.
+Alex went first. He took a big breath and blew as hard as he could.
 
-And he let out a SHOUT.
+**SQUEEEEEK.**
 
-It was not like a normal shout. It was a **big**, **wild**, **echoing** noise, like a hundred goats and a thunderstorm and a bin lorry all at once.
+Kenji said it sounded like a duck on a trumpet.
 
-**"AAAAAARRRRRRRGGGGHHHHHH!"**
+"Not so hard," said Mr Pann. "You are not blowing out candles. You are blowing across a bottle."
 
-The windows rattled. Pictures fell off the wall. And **everyone panicked.**
+Felix tried it more gently, but only a little spray of spit came out, and Ollie said, "Rain." Felix tried again, and a very faint note came out, like a mouse sighing.
 
-## THE PANIC
+They practised all afternoon. By the bell, Alex could get one low, wobbly note about half the time, and Felix a high one about a third of the time, and they were both very proud, and a bit sore around the lips.
 
-Nobody knew why they were scared. Nobody could say what they were running from. But every single person in that hall had a feeling that something was **behind them**, so they all ran as fast as they could in different directions.
+"Tomorrow," said Mr Harris, passing by with his clipboard and a worried face, "is the Dress Rehearsal. In costume. At noon. Then Friday is the real thing. Perfectly under control."
 
-Kenji ran through the fire door. Ollie ran into the cupboard. The Reception children ran in a big circle, screaming. Mr Harris ran into a curtain and got stuck. Mrs Tibbs ran straight into Mr Thorley's ladder, and the ladder fell sideways and rolled down the aisle like a runaway train.
+"At noon?" said Maya, very quietly.
 
-I was a tree, so I stayed where I was, because trees can't run. I watched everybody go.
+Alex and Felix looked at Mr Pann.
 
-Maya the Troll stood very still in the middle of the stage, and held her breath.
+"Just this once," said Mr Pann, "I shall sit in the front row. I am sure it will be all right."
 
-Alex and Felix stood on the bridge, side by side, and they did not run.
+## Part Six. The Dress Rehearsal
 
-## THE FIELD
+Dress rehearsals are always a bit of a muddle, and this one was a muddle with feathers on.
 
-When the hall was empty, we looked out of the fire door.
+Kenji's ears fell off three times. Three of the Reception children were flowers, and one was a sheep, and one, a very small boy, was a hat, because the costume box had run out of animals. Dot was a daisy, with a green sock on each arm for the stalk.
 
-It was open, and the field was **very big.** At the far end was the little wood where we're not allowed to go, with tall dark trees and a sign that said **KEEP OUT.**
+At the side of the stage, Elfine and Marion were running the curtains. They are big kids, twins like Alex and Felix, from the class above. Elfine wears glasses and tells facts. Marion counts things. She counts all the Reception children into the hall, every morning, whether she has been asked to or not.
 
-Small figures were running towards it. A Year 1 boy in a sheep costume. Three girls dressed as flowers. A very small boy dressed as a hat.
+"Twenty-two children," said Marion, "including one hat."
 
-Maya whispered, "They're going into the wood."
+At twelve o'clock exactly, Mr Pann sat down in the front row, closed his eyes, and went very quiet. A tiny snore came out of him, like a kettle that had given up. 
+Mr Thorley was at the top of the ladder again, with his toolbox on the top step. He was quite still, holding his screwdriver, trying very hard to be part of the ceiling.
 
-Felix said, "They'll get lost."
+Then the play began.
 
-Alex said, "And they don't know why they're running."
+Kenji came tripping over the bridge. Ollie came stomping. And then Alex and Felix trip-trapped out from either side, at the same moment, very small and very proud, side by side in the middle. *Trip-trap. Trip-trap.* It was the best thing in the whole play, and every one of us could feel it.
 
-Felix said, "It's not their fault. It's the panic."
+Maya the Troll jumped out from under the bridge, drew in a great big breath, and she roared.
 
-Mr Pann was sitting on the stage with his hooves over his face. He was shaking. He said, in a muffled voice, "I didn't mean to. I didn't mean to. It always happens when someone wakes me. I can't stop it."
+"WHO'S THAT TRIP-TRAPPING OVER MY BRIDGE?"
 
-## THE PROMISE
+It was the biggest, best, most beautiful roar she had ever done.
 
-Alex went up to him. He said, "Mr Pann, are you all right?"
+And that's when Mr Thorley dropped the toolbox.
 
-Mr Pann said, "No. I scared everyone."
+## Part Seven. CRASH
 
-Felix sat down on his other side. He said, "It was a loud crash. Anyone would jump."
+It was not Mr Thorley's fault, and it was not Maya's. It was just a roar, and a man up a ladder, who is not allowed to be startled.
 
-Mr Pann peeked out through his fingers. He said, "You're not running."
+He jumped. A big, round, golden BOOM rolled out of him, like thunder in a very small room, and a few sparks shot across the ceiling. His hands flew up. The toolbox went off the top step. It fell and fell, and it hit the hall floor with a **CRASH! CLANG! BANG!** that rattled every window, and the lid flew open, and spanners went everywhere. The big light went out.
 
-Alex said, "We were a bit scared."
+Mr Pann's eyes flew open. He jumped to his feet. His curls stood straight up. In the half-dark, his mouth opened wider than any mouth we had ever seen.
 
-Felix said, "But we're not any more."
+He let out a SHOUT.
 
-Mr Pann said, "How?"
+It was not like any shout we had heard before. It was big, and wild, and echoing, like a hundred goats and a thunderstorm and a bin lorry all at once, and it came from everywhere. The windows rattled, and a picture fell off the wall.
 
-Alex said, "We took a big breath."
+**"AAAAAAARRRRRRRRRGGGGGGHHHHH!"**
 
-Felix said, "And we told ourselves a truth."
+And everyone panicked.
 
-Mr Pann said, "Which truth?"
+## Part Eight. Everyone Runs
 
-They said it together, in the quiet hall:
+We did not know why we were scared. That was the worst thing about it. Nobody could have told you what they were running from. But every single person in the hall felt that something big was **right behind them**, and they had to go. NOW.
 
-**"I CAN BE SCARED AND BRAVE AT THE SAME TIME."**
+So everybody went.
 
-Mr Pann took a deep breath. His curls began to settle down. He looked at the twins and said, "I think I can help get everybody back. But I can't do it alone."
+Kenji went through the fire door, with one ear hanging off, and out into the field. Ollie went the other way, into the cupboard where the spare chairs live, and shut the door. The Reception children ran in a big circle round the middle of the hall, screaming, because there was nowhere else to run. Mr Harris ran into the stage curtain, and the curtain wrapped round him, once, twice, three times, until he stood very straight, like a velvet sausage, saying, "Everything is under control!" in a muffled voice. Mrs Tibbs ran into the supply cupboard and pulled the door shut, and we heard the mop bucket fall over.
 
-Alex said, "We'll help."
+Mr Thorley sat at the top of his ladder with his hands over his head, saying, "Sorry, sorry, sorry."
 
-Felix said, "We're **both** in."
+Alex and Felix were on the bridge, one at each side, in a dim hall full of feet. Alex's heart was going like a drum. His legs were saying, *run, run, run.* Felix's were too. He told us so afterwards.
 
-## THE PIPES
+But they were holding hands. They had been holding hands since they trip-trapped into the middle, to make the bridge bit work, and neither of them had let go. When the shout came, Alex gripped on, and Felix gripped back, and that was how they stayed.
 
-Mr Pann stood up. He picked up his panpipes, and he looked at them very hard.
+"Are you scared?" said Alex, as the whole hall went past them.
 
-He said, "When I get scared and shout, everyone else gets scared. But I've got something else, too. I've got my **music.** And my music doesn't make people scared. It makes them calm."
+"Yes," said Felix. "Are you?"
 
-He gave the twins a small pair of pipes each, which he'd carved from two short reeds. They were so little they fit into their hands.
+"Yes."
 
-He said, "Play slowly. Don't blow too hard. Take a deep breath, and let the tune come out gently, like a sigh."
+"Good," said Felix. "Me too."
 
-Alex put the pipes to his mouth, and blew. A soft, round note floated out.
+Maya was standing in the middle of the stage in her Troll costume, with both hands over her mouth. Willow, in the front row, did not move either.
 
-Felix put his pipes to his mouth, and blew. A second note, a little higher, joined the first.
+Then the hall was empty. It went so quiet that we could hear the clock tick.
 
-Together, they sounded like two birds singing in the same tree.
+Behind us, a very small voice said, "I'm over here, I think."
 
-Mr Pann smiled, and joined in with his big pipes. The three of them played together, a low, slow, rocking tune, like the sea going in and out.
+It was Marion, in the wings, with her hand up and one arm round Elfine, who had her eyes shut. "I counted," said Marion, in a wobbling voice. "There are five of the little ones missing. And one of them is the hat."
 
-## THE WOOD
+## Part Nine. Sorry
 
-We went to the edge of the wood, all of us. Maya carried a torch. Kenji and Ollie, who had come back, held hands behind us. I came along too, still dressed as a tree.
+Mr Pann was sitting on the edge of the stage with his hooves over his face.
 
-It was dark under the branches. Leaves rustled. A branch cracked. Somewhere, a very small voice was crying.
+His curls hung down, limp and sad, and his shoulders were shaking.
 
-Mr Pann whispered, "Keep playing."
+"I didn't mean to," he said. "I never mean to. It always happens when someone wakes me. I can't stop it."
 
-Alex played his note. Felix played his note. Mr Pann played the low one.
+Alex climbed up and sat down on his right. Felix sat down on his left. They did not say anything for a while. That is what you do, Alex says, when somebody is as sad as that.
 
-And slowly, little by little, the wood changed.
+"It was a loud crash," said Felix, at last. "Anyone would jump."
 
-The wind dropped. The rustling stopped. The trees seemed to stand a bit straighter, and the shadows didn't look as black. Somewhere in the dark, the crying got quieter.
+Mr Pann peeked out through his fingers. "I scared all of you. But you are not running."
 
-## THE FINDING
+"We were scared," said Alex.
 
-The first child we found was the boy in the sheep costume. He was sitting under a bush with his hands over his ears. When Alex played his pipes, the boy lifted his head. He said, "Is it over?"
+"We still are," said Felix.
 
-Felix said, "It's over. You're safe."
+"How did you stay?"
 
-The boy came out and held Felix's sleeve.
+Alex looked at Felix's hand, which was still in his. "We were holding on," he said.
 
-Further in, we found the three flower girls in a heap behind a log. Mr Pann played a gentle tune, and Alex crouched down. He said, "You can come out. It's only us."
+Mr Pann looked at the two hands, and his shoulders stopped shaking.
 
-They crept out, one by one, with leaves in their hair.
+Willow walked over and leaned against Maya's leg, and Maya, who was still standing there with her hands over her mouth, let out a breath.
 
-Last of all, we found the very small boy in the hat. He was standing in the middle of a clearing, quite still, with big round eyes. He didn't say a word.
+"They will be getting further away," said Mr Pann, in a thin voice. "Every minute."
 
-Felix knelt in front of him. He said, "Hello. I'm Felix. This is Alex. We're going to take you back to school."
+"Then we'd better fetch them," said Alex.
 
-The boy whispered, "I was scared."
+## Part Ten. The Velvet Sausage
 
-Alex said, "Me too, sometimes."
+First, we did the grown-ups, because they were the nearest.
 
-Felix said, "Do you want to say the thing?"
+It took all of us to unwind Mr Harris. He was wrapped so tightly that he could not move his arms, and his clipboard was stuck between his chin and his chest. We walked round and round him, unwinding the velvet, like unwinding a very large, very cross scarf, and he said, "Thank you, thank you, I was perfectly all right."
 
-The boy nodded. Together, the three of them said it:
+When he was out, he had a bit of curtain stuck to his hair like a hat. He did not seem to notice.
 
-**"I CAN BE SCARED AND BRAVE AT THE SAME TIME."**
+"Mr Harris," said Alex, "please can you stay here and be in charge of the hall, in case any of them come back?"
 
-The boy took Felix's hand in one of his and Alex's hand in the other, and they walked out of the wood together.
+"In charge?" said Mr Harris. He looked surprised, and then slightly better. "Yes. I can do that. I have a clipboard."
 
-## THE WAY BACK
+Mrs Tibbs was behind the supply cupboard door, which was stuck, because a mop was wedged under it. Felix pulled the mop out, very gently, and Mrs Tibbs fell out in a flurry of dusters.
 
-We walked back across the field in a long line, with the twins at the front, playing their pipes, and Mr Pann at the back, playing his. Every child we had found followed the tune, and the rest of the school came out of their hiding places, blinking, and joined in.
+"I thought it was a cow," she said. "I don't know why. It was a very big feeling."
 
-Mr Harris came out of the curtain with a bit of velvet on his head. Mrs Tibbs came out of the supply cupboard. The Reception children stopped running in circles and held hands. Mr Thorley stood at the door of the hall with his toolbox, looking very small for such a big man, and said, "I'm so sorry."
+Mr Thorley came down the ladder one rung at a time. He put every spanner back in the SORRY box, and then he stood with his large red hands hanging by his sides, like a lighthouse that had lost its light.
 
-Mr Pann said, "It's all right."
+"I'll find Ollie," he said gruffly. "I'm good at lifting cupboards."
 
-Mr Thorley said, "I should've looked where I was going."
+"He'll come out for a biscuit," said Felix.
 
-Mr Pann said, "And I should've remembered to take my nap in the cupboard."
+"I have one in my pocket," said Mr Thorley. And he did.
 
-They looked at each other, and both of them started to laugh.
+Ollie came out of the chair cupboard with a chair on his head. "I wasn't scared," he said. "I was just hiding. From the feeling."
 
-## THE LESSON
+## Part Eleven. The Field and the Slow Tune
 
-That afternoon, Mr Pann sat on the edge of the stage with his hooves swinging, and talked to all of us.
+When the hall was sorted, we looked out through the fire door.
 
-He said, "I want to tell you something about panic. It's a very big feeling that comes very fast, and it makes your legs run before your brain knows why. Everyone has it sometimes, even gods."
+The field was **very big,** and wet from a week of rain, and at the far end stood the little wood where we are not allowed to go, with a sign on the fence that said **KEEP OUT.**
 
-Kenji said, "Even you?"
+Small figures were running towards it against the grey sky. A little boy in a sheep costume. Three girls dressed as flowers. A very small boy dressed as a hat. And, in front of all of them, a boy with one ear missing, going so fast that he had left a trail of feathers.
 
-Mr Pann said, "Especially me."
+"They'll get lost," said Felix.
 
-He said, "When you feel it, there are three things you can do. First, **stop.** Second, take a big, slow breath, in through your nose and out through your mouth. Third, say something kind to yourself."
+"They don't know why they're running," said Alex.
 
-He taught us all a rhyme to remember:
+"Five," said Marion, counting under her breath. "Six, if you count Kenji. And it's getting dark under the trees."
 
-**"STOP. BREATHE. I AM SAFE."**
+"Mr Pann," said Alex. "We need your pipes."
 
-We said it five times. By the fifth time, it felt like a warm blanket.
+Mr Pann was standing in the doorway with both hands on the door frame, and all the colour had gone out of his face.
 
-## THE PLAY (FOR REAL)
+"I can't go in there," he said. "If I get another fright, in the dark, near a lot of frightened children, I might shout again."
 
-On Friday, we did the real play, in front of all the mums and dads.
+"You are very small," he said to the twins. But he did not say it unkindly.
 
-Maya was a terrifying Troll. Kenji was a very squeaky Little Billy Goat. Ollie was a very stompy Big Billy Goat. I was a tree and stayed perfectly still, which was my best performance.
+"Then we'd better start small," said Felix. "With the pipes."
 
-When it came to the bridge, Alex and Felix came out on either side, both Middle Billy Goats, and they said their lines at the very same time:
+We stood at the edge of the field, in a row, and we played. Or tried to.
+
+Alex blew first. He took a big breath, because he was frightened, and blew too hard, and the pipes gave a **SQUEEEEEK** that went right across the grass. In the distance, the running figures ran faster. One of the flowers tripped.
+
+"Too sharp," said Maya. "It's making it worse."
+
+"Panic is catching," said Felix, slowly.
+
+Alex tried again, more gently. It came out wobbly, a thin little thing like a bird with a cold, and the sheep boy looked back, but he went on running.
+
+"It's not enough," said Alex.
+
+Mr Pann was breathing fast and high, the way people do when they are frightened. Felix, who is the one who asks, put his pipes down.
+
+"Mr Pann," he said. "When you play, how do you breathe?"
+
+"Slowly," said Mr Pann. He gave a short, shaky laugh. "In for four, and out for four. I forgot. I always forget, when I am frightened." His shoulders went down. "Say it with me, and breathe. **Stop.** In. **Breathe.** Out. **I am safe.**"
+
+So we did it, all of us, in a line: **Stop. Breathe. I am safe.** In for four, and out for four. Even Ollie did it, and Maya, and the wet grass seemed to go very still.
+
+Alex put his pipes to his mouth. He did not blow hard at all. He let his breath out like a sigh, and a low, round note rolled across the field, as soft as a pillow.
+
+"Now me," whispered Felix, and a second note joined the first, a little higher. Mr Pann lifted his own pipes, and a third tune rose up under theirs, low and slow, like the sea going in and out.
+
+"Look," said Alex. "They're slowing down."
+
+Across the field, one by one, the small figures stopped running. They turned round, as if somebody had said their name. It was just like the yawn. We were not frightened any more, and nor were they, and nobody had told any of us to be.
+
+## Part Twelve. The Wood
+
+We went into the wood together, in a line.
+
+Maya carried the torch. Ollie held on to the back of her coat. Marion walked at the end, counting. Elfine, in the middle, said one quiet fact about owls, and then said, "Sorry. I'll stop."
+
+"No, don't," said Felix. "It's nice."
+
+It was dark under the trees, and cold, and wet. A branch cracked above us, and we all jumped. Somewhere in front, a small voice was crying.
+
+"Keep playing," whispered Mr Pann.
+
+Alex played his low note. Felix played his high one. The wood seemed to listen, and the shadows did not look so black. We found Kenji first, sitting on a log with his hands over his ears. "I'm not scared," he said. "I'm just sitting."
+
+"Come on," said Alex, and Kenji took his hand.
+
+Next we found the sheep boy, behind a bush, and the three flower girls in a heap behind a fallen tree. Dot, the daisy, was in the middle, holding both the others by the sleeve.
+
+"I am not scared," she said, "but they were. So I stayed."
+
+"That's brave," said Felix.
+
+"I know," said Dot.
+
+Soon the line behind us was long, a row of children in costumes, holding hands, with Marion at the end saying, "Five. Five. Five."
+
+"Where is the hat?" said Marion.
+
+## Part Thirteen. The Stream
+
+The very small boy dressed as a hat was standing on the other side of the stream.
+
+We heard the stream before we saw it. All the rain had made it fast and loud, brown and frothy, only about as deep as your knees, but too wide to jump. On the far side, in a little clearing, stood the boy in his hat, perfectly still, with eyes as big as saucers.
+
+"He's too scared to come," said Alex.
+
+"The stones are slippy," said Marion. "And if we all go, he might panic again."
+
+Mr Pann put one hoof in the water, and drew it out again. "I have never liked water," he said. "My legs will not go." He looked at the child, and his lip trembled. "He thinks I am the thing that is behind him."
+
+"Hello," called Felix, across the water. "We're not going to shout. I promise."
+
+The boy did not move.
+
+Then, from beside Alex's knee, something went past in a long, low, golden-spotted line. It was Willow.
+
+She walked straight down the bank and stopped at the edge of the stream. Willow does not like water, and everybody knew it, and she knew it better than anybody. She looked at the stream for a very long time. Then she set one paw on the first stone, and the other on the second. Her tail was straight up. Her whiskers were flat. Cold water splashed up and soaked her stomach, and she did not stop, she did not hurry, she did not look back. She crossed all the way over, one stone at a time, and sat down in front of the boy in the hat.
+
+The boy looked at the cat.
+
+Willow blinked at him, slowly, the way she does.
+
+And the boy took one step. Then another. He followed her across the stones with his hands out, and Willow, who was dripping, walked in front of him, step for step, all the way back to the bank. When he got to the near side, Alex and Felix, who were standing at the water's edge, caught him under the arms and lifted him up on to the grass.
+
+He looked at them. "I was scared," he whispered.
+
+Alex said, "Me too."
+
+Felix said, "Me too."
+
+"Me too," said Mr Pann, from behind us, in a voice like a very tired goat.
+
+## Part Fourteen. I Can Be Scared and Brave
+
+We sat down on the bank, all of us, with the little boy in the middle and Willow shaking her paws one at a time, with her nose in the air.
+
+It was quiet in the wood, only the sound of the stream and a drip from a leaf. The boy in the hat was holding on to Felix with one hand and Alex with the other, and somebody had put a coat round Willow.
+
+Mr Pann sat down on the grass beside us. There was a bit of mud on his nose.
+
+"You are all very brave," he said.
+
+"I didn't feel brave," said the boy in the hat, very quietly. It was the first thing he had said. "I felt scared."
+
+"Here is a thing I have not said for a long time," said Mr Pann. "I was scared too. I am scared now. Of the dark, and the water, and my own voice. And I am still sitting here, with you. Do you know what that is?"
+
+Nobody did.
+
+"It is both," said Mr Pann. "You can be scared and brave at the same time. They are not enemies. They sit on the same log." He held out his hand to the boy in the hat. "I CAN BE SCARED AND BRAVE AT THE SAME TIME."
+
+"I can be scared and brave," said the boy in the hat, slowly. He stopped. "And I'm a hat."
+
+Everyone laughed, including him, and a bird started up somewhere over our heads.
+
+## Part Fifteen. The Walk Back
+
+We walked back across the field in a long line, with the twins at the front, playing their pipes, and Mr Pann at the back, playing his.
+
+Mrs Tibbs and Mr Harris stood at the fire door, counting. Marion counted too. "Twenty-two," she said. "Including the hat."
+
+"Everyone is accounted for," said Mr Harris, looking at his clipboard. His voice cracked. "That is, the clipboard says so. Hurrah."
+
+Mr Thorley was standing by the door with his toolbox at his feet, looking very small for such a big man.
+
+"I'm sorry," he said. "I'm so sorry."
+
+"It's all right," said Mr Pann.
+
+"It is not. I should have held on."
+
+"And I should have stayed in the cupboard, where I could do no harm," said Mr Pann. "It was a hard day for both of us." He held out his hoof. "Come. Let us shake."
+
+They shook, and neither of them let go for quite a long time, and then both of them began to laugh. It was more like two kettles being turned off.
+
+"I think I'll keep the toolbox on the floor for a bit," said Mr Thorley.
+
+## Part Sixteen. The Best Roar
+
+Afterwards, Maya sat on the stage with her feet over the edge, by herself.
+
+The hall smelled of hot chocolate, because Mrs Tibbs said you cannot fix anything on an empty stomach. Maya had her notebook open on her knee, but she was not writing in it.
+
+Mr Pann came and sat down beside her, and for a while neither of them said anything. Then he said, "You have a very fine voice."
+
+"I'm sorry," said Maya. "It was my roar. It made Mr Thorley jump."
+
+"It was a roar I would have given a prize for," said Mr Pann. "In two thousand years, I have heard a great many. That was one of the best."
+
+"But it started everything."
+
+"Everything starts somewhere," said Mr Pann. "A sorry does not mean it was your fault. It only means you care about the people it landed on. You have said it. It was heard. Now put it down."
+
+After a bit, Maya said, "I could roar softer. At twelve."
+
+"Or not at all, until one o'clock," said Mr Pann, and she laughed in spite of herself, a wet little laugh, and he handed her his big green scarf, which she did not use, but held, as if it were a very good book.
+
+Alex and Felix looked in at the door, saw she was all right, and went away again. They wrote one line at the bottom of the list.
+
+**6. MR PANN IS A VERY GOOD LISTENER.**
+
+## Part Seventeen. The Real Play
+
+On Friday, at twelve o'clock, Mr Pann went into the costume cupboard and closed the door.
+
+He had asked us to wake him at five to one, because he did not want to miss his own curtain call. We stood outside the door in a group, and nobody knew how.
+
+"We can't bang," said Ollie.
+
+"We can't shout," said Kenji.
+
+"We can play," said Alex.
+
+At five to one, Alex and Felix stood in front of the cupboard, and breathed in for four and out for four. Then they put their little pipes to their lips. Alex played the low note. Felix played the high one. It was the slowest, softest tune they had, like somebody humming across a room.
+
+Behind the door, there was a sleepy sound. A creak. A slow yawn, with a squeak at the end.
+
+The door opened, and Mr Pann came out with his curls sticking up on one side. "Ah," he said. "That is how it ought to be done." He stretched. "I do not think I have ever been woken so nicely. Not for about two thousand years."
+
+And then the play began.
+
+Kenji was a very squeaky Little Billy Goat, and his ears stayed on. Ollie was a very stompy Big Billy Goat. The boy in the hat sat in the front row, very straight, with a sign round his neck that said HAT, and when the Troll roared he did not flinch at all.
+
+At the back of the hall, Mr Thorley stood with his toolbox held tight against his chest and his eyes squeezed shut. Maya's roar was big, and he stayed exactly where he was. When it was over, he opened his eyes and whispered, "Sorry," to the toolbox, and it was the best apology of the whole week.
+
+Then it was the bridge. Alex and Felix came out from either side, both Middle Billy Goats, and said their lines at the same moment.
 
 **"TRIP-TRAP, TRIP-TRAP, WHO'S THAT?"**
 
-The audience laughed and clapped. Even Mr Harris laughed, and he doesn't usually.
+The whole hall laughed and clapped. Even Mr Harris laughed, and he doesn't usually.
 
-At the end, Mr Pann stepped on to the stage in his green scarf. He said, "Thank you for coming. Thank you to my wonderful actors. And a special thank you to two very brave boys who helped me when I needed it most."
+At the end, Mr Pann stepped out in his green scarf and thanked the parents, and his actors, and a cat, who had a very good seat and was licking her paw. Then he played a long, slow tune, and the twins joined in, and the whole hall went still, and nobody in it wanted to be anywhere else.
 
-He played a long, slow, beautiful tune on his pipes. Alex and Felix joined in on theirs, and the whole hall went quiet and gentle.
+## Part Eighteen. The Peels
 
-When it finished, there was a long silence. Then a tidal wave of clapping.
+After the play, when the parents had gone home, Alex noticed first.
 
-## THE ENDING (WITH A MONKEY)
+We had gone back for Maya's notebook. The corridors were quiet and the sun came in sideways, and Ollie was walking in front of us, looking for his banana.
 
-On our way out, we noticed something.
+"It's gone," said Ollie. "I put it in the fruit bowl at lunch. For after the play. It was a really good banana."
 
-All the way down the hallway, there were little muddy footprints. Not hoof prints. They were small, and wide, and had **five toes**, and they looked a lot like hands.
+"All of the bananas are gone," said Felix, looking in the bowl.
 
-They led all the way along the corridor, up the wall, across the ceiling, down the other side, and into the gym.
+They were. There was not a single one left in the dinner hall, or the staff room, or Mr Harris's emergency box. But somebody had left a trail.
 
-Maya whispered, "Monkey prints."
+Alex found the first peel on the floor, folded very neatly in half. The second was on the window sill. The third was on top of the cupboard. They went in a tidy yellow line, out of the door, across the playground, and up the drainpipe, peel after peel, all the way to the roof.
 
-Kenji whispered, "Has he been watching the whole time?"
+"Very politely," said Maya, writing it down. "They've put the skins in a line."
 
-Ollie whispered, "Is he going to tell us about PE?"
+From very high above us, from the top of the roof, came a sound we did not know. It was a very small whistle, high and thin and clear, as if somebody had blown on a silver whistle the size of a button.
 
-Alex and Felix looked at each other. They grinned.
+Then a shadow went swinging across the gym window, with arms, and legs, and a long tail with a curl at the end.
 
-They said, at exactly the same time, "**Monday.**"
+Something orange flashed from the roof of the gym to the roof of the hall, faster than any bird. We never saw its face. We only had a feeling that it knew exactly where we were.
+
+Maya wrote one word in the notebook and held it up for us to see.
+
+**Soon.**
+
+Alex looked up at the roof. Felix looked up at the roof.
+
+And at exactly the same time, they said, "Monday."
 
 **The End.**
