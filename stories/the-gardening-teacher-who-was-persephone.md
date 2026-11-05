@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Mar
 icon: greek
 publishDate: 2026-10-13
 draft: false
+audioDuration: 2298
+parts:
+  - title: "Part One. The Car Park Was Growing"
+    start: 0
+  - title: "Part Two. The Lady at the Fence"
+    start: 135.86
+  - title: "Part Three. Behind the Compost Bin"
+    start: 248.64
+  - title: "Part Four. The List"
+    start: 338.34
+  - title: "Part Five. Gardening Club"
+    start: 421.46
+  - title: "Part Six. The Flower"
+    start: 616.82
+  - title: "Part Seven. Half Past Two"
+    start: 732.52
+  - title: "Part Eight. The Rest of the Story"
+    start: 834.53
+  - title: "Part Nine. The Stairs"
+    start: 974.22
+  - title: "Part Ten. The Dog"
+    start: 1107.39
+  - title: "Part Eleven. The Whispers"
+    start: 1301.38
+  - title: "Part Twelve. The Bench"
+    start: 1452.17
+  - title: "Part Thirteen. The King"
+    start: 1529.11
+  - title: "Part Fourteen. He Didn't Ask"
+    start: 1618.56
+  - title: "Part Fifteen. Six Seeds"
+    start: 1774.6
+  - title: "Part Sixteen. The Way Up"
+    start: 1921.41
+  - title: "Part Seventeen. A Pot on the Step"
+    start: 2045.94
+  - title: "Part Eighteen. The Wrong Way Round"
+    start: 2204.48
+audioUrl: https://audio.kinly.download/legend-lane/the-gardening-teacher-who-was-persephone.mp3?v=97331ffc
 ---
 
 ## Part One. The Car Park Was Growing

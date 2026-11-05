@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine
 icon: greek
 publishDate: 2026-10-14
 draft: false
+audioDuration: 2270
+parts:
+  - title: "Part One. Backwards"
+    start: 0
+  - title: "Part Two. Alex Notices, Felix Asks"
+    start: 70.39
+  - title: "Part Three. The Fearless One"
+    start: 209.92
+  - title: "Part Four. Behind the Compost Bin"
+    start: 287.44
+  - title: "Part Five. The Baby and the Cows"
+    start: 377.16
+  - title: "Part Six. The List"
+    start: 532.27
+  - title: "Part Seven. The Bag Goes Missing"
+    start: 629.15
+  - title: "Part Eight. One Sandal"
+    start: 801.15
+  - title: "Part Nine. The Footprints"
+    start: 883.28
+  - title: "Part Ten. The Foot of the Fire Escape"
+    start: 968.23
+  - title: "Part Eleven. The Climb"
+    start: 1075.38
+  - title: "Part Twelve. The Top of the School"
+    start: 1225.4
+  - title: "Part Thirteen. Dot"
+    start: 1321.02
+  - title: "Part Fourteen. The Bag That Would Not Lift"
+    start: 1502.34
+  - title: "Part Fifteen. Three O'Clock"
+    start: 1686.02
+  - title: "Part Sixteen. Everything Goes Back"
+    start: 1877.81
+  - title: "Part Seventeen. Say Sorry, Make It Right"
+    start: 1992.88
+  - title: "Part Eighteen. The Frost"
+    start: 2117.34
+audioUrl: https://audio.kinly.download/legend-lane/the-postman-who-was-hermes.mp3?v=b79f4776
 ---
 
 ## Part One. Backwards
