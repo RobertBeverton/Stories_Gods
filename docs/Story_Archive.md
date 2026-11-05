@@ -104,13 +104,14 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 ### 7. The Dinner Lady Who Was Thoth
 - **File:** `stories/the-dinner-lady-who-was-thoth.md`
 - **God / tradition:** Thoth, Egyptian
-- **Staff on the badge:** Mrs Ibbs, Dinner Lady (no badge shown; named in the text)
-- **Cast:** the narrator, Nell Brooks, Kofi Mensah, Archie Bell, Ollie, Mr Harris, Mr Jackson (cameo, on the phone)
-- **Length:** about 1,917 words in 11 sections. Written: not recorded.
-- **Summary:** Mrs Ibbs corrects the menu spelling, stands on one leg, counts every pea and writes Kofi's name in hieroglyphs. She wins a dice game with Mr Harris that gives the school five extra minutes a day (the moon dice game that made five extra days for Nut). She admits to Nell that she is Thoth, "but I shall write that I never said so".
-- **Closing scene:** A monkey is hanging by its tail in the gym cupboard beanbags. "At that moment, the monkey took a deep, deep breath, and in a very small voice, it said: **"Does anyone have a mango?"** ... Then very slowly, Archie held out his lunchbox. The monkey grinned."
-- **Hook at the end:** the monkey and the mango (Hanuman).
-- **Note:** the opening says "we remembered the dinner lady ... at the end of the Anubis story", so it is written to follow story 3. But her phone call mentions the loud man with a hammer and "the thin one with the eyebrows" who "did something to the lion", which only happens in story 6. See "Order check".
+- **Staff on the badge:** Mrs Ibbs, Dinner Lady
+- **Cast:** Alex (leads), Felix, Maya, Kenji, Ollie, Willow, Elfine and Marion (Marion counts the chart, Elfine tells facts), Mr Harris, Mrs Tibbs, Mrs Dunn (dinner lady, kind), Mr Thorley (cameo, opens the window); Mr Jackson's phone call is remembered
+- **Length:** about 6,000 words in 17 parts. Rewritten in full in the series cast (the first version was a 1,917-word sketch with a different class).
+- **Summary:** Opens on the Monday after story 6's hook: the rewritten menu board, perfect register and beak-shaped shadow are all still there, and a voice in the kitchen is reading the register slowly. Mrs Ibbs corrects Mrs Dunn's notice ("Twenty years I've been spelling it like that"), stands on one leg, counts peas, and writes NO RUNNING on the door (Ollie's feet walk). She keeps the Record: she copies the week's chart into it on Tuesday night, and at the full moon (Wednesday night) the pages are sealed and what is written is how things are. Maya's list includes Mr Jackson's phone call ("Could you write it down?"); she tells how Thoth won a little moonlight at dice, enough for five extra days, so Nut could have five children (360 + 5 = 365). Mr Harris drew the chart with four columns while on the phone to the Council; Mrs Ibbs copied it exactly without reading, so Thursday is missing, along with Kenji's birthday and the fish pie. Ollie spots it, Marion counts it, and the twins try to write Thursday in (the ink slides off). Thoth cannot play the moon (not on speaking terms), so Felix asks and Alex throws. After two lost throws (Willow fetches a die from the dark gap under the hatch), Alex notices the moon's dice only count inside the light and that a throw must be gentle; five wins, counted true, give five feathers of light and Thursday writes itself in. The moon is a little thinner.
+- **Affirmation:** "Nobody has to give everything. A little is enough, if you ask kindly, and if everyone gives their little." Echoed by Felix ("A little from everybody") and Alex ("Is a whole Thursday"). Kenji cuts his birthday cake into stamp-sized slices so everyone gets one. Mr Harris adds "with help" to "perfectly under control".
+- **Closing scene:** Thursday is the best Thursday; Mrs Ibbs asks the children what is true about the day and writes it all down: "And I shall write that I was not at all moved by it."
+- **Hook at the end:** on Friday tiny flowers push up in the cracks round the dinner hall steps in November, the air smells of turned earth, a seed pot on the step is labelled in green ink "Do not water until spring" (Mrs Ibbs: "That is not my handwriting. I only write in black."), and a faint voice over the fence shouts a word nobody can hear. The twins say "Monday". Sets up Persephone (story 8, which opens with the growing car park).
+- **Note:** no longer a Hanuman hook (the old monkey-and-mango ending is gone; story 11's hook leads to Hanuman in 12). Mrs Ibbs's old phone call that mentioned the loud man and "the thin one with the eyebrows" is cut, so the order problem with story 6 is resolved. Watch: the story runs long (about 6,000 words), at the top of the range; Mrs Ibbs's hieroglyph names are approximate and she says so.
 
 ### 8. The Gardening Teacher Who Was Persephone
 - **File:** `stories/the-gardening-teacher-who-was-persephone.md`
@@ -151,14 +152,14 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 ### 11. The Play Director Who Was Pan
 - **File:** `stories/the-play-director-who-was-pan.md`
 - **God / tradition:** Pan, Greek
-- **Staff on the badge:** Mr Pann, Play Director / Drama (no badge shown; he directs the Year 1 Autumn Play)
-- **Cast:** Alex, Felix (the two Middle Billy Goats), Maya (Troll), Kenji (Little Billy Goat), Ollie (Big Billy Goat), the narrator (a tree), Mr Harris, Mr Thorley, Mrs Tibbs
-- **Length:** about 2,393 words in 16 sections. Written: not recorded.
-- **Summary:** Year 1 Billy Goats Gruff play. Pan's rule is that nobody wakes him from his noon nap. Mr Thorley's dropped toolbox does, Pan lets out a shout, and the whole school panics and scatters. The twins stay on the bridge, say the affirmation, and lead the lost children back out of the wood playing small reed pipes. Pan teaches "STOP. BREATHE. I AM SAFE."
-- **The god's words / affirmation:** "I CAN BE SCARED AND BRAVE AT THE SAME TIME." "STOP. BREATHE. I AM SAFE."
-- **Closing scene** (The Ending (With a Monkey)): Muddy five-toed prints lead up the wall and into the gym. Maya: "Monkey prints." Kenji: "Has he been watching the whole time?" "Alex and Felix looked at each other. They grinned. They said, at exactly the same time, "**Monday.**""
-- **Hook at the end:** monkey prints (Hanuman).
-- **Watch:** you said the Pan story was simplified more than you wanted. A rework at the earlier level was offered.
+- **Staff on the badge:** Mr Pann, Play Director / Drama (no badge shown; he directs the Autumn Play)
+- **Cast:** Alex (leads), Felix, Willow, Maya (the Troll), Kenji, Ollie, Dot (the daisy), Elfine and Marion (running the curtains), Mr Harris, Mrs Tibbs, Mr Thorley
+- **Length:** about 5,800 words in 18 parts. Rewritten in the series cast; no audio yet.
+- **Summary:** The twins are both Middle Billy Goats in the Autumn Play. Maya works out Mr Pann is Pan (the pipes, the midday nap, "panic"), and the big idea is "panic is catching, but so is calm". At the Thursday noon dress rehearsal Maya's Troll roar startles Mr Thorley up his ladder, his SORRY toolbox crashes, Pann wakes and shouts, and the school stampedes (Mr Harris stuck in the curtain, Mrs Tibbs in the supply cupboard, Ollie in the chair cupboard, Kenji and five little ones off to the wood). The twins stay because they are holding hands. Their pipes first squeak, then wobble; Felix asks Pann how he breathes, and slow breathing makes the music work. They find the children in the wood, and Willow wades the stream she hates to bring the smallest child (dressed as a hat) back. Pann says the affirmation, and the children use "Stop. Breathe. I am safe." only as a slow breathing rhythm with the pipes. Maya is forgiven for the roar, and on Friday the twins wake Pann gently with their pipes.
+- **The god's words / affirmation:** "I CAN BE SCARED AND BRAVE AT THE SAME TIME." (the one affirmation); "STOP. BREATHE. I AM SAFE." is used once as a breathing technique (in for four, out for four) with the pipes, not as a speech
+- **Closing scene:** A trail of neatly folded banana peels leads up the drainpipe to the roof, a tail-shaped shadow swings across the gym window, a tiny whistle sounds from high up, and something orange flashes from roof to roof. Maya writes "Soon." The twins say "Monday."
+- **Hook at the end:** bananas, a tail shadow and a tiny whistle (Hanuman).
+- **Watch:** the pipes lesson, the hall stampede and the wood are the long middle; keep any later trim away from the Willow stream plant and payoff.
 
 ### 12. The PE Teacher Who Was Hanuman
 - **File:** `stories/the-pe-teacher-who-was-hanuman.md`
