@@ -1,4 +1,8 @@
 # Review: The Frost Who Asked "Are You Warm?"
+
+> **Status: ASK fixes applied (story 29, about 4,600 words, 16 parts).** The DIRECT fixes below were applied in the first pass; the ASK items were worked through in the third pass. The quotes and part names in this report describe the text as it was before that pass. Posy's fall and the rescue made clear (Miss Snow's owl and snowflake), the adults no longer negligent (a rope rule, Mister Harris with the bell and lamp), the closing sermon cut back to the affirmation, Maya tells the Morozko story; characters list now names Maya, Mister Harris and Posy.
+>
+> Weak spots recorded after the fix pass: 'Very' is still frequent in places.
 File: stories/the-frost-who-asked-are-you-warm.md | Words: about 4,526 | Parts: 16
 
 ## Verdicts

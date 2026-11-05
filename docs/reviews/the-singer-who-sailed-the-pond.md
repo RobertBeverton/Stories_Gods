@@ -1,4 +1,8 @@
 # Review: The Singer Who Sailed the Pond
+
+> **Status: ASK fixes applied (story 28, about 4,450 words, 17 parts).** The DIRECT fixes below were applied in the first pass; the ASK items were worked through in the third pass. The quotes and part names in this report describe the text as it was before that pass. Hook is now a quiet mystery for story 29 to pick up, Willow's one clear act stops the eagle, a stacked second moral cut, about 100 words trimmed, the mill is Louhi's own ('I made it'). Louhi makes the Sampo herself, a loose retelling (in the Kalevala Ilmarinen forges it).
+>
+> Weak spots recorded after the fix pass: Still about 500 words over target; 'looked at each other' appears three times.
 File: stories/the-singer-who-sailed-the-pond.md | Words: ~4,500 | Parts: 17
 
 ## Verdicts

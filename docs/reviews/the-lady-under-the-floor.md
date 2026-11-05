@@ -1,4 +1,8 @@
 # Review: The Lady Under the Floor
+
+> **Status: ASK fixes applied (story 35, about 4,100 words, 16 parts).** The DIRECT fixes below were applied in the first pass; the ASK items were worked through in the third pass. The quotes and part names in this report describe the text as it was before that pass. Dot's rescue gets a line and the 'second best thing' pays off (chips), the digger driver apologises and offers to help, the hook no longer carries the hundred days (story 36 introduces it), 'Mister Ketz' spelling fixed.
+>
+> Weak spots recorded after the fix pass: None significant.
 File: stories/the-lady-under-the-floor.md | Words: ~4,085 (incl. front matter) | Parts: 16
 
 ## Verdicts

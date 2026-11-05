@@ -1,4 +1,8 @@
 # Review: The Soup Cook with the Iron Teeth
+
+> **Status: ASK fixes applied (story 27, about 4,100 words, 16 parts).** The DIRECT fixes below were applied in the first pass; the ASK items were worked through in the third pass. The quotes and part names in this report describe the text as it was before that pass. Maya's notebook prop corrected, the long speech cut to one short affirmation, Dot's reunion made clear, the skull fence became green lanterns (with an instant laugh), Baba Yaga gives Dot a small wooden spoon with a tiny red hat to make amends; the old Part 6 split in two (16 parts).
+>
+> Weak spots recorded after the fix pass: Part Seven is short; the old Part Ten repeats Part Nine's structure (it is the story's refrain).
 File: stories/the-soup-cook-with-the-iron-teeth.md | Words: ~4,050 (whole file, incl. front matter) | Parts: 15 (recipe is 16 to 18)
 
 ## Verdicts

@@ -332,7 +332,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Baba Yaga, Slavic
 - **Staff on the badge:** Baba Yaga, Winter Soup and Brooms
 - **Cast:** Alex, Felix, Willow, Dot, Ollie, Elfine, Marion
-- **Length:** about 3987 words in 15 parts. Written 2026-10-27.
+- **Length:** about 4,100 words in 16 parts. Written 2026-10-27.
+- **ASK-fix pass (third review pass):** Maya's notebook prop corrected, the long speech cut to one short affirmation, Dot's reunion made clear, the skull fence became green lanterns (with an instant laugh), Baba Yaga gives Dot a small wooden spoon with a tiny red hat to make amends; the old Part 6 split in two (16 parts).
 - **Summary:** A witch with a hut on chicken legs frightens everyone, then starts the first ever Friday Soup Club.
 - **Closing scene** (Part Twelve. What Baba Yaga Said): ""I have a proposal," said Alex. "We have a Soup Club at school," said Felix. "On Fridays." "We only just invented it," said Alex. "It needs a cook," said Felix."
 - **Hook at the end:** A blue and silver sleigh lands with a very tall old man and a girl in a silver dress (Father Frost and the Snow Maiden). He falls asleep in the staff room until Wednesday.
@@ -342,7 +343,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Väinämöinen, Finnish
 - **Staff on the badge:** Mister Väinö, Choir and Sauna; Inspector Louhi, Northern Office
 - **Cast:** Alex, Felix, Willow, Dot, Kenji, Elfine, Marion
-- **Length:** about 4504 words in 17 parts. Written 2026-10-27.
+- **Length:** about 4,450 words in 17 parts. Written 2026-10-27.
+- **ASK-fix pass (third review pass):** Hook is now a quiet mystery for story 29 to pick up, Willow's one clear act stops the eagle, a stacked second moral cut, about 100 words trimmed, the mill is Louhi's own ('I made it'). Louhi makes the Sampo herself, a loose retelling (in the Kalevala Ilmarinen forges it).
 - **Summary:** A singer with a magic kantele sails the school pond to win back the Sampo from the Inspector of the Northern Office.
 - **Closing scene** (Part Sixteen. The Real Sampo): "The Sampo never did come back. The pieces that fell in the sea became the salt in the waves, and the shimmer on the fish. The ones that washed ashore became lucky stones, and Mister Väinö gathered every one he could find and planted them in the school garden. By spring, the vegetable patch grew twice as tall as anyone expected."
 - **Hook at the end:** Father Frost wakes in the staff-room doorway: 'Is it Wednesday?'
@@ -352,7 +354,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Father Frost, Russian and Slavic
 - **Staff on the badge:** Miss Snow, Ice Sculpture and Playground Games (the Snow Maiden)
 - **Cast:** Alex, Felix, Willow, Dot, Kenji, Ollie, Elfine, Marion
-- **Length:** about 4526 words in 16 parts. Written 2026-10-28.
+- **Length:** about 4,600 words in 16 parts. Written 2026-10-28.
+- **ASK-fix pass (third review pass):** Posy's fall and the rescue made clear (Miss Snow's owl and snowflake), the adults no longer negligent (a rope rule, Mister Harris with the bell and lamp), the closing sermon cut back to the affirmation, Maya tells the Morozko story; characters list now names Maya, Mister Harris and Posy.
 - **Summary:** Father Frost asks every child 'Are you warm?', and the twins pass his test by thinking about somebody else.
 - **Closing scene** (Part Fifteen. What Father Frost Said): "On the last afternoon of the week, Father Frost sat on the wall outside the school, swinging his legs, with a cup of Baba Yaga's soup in his hands. The frost sparkled on every twig. The sun was low, and gold. "I have been giving out presents for a very long time," he said."
 - **Hook at the end:** A tall woman in a white gown and a cat-eared golden headdress passes the gate, and Willow bows to her (Bast)
@@ -362,7 +365,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Bast, Egyptian
 - **Staff on the badge:** Mrs Bast, Pastoral Care and Pest Control
 - **Cast:** Alex, Felix, Willow, Maya, Dot, Ollie
-- **Length:** about 4377 words in 16 parts. Written 2026-10-30.
+- **Length:** about 4,400 words in 16 parts. Written 2026-10-30.
+- **ASK-fix pass (third review pass):** Willow no longer speaks (Mrs Bast speaks for her), the Apep fight has no sword or beheading, the sunset-speech run-up trimmed, Nana's sleep paid off with a knitted extra sleeve.
 - **Summary:** The cat goddess keeps watch over the school clock, and the school learns that fairness and order keep the days turning.
 - **Closing scene** (Part Thirteen. What Mrs Bast Said): "We didn't tell anyone, in the morning. They wouldn't have believed us. Mister Harris woke up with the sun, rubbing his eyes. The sleepers stirred and stretched."
 - **Hook at the end:** A smiling woman with a bracelet in one hand and a pot of honey in the other asks if she could stay a while at the pond (Oshun)
@@ -372,7 +376,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Oshun, Yoruba (Nigeria)
 - **Staff on the badge:** Mrs Oshun, Pond and Puddings
 - **Cast:** Alex, Felix, Willow, Maya, Dot
-- **Length:** about 4350 words in 16 parts. Written 2026-10-30.
+- **Length:** about 4,400 words in 16 parts. Written 2026-10-30.
+- **ASK-fix pass (third review pass):** Mrs Oshun's pause reads as a beat, she admits 'I should have asked, too... Waiting is not the same as asking', the closing advice cut to one line, Mister Harris apologises to the twins, the giant-bird shadow replaced by a dimming field; Willow's two meows are narrated sounds and the chair count adds up (seventeen for staff, two kept empty).
 - **Summary:** The sweetest goddess in the school is left off the playground committee, and the whole tower starts to lean. Everybody needs a chair.
 - **Closing scene** (Part Fourteen. The Real Playground): "They built it again, together. This time, they did it properly. Mister Harris pulled up a long table in the school hall, with chairs in a circle, so that nobody sat at the head. There were seventeen chairs for the staff."
 - **Hook at the end:** A feather as long as a canoe and a voice asking 'Is this the school that looks after small, lost things?' (Simurgh)
@@ -382,7 +387,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Simurgh, Persian
 - **Staff on the badge:** Madam Simurgh, Lost Property
 - **Cast:** Alex, Felix, Willow, Maya, Dot, Kenji, Ollie
-- **Length:** about 4655 words in 17 parts. Written 2026-10-31.
+- **Length:** about 4,700 words in 17 parts. Written 2026-10-31.
+- **ASK-fix pass (third review pass):** Willow finds the lost birds in the fog (her one brave act), the closing sermon cut to a few lines, Priya's doll line clarified, Maya's lecture trimmed.
 - **Summary:** A giant bird of Persian myth takes charge of Lost Property, and when fog swallows a school walk the twins call her with a feather held between them.
 - **Closing scene** (Part Sixteen. What She Said at the End): "On the last evening, we all sat on the grass under the oak, and Madam Simurgh sat in the middle of us, folded small again, in her green coat. Alex and Felix and Maya and Willow sat in the front. Dot was asleep, with her head on Ollie's shoulder. Kenji was feeding crumbs to the starlings."
 - **Hook at the end:** A crack across the evening sky and a cheerful voice asking who can mend a hole in the sky (Nuwa)
@@ -392,7 +398,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Nuwa, Chinese
 - **Staff on the badge:** Mrs Nuwa, Art and Clay
 - **Cast:** Alex, Felix, Willow, Maya, Dot, Ollie
-- **Length:** about 4616 words in 16 parts. Written 2026-11-01.
+- **Length:** about 4,550 words in 16 parts. Written 2026-11-01.
+- **ASK-fix pass (third review pass):** The creation speeches of Lakshmi and Bast shortened, the evening wisdom cut back, 'made by hand' softened ('You were each made with care'), Willow weighs down the ladder, Coyote's joke and the duck tidied, 'Mister Ketz' spelling fixed. The Ms Wa promotion lines are kept.
 - **Summary:** The sky cracks over the playground, and the staff discover it can only be mended with every one of their creation stories sewn together.
 - **Closing scene** (Part Fifteen. What Mrs Nuwa Said): "That evening, the sky burned gold and rose behind the seam, like a quilt held up to the light. Mrs Nuwa sat on the steps of the art cupboard with her tail curled round her, scrubbing paint off her nose. Alex and Felix and Maya and Willow sat on the step below. Dot was asleep in a heap of clay, with a small clay person in each fist."
 - **Hook at the end:** The sun flickers out at sunset and a voice asks 'Has anyone seen my mirror?' (Amaterasu)
@@ -403,7 +410,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Amaterasu, Japanese
 - **Staff on the badge:** Mrs Amaterasu, Light and Mornings; Mister Susanoo, Weather and Sports Day
 - **Cast:** Alex, Felix, Willow, Maya, Dot, Ollie
-- **Length:** about 4111 words in 17 parts. Written 2026-11-01.
+- **Length:** about 4,100 words in 17 parts. Written 2026-11-01.
+- **ASK-fix pass (third review pass):** The kami explained respectfully and 'giggling' became 'glowing', Simurgh's clue points somewhere high and dark, the sunset speech cut to a few lines, a calm closing image before the hook, a 'two weather teachers' line, Dot holds her mitten, 'Mister Ketz' spelling fixed.
 - **Summary:** The sun goddess hides in a stone storeroom after a noisy accident, and the whole school throws a party to coax her out.
 - **Closing scene** (Part Sixteen. What She Told Us at Sunset): "That evening, the sun went down slowly, as it was supposed to, in a long soft glow of pink and orange. Mrs Amaterasu sat on the steps of the storeroom with her mirror in her lap. Alex and Felix sat on one side of her, and Maya and Willow on the other. Dot, worn out, was asleep in a wheelbarrow with a kami curled up on her nose."
 - **Hook at the end:** A llama in a woven hat with one golden ear, and a voice from under the school: 'Has somebody been stamping on my floor?' (Pachamama)
@@ -413,7 +421,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Pachamama, Andean (Quechua and Aymara)
 - **Staff on the badge:** Mrs Pachamama, Gardening and Growing
 - **Cast:** Alex, Felix, Willow, Maya, Dot, Kenji, Ollie
-- **Length:** about 4019 words in 16 parts. Written 2026-11-02.
+- **Length:** about 4,100 words in 16 parts. Written 2026-11-02.
+- **ASK-fix pass (third review pass):** Dot's rescue gets a line and the 'second best thing' pays off (chips), the digger driver apologises and offers to help, the hook no longer carries the hundred days (story 36 introduces it), 'Mister Ketz' spelling fixed.
 - **Summary:** Mother Earth shakes the school when nobody says thank you, and a spoonful of tea and a crack in the field teach the school about giving back.
 - **Closing scene** (Part Eight. What We Tried): "The staff were trying everything. Mister Heston ran for his anvil. The Caretaker rushed for a rope. Mister Hadad shouted at the sky."
 - **Hook at the end:** A bear and a tiger sitting in the hedge beside a pile of garlic: 'We would like to learn how to be people.' (Hwanung and Ungnyeo)
@@ -423,7 +432,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Hwanung and Ungnyeo, Korean
 - **Staff on the badge:** Mister Hwanung, Beginners and Beginnings; Mrs Ungnyeo, Patience and Porridge; Tiger, Playground Guardian
 - **Cast:** Alex, Felix, Willow, Maya, Dot, Kenji
-- **Length:** about 4271 words in 17 parts. Written 2026-11-02.
+- **Length:** about 4,250 words in 17 parts. Written 2026-11-02.
+- **ASK-fix pass (third review pass):** The hundred-day timeline now works against a school week (two breaks a day, ten days per break, ready by Friday, day sixty on Wednesday afternoon), the sunset speech cut to one line with the twins' echoes, the ending reordered to end on soft lullaby images, a Mister Harris line for nervous parents, Willow's meow narrated as a sound.
 - **Summary:** A bear and a tiger want to learn to be people, and the twins sit with them through a hundred days of garlic, patience and one very brave rescue.
 - **Closing scene** (Part Sixteen. What They Told Us): "That evening, the sun went down slowly over the school. Mrs Ungnyeo and the tiger sat on the steps, side by side. Alex and Felix sat on the step below. Maya and Willow sat at the bottom."
 - **Hook at the end:** Golden apples rolling down the lane and a giant eagle carrying off a shouting lady (Idun)
@@ -433,7 +443,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **God / tradition:** Idun, Norse
 - **Staff on the badge:** Mrs Idun (apples and orchard); Mister Heimdall, Crossing Patrol; Mrs Freyja, Cats and Lovely Things; Mister Thor, Hammer and Heavy Lifting; Mister Loki, Magic Tricks
 - **Cast:** Alex, Felix, Willow, Maya
-- **Length:** about 4265 words in 18 parts. Written 2026-11-02.
+- **Length:** about 4,450 words in 18 parts. Written 2026-11-02.
+- **ASK-fix pass (third review pass):** The lane apples are only apples without Idun's own hand (plot hole closed), Willow holds the cloak pocket shut in the dive (her one brave act), Thor grips but does not raise the hammer, Idun's speech cut to two short exchanges, the hook image softened. A recognition beat makes Mister Thor and Mister Loki the same gods as Mr Thorley and Mr Locke.
 - **Summary:** The keeper of the golden apples is snatched by a giant eagle, the staff grow old fast, and the twins fly out on a falcon cloak made for two.
 - **Closing scene** (Part Seventeen. What She Said): "The sun set behind the school, red as an apple. Alex and Felix knelt in the orchard and planted their seeds. They dug the holes with their fingers, one beside the other. They covered them with earth."
 - **Hook at the end:** The school doors all swing open and a tall man with two faces says 'Welcome' and 'Goodbye' at once (Janus)

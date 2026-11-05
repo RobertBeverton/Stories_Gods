@@ -4,8 +4,10 @@ Where every story stands after the two review passes. The reports in this folder
 
 ## How the passes ran
 
-- **First pass** (stories 19 to 38): three lenses (editor, writer, listener and parent). DIRECT fixes applied for all 20. ASK fixes worked through for stories 19 to 26 (Quetzalcoatl, Maui, Anansi, Raven, Coyote, Hadad, Pele, Lakshmi). Stories 27 to 38 still have open ASK items in their reports.
+- **First pass** (stories 19 to 38): three lenses (editor, writer, listener and parent). DIRECT fixes applied for all 20. ASK fixes worked through for stories 19 to 26 (Quetzalcoatl, Maui, Anansi, Raven, Coyote, Hadad, Pele, Lakshmi).
 - **Second pass** (stories 1 to 18, folded in from the earlier-stories folder): same brief, updated for the new length rule and the earlier cast. DIRECT fixes applied for all 18 (commit a2222bb). Stories 1 to 7, 11 and 12 were then rewritten in full, and stories 8, 9, 10, 13 and 14 to 18 were amended and expanded to the standard. All of stories 1 to 18 now match the later stories.
+
+- **Third pass** (stories 27 to 37): the ASK items from the first-pass reports were worked through with targeted edits, in batches of two. Every story from 1 to 37 has now had its review items resolved.
 
 ## Status by story
 
@@ -37,22 +39,22 @@ Where every story stands after the two review passes. The reports in this folder
 | 24 | The Storm Lord Who Went Into the Dust | applied | resolved | |
 | 25 | The Fire Lady and the Lollipop Lady | applied | resolved | Expanded to 15 parts |
 | 26 | The Lady of the Little Lamps | applied | resolved | |
-| 27 | The Soup Cook with the Iron Teeth | applied | open | |
-| 28 | The Singer Who Sailed the Pond | applied | open | |
-| 29 | The Frost Who Asked "Are You Warm?" | applied | open | |
-| 30 | The Cat Who Guarded the Clock | applied | open | |
-| 31 | The Lady Who Wasn't Asked | applied | open | |
-| 32 | The Bird Who Looked After Lost Things | applied | open | |
-| 33 | The Lady Who Mended the Sky | applied | open | Mister Harris now recognises Mrs Nuwa as Ms Wa |
-| 34 | The Lady Who Hid the Sun | applied | open | |
-| 35 | The Lady Under the Floor | applied | open | |
-| 36 | The Bear Who Waited | applied | open | |
-| 37 | The Lady Who Kept the Apples | applied | open | |
-| 38 | The Man with Two Faces | applied | open | Has audio; do not edit without re-narrating |
+| 27 | The Soup Cook with the Iron Teeth | applied | resolved | ASK fixes applied |
+| 28 | The Singer Who Sailed the Pond | applied | resolved | ASK fixes applied |
+| 29 | The Frost Who Asked "Are You Warm?" | applied | resolved | ASK fixes applied |
+| 30 | The Cat Who Guarded the Clock | applied | resolved | ASK fixes applied |
+| 31 | The Lady Who Wasn't Asked | applied | resolved | ASK fixes applied |
+| 32 | The Bird Who Looked After Lost Things | applied | resolved | ASK fixes applied |
+| 33 | The Lady Who Mended the Sky | applied | resolved | ASK fixes applied. Mister Harris now recognises Mrs Nuwa as Ms Wa |
+| 34 | The Lady Who Hid the Sun | applied | resolved | ASK fixes applied |
+| 35 | The Lady Under the Floor | applied | resolved | ASK fixes applied |
+| 36 | The Bear Who Waited | applied | resolved | ASK fixes applied |
+| 37 | The Lady Who Kept the Apples | applied | resolved | ASK fixes applied |
+| 38 | The Man with Two Faces | applied | none needed | Has audio; do not edit without re-narrating |
 
 ## Still open
 
-Stories 27 to 38 still have open ASK items in their first-pass reports (story 38 has audio, so do not edit it without re-narrating). Stories 19 to 26 have had their ASK items resolved.
+Nothing is open except story 38 (Janus), which has audio: its first-pass review has no open ASK items, and it should not be edited without re-narrating. Stories 19 to 26 had their ASK items resolved in the first pass, and stories 27 to 37 in the third pass.
 
 ## Lessons carried into the writing docs
 

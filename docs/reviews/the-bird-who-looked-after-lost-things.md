@@ -1,4 +1,8 @@
 # Review: The Bird Who Looked After Lost Things
+
+> **Status: ASK fixes applied (story 32, about 4,700 words, 17 parts).** The DIRECT fixes below were applied in the first pass; the ASK items were worked through in the third pass. The quotes and part names in this report describe the text as it was before that pass. Willow finds the lost birds in the fog (her one brave act), the closing sermon cut to a few lines, Priya's doll line clarified, Maya's lecture trimmed.
+>
+> Weak spots recorded after the fix pass: About 700 words over target; 'That's when' about four times.
 File: stories/the-bird-who-looked-after-lost-things.md | Words: ~4,650 (body) | Parts: 17
 
 ## Verdicts
