@@ -1,4 +1,8 @@
 # Review: The Librarian Who Was ANUBIS
+
+> **Status: superseded by a full rewrite (story 3, about 5,080 words, 18 parts).** The DIRECT fixes below were applied to the old text (commit a2222bb) and the story was then rewritten, so the quotes and part names in this report describe the OLD text. Rewritten in full (Alex leads). Resolved: length; the 'meet him next' clash with Mrs Ibbs (the hook now points at Felicitas; Thoth is an offstage name only). The lost-class opening grows into a Lantern Night storm and lost children in tunnels; the weighing of the heart is a gentle pretend weighing after Gary the goldfish dies.
+>
+> Weak spots recorded after the rewrite: The 'small group lost in a storm' peril is a stock beat; Part Seventeen (Mr Harris's confession) is a little long.
 File: stories/the-librarian-who-was-anubis.md | Words: about 1,920 | Parts or sections: 12 (plain all-caps headings)
 
 ## Verdicts

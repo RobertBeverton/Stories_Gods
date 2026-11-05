@@ -1,4 +1,8 @@
 # Review: The Supply Teacher Who Was LOKI
+
+> **Status: superseded by a full rewrite (story 6, about 5,900 words, 17 parts).** The DIRECT fixes below were applied to the old text (commit a2222bb) and the story was then rewritten, so the quotes and part names in this report describe the OLD text. Rewritten in full (Felix leads). Resolved: the 'Felix Bailey' name clash, no hook (now a sign of Thoth), the mane's fate (sewn back with tinsel), length. Pays off story 1's prank clouds and 'Who is his brother? Unknown'. Loki says sorry for real and does not run.
+>
+> Weak spots recorded after the rewrite: Long, and Parts Twelve to Fifteen are four hall parts in a row; the truth rule is fairly magical but planted early.
 File: stories/the-supply-teacher-who-was-loki.md | Words: 1,478 | Parts or sections: 10 (all-caps headings)
 
 ## Verdicts

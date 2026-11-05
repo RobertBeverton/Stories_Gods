@@ -1,4 +1,8 @@
 # Review: The Music Teacher Who Was SHIVA
+
+> **Status: superseded by a full rewrite (story 2, about 5,650 words, 18 parts).** The DIRECT fixes below were applied to the old text (commit a2222bb) and the story was then rewritten, so the quotes and part names in this report describe the OLD text. Rewritten in full (Felix leads), then given a tension pass. Resolved: length, no affirmation or hook (now 'Calm is a kind of strong' and a sign of Anubis), Mrs Dunn handled kindly, Year 2 and Year 4 references gone. The soup plan and the 'everybody's soup' refrain are planted in Part Two and flipped to 'ours' at the end; the fog has a spoken rule.
+>
+> Weak spots recorded after the rewrite: Eight parts of investigation before the problem bites (softened by the early soup plant); the closing coda sits at the end of Part Seventeen.
 File: stories/the-music-teacher-who-was-shiva.md | Words: about 1,220 (body) | Parts or sections: 11 (all-caps headings)
 
 ## Verdicts

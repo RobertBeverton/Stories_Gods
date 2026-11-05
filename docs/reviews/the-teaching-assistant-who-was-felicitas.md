@@ -1,4 +1,8 @@
 # Review: The Teaching Assistant Who Was FELICITAS
+
+> **Status: superseded by a full rewrite (story 4, about 5,300 words, 18 parts).** The DIRECT fixes below were applied to the old text (commit a2222bb) and the story was then rewritten, so the quotes and part names in this report describe the OLD text. Rewritten in full (Felix leads, Alex equal). Resolved: 'brave when low' is now earned, the basket clue is a tally, the lesson is fair to anyone unlucky, optional hook now a real hook (a sign of the Seven Lucky Gods). The engine is one luck in two halves: Mrs Felicity's basket (the half you keep) and Ms Fortune's wheel (the half you spin).
+>
+> Weak spots recorded after the rewrite: The wind set-piece and Willow's rescue are two similar physical beats back to back; Mrs Felicity fading may be a little sad for some listeners (fully resolved).
 File: stories/the-teaching-assistant-who-was-felicitas.md | Words: about 1,790 (body) | Parts or sections: 9 (plain all-caps headings)
 
 ## Verdicts

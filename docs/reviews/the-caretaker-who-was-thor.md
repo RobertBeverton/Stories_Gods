@@ -1,4 +1,8 @@
 # Review: The Caretaker Who Was THOR
+
+> **Status: superseded by a full rewrite (story 1, about 5,050 words, 19 parts).** The DIRECT fixes below were applied to the old text (commit a2222bb) and the story was then rewritten, so the quotes and part names in this report describe the OLD text. Rewritten in full with the series cast (Alex leads), then given a tension pass. Review items resolved: length (now a full story), the thin hook (now a sign of Shiva, then the twins say Monday), the flat clue endings, the unshown piano (a new Piano part plants it). The old class (Dev, Ruby, Priya) is gone; Maya's list is now the famous strongest list (number nineteen).
+>
+> Weak spots recorded after the rewrite: The cloud peril is a gentle version of the 'big thing about to fall' beat; Mr Thorley's god-age joke is optional.
 File: stories/the-caretaker-who-was-thor.md | Words: about 1,000 | Parts or sections: 9 (plain all-caps headings, plus an untitled opening)
 
 ## Verdicts

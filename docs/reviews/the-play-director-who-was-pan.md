@@ -1,4 +1,8 @@
 # Review: The Play Director Who Was PAN
+
+> **Status: superseded by a full rewrite (story 11, about 5,800 words, 18 parts).** The DIRECT fixes below were applied to the old text (commit a2222bb) and the story was then rewritten, so the quotes and part names in this report describe the OLD text. Expanded and restructured in the series cast (Alex leads). Resolved: Willow's brave thing (wading the stream she hates), the two affirmations plus lecture (now one enacted affirmation, 'I can be scared and brave at the same time', with 'Stop. Breathe. I am safe.' kept as the breathing rhythm because story 13 recites it), the Thorley ladder line, the long sentences, no year groups. The hook is a sign of Hanuman.
+>
+> Weak spots recorded after the rewrite: A long middle; Parts Fourteen to Sixteen are three quiet parts in a row by design.
 File: stories/the-play-director-who-was-pan.md | Words: about 2,436 | Parts or sections: 20 (plain all-caps headings)
 
 ## Verdicts

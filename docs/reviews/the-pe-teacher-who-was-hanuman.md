@@ -1,4 +1,8 @@
 # Review: The PE Teacher Who Was HANUMAN
+
+> **Status: superseded by a full rewrite (story 12, about 5,900 words, 18 parts).** The DIRECT fixes below were applied to the old text (commit a2222bb) and the story was then rewritten, so the quotes and part names in this report describe the OLD text. Rewritten in the series cast (Felix leads). Resolved: no hook or Monday (now a hook into the Summer Fair), no Willow (added), the front-loaded myth lecture (now short, with interruptions), the bib gag (dropped), the unkept seed promise (kept). 'I know you can' is the one affirmation, in the wording story 13 recites.
+>
+> Weak spots recorded after the rewrite: Long; Maya does not flag two invented details (the sun waiting a breath if asked politely, the spirit's cousin).
 File: stories/the-pe-teacher-who-was-hanuman.md | Words: about 2,950 (story text) | Parts or sections: 20 (all-caps headings)
 
 ## Verdicts

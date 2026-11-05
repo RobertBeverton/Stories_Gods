@@ -1,4 +1,8 @@
 # Review: The Dinner Men Who Were SEVEN LUCKY GODS
+
+> **Status: superseded by a full rewrite (story 5, about 5,600 words, 17 parts).** The DIRECT fixes below were applied to the old text (commit a2222bb) and the story was then rewritten, so the quotes and part names in this report describe the OLD text. Rewritten in full (Alex leads). Resolved: the children now solve the problem (Alex's slow knock, Felix's yes/no knocks), Alex is present, an affirmation and a prank-sign hook added, the hearing-loss gag is kind, and Maya says the Seven are still honoured today. Mrs Dunn is away all week, so seven helpers arrive.
+>
+> Weak spots recorded after the rewrite: Part Six is a quick roll call of three gods; Part Twelve is the busiest part for read-aloud; Mr Harris not liking the dark is new canon.
 File: stories/the-dinner-men-who-were-the-seven-lucky-gods.md | Words: about 2,030 (wc, whole file) | Parts or sections: 12 (plain all-caps headings)
 
 ## Verdicts

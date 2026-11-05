@@ -1,4 +1,8 @@
 # Review: The Dinner Lady Who Was THOTH
+
+> **Status: superseded by a full rewrite (story 7, about 6,000 words, 17 parts).** The DIRECT fixes below were applied to the old text (commit a2222bb) and the story was then rewritten, so the quotes and part names in this report describe the OLD text. Rewritten in full (Alex leads). Resolved: the muddled dice logic (the moon gives a little light, enough for five extra days, one for each of Nut's five children), the hamster joke (cut), the lecture-style affirmation (now enacted), the baby/babies slip. The hook is a sign of Persephone.
+>
+> Weak spots recorded after the rewrite: Parts Nine to Eleven are talky with a lot of adults apologising; the extra Thursday is slightly abstract; the theme is close to the asking themes of stories 1 and 6.
 File: stories/the-dinner-lady-who-was-thoth.md | Words: about 1,900 | Parts or sections: 12 (opening plus 11 all-caps sections)
 
 ## Verdicts
