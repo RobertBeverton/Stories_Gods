@@ -4,9 +4,9 @@ Every story written, in order, 1 to 38, with its details. Stories 1 to 18 are th
 
 ## What to watch for across the series
 
-- **Length drift.** Stories 1 to 7 are short (about 1,000 to 2,000 words). From story 8 they run about 2,400 to 4,450 words, and from story 19 about 4,000 to 4,700. Pele's (25) was expanded to about 4,200.
+- **Length.** Every story now runs about 4,000 to 6,000 words. Stories 1 to 18 were rewritten or expanded in the second review pass (about 5,000 to 6,000 words each; story 1 started at about 1,000). Stories 19 to 38 run about 4,000 to 4,700. Pele's (25) was expanded to about 4,200.
 - **Hook chaining.** Most stories follow the previous hook. Story 21's hook (Hadad) was not followed immediately, because Raven and Coyote were asked for first.
-- **Cast changes.** Elfine and Marion are retired from story 30 onwards.
+- **Cast changes.** Elfine and Marion appear, where they fit, in stories 2 to 29 and are retired from story 30 onwards. Willow is in every story. Dot first appears in story 9.
 - **Repeating beats.** Tower or structure about to fall, a small child in danger and rescued by the twins, a staff meeting that goes wrong, and a sunset speech have all been used many times. Vary them.
 - **Repeated phrases.** "Underlined it three times", "at exactly the same time" (this one is the ritual), "looked at each other". Keep the ritual, vary the rest.
 - **Twin balance.** Check each time: lines, actions, who goes first.
@@ -17,11 +17,11 @@ Every story written, in order, 1 to 38, with its details. Stories 1 to 18 are th
 The order of stories 1 to 18 was reconstructed from the hooks and clues inside the texts, and the files' `seriesOrder` matches it. It is not 100% confirmed. The one open pair is Felicitas (4) and the Seven Lucky Gods (5), which could swap. See "Order check" below. Stories 19 to 38 are in the order they were written and published.
 
 - **Where the facts come from.** File, word count, headed sections, badge, cast, closing scene and hook for stories 1 to 18 are taken from the story files. "Not recorded" means the file does not show it; the only field still not recorded for stories 1 to 18 is the date written (the files carry no date).
-- **Word counts** for stories 1 to 18 are the body of the file after the front matter, headings included, counted by script. **Sections** are the `## ` headings; each story also has an untitled opening before the first heading. Stories 1 to 18 use plain headings such as `## THE LIST`, not `## Part N. Title`.
+- **Word counts** for stories 1 to 18 are the body of the file after the front matter, headings included, counted by script after the rewrites. **Parts** are the `## Part N.` headings. All stories now use `## Part One. Title` headings.
 - **Not in the series** because they are not set in the school: Shiva and the Blue Throat, The Moon in the Tree, The Thunder Drummer Who Went Quiet, The Winter Visitor Who Kept Changing His Coat, The Friend Who Came Back, and the Celtic, Slavic and other stand-alone myths.
-- **Early cast.** Stories 1 to 7 use a different class (Dev, Ruby, Priya, Nell, Kofi, Poppy, Archie, Freddie and others) and an unnamed "we" narrator. Maya's compost-bin briefings start in story 8. The "twins have a system" paragraph (Alex notices, Felix asks, then they swap) first appears in story 9 (Hermes), and Pan (11) uses it without the opening sentence. The twins are named Alex Bailey and Felix Bailey in the files. Dot (Reception) first appears in story 9.
-- **Format change.** Stories 1 to 7 are short (about 1,000 to 2,000 words). From story 8 they run about 2,400 to 4,450 words. The shift to the full 4,000-word form started at story 17 (about 4,450 words). None of stories 1 to 18 has a notes page or questions afterwards. Affirmations are spoken inside the story from story 8 onwards (8 is the first).
-- **Closing ritual.** The twins say "Monday" at exactly the same time in stories 11, 13, 16, 17 and 18. Story 13 now ends with the twins saying "Monday" together after an owl feather hook. Stories 10 and 12 have no hook, and stories 14 and 15 end with a different shared word ("Yes", "STOP. BREATHE. THINK!").
+- **Early cast.** Stories 1 to 7 were originally written for a different class (Dev, Ruby, Priya, Nell, Kofi, Poppy, Archie, Freddie and others) with an unnamed "we" narrator. They have all been rewritten with the series cast, so those children no longer appear. Maya's briefings behind the compost bin start in story 1. The "twins have a system" paragraph (Alex notices, Felix asks, then they swap) is used from story 1. Dot (Reception) first appears in story 9. The twins are named Alex Bailey and Felix Bailey. Leads alternate: odd-numbered stories 1 to 18 Alex, even-numbered Felix.
+- **Format.** Stories 1 to 18 now match the later stories: about 4,500 to 6,000 words, `## Part N.` headings, one main enacted affirmation, no notes page and no questions afterwards.
+- **Closing ritual.** Every story from 1 to 18 now ends with a hook and both twins saying "Monday" at exactly the same time, then "The End." (Stories 1 to 18 were checked after the rewrites; the earlier versions of 2, 5, 6, 8, 10, 12, 14 and 15 had no hook or a different shared word.)
 
 ## Entries
 
@@ -452,6 +452,8 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 
 ## Order check
 
+*Status note: the order of stories 1 to 18 is as listed, and every hook now matches the next story's opening. Felicitas (4) and the Seven Lucky Gods (5) is still the one open pair; story 5's 'Felix, who is lucky' and the sticker lean on story 4's reveal, so 4 first is better supported.*
+
 All 18 early files carry `seriesOrder` 1 to 18, and the in-story evidence agrees except for one clash (story 7). The order of stories 1 to 18 is reconstructed from hooks and in-story clues and is not 100% confirmed. The one open pair is Felicitas (4) and the Seven Lucky Gods (5): nothing in the texts forces one before the other, and they could swap.
 
 **Confirmed by the texts:**
@@ -469,6 +471,8 @@ All 18 early files carry `seriesOrder` 1 to 18, and the in-story evidence agrees
 2. No other move is supported. In particular, story 6 (Loki) stays where it is: story 1's hook points at it, but it cannot come right after story 1 because Felix Bailey (introduced in story 4) and Archie Bell (story 2) are in it, and story 13's list puts Loki after the Seven Lucky Men.
 
 ## Continuity conflicts to decide
+
+*Status note (after the rewrites): this list was written before stories 1 to 18 were rewritten. Decided: item 1 (Nuwa: Ms Wa was promoted to Mrs Nuwa and the sky cracked twice; both stories stay), item 2 (same), item 3 (Thor and Loki: Mister Thor and Mister Loki in new text; stories 1 and 6 keep Mr Thorley and Mr Locke). Items 5 to 9 describe the old text (the old class, Year 2, the lollipop post, the dinner staff, the calendar, PE) and are mostly superseded by the rewrites; re-check them against the current stories before relying on them.*
 
 Each recommendation below is a recommendation only. Nothing in the stories has been changed.
 

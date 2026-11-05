@@ -1,4 +1,8 @@
 # Review: The Workshop Teacher Who Was HEPHAESTUS
+
+> **Status: amended and expanded (story 10, about 5,250 words, 17 parts).** The DIRECT fixes below were applied (commit a2222bb); the ASK items were then worked through in the second pass, and the story was expanded to the standard, so the quotes and part names in this report describe the OLD text. Amended and expanded (Felix leads). Resolved: no Monday (now the ritual hook, a sign of Pan), Gideon trapped in the chair (freed kindly, he and a friend join the Making Club), Heston absent in the chase (limping close behind). A bronze beetle plants the learning beat that pays off on Talos's ankle plug. 'Different is clever' is the one spoken affirmation.
+>
+> Weak spots recorded after the amend: Top of the length range; Part Twelve is dense; a few slight jokes.
 File: stories/the-workshop-teacher-who-was-hephaestus.md | Words: about 3,300 | Parts or sections: 22 (plain all-caps headings)
 
 ## Verdicts

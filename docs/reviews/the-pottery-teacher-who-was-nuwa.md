@@ -1,4 +1,8 @@
 # Review: The Pottery Teacher Who Was NÜWA
+
+> **Status: amended and expanded (story 17, about 5,700 words, 18 parts).** The DIRECT fixes below were applied (commit a2222bb); the ASK items were then worked through in the second pass, and the story was expanded to the standard, so the quotes and part names in this report describe the OLD text. Amended and polished (Alex leads). Resolved: Arabella (a Pridefield visitor, as in story 14), six affirmations (one, 'Slow and steady holds up the sky'), the thin Yu hook (a spade, a channel and a muddy figure), the flagpole peril (a railed tower and harnesses). The mending has a fail, wobble, work beat.
+>
+> Weak spots recorded after the amend: Runs long; the stone-hunt parts are brisk; story 18 opens on Monday while the hook has Mr Yu at the gate on Friday (bridged in story 18).
 File: stories/the-pottery-teacher-who-was-nuwa.md | Words: about 4,450 | Parts or sections: 24 (all-caps headings)
 
 ## Verdicts

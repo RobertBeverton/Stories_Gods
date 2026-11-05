@@ -1,4 +1,8 @@
 # Review: The Postman Who Was HERMES
+
+> **Status: amended and expanded (story 9, about 5,700 words, 18 parts).** The DIRECT fixes below were applied (commit a2222bb); the ASK items were then worked through in the second pass, and the story was expanded to the standard, so the quotes and part names in this report describe the OLD text. Amended and expanded (Alex leads). Resolved: the unsupervised fire-escape climb (Mr Harris and Mr Thorley supervise), Dot written shy (now fearless and takes the bag for a reason), no shared Monday (added), three mantras (one enacted, 'I can say sorry, make it right, and keep going'). The hook is now a sign of Mr Heston; the old 'new PE teacher' box is only a light cameo.
+>
+> Weak spots recorded after the amend: Parts Fourteen and Fifteen are the longest; the seagull gag runs through three parts; 'I can do hard things' and 'I am not alone' are no longer spoken here.
 File: stories/the-postman-who-was-hermes.md | Words: about 3,260 | Parts or sections: 16 (plain all-caps headings)
 
 ## Verdicts

@@ -1,4 +1,8 @@
 # Review: The Art Teacher Who Was PANDORA (re-review after peril rewrite)
+
+> **Status: amended and expanded (story 16, about 5,450 words, 18 parts).** The DIRECT fixes below were applied (commit a2222bb); the ASK items were then worked through in the second pass, and the story was expanded to the standard, so the quotes and part names in this report describe the OLD text. Amended and polished after the peril rewrite (Felix leads). Resolved: the heavy middle (each wisp introduced once), the grey stretch needing a light line, the affirmation explained before a child says it (Felix says it first, 'There is always hope'), the rule's source (the note). The hook leads into the turtle and the sky.
+>
+> Weak spots recorded after the amend: Marginally long; Hope's 'say a hope aloud' mechanism is planted lightly; a small paradox in Mrs Pandy's note.
 File: stories/the-art-teacher-who-was-pandora.md | Words: 4,119 | Parts or sections: 21 (all-caps headings)
 
 ## Verdicts

@@ -1,4 +1,8 @@
 # Review: The Quiz Mistress Who Was ATHENA
+
+> **Status: amended and expanded (story 14, about 5,200 words, 18 parts).** The DIRECT fixes below were applied (commit a2222bb); the ASK items were then worked through in the second pass, and the story was expanded to the standard, so the quotes and part names in this report describe the OLD text. Amended and expanded (Felix leads). Resolved: Athene's passivity and the logic gap ('I don't know yet' must be true; passwords tighten the web), the axe image (a small hammer and chisel), the 'Yes' ending (now Monday together after a calm oak-tree close), Willow (sits in Arabella's lap). Hook: a hollow green stalk with a glow and a MIND THE FLICKER sign.
+>
+> Weak spots recorded after the amend: Willow's beam-watching and Felix's head count are light; the Arachne spider gets a kinder ending than the Greeks tell (Maya says so).
 File: stories/the-quiz-mistress-who-was-athena.md | Words: about 3,200 (3,208 with front matter) | Parts or sections: 21 (plain all-caps headings)
 
 ## Verdicts

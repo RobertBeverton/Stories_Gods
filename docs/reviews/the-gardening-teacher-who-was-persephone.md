@@ -1,4 +1,8 @@
 # Review: The Gardening Teacher Who Was PERSEPHONE
+
+> **Status: amended and expanded (story 8, about 5,800 words, 18 parts).** The DIRECT fixes below were applied (commit a2222bb); the ASK items were then worked through in the second pass, and the story was expanded to the standard, so the quotes and part names in this report describe the OLD text. Amended and expanded (Felix leads). Resolved: the real-book reference (removed), the whisper and five affirmations (one enacted affirmation, 'I am a seed, the dark is where I grow'), the redundant Hermes reveal (now a hook sign: a postman walking backwards), the unexplained six-month rule (planted in child-sayable form). Opens on story 7's flowers and seed pot.
+>
+> Weak spots recorded after the amend: Long; set in November but she goes below 'next autumn' (covered by a joke about embarrassed trees).
 File: stories/the-gardening-teacher-who-was-persephone.md | Words: about 3,900 (body) | Parts or sections: 24 all-caps sections (no "Part N." headings)
 
 ## Verdicts

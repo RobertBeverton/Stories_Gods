@@ -1,4 +1,8 @@
 # Review: The Fire Safety Officer Who Was PROMETHEUS
+
+> **Status: amended and expanded (story 15, about 5,600 words, 18 parts).** The DIRECT fixes below were applied (commit a2222bb); the ASK items were then worked through in the second pass, and the story was expanded to the standard, so the quotes and part names in this report describe the OLD text. Amended and expanded (Alex leads). Resolved: no Monday (now the ending, after the box delivery), the twins kneeling at a smoking door (they get out and stay out; adults rescue), 'stay low' never taught (six rules and a song planted early), Mr Epp's match (a plain consequence and rule), the eleven children left with no adult (Mr Pickering in charge, with a headcount). 'Careful is brave' is the one affirmation.
+>
+> Weak spots recorded after the amend: Long; Parts Ten to Fourteen are dense with names; the back-window rescue is not how a fire service would do it; Mr Epp briefly strikes a match near leaves on the page.
 File: stories/the-fire-safety-officer-who-was-prometheus.md | Words: 3,729 (whole file) | Parts or sections: 23 (opening plus 22 all-caps headings)
 
 ## Verdicts

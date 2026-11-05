@@ -1,4 +1,8 @@
 # Review: The Groundsman Who Was Yu the Great
+
+> **Status: amended and expanded (story 18, about 5,700 words, 18 parts).** The DIRECT fixes below were applied (commit a2222bb); the ASK items were then worked through in the second pass, and the story was expanded to the standard, so the quotes and part names in this report describe the OLD text. Amended and expanded (Felix leads). Resolved: five affirmations in a row (one, 'Make a path, not a wall'), the twins' balance, THE LIST never paying off (it pays off), the house ambiguity (Mr Yu's cottage with the green door), Willow (wades for Ollie's torch), water safety and a named adult. Ends on the Saturday snake that story 19 recounts.
+>
+> Weak spots recorded after the amend: Over the length target; Parts Two and Three are the talkiest; Mr Yu's baby is still a baby after thirteen years (a legend quirk).
 File: stories/the-groundsman-who-was-yu-the-great.md | Words: about 4,100 | Parts or sections: 21 (plain all-caps headings)
 
 ## Verdicts

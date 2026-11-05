@@ -1,4 +1,8 @@
 # Review: The Summer Fair Where EVERYBODY Came
+
+> **Status: amended and expanded (story 13, about 5,650 words, 18 parts).** The DIRECT fixes below were applied (commit a2222bb); the ASK items were then worked through in the second pass, and the story was expanded to the standard, so the quotes and part names in this report describe the OLD text. Amended and expanded (Alex leads). Resolved: name density (Maya's list is three groups of four, told in different places), Athena saying Monday alone (the twins say it, the hook is an owl feather), Hermes and the boat logic, Loki's quick forgiveness (earned by what he does), Willow (added). The list of twelve matches the rewritten stories 1 to 12.
+>
+> Weak spots recorded after the amend: About 250 words over target; the fair sits oddly with an autumn calendar (no season named); the falcon scene is slightly omniscient for a 'we' narrator.
 File: stories/the-summer-fair-where-everybody-came.md | Words: 3,465 (wc, includes front matter) | Parts or sections: 18
 
 ## Verdicts

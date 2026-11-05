@@ -5,7 +5,7 @@ Where every story stands after the two review passes. The reports in this folder
 ## How the passes ran
 
 - **First pass** (stories 19 to 38): three lenses (editor, writer, listener and parent). DIRECT fixes applied for all 20. ASK fixes worked through for stories 19 to 26 (Quetzalcoatl, Maui, Anansi, Raven, Coyote, Hadad, Pele, Lakshmi). Stories 27 to 38 still have open ASK items in their reports.
-- **Second pass** (stories 1 to 18, folded in from the earlier-stories folder): same brief, updated for the new length rule and the earlier cast. DIRECT fixes applied for all 18 (commit a2222bb). Stories 1 to 7, 11 and 12 were then rewritten in full. Stories 8, 9, 10, 13 and 14 to 18 are next.
+- **Second pass** (stories 1 to 18, folded in from the earlier-stories folder): same brief, updated for the new length rule and the earlier cast. DIRECT fixes applied for all 18 (commit a2222bb). Stories 1 to 7, 11 and 12 were then rewritten in full, and stories 8, 9, 10, 13 and 14 to 18 were amended and expanded to the standard. All of stories 1 to 18 now match the later stories.
 
 ## Status by story
 
@@ -18,17 +18,17 @@ Where every story stands after the two review passes. The reports in this folder
 | 5 | The Dinner Men Who Were the Seven Lucky Gods | applied | resolved by rewrite | Rewritten |
 | 6 | The Supply Teacher Who Was Loki | applied | resolved by rewrite | Rewritten |
 | 7 | The Dinner Lady Who Was Thoth | applied | resolved by rewrite | Rewritten |
-| 8 | The Gardening Teacher Who Was Persephone | applied | open | Next batch |
-| 9 | The Postman Who Was Hermes | applied | open | Next batch |
-| 10 | The Workshop Teacher Who Was Hephaestus | applied | open | Next batch |
+| 8 | The Gardening Teacher Who Was Persephone | applied | resolved | Amended and expanded |
+| 9 | The Postman Who Was Hermes | applied | resolved | Amended and expanded |
+| 10 | The Workshop Teacher Who Was Hephaestus | applied | resolved | Amended and expanded |
 | 11 | The Play Director Who Was Pan | applied | resolved by rewrite | Expanded and restructured |
 | 12 | The PE Teacher Who Was Hanuman | applied | resolved by rewrite | Rewritten |
-| 13 | The Summer Fair Where EVERYBODY Came | applied | open | Next batch |
-| 14 | The Quiz Mistress Who Was Athena | applied | open | Next batch |
-| 15 | The Fire Safety Officer Who Was Prometheus | applied | open | Next batch |
-| 16 | The Art Teacher Who Was Pandora | applied | open | Re-reviewed after the peril rewrite; ASK items open |
-| 17 | The Pottery Teacher Who Was Nuwa | applied | open | Next batch |
-| 18 | The Groundsman Who Was Yu the Great | applied | open | Next batch |
+| 13 | The Summer Fair Where EVERYBODY Came | applied | resolved | Amended and expanded |
+| 14 | The Quiz Mistress Who Was Athena | applied | resolved | Amended and expanded |
+| 15 | The Fire Safety Officer Who Was Prometheus | applied | resolved | Amended and expanded |
+| 16 | The Art Teacher Who Was Pandora | applied | resolved | Amended and polished after the peril rewrite |
+| 17 | The Pottery Teacher Who Was Nuwa | applied | resolved | Amended and polished |
+| 18 | The Groundsman Who Was Yu the Great | applied | resolved | Amended and expanded |
 | 19 | The Cook Who Was Quetzalcoatl | applied | resolved | |
 | 20 | The Fisherman Who Slowed the Sun | applied | resolved | |
 | 21 | The Spider Who Owned the Stories | applied | resolved | One line added so Elfine and Marion read as a return |
@@ -49,6 +49,10 @@ Where every story stands after the two review passes. The reports in this folder
 | 36 | The Bear Who Waited | applied | open | |
 | 37 | The Lady Who Kept the Apples | applied | open | |
 | 38 | The Man with Two Faces | applied | open | Has audio; do not edit without re-narrating |
+
+## Still open
+
+Stories 27 to 38 still have open ASK items in their first-pass reports (story 38 has audio, so do not edit it without re-narrating). Stories 19 to 26 have had their ASK items resolved.
 
 ## Lessons carried into the writing docs
 
