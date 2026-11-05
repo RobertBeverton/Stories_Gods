@@ -1,536 +1,547 @@
 ---
 title: "The Groundsman Who Was YU THE GREAT"
-description: "When a wall of sandbags bursts, the groundsman shows the school how to make a path, not a wall."
+description: "When a wall of sandbags bursts in the middle of the night, the new groundsman and the twins show the school how to make a path, not a wall."
 series: "The Staff Room Gods"
 seriesOrder: 18
-tags: ["mythology", "school"]
+tags: ["mythology", "chinese", "floods", "school"]
 gods: ["Yu the Great (Chinese)"]
 lore: yu-the-great
+characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs"]
+icon: boat
+publishDate: 2026-11-04
 draft: false
 ---
 
-The first time we saw Mr Yu was on a Monday, and he was UP TO HIS KNEES in the car park.
+## Part One. A Spade With a Man Attached
 
-He had come in the night, or maybe the evening, nobody was sure. He was standing in the puddle at the school gate with a long wooden spade over his shoulder and his trousers rolled up. His boots were so muddy they looked like they were growing. He was tall and weathered, and his hands were as rough as bark. His badge said **MR YU, GROUNDS (AND DRAINS)**.
+The first time we saw Mr Yu was on a Monday, but we already knew his spade.
+
+You might remember that on Friday, when the sky was mended, a long wooden spade had been standing upright in the puddle at the school gate. A thin new channel had run away from it across the mud, and a tall muddy shape had gone off down the lane in the dusk, saying that wherever water goes, it has to go somewhere. Nobody had seen his face.
+
+On Monday, the spade was in a man's hand. He was standing UP TO HIS KNEES in the car park with his trousers rolled up, and his boots were so muddy they looked like they were growing. He had arrived in the night, or maybe the evening, nobody was sure. He was tall and weathered, with hands as rough as bark. His badge said **MR YU, GROUNDS (AND DRAINS).**
 
 "Morning," he said, looking at the water. "Lot of water."
 
-There was. Since the sky had been mended, it had rained every day, and the school field had turned into a huge brown lake. A single goalpost stuck out of the middle. A swan sat on the other one.
+There was. It had started as drizzle on Friday, but by Monday the drizzle had stopped being polite. It rained and rained, and the school field had turned into a huge brown lake. One goalpost stuck out of the middle of it. A swan was sitting on the other goalpost, looking pleased with itself.
 
 "Where does it all go?" asked Ollie Grant.
 
-"That's the question," said Mr Yu, "that I have been asking for thirteen years."
+"That," said Mr Yu, "is the question I have been asking for thirteen years."
+
+On his shoulder sat a tiny bird, no bigger than a teaspoon, and it glowed a soft gold. We knew that bird. It was Hope, who had come out of Mrs Pandy's box, and who had decided to stay with the school. She seemed to have picked Mr Yu.
 
 Alex and Felix Bailey are twins, so they have a system. Alex notices things and Felix asks about them. Then they swap, and it works every time.
 
-Alex noticed that Mr Yu never stood still. Even when he was talking, one foot was always tapping, like he was hurrying even when he wasn't. Felix asked, "Mr Yu, why are you in such a rush?"
+Alex noticed two things. The first was that Mr Yu never stood still. Even when he was talking, one foot was tapping, as if he was hurrying while standing in one place. The second was that the thin channel from Friday was a hand wider than before, and it ended exactly where his spade was.
 
-Mr Yu said, "I've got a lot to dig, and not a lot of time."
+Felix asked, "Mr Yu, did you dig that?"
 
-They looked at each other and said, "We need Maya."
+"Only a start," said Mr Yu. "Lot of water."
 
-## YU THE GREAT
+Felix asked, "And why are you in such a rush?"
 
-Maya Singh was behind the compost bin, which was now an island. She was sitting on top of it with her clipboard, and Kenji Mori and Ollie were on upside-down buckets in the water. Dot from Reception had a lilo.
+"I've got a lot to dig," said Mr Yu, "and not a lot of time."
 
-Maya said, "I have been waiting for Mr Yu since the day Ao arrived. He is **YU THE GREAT.**"
+Then he was off, splashing towards the field with the spade over his shoulder. The golden bird held on tight.
 
-Kenji said, "Is that a nickname?"
+The twins said, "We need Maya."
 
-Maya said, "It's a title. Yu lived in China about four thousand years ago, and he is one of the most famous heroes ever. He's the man who tamed the Great Flood."
+## Part Two. The Compost Bin Island
 
-Dot said, "There was a flood?"
+Maya Singh was behind the compost bin, which was now an island.
 
-Maya said, "A huge one. For years and years, the rivers burst their banks, and the water covered the fields and swallowed the villages. People lived in trees and on hilltops. They were hungry and cold and tired."
+She was sitting on top of it with her notebook, and Willow sat beside her, dry and dignified, glaring at the whole lake as if it had been put there to annoy her. Kenji Mori and Ollie were on upside-down buckets in the shallows. Dot from Reception was paddling nearby on a pink lilo with a toy spade, which she had not put down since the first puddle. Elfine and Marion, the big kids, were standing on the path in matching wellies.
 
-She told us the story the way her gran told it.
+"This field now holds about forty thousand baths," said Elfine, pushing up her glasses.
 
-"The emperor sent a man called **Gun**. He was Yu's father. Gun said, 'I know what to do. We'll build walls and dams, and hold the water back.' And he built them. Great high walls of earth, all along the rivers."
+"Please don't tell the little ones," said Marion. "It sounds like a lot."
 
-Alex said, "Did it work?"
+Maya shut her notebook. "Mr Yu," she said, "is YU THE GREAT."
 
-Maya said, "For a while. But the water kept rising behind the walls. It got higher and higher, and heavier and heavier. And then one day, the walls burst, and the flood was worse than ever."
+"Is that a nickname?" said Kenji.
 
-We all went quiet.
+"It's a title. In the old stories, Yu lived in China about four thousand years ago. He is one of the most famous heroes there has ever been, because he tamed the Great Flood."
 
-Maya said, "Gun was very sad, and he was blamed. And his son Yu watched, and thought, **'Maybe walls are not the answer.'**"
+"There was a flood?" said Dot.
 
-Felix said, "So what did he do?"
+"A huge one. For years and years, the rivers burst their banks, and people lived on hilltops and in trees. So the emperor sent a man to fix it. His name was Gun."
 
-Maya said, "He did the opposite. He didn't try to stop the water. He dug **channels** to let it flow to the sea. Instead of fighting the water, he gave it somewhere to go."
+"Gun," said Ollie, as if testing it for flavour.
 
-Kenji said, "That's clever."
+"He was Yu's father," said Maya. "Gun said, 'I know what to do. We'll build walls to hold the water back.' So he built great high walls of earth along the rivers."
 
-Maya said, "It took him thirteen years. He walked the whole country, with a spade, digging. His legs got so tired that he limped. His hands were covered in blisters. His skin went brown from the sun."
+"Did it work?" asked Alex.
 
-Dot said, "Didn't he ever go home?"
+"For a while. But the water kept coming. It piled up behind the walls, higher and heavier. And then one night, the walls burst, and the flood was worse than ever."
 
-Maya said, "That's the saddest part. He went past his own house **three times.** Each time, he could hear his baby son crying inside. And each time, he wanted to go in, and he didn't. Because he knew that if he stopped, the water would keep rising, and other people's babies would be in danger."
+We all went quiet. The swan on the goalpost tucked its head under its wing.
 
-Nobody said anything for a long moment. The swan on the goalpost tucked its head under its wing.
+"Some people tell it that Gun was a bad man," said Maya. "I like the tellings where he just tried his best and was wrong. Anyway, his son Yu watched the walls burst, and he thought, *Maybe walls are not the answer.*"
 
-## THE LIST
+"So what did he do?" asked Felix.
 
-Alex held the pencil. Felix held the notebook, because they always share.
+"The opposite. He didn't try to stop the water. He dug channels, so it could flow out to the sea. He gave it somewhere to go. It took him thirteen years. He walked the whole country with a spade. His legs got so tired that he limped, and his hands got blisters, and his skin went brown in the sun."
 
-**1. THE SPADE.** It never gets blunt.
+"Didn't he ever go home?" said Dot.
 
-**2. THE LIMP.** Mr Yu walks with a slight limp, like his legs are very, very tired.
+"That's the saddest part," said Maya. "He walked past his own front door three times. Each time, he could hear his baby crying inside. And each time, he wanted to go in, and he didn't. He knew that if he stopped, the water would keep rising, and other people's babies would be in danger."
 
-**3. THE HURRY.** He never sits down. He eats his lunch standing up.
+Nobody said anything.
 
-**4. THE THIRTEEN YEARS.** He said it himself.
+"Thirteen years," said Kenji at last. "Mr Yu said thirteen years."
 
-**5. THE FEET.** Felix noticed his boots had mud on them from rivers that were nowhere near our school.
+"I know," said Maya. "Evidence."
 
-Maya said, "It's a very good list. And it's a very sad one."
+## Part Three. The List
 
-## THE PROBLEM WITH THE WALL
+Alex held the pencil. Felix held Maya's notebook, because they always share jobs. This is what went on the list.
 
-On Tuesday, Mr Harris called a staff meeting.
+**1. THE HURRY.** He never sits down. Ollie saw him eat his lunch standing up, in under a minute.
 
-He stood in the hall with a big map of the school, covered in red crosses. "The water is rising," he said. "It's already in the car park, and it's creeping towards the hall. On Friday, we have the Big Sleepover, with thirty children and sleeping bags in the hall, and I do not want us to be **floating.**"
+**2. THE LIMP.** Mr Yu has a very small limp, as if his legs have walked too far.
 
-Everybody agreed.
+**3. THE SPADE.** It is the one from the puddle, and the handle is shiny where hands have held it for a very long time.
 
-He said, "I have a plan. We build a **wall.** A big wall of sandbags, all the way round the hall, to keep the water out."
+**4. THE DOOR.** At the bottom of the lane there is a little cottage with a green door and a lit window. It comes with the groundsman's job. That afternoon, Mr Yu walked down the lane past it, and back up the lane, and down again. Three times. He never once looked at it. Alex counted, and then he put a question mark.
 
-There was a murmur of agreement.
+**5. THE LOLLIPOP MAN.** Mr Gun, our old lollipop-and-fencing man, was standing at the school gate with his big round STOP sign, as he does every day. He is old and stooped, and his face is as creased as a paper bag. When Mr Yu passed him, neither of them said hello. Mr Gun looked at the ground. Mr Yu looked at the sky.
 
-A voice in the corner said, "No."
+Felix asked, "Maya, is Mr Gun...?"
 
-Everyone turned. It was Mr Yu, who was leaning on his spade.
+"I don't know yet," said Maya. "But I'd put the pencil down very gently, if I were you."
 
-Mr Harris said, "I beg your pardon?"
+From the cottage at the bottom of the lane came a thin, high sound, and it stopped our pencils. It was a baby, crying.
 
-Mr Yu said, "The wall won't work. It never does. Water that can't go anywhere only gets angrier. It will push, and push, and one day it will burst through."
+## Part Four. No Walls
 
-Mr Harris said, "I'm the headteacher, and sandbags are the standard method."
+On Tuesday, Mr Harris called a staff meeting in the hall.
 
-Mr Yu said, "I'm only saying what I've learned."
+He stood next to a big map of the school. It was covered in red crosses, and the biggest cross was on the hall.
 
-Mr Harris said, "Thank you, but we'll build the wall."
+"The water is rising," he said. "It's in the car park, and it's creeping up the path. On Friday we have the Big Sleepover, with sleeping bags all over this floor, and I do not want us to be floating. Mr Zhu has put the flour, the rice and the sweetcorn for the Harvest Festival soup into the cupboard at the back of the hall, because it's the warmest, driest place in the school. I do not want that floating either."
 
-From the back of the hall came a very quiet voice. It was Mr Gun, our old lollipop-and-fencing man, who we hadn't noticed was there. He was an old man with a stoop, and a face as creased as a paper bag.
+Everyone agreed. Mr Zhu nodded and gave a small, warm puff of breath.
 
-He said, "He's right, you know."
+"So," said Mr Harris, "I have a plan. We build a WALL. A great wall of sandbags, all the way round the hall, to keep the water out."
 
-Everyone looked at him.
+There was a happy murmur. Sandbags were the sort of plan that sounds right.
 
-He said, "I built a lot of walls once. I thought they were the answer. I was wrong." He looked at Mr Yu. He said, very softly, "I'm so sorry, son."
+"No," said a voice in the corner.
 
-Mr Yu put down his spade. He crossed the hall and put his big arms round the old man.
+It was Mr Yu, leaning on his spade, with the golden bird on his shoulder.
 
-He said, "It's all right, Dad. You tried your best."
+"I beg your pardon?" said Mr Harris.
 
-Mr Gun said, "I didn't listen."
+"The wall won't work. Water that has nowhere to go only gets angrier. It will push, and push, and one night it will burst through."
 
-Mr Yu said, "You're listening now."
+"Sandbags are the standard method," said Mr Harris, kindly but firmly. "I'm the headteacher. I'm afraid we're doing it."
 
-Alex and Felix, at the back of the hall, looked at each other and smiled.
+"I'm only saying what I've learned."
 
-## THE BUILDING OF THE WALL
+"And I'm grateful. But we'll build the wall."
 
-But Mr Harris had made up his mind. On Wednesday and Thursday, every grown-up in the school built a wall. They filled sandbags and carried them in lines. Mr Thorley carried six at a time. Mr Heston built the corners. Mr Hanu bounced along the top, putting on the final layer. Mrs Ibbs counted them: four thousand and twelve.
+Alex noticed that Mr Yu's knuckles had gone white on the spade. Felix noticed that Mr Gun had slipped in at the back, holding his STOP sign like a shield.
 
-By Thursday evening, a great wall of sandbags stood round the whole hall, as tall as a bus.
+"He's right, you know," said Mr Gun, very quietly.
 
-Mr Harris said, "There. Now we're safe."
+Everyone turned round.
 
-Mr Yu looked at the sky, and shook his head, very slowly.
+"I built a lot of walls once," said the old man. "I was sure they were the answer." He did not say anything else. He just looked at Mr Yu's boots.
 
-## THE SLEEPOVER
+"Dad," said Mr Yu, in a low voice, and that was all. He picked up his spade and went out into the rain, and Mr Gun stayed where he was, holding his sign. Mr Harris rubbed his head, and decided to carry on.
 
-On Friday night, thirty children arrived at school with sleeping bags and toothbrushes. We put our bags in rows on the hall floor, with torches and teddies, and ate pizza. Kenji brought a hot water bottle shaped like a frog. Dot brought her lilo, "just in case."
+## Part Five. Four Thousand and Twelve
 
-Alex and Felix had sleeping bags next to each other. Alex had the pillow with the spaceship. Felix had the pillow with the dinosaur. They had swapped halfway through the pizza, because they always do.
+On Wednesday and Thursday, every grown-up in the school built the wall.
 
-It was raining. It rained harder and harder, and the wind started to howl. We could hear the water slapping on the other side of the sandbags.
+They filled sandbags and passed them down lines. Mr Thorley carried six at a time. Mr Heston built the corners, and Mr Hanu bounced along the top, patting the last layer flat. Mrs Ibbs counted them, in a very small clear voice. There were four thousand and twelve. Alex and Felix filled the very small ones, one holding the bag open while the other poured.
 
-Mrs Tibbs said, "Lights out, everyone."
+By Thursday evening, a wall of sandbags stood all round the hall, as tall as a bus.
 
-We went to sleep.
+"There," said Mr Harris. "Now we're safe."
 
-## THE CREAK
+Mr Yu looked at the sky and shook his head, slowly.
 
-At midnight, Alex woke up.
+On Friday night the Big Sleepover began. It was for the whole school, and the big kids had to bring a little one each, so nobody was lonely in the dark. Marion had Dot, and Dot had a note from her mum as long as a scarf. Mrs Tibbs was in charge of the hall, and Ms Athene had a clipboard and a grown-up for every six sleeping bags. Mr Harris was proud of that rule.
 
-He didn't know why. The hall was dark, and everything was quiet. But something felt different. It was too quiet.
+We laid our sleeping bags in rows, with torches and teddies, and ate pizza on the floor. Kenji's hot water bottle was shaped like a frog. Dot kept her lilo beside her pillow, just in case. Alex and Felix had sleeping bags side by side, and they had swapped pillows halfway through the pizza, so Alex had the dinosaur and Felix had the spaceship.
 
-Then he heard a sound. It was a very low, groaning creak, like a ship on a rough sea.
+Outside, the rain got louder. The wind began to howl, and we could hear the water slapping on the other side of the sandbags.
+
+"Lights out," said Mrs Tibbs.
+
+Willow walked once round Felix's sleeping bag, lay on his feet, and went to sleep.
+
+## Part Six. The Creak
+
+Felix woke first, because Willow's whiskers were tickling his nose.
+
+It was the middle of the night, and the hall was dark and warm. Willow was sitting up on his chest with her ears pointing at the wall, and she was not blinking.
+
+Then Felix heard it. It was a very low, groaning creak, like a ship on a rough sea.
 
 **CRRRRREAK.**
 
-He sat up. He tugged Felix's sleeve. Felix opened one eye.
+He poked Alex. Alex opened one eye.
 
-Alex whispered, "Listen."
+"Listen," whispered Felix.
 
-They listened. The groan came again. It was coming from the wall.
+They listened. The groan came again.
 
-Felix whispered, "It's the sandbags."
+"It's coming from the sandbags," whispered Alex.
 
-Alex whispered, "They're bending."
+"They're bending," whispered Felix.
 
-Their torches shook a little.
+Willow stood up and walked to the edge of the sleeping bags, with her tail straight up like a question mark. The twins followed her, and their torches shook a little.
 
-## THE FIRST LEAK
+## Part Seven. The Wet Floor
 
-Alex crept to the hall door, and put his hand on the wood. It was **wet.**
+By the hall door, Alex stopped.
 
-He pulled it open a crack. A thin trickle of water ran across the floor, over his socks. He looked outside, and his stomach turned over.
+He put his hand flat on the floor. It was wet. A thin, cold trickle of water was creeping under the door, over the floorboards, towards his sleeping bag.
 
-The wall was bulging. All round the hall, the sandbags were leaning inwards, with the water piled up behind them in a great, dark, swirling mass. Little streams were squirting between the bags, in dozens of places.
+"Mrs Tibbs," said Felix, shaking her shoulder. "Mrs Tibbs, the floor's wet."
 
-Behind the wall, the whole school field was a lake. It was higher than Alex's head.
+She woke at once. She walked to the door and shone her torch through the little window, and the twins saw her face change.
 
-He ran back and shook Mrs Tibbs awake.
+The wall was bulging. All round the hall, the sandbags were leaning inwards, with dark water piled up behind them. Little streams were squirting between the bags in dozens of places.
 
-Mrs Tibbs took one look, and went white. She said, "Everyone up! Quickly! **Up!**"
+"It'll hold," said Mr Harris, who had come up in his dressing gown. "It'll hold."
 
-## THE BURST
+Mrs Tibbs did not say whether she agreed. She turned round and spoke in her calm, carrying voice.
 
-It was a terrible moment. Thirty children scrambled out of their sleeping bags, in the dark. Someone was crying. Mr Harris stood at the door with a torch, saying, "It'll hold. It'll hold."
+"Everyone up. Shoes on. Quickly and quietly, and no running. Big ones, take your little one's hand. We are all going up on the stage."
 
-And then, with a long, tearing roar, it didn't.
+## Part Eight. The Burst
+
+The stage was a metre higher than the floor. Mrs Tibbs stood at the steps and counted us up, one at a time, out loud. Nobody ran. Someone was crying, and a big kid was patting their back. Marion carried Dot, and Dot carried the lilo, and the toy spade was tucked in her pyjamas. Willow went up last, with her nose in the air.
+
+"Twenty-nine," counted Mrs Tibbs. "Thirty. Thirty-one."
+
+Then the creak became a groan, and the groan became a crack. And with a long, tearing roar, the wall burst.
 
 **KA-BOOM.**
 
-The wall burst. A great grey wave of water hit the hall doors and smashed them wide open. It surged down the aisle between the sleeping bags, and swept them across the room, with torches and teddies bobbing along in the flood.
+A grey wave smashed through the hall doors and pushed them wide open. It swept down the aisle between the sleeping bags. Torches and teddies bobbed along in it, spinning, and a sleeping bag floated by like a very flat boat. The water went up to the grown-ups' knees, and then it kept on rising, lapping at the stage edge. The cupboard door at the back burst open, and a sack of rice sailed out and wobbled down the hall.
 
-Water rushed up to the children's knees, then their tummies. Dot was knocked off her feet, and grabbed her lilo, which floated.
+The lights went out.
 
-Mrs Tibbs shouted, "To the stage! **Everyone onto the stage!**"
+In the dark, somebody said, very small, "Is it going to come up here?"
 
-We waded and scrambled, holding hands, and climbed onto the stage, which was a metre higher than the floor. Thirty children huddled together, with the water swirling round the edge.
+Nobody could say it wouldn't.
 
-The wall was gone. The flood was in the hall. And it was still rising.
+## Part Nine. The Gods Arrive
 
-## THE GODS ARRIVE
+The gods came splashing in from all over the school.
 
-The gods came running. Mr Thorley splashed in with his hammer. Mr Hanu bounded across the water. Mr Hermes flew in over the top, with his wings dripping.
+Mr Thorley arrived first, with his hammer. Mr Hermes swooped over the top with his wings dripping.
 
-They tried everything. Mr Hanu tried to hold the doors, and the water pushed him back. Mr Thorley said, "I'll send a storm to push it away!" and everybody screamed "NO!" and he lowered his hammer.
+They tried everything. Mr Hanu leaned on the doors, and the water pushed him back. Mr Thorley said, "I'll send a storm to push it out!" and thirty-one children screamed "NO!" at once, so he put his hammer down and said sorry.
 
-Ms Athene stood on a chair and said, "We need a **clever** plan, and we need it **now.**"
+"We need a clever plan," said Ms Athene, standing on a chair. "And we need it now."
 
-Mr Prome said, "I can't think. The flood's too fast."
+"I can't think," said Mr Prome. "It's far too fast."
 
-Mr Locke said, "I could turn everyone into ducks."
+"I could turn everybody into ducks," said Mr Locke.
 
-Mr Harris said, "That's **not** helpful, Mr Locke."
+"That," said Mr Harris, "is not helpful, Mr Locke."
 
-And then a deep, steady voice said, from the back of the hall, "I know what to do."
+"Ducks float," said Mr Locke. "I'm just saying."
 
-It was Mr Yu.
+Nobody had a plan. Mr Harris sat down on the edge of the stage, very quietly, holding his dripping clipboard.
 
-## MR YU TAKES CHARGE
+## Part Ten. Willow and the Torch
 
-He was standing in the doorway, up to his waist in water, with his spade in his hand. He didn't look worried. He looked **calm,** and a bit sad. He looked like a man who had seen worse.
+It got very quiet on the stage.
 
-He said, "We can't stop it. We never could. But we can **guide** it."
+The only light was the little gold glow of Hope, who had flown in on Mr Yu's shoulder and then flown on alone. Everyone's torches had floated away. Dot was crying a little, the kind of crying that tries not to make a noise. Marion started to hum, very softly, and Elfine said, "Fact: floods only go up as far as they can. This one is nearly there." She wasn't sure, but it helped.
 
-Mr Harris said, "How?"
+Then Ollie whispered, "My torch."
 
-Mr Yu said, "Dig channels. Give the water somewhere to go. It wants to flow downhill, to the river. We need to make a path."
+It was out in the middle of the hall. It was the waterproof one for the bath, and it was still glowing, bobbing up and down like a tiny lighthouse.
 
-Mr Harris said, "In the middle of the night? With the water this high?"
+Willow looked at it. Willow hates water. She hates puddles, rain, baths, and the sound of taps. She sat very straight on the edge of the stage for a long moment, and then she went down the steps.
 
-Mr Yu said, "It's the only way."
+"Willow, no," said Mrs Tibbs.
 
-He looked round at the gods. He said, "I can't do it alone. I need diggers. Lots of them."
+The water came up to her tummy. She walked through it with her whiskers high, shuddering with every step, looking exactly like a cat who is going to remember this for a hundred years. She reached the torch, took it gently in her teeth, turned round, and marched back up the steps. She dropped it in Felix's lap. Then she shook one paw, and then the other, and sat down on Dot's feet.
 
-Mr Thorley said, "I've got a hammer."
+Dot stopped crying and stroked her. Willow permitted it.
 
-Mr Yu said, "A hammer's no good for digging. But **thank you.**"
+Felix picked up the torch and pointed it across the water, because it was something to do. The beam fell on the floating things: Kenji's frog, a teddy, the sack of rice, a single sock. And Felix saw something.
 
-Mr Hanu said, "I've got hands."
+"Alex," he whispered. "Look. They're all going the same way."
 
-Mr Yu said, "Good. You can scoop."
+Alex looked. The teddy and the sack and the frog were drifting in a slow line across the hall, away from the stage, towards the far side door, the one that opens onto the old brick path at the back.
 
-He looked at the children on the stage. And then, to everyone's surprise, he looked right at Alex and Felix.
+"It's not just rushing about," said Felix. "It's looking for a way out. It's going somewhere."
 
-## THE TWINS
+"Where does that door go?" said Alex.
 
-He said, "You two."
+"Down the path," said Felix. "To the gate."
 
-Alex and Felix stood up.
+"To Mr Yu's channel," said Alex.
 
-Mr Yu said, "I need someone small, who can crawl into the narrow places and see where the water wants to go. Someone who **notices.**"
+They both looked at the golden light of Hope, who was floating over the door, shining.
 
-Alex looked at Felix. Felix looked at Alex.
+Then a deep, steady voice said, from the doorway, "I know what to do."
 
-Mr Yu said, "And someone who **asks.** Who can talk to the water, and the earth, and find out what they need."
+## Part Eleven. Mr Yu Takes Charge
 
-Felix said, in a small voice, "That's us."
+Mr Yu was standing in the side door, soaked to the waist, with his spade in his hand and mud up to his ears. He had been out in the dark since midnight, and he didn't look worried. He looked calm, and a bit sad, like a man who had seen worse.
 
-Mr Yu said, "I thought it might be."
+"We can't stop it," he said. "We never could. But we can guide it."
 
-Mrs Tibbs said, "Absolutely not. It's far too dangerous."
+"How?" said Mr Harris, standing up.
 
-Mr Yu said, "I'll be with them every step. And they won't go anywhere that isn't safe."
+"Dig. Give the water somewhere to go. It wants to flow downhill to the river. Out in the lane, my little channel runs from the gate to the drain. That's the end of the road. What we need is the beginning. A way from the field to the gate."
 
-Mrs Tibbs looked at the twins. She looked at the flood. She looked at thirty frightened children.
+"I know rivers," said Mr Yu. "I don't know this field. Where does this water want to go?"
 
-She said, slowly, "Mr Yu, if anything happens to them..."
+Felix put up his hand, which was very silly, because it was the middle of the night and nobody was teaching.
 
-Mr Yu said, "Nothing will. I promise."
+"We know," said Felix.
 
-She sighed, and nodded.
+"The floating things went that way," said Alex, pointing. "To the side door."
 
-Alex whispered, "I'm scared."
+"We watched," said Felix. "And Willow went and got the torch."
 
-Felix whispered, "Me too."
+Mr Yu looked at the torch. Then he looked at Willow, and gave her a small, serious nod, one worker to another.
 
-They took each other's hand.
+"I need someone small," he said, "who can notice, and someone small who can ask. I can't crawl into the narrow cut by the gate. I have a bit of a limp." He looked down. "Walking thirteen years does that."
 
-They said, together, "**I can be scared and brave at the same time.**"
+"They are children," said Mrs Tibbs. "Absolutely not. It's far too dangerous."
 
-## THE DIGGING BEGINS
+"I'll tell you exactly what I'd ask," said Mr Yu. "Nobody goes into the water. The children dig from the old brick path, which is high and dry, and Mr Gong is in charge of the water's edge."
 
-Mr Yu led them out of the hall, through the broken doors, into the dark. The rain hammered down. The water was up to their chests, but Mr Hanu had put the twins on his shoulders, one on each side.
+Mr Gong waded forward, in his swimming goggles. "Orange armbands for every child who goes out," he said. "Whistle on. Nobody goes deeper than their boots. Not one step. I know about water."
 
-They waded out into the field. The only light came from Mr Heston's glowing hammer, and from the little golden bird of Hope, who fluttered ahead of them, shining softly.
+"And Mr Hanu stays at their elbows," said Mr Yu, "and you come too, Mrs Tibbs. Ms Athene stays with everyone on the stage, with Mr Harris, Elfine, Marion and the little ones. That's the plan."
 
-Mr Yu stopped. He said, "Now. Alex, what do you notice?"
+Mrs Tibbs looked at the twins. She looked at the water, and at thirty-one frightened faces. She took a long breath.
 
-Alex looked. The water was dark and swirling. It was rushing across the field in a hundred directions.
+"Armbands," she said. "And I hold the hands."
 
-He said, "It's all going different ways."
+The twins took each other's hands. They were a bit cold, and a bit shaky, and they went anyway.
 
-Mr Yu said, "Look closer."
+## Part Twelve. The First Dig, and the Second
 
-Alex looked. And then he saw something. Most of the water was going the same way, towards the far corner of the field, where the old path ran down to the river.
+The brick path ran along the back of the hall, a little higher than the lake. We went in a line: Mr Yu, Mr Hanu, Mrs Tibbs, and the twins in orange armbands, with Hope flying ahead, glowing.
 
-He said, "There! It's going **that** way. All the little streams are joining up, like they want to go along the path."
+Mr Yu stopped at a bank near the hall wall.
 
-Mr Yu smiled. He said, "That's it. That's where the channel goes."
+"You choose," he said. "I'll hold the spade steady."
 
-Felix said, "How do you know?"
+Alex looked at the water. This was the lowest-looking bit, close to the hall, where the bank was thin. "Here," he said.
 
-Mr Yu said, "I don't. Alex told me. I just listened."
+"Here?" said Felix.
 
-## FELIX ASKS
+They dug, with Mr Hanu scooping beside them. It was easy. In five minutes there was a gap in the bank. Water poured through it, and a shining brown stream shot out across the path.
 
-They waded along the path, with Mr Yu in front. He stopped at a bank, and stuck his spade into the earth. It was heavy, and the soil was wet.
+And turned left. It ran round the corner of the hall, down the side wall, and straight back to the side door where Mr Harris had been standing.
 
-Felix said, "Mr Yu, why isn't the ground giving way?"
+"Hey!" cried Mr Harris, from the stage. "It's coming back in!"
 
-Mr Yu said, "It's packed too hard. The water can't soak in. If we break the ground up, it will drink."
+Mr Hanu sat down in the gap, very quickly, and the water mostly stopped. "I would like to say," said Mr Hanu, "this is not my best idea."
 
-Felix said, "Can I help?"
+Mr Yu did not say they had been wrong. He said, "Water always tells the truth. You just asked the wrong question."
 
-Mr Yu handed him a little trowel. He said, "Dig here. Gently. Don't fight the earth. **Ask** it where to go."
+Felix said, "We asked where it was easiest to dig. We should have asked where it wants to go."
 
-Felix knelt in the mud. He put the trowel in. He said, quietly, "Excuse me, ground. Where would you like the water to go?"
+"Try again," said Mr Yu. "Over there, where the field dips, by the hedge."
 
-He felt a tiny tremble, like a heartbeat. The earth crumbled, and a little crack appeared, running down the slope towards the river.
+The second dig was in the right place. The water ran in a good straight line along the hedge for ten steps, and the twins cheered. And then the sides of the channel went soft, and slumped, and the water spread out in a sulky brown puddle and stopped.
 
-He said, "There!"
+Alex stared. "It's wobbling."
 
-Mr Yu nodded. "Follow it."
+"It's falling in," said Felix. "On both sides."
 
-## TOGETHER
+Behind them, from the edge of the stage, a very small voice called, "Is it working?" It was Dot, with her toy spade.
 
-Alex and Felix worked side by side. Alex watched the water, and Felix dug where it pointed. Then they swapped. Felix watched, and Alex dug.
+"Nearly," called Felix, as bravely as he could.
 
-The gods joined in. Mr Hanu scooped earth with his hands, as fast as a digger. Mr Heston banged the stones loose with his glowing hammer. Mr Hermes carried buckets. Mr Shah, in his blue scarf, danced very slowly along the line, patting the ground flat.
+## Part Thirteen. The Third Dig
 
-Mr Gong, the water god, stood in the water, with his hands out. He said, "I'm sorry I broke the sky. Let me help." He closed his eyes, and the floodwater began to flow in a smooth, steady line, along the line the twins had dug.
+They stood in the rain and thought.
 
-Mr Zhu stood beside him, warming the earth with a gentle breath, so that it didn't freeze.
+Felix found a leaf. He didn't know why, except that it was floating by his boot, and floating things had worked before. He put it on the water by the hedge and watched.
 
-Ms Wa said, "Everyone is holding up a bit of the sky."
+The leaf didn't go straight. It went slowly sideways, drifting towards the corner by the lane. "It wants to go that way," he said. "Not along the hedge. A little bit more round. Towards the corner."
 
-Mr Prome whispered, "Careful is brave."
+"Why are the sides falling in?" said Alex. He picked up a handful of mud, and it slid between his fingers. Then he looked along the lane, at Mr Yu's thin Friday channel by the gate. "Oh," he said. "We dug ours like a box, with straight sides. His slopes, like a bowl. His hasn't fallen in once."
 
-And Ao the turtle waded out of the pond, with his huge shell on his back, and said, "I can carry the mud."
+"A bowl," said Mr Yu, and he was smiling. "Show me."
 
-## AO CARRIES
+Felix pointed where the leaf wanted to go, and Alex dug a long, sloping bowl-shaped channel, with soft sides, curving round towards the lane. Mr Hanu scooped. Mr Heston banged the stones loose with his glowing hammer, and Mr Shah, in his blue scarf, danced very slowly down the line, patting the ground flat.
 
-Every bit of earth they dug was heavy. But Ao, who was slow and steady, took it all on his back. He plodded along the channel, with a mountain of mud on his shell, and tipped it into a low place at the far end.
+Then the water came. It slid into the new channel, shining, and ran along it in a long, easy stream. The sides held, except for one weak bend near the gate. It sagged, and the water started to creep over.
 
-He said, "I'm not very fast."
+"Mud," said Mr Hanu. "We need something to hold it."
 
-Mr Yu said, "You don't need to be. You just need to keep going."
+"I've got something," said a very quiet voice.
 
-Ao nodded. He said, "Slow and steady holds up the sky."
+Mr Gun had come down the path from the gate. He had a pile of fence boards on his shoulder and his old spade in his hand. His knees were wet and his face was grey with tiredness. "I know fences," he said. "I don't know a lot of things. I know boards." He knelt, very stiffly, at the weak bend, and hammered the boards into the sides, standing up like a gentle guard.
 
-Mr Yu said, "And slow and steady digs a river."
+"It's not a wall," said Gun to Mr Yu. "It's a wall that holds a path open."
 
-Hour after hour, they dug. The rain fell. The sky grew a little lighter. The channel stretched across the field, all the way to the edge, and out through the school gate.
+Mr Yu looked at him for a long time. "Yes," he said. "That's exactly what it is."
 
-Alex's arms were aching. Felix's hands were blistered. Dot had joined in with a toy spade. Even Kenji, who was afraid of mud, was filling buckets.
+And the water went round the bend, and on.
 
-At one point, Felix stopped. He said, "I can't do this. I'm too tired."
+All night, they dug. Ao the turtle came out of the pond, slow and creaky, and carried the heavy mud on his shell to the low place by the hedge. "I am not fast," he said. "But I am exactly the right speed."
 
-Alex said, "Look at me."
+Somewhere before dawn, Felix's hands began to shake. Alex didn't say anything. He just held out his hand for the trowel, and Felix sat on a bucket for five minutes. Then they swapped back.
 
-Felix looked.
+## Part Fourteen. The Green Door
 
-Alex said, "**I can do hard things.**"
+The sky was going grey when Mr Yu stopped.
 
-Felix said it back. They kept digging.
+The new channel was nearly done. It ran from the field along the hedge, around the corner, and down to the gate, where it would join the thin channel from Friday. There was only one bit left, one narrow bank at the gate, holding back the lake like a hand on a door.
 
-## THE THREE DOORS
+But Mr Yu wasn't looking at the bank. He was looking down the lane, at a little cottage with a green door, and a light in the window. A small, high sound came out of it. A baby, crying.
 
-By dawn, the channel was nearly done. They had dug all the way to the school gate.
+"That's mine," said Mr Yu, in a strange voice.
 
-Mr Yu stopped. He was standing at the top of the lane, looking along the road. At the end of the lane was a small, neat house with a green door. There was a light on in the window.
+"Your house?" said Alex.
 
-He said, in a strange voice, "That's my house."
+"Mr Harris gave me the key on Monday. The groundsman lives there. It's mine. And my wife is in there. She came with the van, on Monday, with the baby." He said it as though he were reading it out of a book. "I have walked past that door three times this week, and I haven't gone in."
 
-Alex said, "You live there?"
+"Why not?" said Felix.
 
-Mr Yu said, "I did, once. Long ago. It's very like it."
+"Because I have a lot to dig, and not a lot of time. And if I stop, I'm afraid I won't start again. I have been on my way home for thirteen years."
 
-He didn't move. From inside the house came a small, high sound, a baby crying.
+Mr Yu's foot was tapping, tapping.
 
-Felix said, "Mr Yu, you could go in."
+Felix said nothing, because there wasn't anything to say. But Alex put his hand on Mr Yu's big, muddy hand.
 
-Mr Yu said, "I can't. Not until the water is gone."
-
-Alex said, "But your baby..."
-
-Mr Yu said, "I've passed that door three times. Each time, I wanted to go in. And each time, I thought, 'If I stop, I won't start again.'"
-
-He looked down at the twins.
-
-He said, "It's the hardest thing I've ever done."
-
-Felix said, "We could finish the last bit."
-
-Mr Yu said, "No. It's my job."
-
-Alex said, "Mr Yu. **You are not alone.** We're all here. We're all digging. You can go and see your baby."
+"We'll do the last bit," Alex said. "We've got it. You don't have to dig this alone."
 
 Mr Yu stared at him.
 
-Felix said, "We'll finish it. You'll see."
+"Go and see your baby," said Alex.
 
-Mr Yu's eyes filled with tears. He looked at the thirty children, and the gods, and the long, shining channel. He looked at Mr Gun, who had come out to join them, with an old spade in his hand, nodding.
+Mr Yu looked round. He looked at the children with their armbands, and the gods, and the long, shining channel, and Mr Gun with his boards, nodding. His eyes filled with tears.
 
-He said, very quietly, "Thank you."
+"Thank you," he said, very quietly.
 
-He gave his spade to Alex. He walked up the path to the green door. He raised his hand to knock.
+He gave Alex the spade, the long wooden one with the shiny handle. He walked down the lane, slowly, with a limp. He stopped at the green door and raised his hand to knock, and could not do it.
 
-The door opened before he could.
+A small gold bird fluttered from his shoulder. She landed on the knocker. *Tap, tap, tap.*
 
-## THE BABY
+The door opened.
 
-A tired-looking woman stood in the doorway, with a baby in her arms. It had a round, damp face, and a mop of black hair. It stopped crying when it saw Mr Yu.
+A tired-looking woman stood there with a baby in her arms. It had a round, damp face and a mop of black hair, and it stopped crying when it saw Mr Yu.
 
-The woman said, "You came back."
+"You're home," said Mrs Yu.
 
-Mr Yu said, "I'm sorry I took so long."
+"That's the fourth time I've walked up to this door," said Mr Yu. "I'm sorry it took so long."
 
-She said, "I know why."
+"I know why," she said.
 
-He took the baby in his big, rough hands. The baby looked up, and grabbed his finger, and gave a gurgle of delight.
+He took the baby in his big, rough hands. The baby grabbed his finger and gurgled with delight. Mr Yu pressed his forehead against the baby's, and his shoulders shook.
 
-Mr Yu's face crumpled. He pressed his forehead against the baby's, and his shoulders shook.
+Alex and Felix turned away to give him some space. Behind them, Maya, who had come to the door of the hall, wrote one word in her notebook and underlined it. It said *THREE*.
 
-Alex and Felix looked away, to give him some space. But they were smiling.
+## Part Fifteen. The Last Cut
 
-## THE LAST DIG
+Alex stood on the bank at the gate with Mr Yu's spade, and Felix stood next to him.
 
-The twins went back to the channel. They finished the last bit, side by side, with their blistered hands and their muddy knees. Alex made the final cut, with Mr Yu's spade, and Felix opened the gate.
+It was the biggest moment of the night, and it felt like it. On one side of the bank, the whole brown lake pushed gently, like a hand on a door. On the other, the thin channel shone, empty and ready. Mr Gong stood at the top with his whistle, and Mr Hanu was close enough to catch Alex by the collar.
 
-Mr Gong stood at the top, with his arms wide. He said, "Ready?"
+"It has to be the right place," whispered Alex. "I can't see."
 
-The twins said, "Ready."
+"I can," said Felix. He had the leaf from before, still in his pocket. He dropped it into the lake, and the leaf floated across the water and stopped at one spot in the bank, turning round and round, waiting. "There. Where the leaf is. That's where the water's trying to get out."
 
-He raised his hands.
+"Not there," said Mrs Tibbs, because she couldn't help it. "It looks too thick."
 
-And, with a long, deep, rolling **WHOOOOOSH**, the flood poured into the channel. It rushed along the path, through the gate, down the lane, past the green door, and out to the river. The field drained like a bath. The water level dropped, and dropped, and dropped, until the grass was visible, all green and glittery in the first light of morning.
+"It's the right place," said Felix. "The water told us."
 
-There was no wall to burst. There was no pressure. Just a smooth, steady river, running where it wanted to go.
+Alex lifted the spade. It felt strangely light. The handle was warm. He took a breath, and he cut.
+
+One slice. Two.
+
+And with a long, deep, rolling **WHOOOOSH**, the lake poured out. It rushed through the cut, into the new channel, past the fence boards, through the gate and into Mr Yu's thin line, and along the lane, past the green door, down to the drain and the river. Mr Hanu held Alex's collar, and Mr Gong held out his hands as if telling the water to be polite. The field drained like a bath. The water sank and sank, and the hall's water came running out of the side door and joined in, until the grass was showing, green and glittering in the first light.
+
+There was no wall to burst, and no pressure. There was only a smooth, steady river, running where it wanted to go.
 
 The swan on the goalpost looked down, ruffled its feathers, and flew away.
 
-## THE SUNRISE
+## Part Sixteen. Make a Path
 
-By the time the sun came up, the school was dry. The hall was damp, but not ruined. The sleeping bags were hanging on the line. And thirty tired, muddy children were sitting on the field with hot chocolate in their hands.
+By the time the sun came up, the school was dry. The hall was damp but not ruined. Sleeping bags hung on the line, and we sat on the field with hot chocolate. The Festival rice and flour were ruined, though, and Mr Zhu looked at the soggy sacks with great sorrow.
 
-Mr Harris stood in front of us, in his dressing gown, with a very sorry face.
+Mr Harris stood in front of us in his wet dressing gown.
 
-He said, "I was wrong. I built a wall, and it burst. And Mr Yu told me, and I didn't listen." He took a deep breath. "I'm sorry."
+"I was wrong," he said. "I built a wall, and it burst, and Mr Yu told me, and I didn't listen." He took a deep breath. "I'm sorry. I've been a headteacher for twenty-three years, and I have never been so glad to be wrong."
 
-Mr Yu, who had come back from his house with a baby on his arm, said, "It's all right, Mr Harris. Everyone makes mistakes."
+"Everyone makes mistakes, Mr Harris," said Mr Yu. "Besides, it was a very good wall."
 
-Mr Harris said, "I'd like to say thank you to everyone who dug. And to two children in particular."
+"Two children," said Mr Harris, "saw where the water wanted to go, and dug until they got it right. One noticed what the water was telling us, and one asked the right question. And a cat who hates water carried a torch through a flood."
 
-He looked at Alex and Felix.
+Willow, who was on Dot's lap, looked at the horizon and accepted all this as her due.
 
-He said, "You noticed where the water wanted to go. You asked the ground what it needed. You kept digging when you were tired. And you told a grown-up that he wasn't alone."
+Everyone clapped.
 
-The twins grinned.
+And Mr Yu sat down. He sat on the grass in the sunshine with the baby asleep on his chest. It was the first time we had ever seen him do it. Even his foot had stopped tapping. We gathered round him.
 
-He said, "I've been a headteacher for twenty-three years, and I have learned more from you in one night than I did in the last twenty."
+"When I was young," he said, "I thought you solve a problem by stopping it. Blocking it. Building a wall. I watched my father try it. It broke my heart." Mr Gun, sitting on an upturned bucket, nodded. "But I learned something. A problem is like a river. If you shut it in, it gets bigger. If you give it somewhere to go, it runs clear."
 
-Everybody clapped.
+"Like feelings," said Alex.
 
-## THE LESSON
+"Like when you're sad," said Felix, "and you cry, and then it's gone."
 
-Mr Yu sat down on the grass in the sunshine, with the baby asleep on his chest. We gathered round him.
+"Exactly," said Mr Yu. "You can't wall up a feeling. Give it somewhere to go. Make a path, not a wall."
 
-He said, "When I was young, I thought the way to solve a problem was to stop it. Block it, and build a wall. And I watched my father try, and fail. It broke my heart."
+"Make a path, not a wall," said Dot, who had just worked out how to say it.
 
-Mr Gun, sitting nearby, nodded.
+And every child said it, and every god, and every grown-up, in the golden morning light. The little gold bird on Mr Yu's shoulder gave a tiny chirp.
 
-Mr Yu said, "But then I learned something. Problems are like rivers. If you try to stop them, they get bigger. If you give them somewhere to go, they run clear."
+## Part Seventeen. A Fence With a Gate
 
-Alex said, "Like feelings."
+Afterwards, we saw them from the field.
 
-Felix said, "Like when you're sad, and you cry, and then you feel better."
+Mr Yu and Mr Gun were sitting on the bank of the new channel, looking at the water. They didn't say anything for a long time. Alex and Felix stayed back, because some things are private. Willow sat beside them like a very small guard.
 
-Mr Yu said, "Exactly. You can't wall up a feeling. You have to let it flow."
+"I'm sorry, son," said Mr Gun at last. "I built walls. I was sure. I didn't listen."
 
-He looked at us all.
+"You came down the path with fence boards in the dark," said Mr Yu. "Nobody asked you to."
 
-He said, "So here is what I'd like you to remember. **Make a path, not a wall.**"
+"I didn't know a fence could be a bank."
 
-We said it back, every child, every god and every grown-up, in the golden morning light:
+"It can hold a path open. That's all a good wall ever was."
 
-**"MAKE A PATH, NOT A WALL."**
+Mr Yu took his father's shaking hand in his own and held it, the way you hold something you thought you'd lost.
 
-Then Alex said, "**I can be scared and brave at the same time.**"
+"It's all right, Dad," he said. "You're listening now."
 
-And Felix said, "**I can do hard things.**"
+Mr Gun gave a creaky, cracked laugh. Then he propped his STOP sign against the cottage fence, and everyone could see it said STOP on the front and nothing on the back. "Good for cars," said Mr Gun. "Not so good for water."
 
-And Dot said, "**I am not alone.**"
+The baby woke, and gurgled, and grabbed two fingers at once.
 
-And Mr Gun, in a gentle, creaky voice, said, "**I can say sorry, make it right, and keep going.**"
+## Part Eighteen. The Ending (With a Feather)
 
-And the little golden bird of Hope, who was sitting on Mr Yu's shoulder, gave a tiny chirp.
+On Saturday morning, the grown-ups began to arrive to take us home, and Mrs Tibbs counted us out through the gate.
 
-## THE ENDING (WITH A FEATHER)
+Maya stopped at the gate, and so did we.
 
-On the way home, Maya stopped at the school gate.
-
-The channel was still there, running along the lane in a neat, silvery line, and in the clear water, a single long green feather was floating.
-
-It was as long as her arm. It shimmered like emerald, and gold, and blue, and a faint trail of mist rose from it.
+The channel was still there. It ran along the lane in a long silver line, past the green door, and the water was running clear. In it floated a single green feather, as long as Maya's arm. It shimmered like emerald and gold and blue, and a faint trail of mist rose from it.
 
 She picked it up. It was warm.
 
-Kenji said, "What is it?"
+"What is it?" said Kenji.
 
-Maya said, very softly, "It's from a bird called the **quetzal.**"
-
-Ollie said, "Is that a big bird?"
-
-Maya said, "It's a very sacred one. And it's one of the symbols of a god who is half bird and half snake, in a country far across the sea."
-
-Alex looked at Felix. Felix looked at Alex.
+"A quetzal feather," said Maya, very softly. "From a very sacred bird, from a long way across the sea."
 
 Then, from the puddle by the gate, a small, sleepy voice said, in a rustling accent, "Excuse me. Is this the school with the corn?"
 
-We all turned.
+We all looked down.
 
 In the puddle, a tiny, bright green snake, with feathers instead of scales, was looking up at us with two shiny black eyes.
 
-It said, "I've come a very long way. I was told you might need some help finding it."
+"Home time!" called Mrs Tibbs from the playground.
 
-Alex and Felix said, at exactly the same time, "**Monday.**"
+The snake gave a little wriggle, and slid down the drain.
+
+Alex looked at Felix, and Felix looked at Alex. And they said, at exactly the same time, "**Monday.**"
 
 **The End.**
