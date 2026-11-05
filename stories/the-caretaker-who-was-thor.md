@@ -8,7 +8,7 @@ gods: ["Thor (Norse)"]
 lore: thor
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Mister Harris", "Mrs Tibbs", "Mr Pickering"]
 icon: cloud
-publishDate: 2026-11-04
+publishDate: 2026-10-06
 draft: false
 ---
 

@@ -8,7 +8,7 @@ gods: ["Loki (Norse)"]
 lore: loki
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mr Thorley"]
 icon: sun
-publishDate: 2026-11-04
+publishDate: 2026-10-11
 draft: false
 ---
 

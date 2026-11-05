@@ -8,7 +8,7 @@ gods: ["Athena (Greek)"]
 lore: athena
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion"]
 icon: cloud
-publishDate: 2026-11-04
+publishDate: 2026-10-19
 draft: false
 ---
 

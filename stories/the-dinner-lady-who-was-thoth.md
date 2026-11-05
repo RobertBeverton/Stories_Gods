@@ -8,7 +8,7 @@ gods: ["Thoth (Egyptian)"]
 lore: thoth
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mrs Dunn", "Mr Thorley"]
 icon: boat
-publishDate: 2026-11-04
+publishDate: 2026-10-12
 draft: false
 ---
 

@@ -8,7 +8,7 @@ gods: ["Shiva (Hindu)"]
 lore: shiva
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion"]
 icon: shell
-publishDate: 2026-11-04
+publishDate: 2026-10-07
 draft: false
 ---
 

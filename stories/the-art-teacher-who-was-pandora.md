@@ -8,7 +8,7 @@ gods: ["Pandora (Greek)"]
 lore: pandora
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Mr Harris", "Elfine", "Marion"]
 icon: sun
-publishDate: 2026-11-04
+publishDate: 2026-10-21
 draft: false
 ---
 

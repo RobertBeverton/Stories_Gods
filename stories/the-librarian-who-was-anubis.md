@@ -8,7 +8,7 @@ gods: ["Anubis (Egyptian)"]
 lore: anubis
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mr Thorley", "Mr Pickering"]
 icon: boat
-publishDate: 2026-11-04
+publishDate: 2026-10-08
 draft: false
 ---
 

@@ -8,7 +8,7 @@ gods: ["Persephone (Greek)"]
 lore: persephone
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mrs Ibbs", "Mr Thorley"]
 icon: berry
-publishDate: 2026-11-04
+publishDate: 2026-10-13
 draft: false
 ---
 

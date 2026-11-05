@@ -8,7 +8,7 @@ gods: ["Hephaestus (Greek)"]
 lore: hephaestus
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mr Pickering", "Mr Haydes", "Gideon Fox", "Ms Crabtree"]
 icon: boat
-publishDate: 2026-11-04
+publishDate: 2026-10-15
 draft: false
 ---
 

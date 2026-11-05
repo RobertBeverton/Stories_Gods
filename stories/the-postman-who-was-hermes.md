@@ -8,7 +8,7 @@ gods: ["Hermes (Greek)"]
 lore: hermes
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion", "Mr Harris", "Mr Thorley", "Mrs Ibbs", "Mrs Felicity", "Mr Jackson", "Mr Shah", "Miss Persey"]
 icon: cloud
-publishDate: 2026-11-04
+publishDate: 2026-10-14
 draft: false
 ---
 

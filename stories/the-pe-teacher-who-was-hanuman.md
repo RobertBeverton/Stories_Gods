@@ -8,7 +8,7 @@ gods: ["Hanuman (Hindu)"]
 lore: hanuman
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Ms Fortune", "Mrs Felicity"]
 icon: sun
-publishDate: 2026-11-04
+publishDate: 2026-10-17
 draft: false
 ---
 

@@ -8,7 +8,7 @@ gods: ["The Seven Lucky Gods (Japanese)"]
 lore: seven-lucky-gods
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mr Pickering"]
 icon: boat
-publishDate: 2026-11-04
+publishDate: 2026-10-10
 draft: false
 ---
 

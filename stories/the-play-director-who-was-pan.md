@@ -8,7 +8,7 @@ gods: ["Pan (Greek)"]
 lore: pan
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mr Thorley"]
 icon: cloud
-publishDate: 2026-11-04
+publishDate: 2026-10-16
 draft: false
 ---
 

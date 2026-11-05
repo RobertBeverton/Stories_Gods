@@ -8,7 +8,7 @@ gods: ["Prometheus (Greek)"]
 lore: prometheus
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Mister Harris", "Mrs Tibbs", "Mr Pickering", "Elfine", "Marion"]
 icon: sun
-publishDate: 2026-11-04
+publishDate: 2026-10-20
 draft: false
 ---
 

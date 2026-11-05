@@ -8,7 +8,7 @@ gods: ["Felicitas (Roman)"]
 lore: felicitas
 characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Marion", "Mister Harris", "Mrs Tibbs", "Mr Pickering"]
 icon: berry
-publishDate: 2026-11-04
+publishDate: 2026-10-09
 draft: false
 ---
 
