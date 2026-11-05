@@ -116,14 +116,14 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 ### 8. The Gardening Teacher Who Was Persephone
 - **File:** `stories/the-gardening-teacher-who-was-persephone.md`
 - **God / tradition:** Persephone, Greek
-- **Staff on the badge:** Miss Persey, Gardening Teacher (leader of Gardening Club; no badge shown); Mrs Demmer (Demeter, runs the allotments); Mr Haydes, Boiler Maintenance (Hades; badge shown)
-- **Cast:** Alex, Felix, Maya, Ollie, Kenji, the narrator, Mr Harris, Mrs Demmer, Mr Haydes, Mrs Ibbs, Cerberus
-- **Length:** about 3,898 words in 21 sections. Written: not recorded.
-- **Summary:** Flowers grow wherever Miss Persey walks, in October. The field cracks and a hooded man in a black chariot takes her down. Winter falls at half past two. Maya works out the boiler room is the door to the Underworld. The twins and friends go down, say the affirmation, and feed Cerberus their sandwiches (Felix mentions the Playground Dog from Wigglesbottom). They find Mr Haydes, who is quiet and ordinary under his woolly hat. The deal is struck over a pomegranate with six seeds. First story with real peril and spoken affirmations. The myth's abduction is softened.
-- **The god's words:** "I AM A SEED. THE DARK IS WHERE I GROW." The affirmation "I CAN BE SCARED AND BRAVE AT THE SAME TIME" is also here, and the friends each say one at the end ("I AM SMALL, BUT I AM STRONG", "I AM NOT ALONE" and others).
-- **Closing scene** (The Postman): "...something small and furry was bouncing up and down on the climbing frame, shrieking, "Is that a MANGO?""
-- **Hook at the end:** Mr Hermes at the gate with parcels for Mr Thorley, Mrs Ibbs and "a very urgent one for the new PE teacher", and the monkey in the gym (Hanuman).
-- **Corrected:** Alex is in the cast (Alex and Felix both go down). The Hermes parcels list three names, not one.
+- **Staff on the badge:** Miss Persey, Gardening Club (leader of Gardening Club); Mrs Demmer (Demeter, runs the allotments); Mr Haydes, Boiler Maintenance (Hades; badge shown)
+- **Cast:** Alex, Felix (Felix leads), Willow, Maya, Kenji, Ollie, Elfine, Marion, Mr Harris, Mrs Tibbs, Mrs Ibbs, Mrs Demmer, Mr Haydes, Cerberus; cameo Mr Thorley (the list)
+- **Length:** about 5,800 words in 18 parts (amended and expanded). Written: not recorded.
+- **Summary:** Opens on the Friday flowers from story 7 ("We should have known by the flowers"): Monday, the car park grows as Miss Persey arrives; the boiler man Mr Haydes watches. Mrs Demmer at the fence ("PERRRSY! COAT!" is the word nobody could hear) gives Felix and Alex a seed each. Evidence list ("the strongest list since Mr Thorley"). Gardening Club is the learning beat (too deep, too wet, then knuckle deep and a polite sprinkle); the pots sit in the dark cupboard. Felix spots the green-ink label matches the pot on the step. Miss Persey picks a glowing flower, the field cracks, a hooded chariot takes her; winter falls at half past two (Mrs Tibbs stays with Mrs Demmer). Maya tells the sad part and the rule (eat the food of the Underworld and you belong a little, a little time for each seed; tellings differ). Felix works out the woolly hat means the boiler room. Marion waits at the top with a stopwatch. Willow's brave thing: sits in front of Cerberus and washes a leg. The whispers are beaten by the children telling each other true things (no spoken chant). A quiet bench by a table laid for one. Mr Haydes is shy and sorry; Alex counts six seeds, six months, two homes; he asks properly. The twins give Mr Haydes their seeds to grow. A messenger carries word ahead; the chariot takes everyone up. Spring floods back (HIGHLY UNUSUAL becomes BACK TO NORMAL).
+- **The god's words:** "I am a seed. The dark is where I grow." (the only spoken affirmation; recited at the Summer Fair)
+- **Closing scene:** Miss Persey explains the pot on the step was hers ("Do not water until spring") and gives it to the twins to keep; Ollie's gravel seed is a living stone.
+- **Hook at the end:** a postman walks backwards through the gate that did not open, past the bin and bench without bumping into anything, something flapping on his heels, then turns and tips his cap. The twins say "Monday". Sets up Hermes (story 9, which opens with the postman walking backwards). Hermes is never named.
+- **Notes:** the first stay below begins "next autumn, when the leaves come down"; the number of seeds is six but Maya says tellings differ. The old Wigglesbottom reference, the five spoken affirmations and the Hermes reveal are gone. Elfine and Marion appear lightly (a fact, a stopwatch).
 
 ### 9. The Postman Who Was Hermes
 - **File:** `stories/the-postman-who-was-hermes.md`
@@ -140,14 +140,15 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 ### 10. The Workshop Teacher Who Was Hephaestus
 - **File:** `stories/the-workshop-teacher-who-was-hephaestus.md`
 - **God / tradition:** Hephaestus, Greek
-- **Staff on the badge:** Mr Heston (badge reads MR HEPHESTON, DESIGN AND TECHNOLOGY; runs the Making Club in a shed); Ms Crabtree, School Inspector
-- **Cast:** Alex, Felix, Maya, Kenji, Ollie, Dot, Gideon Fox (Year 6), Mr Harris, Ms Crabtree, Talos, the golden helpers; cameos Mr Bish, Mr Haydes
-- **Length:** about 3,288 words in 18 sections. Written: not recorded.
-- **Summary:** Mr Heston walks with a limp and a stick. Gideon Fox mocks him, then an inspector touches Talos, the bronze giant, without asking. Talos goes rogue ("INTRUDER. PROTECT. SCHOOL."). Mr Heston explains the plug in Talos's ankle, and the twins pull it with a silver spanner while Dot's thrown cushion makes the giant slip. Talos ends up asleep. Gideon is later stuck in one of the golden chairs.
-- **The god's words / affirmation:** "I CAN BE SCARED AND BRAVE AT THE SAME TIME." "I CAN DO HARD THINGS." "DIFFERENT IS CLEVER."
-- **Closing scene** (The End (With a Banana)): A crash from the gym. On the top bar hangs "a very large monkey in a tracksuit with a whistle round his neck. ... He shouted, **"RIGHT! WHO WANTS A RACE?"** The twins looked at each other. Alex said, "Next week?" Felix said, "Obviously.""
-- **Hook at the end:** the monkey (Hanuman). No "Monday".
-- **Corrected:** the inspector is Ms Crabtree. Dot and Gideon Fox are in the cast. "Different is clever" is the closing theme.
+- **Staff on the badge:** Mr Heston (badge reads MR HEPHESTON, DESIGN AND TECHNOLOGY; runs the Making Club in the old shed); Ms Crabtree, School Inspector
+- **Cast:** Alex, Felix (Felix leads), Willow, Maya, Kenji, Ollie, Dot, Elfine, Marion, Gideon Fox (a big kid from the class above), Mr Harris, Mrs Tibbs, Ms Crabtree, Talos, the golden helpers; cameos Mr Pickering, Mr Haydes, Mr Thorley, Mr Jackson, Mrs Ibbs
+- **Length:** about 5,250 words in 17 parts. Rewritten and expanded 2026-11-04.
+- **Summary:** Mr Heston limps with a stick and picks up the hot kettle bare-handed. Gideon mocks his walk and the twins stand up for him. At Making Club the twins build a bronze beetle: Mr Heston's screws turn the other way round, and Dot's small fingers place the last one. On Friday Ms Crabtree touches Talos without asking, and the bronze giant runs round the school shouting INTRUDER (he steps carefully over everyone). Mrs Tibbs, Dot, Elfine and Marion take the little ones into the hall. Felix asks Talos "please", Willow sits in his path, and the twins turn his ankle plug the Heston way (backwards) to put him to sleep. Gideon is later caught in a golden chair and Mr Heston frees him kindly (the twins find the catch); Gideon apologises of his own accord and joins the Making Club.
+- **The god's words / affirmation:** "DIFFERENT IS CLEVER." (the only spoken one; being brave while scared is acted, not said). Refrain: "Practice."
+- **Closing scene** (Part Seventeen. A Crunch in the Hall): pipe music and a happy crunch from the school hall, two-toed hoofprints in the sawdust, green wool on the door handle, a note "AUTUMN PLAY. NEW DIRECTOR. PLEASE REMAIN CALM." The twins say "Monday" together.
+- **Hook at the end:** a piper in the hall (Pan, story 11).
+- **Opens on:** story 9's box addressed to the new PE teacher, still rustling and put in the stationery cupboard with NOT YET on it (a bridge line in Part One; revise if story 9's rewrite ends differently).
+- **Corrected:** the inspector is Ms Crabtree. Gideon is a big kid, no year group. Dot's cushion is gone; the twins' win is their own.
 
 ### 11. The Play Director Who Was Pan
 - **File:** `stories/the-play-director-who-was-pan.md`

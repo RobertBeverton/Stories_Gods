@@ -1,29 +1,52 @@
 ---
 title: "The Workshop Teacher Who Was HEPHAESTUS"
-description: "A workshop teacher with a limp and a bronze giant shows the twins that different is clever."
+description: "A workshop teacher with a limp and a bronze giant shows Alex and Felix that different is clever, and that some things only turn the other way round."
 series: "The Staff Room Gods"
 seriesOrder: 10
-tags: ["mythology", "school"]
+tags: ["mythology", "greek", "being different"]
 gods: ["Hephaestus (Greek)"]
 lore: hephaestus
+characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion", "Mr Harris", "Mrs Tibbs", "Mr Pickering", "Mr Haydes", "Gideon Fox", "Ms Crabtree"]
+icon: boat
+publishDate: 2026-11-04
 draft: false
 ---
 
+## Part One. The Man With the Wobble
+
 The first time we met Mr Heston was on a Monday, and he was WALKING WITH A WOBBLE.
 
-He had a limp. He used a big wooden stick with a brass top and went *clomp, clink, clomp, clink* all the way down the corridor. He was wide and strong, with a black beard, an apron covered in scorch marks and arms like two cannonballs. His badge said **MR HEPHESTON, DESIGN AND TECHNOLOGY.**
+The brown box from the front step was still sitting in the corridor that morning, wrapped in string and covered in stamps. It had gone very quiet. "Sulking," said Ollie. Mr Harris wrote NOT YET on it in big letters, and pushed it into the stationery cupboard with his foot, and shut the door quickly. Then the sound of something going *clomp, clink, clomp, clink* came down the corridor, and we forgot all about boxes.
 
-Nobody had ever had Design and Technology before. Mr Harris said it was "a new club in the old shed." Then he said, "Don't touch anything hot."
+He used a big wooden stick with a brass top, and he leaned on it a little with every step. He was wide and strong, with a black beard, an apron covered in scorch marks and arms like two cannonballs. His badge said **MR HEPHESTON, DESIGN AND TECHNOLOGY.**
 
-Mr Heston laughed and picked up the kettle with his bare hand.
+"Everyone, this is Mr Hepheston," said Mr Harris, clutching his clipboard. "He is going to start a new club in the old shed. It is called the Making Club. Please do not touch anything hot."
+
+"Call me Mr Heston," said Mr Heston. "Everyone does. The other one takes too long to say."
+
+Then he picked up the staff room kettle, which had just boiled, with his bare hand, and poured himself a cup of tea.
 
 He didn't even blink.
 
-## THE SHED
+Mr Harris blinked for him. Twice. Then he remembered his other news, which was the sort of news he always remembers at the worst moment.
 
-On Tuesday, Alex and Felix Bailey went to look inside the shed. They are twins, so they have a system. Alex goes in first and notices, and Felix goes second and asks.
+"And on Friday," he said, "we have an Inspector coming. Ms Crabtree. She will look at everything in the whole school, and if she likes it, we will win an award. I would like every club to show her something wonderful."
 
-Alex noticed that the shed was much bigger on the inside. It had a roaring fire in the corner, and an anvil, and hundreds of tools hanging from the ceiling, and it smelled of hot metal and toast.
+"I have an idea," said Mr Heston.
+
+"Please don't tell me," said Mr Harris. "I would like to be surprised. In a calm way."
+
+## Part Two. Bigger on the Inside
+
+On Tuesday, Alex and Felix Bailey went to look inside the old shed. They are twins, so they have a system. Alex goes in first and notices things. Felix goes in second and asks about them. Then they swap.
+
+Alex noticed that the shed was much bigger on the inside. It had a roaring fire in one corner, and an anvil, and hundreds of tools hanging from the ceiling like silver rain, and it smelled of hot metal and toast. In the corner was a tall chair made of gold, with a cloth thrown over it and a rope round it. A card was tied to the rope. It said, in small neat writing, **DON'T SIT. FROM MY CROSSER DAYS.**
+
+Alex also noticed a wooden sign lying flat on a bench, with the paint still wet. It said **PLEASE ASK BEFORE YOU TOUCH.** It had a tiny drip on the last letter.
+
+At the very back of the shed was something enormous under a huge cloth. It was breathing. Slowly. Like a very big dog that was fast asleep.
+
+Willow had come in with us. She is the Bengal Reading Cat, and she is very dignified. She walked all the way round the shed, sniffed the anvil, and settled on a stool near the door, where the warm air came in. She wrapped her tail round her paws and half closed her eyes. Willow likes places that are warm and have something interesting in the corner.
 
 Felix asked, "Mr Heston, how did you fit all this in?"
 
@@ -31,171 +54,217 @@ Mr Heston said, "Practice."
 
 Then Alex noticed the helpers.
 
-There were two of them, small and golden and shaped like girls, but made entirely of shiny metal. They were polishing spanners. One of them walked over with a cup of tea on a tray and gave it to Mr Heston, and said in a tinkly voice, "Careful, it's hot."
+There were two of them, small and golden, shaped like girls, but made entirely of shiny metal. They were polishing spanners. One of them walked over with a cup of tea on a tray, and said in a tinkly voice, "Careful, it's hot."
+
+Mr Heston took the cup in his bare hand.
 
 Felix asked, "Are they robots?"
 
-Mr Heston said, "They're my friends. I built them a long time ago. I couldn't walk very well, you see, so I made some helpers who could walk for me." He patted one on the head. "They're better at it than I am."
+"They are my friends," said Mr Heston. "I made them a long time ago. I couldn't walk very fast, you see, so I made some helpers who could walk for me." He patted one gently on the head. "They are better at it than I am."
 
-Both twins said, at exactly the same time, "We need Maya."
+He said it without a bit of sadness. He said it the way you say that your friend is good at football.
 
-## WHO IS HEPHAESTUS?
+"What is the sign for?" asked Alex.
 
-Maya Singh was at the compost bin, as usual. She said she had been there since breakfast, and that she'd already worked it out.
+"Ah," said Mr Heston. "For the big fellow at the back. I haven't hung it up yet. The paint is slow."
 
-Maya is the one who has read the Greek book AND the Roman one, so Ollie and Kenji sat down on upside-down buckets and listened.
+Both twins said, "We need Maya."
 
-She said, "Mr Heston is **HEPHAESTUS.** The Greeks said it like *Heh-FEE-stus*. The Romans called him **VULCAN**, and that's where we get the word *volcano*."
+## Part Three. Behind the Compost Bin
 
-Kenji said, "So he's the god of volcanoes?"
+Maya Singh was behind the compost bin, as usual. She said she had been there since breakfast, and she had already worked it out.
 
-Maya said, "Partly. He's the god of **fire**, **forges**, **metalwork** and **inventing**. In the stories, he lives under a volcano, and every time it rumbles, it's him hammering away."
+Maya has a notebook, a sharp pencil, and the biggest brain in the school, and she has read the Greek book AND the Roman one. Kenji and Ollie sat down on upside-down buckets to listen. Elfine and Marion came and sat on the wall to listen too. They are twin cousins, big kids, and they help with all sorts of clubs. Elfine wears glasses and tells facts. Marion carries the things.
 
-Ollie said, "Cool."
+"Mr Heston is **HEPHAESTUS,**" said Maya. "The Greeks said it like *Heh-FEE-stus*. The Romans called him Vulcan, and that is where we get the word *volcano*."
 
-Maya said, "It gets sadder. Do you want the whole story?"
+"So he's the god of volcanoes?" asked Kenji.
+
+"Partly," said Maya. "He is the god of **fire**, **forges**, **metalwork** and **inventing**. In the old stories he works underground, and every time a volcano rumbles, people said it was him hammering."
+
+"Bronze is made of copper and tin," said Elfine. "That's a fact."
+
+"Thank you, Elfine," said Maya. "It gets sadder, though. Do you want the whole story?"
 
 We all said yes.
 
-## THE GOD WHO WAS THROWN AWAY
+## Part Four. The God Who Was Thrown Away
 
-Maya said that long ago, on top of Mount Olympus, there was a god called Hephaestus who was born with a wobbly leg. His mum, **Hera**, the queen of the gods, was very proud and wanted perfect children. When she saw his foot, she got upset, and she did something terrible. She threw him off the mountain.
+Maya said that long ago, on top of Mount Olympus, there was a god called Hephaestus who was born with a wobbly leg. In some of the stories it was a bad foot. In some it was both legs. Everybody agrees he walked differently.
+
+His mum was **Hera**, the queen of the gods. She wanted perfect children, and when she saw his foot, she got upset, and she did something that was not kind. She threw him off the mountain.
 
 Felix gasped.
 
-Maya said, "He fell for a whole **day** and landed in the sea."
+"He fell for a whole **day,**" said Maya, "and landed in the sea."
 
-Alex said, "Is he all right?"
+"Is he all right?" asked Alex.
 
-Maya said, "He was. Two kind sea goddesses called Thetis and Eurynome found him. They took him to a cave under the waves, and looked after him for nine years."
+"He was," said Maya. "Two kind sea goddesses called Thetis and Eurynome found him. They took him to a cave under the waves, and they looked after him for nine years."
 
-She said, "And in that cave, he learned to make things. Beautiful things. Brooches, necklaces, and little tools, with a forge that he built himself. He was so good at it that every god started to hear about him."
+Ollie said quietly, "That's a good thing for them to do."
+
+"It is," said Maya. "And in that cave, he learned to make things. Brooches, and necklaces, and tiny tools, with a forge he built himself. He got better and better at it. Every time something went wrong he did it again, and a bit differently, and one day it went right."
+
+"Practice," said Alex.
+
+"Practice," said Maya. "And then he got so good that every god heard about him. He made Zeus's thunderbolts. He made golden palaces. He made the helpers like the ones we saw, to help him walk, and a giant of bronze who guarded an island."
 
 Kenji said, "So he's a hero."
 
-Maya said, "He's the **cleverest** god there is. He built Zeus's thunderbolts. He made Hermes's winged helmet. He built golden palaces for all the gods, and even a pair of golden robot girls, to help him walk, like the ones we saw. He built a giant made of bronze. And he built things that nobody else could think of."
+"I think he is," said Maya.
 
-Alex said, "And all because he was different."
+Alex said, "And he made all of it because he did things in his own way."
 
-Maya said, "Yes. Different is clever."
+Marion, who does not say very much, nodded very hard.
 
-## THE CHAIR
+## Part Five. The Golden Chair
 
-Maya had one more part, and she lowered her voice.
+Maya lowered her voice. She had one more part, and she said it might be the tricky one.
 
-She said that when Hephaestus grew up, he was still a little bit angry with his mum, so he made her a present. It was the most beautiful golden throne anyone had ever seen. When Hera sat in it, **clunk**, invisible bands wrapped round her, and she couldn't get out.
+She said that when Hephaestus grew up, he was still hurt, and he was still a bit cross with his mum. So he made her a present. It was the most beautiful golden throne anybody had ever seen. When Hera sat in it, **clunk,** invisible bands wrapped round her, and she couldn't get up.
 
-Ollie said, "He TRAPPED her?"
+"He TRAPPED her?" said Ollie.
 
-Maya said, "Yes. She begged him to let her go, but he wouldn't come to Olympus. The other gods had to send a friend to cheer him up, and eventually he agreed to come back and let her out. In the end, he forgave her."
+"Yes," said Maya. "She begged him to let her go, but he wouldn't come to Olympus. The other gods had to send a friend to cheer him up and talk to him. In the end, he came, and he let her go, and they were friends again."
 
-Felix said, "That was a bit much."
+"That was a bit much," said Felix.
 
-Alex said, "But I think I'd have been cross too."
+"But I think I'd have been cross too," said Alex.
 
-Maya said, "Both of those are true. It's complicated. But it's an important thing to remember, because it means **feelings can be big, and we still need to be kind.**"
+"Both of those are true," said Maya. "It's complicated. Hephaestus made something he wasn't proud of, and then he put it right. That is the big idea. **Big feelings are allowed, and we still have to be kind.** I think he knows that. He's a bit careful with the chairs now."
 
-## THE LIST
+Felix thought of the card on the rope. *From my crosser days.*
 
-Alex held the pencil. Felix held the notebook. They always share.
+"Alex," he said. "That chair in the shed."
+
+"I know," said Alex. "We don't sit on it."
+
+## Part Six. The List
+
+Alex held the pencil. Felix held Maya's notebook, because they always share jobs. They wrote the evidence in a column.
 
 **1. THE LIMP AND THE STICK.** Hephaestus is always drawn with a bad leg.
 
-**2. THE KETTLE.** Mr Heston picked it up with his bare hand. Nobody's hands are that tough.
+**2. THE KETTLE.** Nobody's hand is that tough.
 
-**3. THE GOLDEN HELPERS.** There are two of them, and they are shiny, and they walk by themselves.
+**3. THE GOLDEN HELPERS.** Two of them. Shiny. They walk by themselves.
 
-**4. THE SHED.** It is much bigger on the inside than on the outside.
+**4. THE SHED.** Much bigger on the inside than on the outside.
 
-**5. THE VOLCANO RUMBLE.** Every afternoon, at exactly half past two, the ground under the shed goes *rumble rumble rumble*. Mr Heston says it's "just the boiler."
+**5. THE VOLCANO RUMBLE.** Every afternoon at half past two, the ground under the shed goes *rumble, rumble, rumble.* The teacups jiggle. Mr Heston says it is "just the boiler."
 
-Felix said, "We've met the boiler man. It's Mr Haydes."
+At half past two that afternoon, we all stood in the playground to check. At exactly half past, the ground went *rumble, rumble, rumble.* Ollie's lunchbox hopped across the bench. Kenji said, "That's nice, it's like a giant is purring."
 
-Alex said, "And he'd never make a noise like that."
+A grey head popped up from the boiler room steps. It was Mr Haydes, in his woolly hat.
 
-## THE WRONG KIND OF LAUGHING
+"It's not me," he said. "I only do the boiler. I would never make a noise like that. That noise has FEELINGS in it." He went back down, and shut the door.
+
+"Strongest list since Mr Thorley's," said Felix.
+
+"We don't talk about Mr Thorley's," said Alex. And Maya underlined the volcano rumble twice.
+
+## Part Seven. The Wrong Kind of Laughing
 
 On Wednesday, something happened that made us all feel cross.
 
-Gideon Fox from the class above walked past the shed with his friends. He saw Mr Heston coming out with his stick, and he did a wobbly walk behind him, going **clomp, clink, clomp, clink**, with a silly face. His friends laughed.
+Gideon Fox, from the class above, walked past the shed with his friends. He is a big kid. He is the kind of big kid who walks as if the playground is his. He saw Mr Heston coming out with his stick, and he did a wobbly walk behind him, going **clomp, clink, clomp, clink,** with a silly face. His friends laughed.
 
-Mr Heston didn't turn around. But his shoulders sagged, just a little, like he had heard it before.
+Mr Heston didn't turn round. But his shoulders sagged, just a little, as if he had heard it before.
 
-Felix went very red. He said, "That's not funny."
+Felix went very red. He said, "That is not funny."
 
-Gideon said, "It's only a joke."
+"It's only a joke," said Gideon.
 
-Alex said, "It's not a joke if the person isn't laughing."
+"A joke is when everybody's laughing," said Alex. "He isn't."
 
-Gideon shrugged, and he and his friends went off.
+Gideon shrugged, and he and his friends went off, but one of the friends looked back, a bit uncertain, and then looked away.
 
-We stood there for a bit. It was quiet. Then Mr Heston turned round, and he said, in a gentle voice, "Thank you, you two. But you don't have to stick up for me."
+We stood there for a bit. It was quiet. Willow, who had been sitting on the shed step, walked slowly after Gideon, stopped, gave him a long cold stare, and came back. It was the most disapproving thing we have ever seen a cat do.
 
-Alex said, "We do, though."
+Then Mr Heston turned round, and said, in a gentle voice, "Thank you, you two. But you do not have to stick up for me."
 
-Felix said, "That's what friends do."
+"We do, though," said Alex.
 
-Mr Heston looked at them both for a long time, and a tiny spark floated up from his beard.
+"That's what friends do," said Felix.
 
-## THE BIG PROJECT
+Mr Heston looked at them both for a long moment, and a tiny spark floated up out of his beard.
 
-On Thursday, Mr Harris made a big announcement.
+"Well," he said. "Making Club starts in ten minutes. Anyone who likes."
 
-He said, "We have a special guest coming on Friday. An Inspector. She's going to look at our whole school, and if she likes it, we'll win an award. I'd like all clubs to show her something wonderful."
+## Part Eight. The Beetle That Wouldn't
 
-Mr Heston said, "I have an idea."
+Making Club had Alex, Felix, Maya, Kenji, Ollie, Elfine and Marion, and Dot from Reception, who had only been at the school a little while. Dot is very small and very quiet, and she came in last and stood by the door. Mr Heston gave her the job of oiling the golden helpers' hinges. She did it with her tongue between her teeth, and the helpers said, "Thank you, Dot," in their tinkly voices, and she went pink all the way to her ears.
 
-He took us into the shed. At the back, hidden under a huge cloth, was something enormous.
+Mr Heston handed each of us a tray of little parts. Gears, wires, springs, tiny silver screws.
 
-He whipped off the cloth. We all gasped.
+"Today," he said, "we are making a beetle. A bronze beetle that walks."
 
-It was a **GIANT**. It was made of bronze, shiny as a new penny, and it was as tall as the shed. It had thick arms and legs, and big round hands, and a smooth face with two glowing orange eyes. A tiny little door was open in its chest, and inside, little gears were turning.
+Nobody had ever made a beetle before. It did not go well.
 
-Mr Heston said, "Meet **TALOS.** He's going to be our school guard."
+Felix and Alex made theirs together. Felix wound the spring. Alex put in the gears. They stood it on the bench, and it went *whirr,* and then the legs flew off in three directions, and the whole thing fell over and lay on its back, fizzing.
 
-Ollie said, "A guard?"
+"That's a good start," said Mr Heston, cheerfully, sweeping the legs into a tin. "My first one ran away."
 
-Mr Heston said, "A long time ago, I made him for a king, to protect an island. He runs round the whole island three times a day. He's very loyal." He looked a bit sad. "I thought it would be nice to have him again. I missed him."
+The second try was better. The beetle took one step, went *tick,* wobbled to the left, and sat down.
 
-Maya whispered to us, "That's the bronze giant from the story. He guarded the island of Crete."
+"The screws won't hold," said Felix. "I keep tightening and they keep coming loose."
 
-Kenji whispered, "Is he safe?"
+"Ah," said Mr Heston. He took the little screwdriver, and turned it the wrong way round. "Mine turn the other way. All my screws do. Righty-loosey, lefty-tighty. I have always made them like that. It's a habit. It makes my things hard to take apart, which is useful, and hard to put together, which is less useful."
 
-Maya whispered back, "In the story, he's only dangerous if somebody breaks the rules."
+"That's the wrong way round!" said Ollie.
 
-## THE INSPECTOR
+"It's the other way round," said Mr Heston. "It's different. There is no wrong."
+
+Alex noticed that the beetle had a gear in it with a tiny hole, and none of us could reach inside. He pointed.
+
+"Dot," said Felix. "Can you reach?"
+
+Dot's fingers were the only ones small enough. She put the last tiny screw in with the tip of her finger, with her tongue out, and turned it the Heston way. Then Alex wound the spring, and Felix set the beetle down on the bench.
+
+*Tick, tick, tick, tick.*
+
+It walked all the way across the bench, turned round at the edge as if it had thought about it, and walked back.
+
+We cheered so loudly that Willow got up and left the room. She came back, and sat in the doorway with her back to us, which means she was happy but didn't want to say so.
+
+## Part Nine. Ms Crabtree
 
 On Friday, the Inspector arrived.
 
-She was tall and thin, with a clipboard, a grey coat and a very straight nose. Her badge said **MS CRABTREE, SCHOOL INSPECTOR.** She had sharp little eyes that looked at everything and wrote it all down.
+She was tall and thin, with a grey coat, a very straight nose, and a clipboard held like a shield. Her badge said **MS CRABTREE, SCHOOL INSPECTOR.** She had sharp little eyes that looked at everything and wrote it all down.
 
-She walked round the school, with Mr Harris trotting behind her. She looked at the library (Mr Jackson waved). She looked at the dinner hall (Mrs Ibbs corrected her spelling). She looked at the playground, and Mr Thorley made a small rumble.
+She went round the whole school, with Mr Harris trotting behind her. She looked at the library (Mr Jackson waved). She looked at the dinner hall (Mrs Ibbs corrected her spelling). She looked at the playground, where Mr Thorley made a small rumble, and Mr Pickering the lollipop man held up his lollipop at her, just in case.
 
-At last, she got to the shed. Mr Heston opened the doors with a flourish.
+At last she got to the shed. Mr Heston opened the doors with a flourish.
 
 "Welcome," he said, "to the Making Club."
 
-Talos stood in the doorway. His eyes glowed, and his gears whirred. He stood very straight, with his arms at his sides.
+Mr Heston had decided to show her the Making Club properly. The helpers had tea ready. The beetle walked across the bench. Dot held up a very small golden spoon she had polished, and said, "I did that." Ms Crabtree wrote it down.
 
-Ms Crabtree frowned. She wrote something down. She turned to Mr Harris and said, "Is this safe for children?"
+Then Mr Heston pulled the cloth off the thing at the back.
 
-Mr Harris said, "Er..."
+It was a **GIANT.** It was made of bronze, shiny as a new penny, and it was as tall as the shed. It had thick arms and legs, and big round hands, and a smooth face with two orange eyes that glowed softly like a night-light. In the middle of its chest was a tiny little door, open, and inside, little gears turned. At the back of its left ankle was a round bronze cap, the size of a jam-jar lid.
 
-And then she did something she shouldn't have.
+"This is **TALOS,**" said Mr Heston. "He guards things. I made him a long time ago, to look after an island. He is very loyal, and very careful. The only thing you must remember is..."
 
-She walked right up to Talos, picked up his hand, and said, "It looks like a toy."
+He turned round to point at the sign on the bench. It was still lying flat. The paint had dried, but it hadn't been hung up yet. Mr Heston had been so busy making tea that he had forgotten.
 
-## THE RULE
+"...the only thing you must remember," he said, a little slower, "is to ask first."
 
 Maya whispered, "Oh no."
 
-Kenji whispered, "What?"
+Ms Crabtree frowned. She wrote something down. She looked at Mr Harris, and said, "Is this safe for children?"
 
-Maya said, "Nobody should touch him without asking. It's the rule."
+"Er," said Mr Harris.
+
+And then she did something she shouldn't have. She walked up to Talos, picked up his enormous bronze hand, turned it over, and said, "It looks like a toy."
+
+## Part Ten. Intruder
 
 Talos's eyes flashed bright red.
 
-There was a deep, clanking **WHIRRRRRR**, and the giant turned his head to Ms Crabtree. His voice was like two dustbins banging together. He said:
+There was a deep **WHIRRRRR,** and he turned his head to Ms Crabtree. His voice was like two dustbins banging together.
 
 **"INTRUDER."**
 
@@ -203,222 +272,254 @@ Ms Crabtree dropped her clipboard.
 
 **"INTRUDER. PROTECT. SCHOOL."**
 
-He lifted his huge arm, and the whole shed trembled. Mr Heston shouted, "Talos! Stop! She's a guest!"
+"Talos, wait!" shouted Mr Heston. "She is a guest! Talos!"
 
-But Talos couldn't hear him. His eyes were red and his gears were spinning too fast. He stomped out of the shed, **THUD, THUD, THUD**, straight past us, and toward the school.
+But Talos's gears were spinning too fast. He stepped out of the shed, **THUD, THUD, THUD,** straight past us all, and into the playground.
 
-He was running **very fast.**
+Then he began to run.
 
-## THE FIRST LAP
+Everything shook. Windows rattled. Dinner ladies hid under tables. The playground flag went *twang.* Talos ran round the whole school, shouting, "INTRUDER! INTRUDER!" Mr Pickering stuck out his lollipop and said "STOP!" in his firmest voice, and Talos stepped carefully over him, and carried on.
 
-It was the biggest panic our school had ever seen.
+Carefully, Alex noticed. He had stepped *over* Mr Pickering. He had not touched anyone.
 
-Talos ran round the whole building, shouting "INTRUDER! INTRUDER!" Every step shook the ground. Windows rattled. Dinner ladies hid under tables. The little ones climbed on a bench and screamed. The lollipop man, Mr Bish, held out his pole and said "STOP", but Talos just stepped over him.
+"He doesn't want to hurt anybody," he said.
 
-Mr Harris was running round in circles. Ms Crabtree was hiding behind a bush with her clipboard on her head.
+"He thinks everyone is an intruder," said Maya. "That is not the same."
 
-Mr Heston limped after the giant, going **clomp, clink, clomp, clink**, but he couldn't catch him. He was out of breath, and his face was white. He said, "I didn't make him to hurt anyone. I only made him to help. Why won't he listen?"
+Mr Harris ran in circles. Ms Crabtree hid behind a bush with her clipboard on her head. Mr Heston went limping after the giant, **clomp, clink, clomp, clink,** and every step was slower than the one before. He was out of breath, and his face had gone white.
 
-Maya said, "He thinks everyone is an intruder."
+"I didn't make him to frighten anyone," he said. "I made him to help. Why won't he listen?"
 
-Mr Heston said, "He's got stuck on one idea. That's what happens when you don't have anybody to tell you what's right."
+## Part Eleven. The Plan
 
-He looked at us, helplessly.
+It was Mrs Tibbs, our teacher, who took charge of the little ones. She walked calmly out into the playground with her whistle, and said, in her very ordinary voice, "Reception, hands up if you would like a story in the hall."
 
-Alex stepped up. He said, "Mr Heston, there must be a way to switch him off."
+Dot went first. She is small, but she held up her hand, and took the hand of the smallest child next to her, and walked them in a line to the hall door, with Elfine and Marion at the back to count heads. Dot had not been brave enough to speak in assembly yet. But she said "This way, this way," twelve times, to twelve children, very clearly, and they went.
 
-Felix said, "Every machine has one."
+"I will stay with them," said Mrs Tibbs. "You see to the giant. Mr Harris, please stop running."
 
-Mr Heston looked at the giant, as he thundered round the corner for the second lap. A very faint smile spread across his face.
+"I am not running in circles," said Mr Harris, running in circles.
 
-He said, "There's a plug in his ankle."
+Meanwhile Mr Heston had sunk down on the bench with his head in his hands. We sat on either side of him.
 
-## THE BOLT
+"Mr Heston," said Alex. "Every machine has a way to switch it off."
 
-He explained fast. "When I built Talos, I gave him one **single vein**, running from his head to his foot. It holds all his energy. And at the bottom, at the ankle, there's a little bronze plug. If you pull it, the energy drains out, and he goes to sleep."
+"Every one," said Felix.
 
-Kenji said, "So someone has to pull the plug."
+Mr Heston lifted his head. A very faint smile began under his beard.
 
-Mr Heston said, "Yes. But I can't run fast enough. And he's the size of a house."
+"Yes," he said. "Yes, it does. Talos has one single vein, from his head to his foot, and all of his energy is in it. At the bottom, in the ankle, there is a little bronze plug. If you turn it out, the energy drains away and he goes to sleep."
+
+"So somebody has to turn the plug out," said Kenji.
+
+"Yes. But I cannot run fast enough, and he is the size of a house."
 
 Alex looked at Felix. Felix looked at Alex.
 
-They said, at exactly the same time, "We'll do it."
+"We'll do it," they said together.
 
-Mr Heston said, "No. It's far too dangerous."
+"No," said Mr Heston. "It is much too dangerous."
 
-Maya said, very quietly, "Mr Heston. They can be scared and brave at the same time."
+Maya said, very quietly, "Mr Heston. They know it is. They are scared. But they are clever, and careful, and they are not going alone."
 
-Mr Heston looked at them for a very long moment. His eyes were bright. He said, "I'll make you a promise. I'll give you my best tool. And I'll be right behind you."
+Mr Heston looked at them. His eyes were very bright.
 
-He reached into his apron and pulled out a small, silver spanner. It glowed warm in the twins' hands.
+"Then you will do it my way," he said. "Not too close. I will be right behind you the whole time. Gloves first, because his ankle is warm."
 
-## THE SECOND LAP
+One of the golden helpers appeared, carrying two pairs of thick leather gloves, and gave one pair to each twin. Mr Heston took a small silver spanner out of his apron. It glowed warm in the twins' hands.
 
-Talos came round the corner again. The ground shook. He was heading for the gate, with two furious orange eyes.
+"My best," he said.
 
-Alex and Felix stood in the middle of the playground, holding the spanner between them.
+## Part Twelve. Please
 
-They were shaking. Their knees were knocking. They both whispered, together:
+Talos came round the corner of the school for the third time. The ground shook. He was heading straight for the gate, with two furious red eyes.
 
-**"I CAN BE SCARED AND BRAVE AT THE SAME TIME."**
+Alex and Felix stood on the tarmac, side by side, holding the spanner between them. Mr Heston stood a little way back. Their knees were knocking. Their hands were shaking in the gloves. Both of them were frightened, and both of them stood exactly where they were.
 
-Talos stomped closer. His shadow fell over them.
+"He is cross because somebody touched him without asking," said Maya, behind them. "That is the only rule he has. Nobody asked him anything all day."
 
-Alex said, "Now!"
+"Then we'll ask," said Felix.
 
-They dived forward together, rolling between the giant's huge bronze feet, and Felix grabbed the left ankle while Alex grabbed the right. The ankle was hot, and as slippery as a bar of soap.
+He took a big breath. He had to shout. "TALOS! PLEASE! MAY WE HELP YOU?"
 
-Felix said, "I can't find it!"
+The giant did not stop. But his stomping changed. *THUD, thud, thud,* slower. His great head turned.
 
-Alex said, "Left foot! There's a little round bit!"
+"MAY WE?" shouted Alex. "WE ARE ASKING!"
 
-Felix said, "Where?"
+Talos slowed. *Thud. Thud.* Right in the middle of the playground, the giant was only walking.
 
-Alex said, "On the back. Under the heel!"
+Something small, dark and elegant had walked out in front of him.
 
-But Talos was still running, and the twins were being dragged along the ground. The wind rushed past their ears. Their trainers scraped on the tarmac. Both of them nearly let go.
+It was Willow.
 
-Felix gasped, "I can't hold on!"
+She had come from the shed step, in her slow, dignified way, and sat down in the exact middle of the giant's path. She wrapped her tail round her paws. She looked up at the great red-eyed face as if it were a late bus.
 
-Alex said, "Yes you can. **I CAN DO HARD THINGS.**"
+Talos stopped. One enormous foot hung in the air above her.
 
-Felix said, "**I CAN DO HARD THINGS.**"
+He stood on one leg, wobbling, with a very surprised hum in his chest. Then, slowly, so slowly, he put that foot down beside her, and stood still, with his eyes flickering orange and red.
 
-They said it again. They held tight.
+Willow did not move. She blinked, once. It was not a hug. It was an instruction.
 
-## THE THIRD LAP
+"NOW," said Alex, and we ran.
 
-At that moment, a very small voice cried out, "Over here!"
+## Part Thirteen. Backwards
 
-It was **Dot**, the little girl from Reception, standing on a bench with her plaits flying. She was holding a gigantic, floppy golden thing.
+The two of them got to the left ankle. It was warm, like a radiator. The round plug was right where Mr Heston had said, under the heel. Felix held the ankle steady. Alex put the spanner on the plug.
 
-It was a **cushion**. A big, soft golden cushion from the Reading Corner.
+They turned it the way you turn everything.
 
-She shouted, "I'll put it where he's going to fall!"
+Nothing happened, except that the plug got tighter. Talos's eyes flared red again. He lifted his foot.
 
-Maya yelled, "Dot, no!"
+"Back!" shouted Mr Heston, and the twins jumped away. The foot came down with a **BOOM** where they had been, and the whole playground jumped. Gloves, spanner and twins all went in different directions.
 
-But Dot had already thrown it. It landed on the tarmac directly in front of Talos, and he stepped on it.
+"I can't do it!" said Felix, from the ground.
 
-He **slipped.**
+"It's too tight!" said Alex.
 
-His giant bronze foot flew out, and he began to wobble. For a second, the whole school held its breath. Then, as he toppled, the left ankle came flying round, with the twins clinging on, and Felix saw the bolt.
+"Left foot," called Mr Heston, limping closer. "Back of the heel! Try again!"
 
-Felix shouted, "ALEX! I SEE IT!"
+They tried again. The spanner slipped. Talos was starting to turn his head. Felix pulled the plug as hard as he could, and Alex pushed on the spanner, and the plug did not move at all.
 
-Alex shouted, "I'VE GOT THE SPANNER!"
+Their hands hurt. They were nearly crying. Alex stopped pushing. He was thinking of a very small silver screw on the Making Club bench.
 
-They jammed the spanner on together. They both pulled.
+"Felix," he said. "The beetle."
 
-It came off with a loud **POP.**
+Felix stared at him.
 
-## THE SILENCE
+Alex said, "Mr Heston's things turn the other way."
 
-A hiss of steam shot out of Talos's ankle. His eyes flickered from red to orange to yellow, then slowly faded to a soft, sleepy glow. His great arms drooped. His knees folded. He sat down in the middle of the playground, with a long, tired, creaking sigh, **WHEEEEEEEE**.
+Felix turned round, and shouted over his shoulder, "Mr Heston! Which way does Talos turn?"
+
+"Which way..." Mr Heston's face did a very complicated thing. Then he laughed, a short, startled, wonderful laugh, and he said, "Backwards. The other way. Always the other way. I am a silly old god, I forgot to say."
+
+"Together," said Alex.
+
+"Together," said Felix.
+
+They put the spanner on the plug and turned it the Heston way. It moved. It turned once, twice, a third time, and it came out with a loud **POP.**
+
+## Part Fourteen. The Leaf
+
+A hiss of steam shot out of Talos's ankle. His eyes flickered from red to orange to yellow, and then to the soft sleepy glow of a night-light. His great arms drooped. His knees folded, and he sat down, slowly, like a lift going down, in the middle of the playground. A long, tired, creaking sigh went out of him: **WHEEEEEEE.**
 
 Then he closed his eyes, and he was still.
 
-Nobody said anything. Nobody moved. A single leaf drifted down and landed on his head.
+Nobody said anything. Nobody moved. A single leaf came down, turning over and over, and landed on his head.
 
-Then Ollie began to clap. Then Kenji. Then the whole class, and then the whole school, and the dinner ladies came out from under their tables, and Mr Harris took a very big breath, and said, "Well done, you two."
+Felix and Alex sat on the tarmac, breathing hard, with their gloves hanging off.
 
-Alex and Felix were lying on the tarmac, breathing hard.
+"We did it," said Felix.
 
-Felix said, "We did it."
+"We did it together," said Alex.
 
-Alex said, "We did it **together.**"
+Willow got up, stretched, and walked once round the giant's enormous foot, and then went back to her place on the shed step, and began to wash.
 
-## THE REAL PROBLEM
+Then Ollie began to clap, and Kenji, and then the whole school, and the dinner ladies came out from under the tables.
 
-Mr Heston limped over, very slowly. He knelt down in front of the giant, and put his big hand on Talos's cheek.
+Mr Heston limped over, very slowly, and he knelt in front of the sleeping giant. He put his big hand on Talos's cheek.
 
-He said, quietly, "I'm sorry, old friend."
+"I'm sorry, old friend," he said.
 
-Then he stood up and turned to Ms Crabtree. He said, in a steady voice, "That was my fault. I should have put a sign on him. I should have said, 'Don't touch.' I'm very sorry. I understand if you want to close the club."
+Then he turned to Ms Crabtree, who had come out from behind her bush and put her clipboard back where it belonged. He stood up straight.
 
-Ms Crabtree looked at him. She looked at the sleeping giant. She looked at the twins, and at Dot, and at the whole school, who were looking at Mr Heston with big, serious eyes.
+"That was my fault," he said. "I should have hung the sign. I should have asked everyone to ask. I am very sorry. If you want to close the Making Club, I understand."
 
-She said, slowly, "That's the most honest apology I've ever heard."
+Ms Crabtree looked at him. She looked at the sleeping giant. She looked at us, and at the whole school, standing very quietly, looking at Mr Heston with big serious eyes.
+
+"I touched him," she said, "without asking. That was my mistake, and not yours. And I have never heard such an honest apology."
 
 Mr Heston blinked.
 
-She said, "And it's the most extraordinary thing I've ever seen at a school. I came to inspect, and I've found a man who builds bronze giants, and a group of children who all stick together, and a headteacher who runs round in circles."
+"I came to inspect a school," she said, "and I have found a man who makes bronze giants, and children who look after each other, and a headteacher who runs round in circles."
 
-Mr Harris said, "I do not run in circles."
+"I do not run in circles," said Mr Harris.
 
-Ms Crabtree said, "You do. But I'm going to give you full marks."
+"You do," said Ms Crabtree. "But you are getting full marks."
 
-Everybody cheered.
+She wrote something on her clipboard, tore off the page, and handed it to Mr Heston. It said: **EXCELLENT. ESPECIALLY THE FRIENDSHIP.**
 
-She wrote something on her clipboard, and she tore off the page, and she handed it to Mr Heston. It said: **EXCELLENT. ESPECIALLY THE FRIENDSHIP.**
+## Part Fifteen. The Chair
 
-## THE CHAIR (AGAIN)
+That might have been the end of the day, except that a little later we heard a **clunk.**
 
-That might have been the end, except that a bit later, we heard a **clunk**.
+It came from inside the shed.
 
-It was coming from inside the shed.
+We rushed in, and there was Gideon Fox in the corner, in the golden chair, with the cloth on the floor and the rope trailing from his foot. He had gone in to look at the helpers, because the rest of the school was outside, and the rope had looked like a game. Now two golden bands were wrapped round his tummy, and he could not get up.
 
-We rushed in, and there was Gideon Fox from the class above, sitting in a beautiful golden chair in the corner. He had wandered in on his own to look at the helpers, and sat down on it. And now two golden bands were wrapped right round his tummy, and he couldn't get out.
+He was bright red. His friends had gone very quiet in the doorway. Nobody was laughing now.
 
-He was bright red, and his friends were laughing at him.
+"Help," said Gideon. "It won't let me go. I only sat down."
 
-Gideon said, "Help! It won't let me go!"
+"Don't wriggle," said Mr Heston at once, in a calm, kind voice, and he was kneeling by the chair before any of us had moved, despite the stick. "It tightens if you wriggle. That's it. Good. Nobody is cross with you, Gideon. This is a very old chair, and it is my fault for leaving it where it could happen. I should have put it away years ago."
 
-Mr Heston came in, leaning on his stick. He looked at the chair, and then at Gideon, and then he said, in a very calm voice, "Ah. That's a very old chair."
+"I'm sorry," said Gideon, and his face crumpled. "I'm sorry about before. I was mean about your leg. I thought it was funny, and it wasn't."
 
-Gideon said, "Please let me out."
+"Thank you," said Mr Heston. "I hear you. Now, let's get you out."
 
-Mr Heston said, "I made it for someone who hurt my feelings. It only lets you go when you've said something kind, and meant it."
+There was a catch under the arm of the chair, small and stiff and hidden in the gold. Mr Heston could not reach it with his big hands.
 
-Gideon's face crumpled. He said, "I'm sorry. I was mean about your leg. I thought it was funny, and it wasn't. I'm really sorry."
+"Felix," said Alex. "Can you reach?"
 
-There was a pause.
+"Which way does it turn?" said Felix.
 
-The golden bands went **click**, and they slid off his tummy. Gideon jumped up, bright pink, and held out his hand.
+"The other way," said Mr Heston, and for the second time that day, he grinned.
 
-Mr Heston shook it. He said, "Thank you, Gideon. That took courage."
+Felix turned it backwards. Alex held the bands steady. The catch went **click,** and the golden bands slid off, and Gideon jumped up, bright pink, and held out his hand.
 
-Gideon said, "Can I come to the Making Club?"
+Mr Heston shook it. "That took courage, Gideon. Thank you."
 
-Mr Heston grinned. "Of course. We could use another pair of hands."
+"Can I come to the Making Club?" said Gideon.
 
-The twins grinned too.
+"We could use another pair of hands," said Mr Heston. "Some of them have to be big ones."
 
-## THE LESSON
+Gideon's friend, the one who had looked back on Wednesday, said, "Can I?" And Mr Heston said yes to him, too.
 
-At home time, Mr Heston sat on a bench in the sun, with the two golden helpers pouring tea.
+The golden helpers carried the chair out of the shed. Mr Heston watched them go, with his stick under his arm. "It's going in the melting pot," he said. "I don't need it any more. I have friends for things like that now."
 
-He told us, "When I was thrown off the mountain, I thought nobody would ever want me. I thought being different was a bad thing. But I learned that being different means you see the world in a way nobody else does. It's how you make things that are new."
+## Part Sixteen. Tea in the Sun
 
-Alex said, "Like Talos."
+At home time, Mr Heston sat on a bench in the sun, with the two golden helpers pouring tea, and we all sat round him. Even Gideon. Willow sat on the end of the bench, and Mr Heston scratched her ears with one scorched finger. She allowed it.
 
-Felix said, "And like the golden helpers."
+"How did you learn to make all this?" asked Kenji.
 
-Mr Heston said, "And like **you.** Both of you. Together, you worked out how to do something that none of the rest of us could."
+"Practice," said Mr Heston. "Nine years in a cave, mostly getting it wrong."
 
-He handed each twin a small, shiny, bronze badge in the shape of a spanner.
+He told us, "When I was thrown off the mountain, I thought nobody would ever want me. I thought being different meant I was a mistake. But I learned something in that cave. Being different means you see the world in a way that nobody else does, and that is how you make things that are new."
 
-We said, as one, all of us, even Dot:
+He looked round at all of us. "I thought of a golden helper because I couldn't walk fast. Nobody else would have thought of it. It is a very good idea, and I only had it because of my leg."
+
+Dot, who is very small and very quiet, said, "I'm good at small."
+
+"You are," said Mr Heston. "You are the only one who could reach the screw. So that was a very big thing."
+
+Felix said, "Alex notices and I ask. Nobody else does it that way."
+
+"And it works," said Alex.
+
+"It does," said Mr Heston. "Because you are different from each other, too. Different is clever."
+
+He took two small bronze badges out of his apron, shaped like spanners, and he pinned one on each twin. They were still warm.
+
+We said it together, all of us, even Gideon, and Dot loudest of all:
 
 **"DIFFERENT IS CLEVER."**
 
-## THE END (WITH A BANANA)
+## Part Seventeen. A Crunch in the Hall
 
-On the way out of the gate, we heard a very strange noise from the gym.
+On the way out of the gate, we heard a very strange noise from the school hall.
 
-It was a **crash**, followed by a **THUD**, followed by a high, delighted shriek.
+It was a small, sweet tune, played on something that sounded like a set of little reed pipes. It went up and down, and round the corner, and every now and then it stopped, and was replaced by a loud, happy **CRUNCH.**
 
-We all ran over and looked through the window. The gym was a mess. Every climbing frame had been swung on, every beanbag had been thrown, and every rope had been tied in a knot. And on top of the highest bar, swinging upside down by his tail, was a very large monkey in a tracksuit with a whistle round his neck.
+The hall door was ajar. The big hall light was flickering, *buzz, flick, buzz,* and the corridor floor was covered in a thin layer of sawdust from the scenery cupboard. In the sawdust was a line of prints.
 
-He saw us. He waved a banana.
+They were not shoes. Each one was shaped like two neat little toes. They went in, all the way up the corridor, and stopped at the hall door. One piece of green wool was caught on the handle.
 
-He shouted, **"RIGHT! WHO WANTS A RACE?"**
+On the door was a note in Mr Harris's writing. It said: **AUTUMN PLAY. NEW DIRECTOR. PLEASE REMAIN CALM.**
 
-The twins looked at each other.
+The tune started again, and from somewhere inside, a very cheerful voice said, "Crunchy."
 
-Alex said, "Next week?"
+Alex grinned. Felix grinned.
 
-Felix said, "Obviously."
+"Monday," they said, at exactly the same time.
 
 **The End.**
