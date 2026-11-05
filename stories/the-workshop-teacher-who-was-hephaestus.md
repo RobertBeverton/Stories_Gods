@@ -16,8 +16,6 @@ draft: false
 
 The first time we met Mr Heston was on a Monday, and he was WALKING WITH A WOBBLE.
 
-The brown box from the front step was still sitting in the corridor that morning, wrapped in string and covered in stamps. It had gone very quiet. "Sulking," said Ollie. Mr Harris wrote NOT YET on it in big letters, and pushed it into the stationery cupboard with his foot, and shut the door quickly. Then the sound of something going *clomp, clink, clomp, clink* came down the corridor, and we forgot all about boxes.
-
 He used a big wooden stick with a brass top, and he leaned on it a little with every step. He was wide and strong, with a black beard, an apron covered in scorch marks and arms like two cannonballs. His badge said **MR HEPHESTON, DESIGN AND TECHNOLOGY.**
 
 "Everyone, this is Mr Hepheston," said Mr Harris, clutching his clipboard. "He is going to start a new club in the old shed. It is called the Making Club. Please do not touch anything hot."

@@ -50,7 +50,7 @@ If the cast changes, the user will say so. Keep the latest instruction until tol
 | Hephaestus | Mr Hepheston, Design and Technology (called Mr Heston in the text; Making Club) | Greek | 10 |
 | Pan | Mr Pann, director of the Autumn Play | Greek | 11 |
 | Hanuman | Mr Hanu, PE Teacher (orange tracksuit, crooked chin, long ponytail, tiny silver whistle with a picture of Rama and Sita; shares the PE cupboard with Ms Fortune: she does games and chance, he does sport) | Hindu | 12 |
-| All the gods so far | Summer Fair crossover: Maya's list of twelve staff gods | Mixed | 13 |
+| All the gods so far | Summer Fair crossover: Maya's list of twelve staff gods, told in three groups of four; Mr Locke's feelings-powered bouncy castle drifts up and he unpicks it as a falcon | Mixed | 13 |
 | Athena | Ms Athene, Quiz Mistress (owl: Glaux) | Greek | 14 |
 | Prometheus, Epimetheus | Mr Prome, Fire Safety (and Foresight); his brother Mr Epp; Mr Zed, Council Safety Inspector (a god, probably Zeus; not named) | Greek | 15 |
 | Pandora | Mrs Pandy, Art (and Wondering); Mr Epp's wife | Greek | 16 |
@@ -81,7 +81,7 @@ Badge format: a title and a school job joined by a comma, read off a badge the c
 
 Stories 1 to 18 are the school-setting stories written first (full entries in `Story_Archive.md`). Their badges are as printed in the story text, so some differ from later versions of the same staff, and they use "Mr", "Mrs" and "Ms". Story 13 is the Summer Fair crossover with no new god of its own.
 
-Other early cameos: Ms Crabtree, School Inspector (story 10); Arabella Webb, Pridefield Primary team captain (story 14); Gideon Fox, Year 6 (stories 10 and 13).
+Other early cameos: Ms Crabtree, School Inspector (story 10); Arabella Webb, Pridefield Primary team captain (story 14); Gideon Fox, a big kid from the top class (stories 10 and 13).
 
 ### How the early staff fit later canon
 
@@ -97,7 +97,7 @@ Decided so far: the Thor and Loki naming (below); Fortuna as Felicitas's sister 
 - **Thor and Loki (decided).** Always write Mister Thor and Mister Loki in new text: they are clear and unambiguous. Stories 1 and 6 keep their disguise names, Mr Thorley (Caretaker) and Mr Locke (Supply Teacher), as written. Story 37 introduces Mister Thor (Hammer and Heavy Lifting) and Mister Loki (Magic Tricks); they are the same gods. Loki is called Thor's "brother" in the stories on purpose (in the myths he is Odin's blood-brother); that is accepted.
 - **Nuwa (decided).** Ms Wa, Pottery (and People) in story 17 is the same woman as Mrs Nuwa, Art and Clay in story 33: she was promoted, and Mister Harris says so in story 33. The sky has cracked twice, once in each story. Both stories stay.
 - **Hephaestus' spelling.** Badge reads Mr Hepheston; text and later stories say Mister Heston. Treat Heston as the working name.
-- **The Postman.** Mr Hermes is the school Postman. Story 37 gives Thiazi the job of Sky Postman. Probably compatible (sky post versus school post), but not stated.
+- **The Postman.** Mr Hermes is the school Postman. In story 9 he is afraid of heights, never late, never seen arriving, and walks backwards; Dot first appears there, fearless, and her letter-from-everybody is the story's tender part. Story 37 gives Thiazi the job of Sky Postman. Probably compatible (sky post versus school post), but not stated.
 
 Other staff who appear as cameos in later stories (the Oshun playground committee, for example) include Ms Athene, Mister Heston, Mister Prome, the Postman, Mister Pann, Mister Jackson, Mrs Ibbs and Miss Persey. These are the early staff above, each with a story of their own (stories 1 to 18). Check the story text before reusing them.
 
@@ -130,7 +130,7 @@ Other staff who appear as cameos in later stories (the Oshun playground committe
 - **The Pan play** (story 11): Mr Pann naps from noon to one in the costume cupboard, and nobody may wake him. Mr Thorley's SORRY toolbox (painted on the side) fell when Maya's Troll roar startled him up a ladder, and Pann's shout sent the school running into the wood. Willow waded a stream, which she hates, to bring the smallest child (the one dressed as a hat) back. Rule: "Panic is catching, but so is calm" (slow breaths, in for four, out for four, and soft pipe music). Mr Thorley must not be startled (a startle makes a small BOOM). The twins have small reed pipes (Alex low, Felix high) and wake Pann gently with them. Saying: "I can be scared and brave at the same time" (Pann's, said in the wood; "Stop. Breathe. I am safe" is used once as the in-for-four, out-for-four breathing rhythm with the pipes, not as a speech). Hook: a trail of banana peels up the drainpipe, a tail shadow, a tiny whistle and an orange flash on the roofs (Hanuman).
 - **Mr Hanu** (story 12): he forgot who he was (a gentle spell: forget until a friend reminds you). Maya's retelling ends with Jambavan saying "I know you can". His whistle has a picture of Rama and Sita on its chain. The twins' list of evidence did not remind him; saying it like a friend did. Saying: "I know you can" (said by Felix and Alex to him, and by him to Alex). The Moonbloom seed the twins promised the mountain spirit is planted by the gatepost, with Willow on guard. Ms Fortune's wheel briefly grew a SLEEP slot (it is now NAP AFTER LUNCH). Rama and Sita stood at the gate in lamplight; Rama's letter ("A friend who reminds is worth more") says Sita would like to enter the next mango-and-spoon race. Mr Hanu blows the school field dry, gently. The hook leads to the Summer Fair: Mr Harris painting a banner, "EVERYONE we have ever met has said yes".
 - **Fire stalks** (story 15): Alex and Felix each have a hollow stalk with a small glow that does not burn. Rule: "Careful is brave."
-- **The sayings** from stories 8 to 12 were all said together at the Summer Fair (story 13): "I am a seed, the dark is where I grow", "I can be scared and brave at the same time", "I can do hard things", "I can say sorry, make it right, and keep going", "Different is clever", "Stop. Breathe. I am safe", "I know you can", "I am not alone". Later: "I don't know yet", "Careful is brave", "There is always hope", "Slow and steady holds up the sky", "Make a path, not a wall". Reuse with care.
+- **The sayings** are all said together at the Summer Fair (story 13), in exactly these words. Where each is first spoken: "I am a seed, the dark is where I grow" (story 8); "I can say sorry, make it right, and keep going" (story 9); "Different is clever" (story 10); "I can be scared and brave at the same time" (story 11, spoken by Mr Pann in the wood); "Stop. Breathe. I am safe" (story 11, as the breathing rhythm with the pipes); "I know you can" (story 12). "I can do hard things" and "I am not alone" are acted in stories 9 to 12 but first said aloud at the fair. Later: "I don't know yet", "Careful is brave", "There is always hope", "Slow and steady holds up the sky", "Make a path, not a wall". Reuse with care.
 
 ## What is waiting next
 
