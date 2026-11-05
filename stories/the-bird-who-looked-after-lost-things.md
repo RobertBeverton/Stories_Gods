@@ -70,11 +70,11 @@ She said it at break, behind the bike shed. She had her notebook open and her pe
 
 "The what?" said Kenji.
 
-"The Simurgh," said Maya. "It's a giant bird from Persia. That's the old name for Iran, and it's in the Middle East. Her story is in a very old book called the Shahnameh, which means the Book of Kings. It's one of the most famous books in the whole world, and it's got about fifty thousand verses in it."
+"The Simurgh," said Maya. "It's a giant bird from Persia. That's the old name for Iran, and it's in the Middle East. Her story is in a very old book called the Shahnameh, which means the Book of Kings. It's got about fifty thousand verses in it."
 
 "Fifty *thousand*?" said Ollie.
 
-"Which is a lot," said Maya. "And the Simurgh is one of the best characters. She's enormous. She has a peacock's tail and a lion's claws, and wings that shine like copper in the sun. She lives on a mountain called Alborz, and she's older than anyone can count. She's seen the world get made and unmade three times. Some stories say she lives in a tree that has every seed in the world growing on it, and when she shakes her wings, the seeds fly out all over the earth and make new plants."
+"Which is a lot," said Maya. "And the Simurgh is one of the best characters. She's enormous. She has a peacock's tail and a lion's claws, and wings that shine like copper in the sun. She lives on a mountain called Alborz, and she's older than anyone can count. Some stories say she lives in a tree with every seed in the world growing on it, and when she shakes her wings, the seeds fly out and make new plants."
 
 "That's why she looks so green," said Alex.
 
@@ -96,13 +96,13 @@ She said it at break, behind the bike shed. She had her notebook open and her pe
 
 We were allowed to visit her on Tuesday, in groups of three.
 
-The cupboard under the stairs had changed. It was twice as deep as before, and warm, and it smelled of cinnamon and clean laundry. Shelf after shelf ran back into the dark, filled to the ceiling with lost things. There were odd gloves, and a rainbow of woolly hats. There was a tiny silver spoon, and a doll with one shoe, and a cricket bat with a name on it from 1962. There was a drawing of a purple horse. There was a tooth in a small glass jar.
+The cupboard under the stairs had changed. It was twice as deep as before, and warm, and it smelled of cinnamon and clean laundry. Shelf after shelf ran back into the dark, filled to the ceiling with lost things. There were odd gloves, and a rainbow of woolly hats. There was a doll with one shoe, and a cricket bat with a name on it from 1962. There was a drawing of a purple horse, and a tooth in a small glass jar.
 
 "Everything here has someone it belongs to," said Madam Simurgh. She had folded herself into a tall wooden chair, with her coat spread round her like wings. "Some of them have forgotten. Some of them have not noticed yet. But every lost thing is lost *from* somebody. And I find the somebody."
 
 Dot held up the doll with the one shoe. "Whose is this?"
 
-"She belongs to a girl called Priya, who is eight now," said Madam Simurgh. "She lost her three summers ago, and she is still sad about it. I have already sent her a note."
+"She belongs to a girl called Priya," said Madam Simurgh. "She has been looking for her ever since she lost her. I have already sent her a note."
 
 "How did you know?" said Felix.
 
@@ -196,11 +196,19 @@ We bumped into each other in the dark, and held on. The six of us stood in a tig
 
 But nobody could hear Mister Harris any more.
 
+Then Willow's ears went up.
+
 ## Part Eight. The Thirty Little Birds
 
-That's when we heard the crying.
+Willow had heard it before any of us. She slid off Maya's shoulder, and before anyone could grab her, she walked straight out into the grey, all by herself, with her tail up like a flag, until she was just a faint grey shape, and then nothing at all.
 
-It was tiny. It came from just in front of us, low down, from the grass. It was a thin, high, cheeping, flapping sort of sound, the sound of a lot of very small things being very frightened.
+"Willow!" whispered Maya. "Come back!"
+
+Willow did not come back. But from out in the fog, there came a very small, thin, cheeping sound.
+
+"Hold on to me," said Maya, and held on to Alex. Alex held on to Felix. Felix held on to Dot, and Dot held on to Kenji, and Kenji held on to Ollie. We shuffled forward in a chain, step by step, through the cold, toward the sound, until our boots bumped into something warm and furry.
+
+It was Willow. She was sitting very still, with her face down in the grass. And in front of her, low down, the crying was tiny. It was a thin, high, cheeping, flapping sort of sound. It was the sound of a lot of very small things being very frightened.
 
 "Is that the wind?" said Kenji.
 
@@ -216,7 +224,7 @@ Next to it was a sparrow. And next to the sparrow, a robin. And beside the robin
 
 "We're lost," said the wren, in a very small voice.
 
-We all stared. Willow's ears went flat.
+We all stared. Willow just blinked, as if she had known all along.
 
 "They can talk," said Alex.
 
@@ -326,7 +334,7 @@ Alex went pink. Felix went pinker.
 
 "It was both of you," said Madam Simurgh. "That is what I said."
 
-Willow jumped off Maya's shoulder and walked across the rock. She sat down in front of the thirty birds, quite close, and looked at them with her golden eyes. The sparrow squeaked. The robin shut its eyes. But Willow only put her head down on her paws, and purred, a big warm purr, as if to say, *I'm not going to eat you, I'm going to look after you.*
+Willow, who had found them in the fog, walked across the rock. She sat down in front of the thirty birds, quite close, and looked at them with her golden eyes. The sparrow squeaked. The robin shut its eyes. But Willow only put her head down on her paws, and purred, a big warm purr, as if to say, *I'm not going to eat you, I'm going to look after you.*
 
 The wren hopped slowly forward. It climbed on to her back. And Willow, who was very careful, did not move a muscle.
 
@@ -412,11 +420,11 @@ Alex and Felix and Maya and Willow sat in the front. Dot was asleep, with her he
 
 We waited.
 
-"You are all a little bit lost sometimes," she said. "I promise you that. Even the grown-ups. Even the old, wise ones. Even me, when I was very young and had just hatched on top of a mountain and did not know anything. Feeling lost doesn't mean you are broken. It means you are still travelling."
+"You are all a little bit lost sometimes," she said. "Even the grown-ups. Even me. Feeling lost doesn't mean you are broken. It means you are still travelling."
 
 "What do you do?" said Felix.
 
-"You stop," said Madam Simurgh. "You hold on to someone. And you say, out loud, *I'm lost, please.* There is nothing braver. And you will find that someone always comes. Perhaps not the person you expected. Perhaps not straight away. But someone."
+"You stop," said Madam Simurgh. "You hold on to someone. And you say, out loud, *I'm lost, please.* And you will find that someone always comes. Perhaps not straight away. But someone."
 
 "And if nobody comes?" said Alex.
 
@@ -424,7 +432,7 @@ We waited.
 
 She put one long finger gently under each of their chins.
 
-"You two are small," she said. "And you are very much not lost. You have each other, and you have the habit of asking, and you have kind hearts. That is all anybody needs to find their way anywhere. Keep the feather."
+"You two are very much not lost," she said. "You have each other, and you have the habit of asking. Keep the feather."
 
 "Even though we didn't burn it?" said Alex.
 
