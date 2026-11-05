@@ -246,9 +246,9 @@ Mrs Oshun was still sitting by the water, in her yellow dress. She had her mirro
 
 "It's falling," gasped Felix. "Dot's at the top. Nobody will listen to each other. We need you."
 
-Mrs Oshun didn't move.
+Mrs Oshun's hand had already closed round her mirror. She was half rising, with the water running off her feet. But she stopped there, quite still, and looked at them.
 
-"I wasn't asked," she said, softly.
+"I wasn't asked," she said, softly. It sounded as if she needed to hear somebody say the answer out loud.
 
 "I'm asking," said Felix. He dropped to his knees in front of her, right in the mud. "I'm asking you, please. Please, Mrs Oshun. Please will you help us?"
 
@@ -302,11 +302,11 @@ Dot opened one eye. She saw the peacock. She saw her friends on its back.
 
 But before Dot could move, Willow leapt off Maya's shoulder. She landed on the rope bridge without a sound, and trotted across it like a gymnast on a balance beam, past the wobbling planks and the creaking rail, and sat down right in front of Dot's nose.
 
-"Meow," said Willow, very clearly.
+Willow gave one very clear meow.
 
 "I'm scared," whispered Dot.
 
-"Meow," said Willow, which meant: so am I, but come on.
+Willow gave a second meow, which meant: so am I, but come on.
 
 She turned and walked slowly across the bridge, looking back after every step. And Dot, following the golden cat, put one foot after another, one hand after another, along the rail, until she reached the peacock's back, and Alex and Felix pulled her up between them.
 
@@ -362,7 +362,11 @@ One by one, all sixteen said sorry. Mrs Oshun listened to each of them. Her eyes
 
 "But we should have asked," said Mister Harris.
 
-"Yes, you should," said Mrs Oshun, quite gently. "And next time, I hope you will. But you can see now, can't you? What happens when someone is left out? It is not only unkind. It doesn't work. The thing falls over. Everybody needs a chair."
+"Yes, you should," said Mrs Oshun, quite gently. "And I should have asked, too. I should have walked up to you on the first day and said, I would like a chair, please. Waiting is not the same as asking. Next time, I will ask, and you will listen. And you can see now, can't you? What happens when someone is left out? It is not only unkind. It doesn't work. The thing falls over. Everybody needs a chair."
+
+"And we are sorry to Alex and Felix," said Mister Harris, "who put their hands up and were not seen."
+
+Alex and Felix went pink. "Thank you," they said, both together.
 
 "A seventeenth chair," said Maya.
 
@@ -374,7 +378,7 @@ One by one, all sixteen said sorry. Mrs Oshun listened to each of them. Her eyes
 
 They built it again, together.
 
-This time, they did it properly. Mister Harris pulled out a round table in the school hall, with chairs all the way round, so that nobody sat at the head. There were seventeen chairs for the staff. There were small chairs on one side, for Alex and Felix and Maya and Dot and Kenji and Ollie, and a cushion for Willow. And every single person got a turn to speak, one at a time, while everyone else listened.
+This time, they did it properly. Mister Harris pulled out a round table in the school hall, with chairs all the way round, so that nobody sat at the head. There were seventeen chairs for the staff, and then two more, kept empty, for anybody who put their hand up. There were small chairs on one side, for Alex and Felix and Maya and Dot and Kenji and Ollie, and a cushion for Willow. And every single person got a turn to speak, one at a time, while everyone else listened.
 
 Mrs Oshun brought honey cakes.
 
@@ -404,11 +408,11 @@ Alex and Felix and Maya and Willow sat with her. Dot was lying on the grass, wit
 
 "And what do you do?" said Alex.
 
-"First, you tell someone how you feel," said Mrs Oshun. "That's very important. You say, I'd like to be included. And if they still don't listen, you find the people who do. You always have friends somewhere. And when somebody does ask you, then you decide whether to say yes. You don't have to. But I usually do."
+"You say so, out loud and kindly," said Mrs Oshun. "I'd like a chair, please. I learned that late, so I am telling you early. And then you stay sweet."
 
 "Why?" said Maya.
 
-"Because I like to help," said Mrs Oshun. "And because a sweet heart is not a soft one. Sweet things can be strong. Honey holds a tower together. A river carves out a valley, one drop at a time. Being kind is not the opposite of being powerful. It's the same thing, if you do it long enough."
+"Because a sweet heart is not a soft one. Sweet things can be strong. Honey holds a tower together. A river carves out a valley, one drop at a time. Being kind is not the opposite of being powerful. It's the same thing, if you do it long enough."
 
 Maya wrote it down. She wrote it in her very best handwriting.
 
@@ -432,11 +436,11 @@ It was a faint sound, high up, a long way away. It was like the sound of a very 
 
 They all looked up.
 
-A shadow was crossing the sky. It was huge. It was bigger than the school, bigger than the hill, bigger than the biggest cloud. It blocked the last of the sunset, and a dark shape rolled over the school field, like a giant bird passing in front of the sun.
+A shadow was crossing the sky. It was huge. It was bigger than the school, bigger than the hill, bigger than the biggest cloud. It blocked the last of the sunset, and the whole school field went dim.
 
 A single feather came drifting down. It was as long as a canoe, and as wide as a door, and it shone with every colour of the rainbow, silver at the edges, green in the middle, gold at the tip. It twirled slowly down through the evening air, and landed on the playground, right in front of the new golden bench.
 
-Willow's fur stood up in a bristle. Maya's pencil dropped out of her hand.
+Willow's ears went straight up. Maya's pencil dropped out of her hand.
 
 From very far above, out of the clouds, a voice came echoing down. It was calm and deep and old, and it seemed to be speaking from the top of the world.
 
@@ -444,6 +448,6 @@ From very far above, out of the clouds, a voice came echoing down. It was calm a
 
 Mrs Oshun, on her bench, lifted her head. She looked up. She smiled, as if she had been expecting this.
 
-Alex and Felix looked at each other, with the great shadow sliding over their faces. They said, at exactly the same time, "Monday."
+Alex and Felix looked at each other, with the great feather turning slowly on the grass. They said, at exactly the same time, "Monday."
 
 The End.

@@ -1,4 +1,8 @@
 # Review: The Lady Who Mended the Sky
+
+> **Status: ASK fixes applied (story 33, about 4,550 words, 16 parts).** The DIRECT fixes below were applied in the first pass; the ASK items were worked through in the third pass. The quotes and part names in this report describe the text as it was before that pass. The creation speeches of Lakshmi and Bast shortened, the evening wisdom cut back, 'made by hand' softened ('You were each made with care'), Willow weighs down the ladder, Coyote's joke and the duck tidied, 'Mister Ketz' spelling fixed. The Ms Wa promotion lines are kept.
+>
+> Weak spots recorded after the fix pass: Long; Part Fifteen is still a longer evening scene.
 File: stories/the-lady-who-mended-the-sky.md | Words: about 4,600 (body, headings included) | Parts: 16
 
 ## Verdicts

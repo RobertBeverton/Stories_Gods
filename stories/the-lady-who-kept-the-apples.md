@@ -46,6 +46,20 @@ Their hair was grey. Their backs were bent. The tall man's hands shook. The lady
 
 Their badges said Mister Heimdall, Crossing Patrol; Mrs Freyja, Cats and Lovely Things; Mister Thor, Hammer and Heavy Lifting; and Mister Loki, Magic Tricks.
 
+Ollie squinted at the huge man's red beard. "Hang on," he said. "You're Mr Thorley. The caretaker."
+
+"Thorley was the name on my work badge, last time," wheezed Mister Thor. "It was the best I could do at short notice. This time I came with my proper name, and the whole family."
+
+"And I was Mr Locke," said Mister Loki, to his shoes. "The supply teacher. I've still got a bit of tinsel in my pocket, if anyone wants it."
+
+"The caretaking is still my job," said Mister Thor. "But Idun has gone, and we came to help."
+
+Out by the gate, something with horns was eating the hedge.
+
+"Your van is eating the hedge," said Kenji.
+
+"It's a van," said Mister Thor, firmly.
+
 "Good morning," said Mister Heimdall, in a creaky voice. He had very sharp eyes and enormous ears. "I do apologise for the state of us. We were not like this at breakfast."
 
 "We were forty minutes younger," said Mister Thor.
@@ -68,7 +82,11 @@ She'd been up since five, and had three pages of notes, a map, and a small drawi
 
 "And the best thing about them," said Maya, "is that they are not really immortal. In the old story, they get old like anyone else. The only thing that keeps them young is a basket of golden apples. And the only person who looks after the apples is Idun."
 
-"That's why they look like that," said Ollie.
+"That's why they look like that," said Ollie. "But there are apples everywhere. Why don't they just eat those?"
+
+"Because they're only apples without her," said Maya. "They keep the glow, but not the magic. The magic only works when Idun hands them over herself."
+
+"Oh," said Ollie, and put his apple back down, rather sadly.
 
 "They haven't had their apples," said Maya. "And without them, they get older and older. And that's not the worst of it. In the myth, Idun was snatched. A giant in the shape of an eagle carried her away, and he took the apples."
 
@@ -314,7 +332,7 @@ Where Idun had been, there was a small brown nut.
 
 Felix caught it in his palm. It was warm, and it tingled. And a very faint voice, coming out of it, said, "Oh. This is peculiar."
 
-"You'll be fine," said Alex, and put her gently into the pocket of the cloak, where he could feel her through the feathers. The basket of apples he tucked under one arm.
+"You'll be fine," said Alex, and put her gently into the pocket of the cloak, where he could feel her through the feathers. The pocket had a flap, but no button. The basket of apples he tucked under one arm.
 
 "Go!" buzzed Loki.
 
@@ -342,7 +360,11 @@ The eagle gained on them. They could hear his wings, beating the air like a drum
 
 "Left!" buzzed Loki. "Dive!"
 
-They dived. The eagle overshot, wheeled in the sky, and came on again. A hundred metres. Fifty. Twenty.
+They dived. The flap of the pocket flew open, and the little brown nut began to slide out.
+
+Willow saw it. She did not hiss, and she did not wait to be asked. She shot out of the hood, down Felix's back, and landed on the pocket with all four paws, pressing the flap shut with her whole fluffy weight. She stayed there, clinging on, with her ears flat in the wind.
+
+The eagle overshot, wheeled in the sky, and came on again. A hundred metres. Fifty. Twenty.
 
 "I can't keep this up!" gasped Alex.
 
@@ -372,9 +394,9 @@ And landed with an enormous *splodge* in the middle of the compost.
 
 ## Part Fourteen. Please Don't
 
-Mister Thor raised his hammer.
+Mister Thor stepped forward, gripping his hammer in both hands.
 
-He had gone a very strange shade of purple. The thunder was rolling round his head. The hammer swung back over his shoulder.
+He had gone a very strange shade of purple. The thunder was rolling round his head, and he was growling like a storm a long way off.
 
 "No!" shouted Alex.
 
@@ -392,9 +414,9 @@ They dropped out of the sky and landed in front of the compost heap, one in fron
 
 "He told Idun he was sorry," said Alex.
 
-The giant lay in the heap of compost, in a puddle of smoking feathers. He had a banana skin on his head. He was shaking. In the light of the bonfire, he looked less like a fierce eagle and more like a very old, very lost, very muddy bird.
+The giant lay in the heap of compost, in a puddle of smoking feathers. He had a banana skin on his head. He was shaking. In the light of the bonfire, he looked less like a fierce eagle and more like a very old, very lost, very muddy bird with a long grey beard.
 
-Felix reached into the cloak's pocket. He took out the little brown nut and placed it on the ground. Alex held up the basket of apples.
+Willow stepped off the pocket, with great dignity. Felix reached in. He took out the little brown nut and placed it on the ground. Alex held up the basket of apples.
 
 "Loki," said Felix.
 
@@ -472,19 +494,17 @@ Alex and Felix knelt in the orchard and planted their seeds. They dug the holes 
 
 "What?" said Alex.
 
-"Getting older is not a punishment," said Mrs Idun. "It is a gift that not everyone gets. The apples help for a little while. They keep the knees working. But they cannot give you what really matters, which is somebody to sit with, and somebody to ask."
+"If you need something, ask," said Mrs Idun. "You would be amazed how often the answer is yes."
 
-"Ask for help?" said Felix.
+"And if you make a mistake?" said Felix.
 
-"Ask for anything," said Mrs Idun. "If you need something, ask. You would be amazed how often the answer is yes. And if you make a mistake, say so out loud, as soon as you can. It is much less frightening than you think, and it is the only way to mend it."
+"Say so out loud, as soon as you can," said Mrs Idun. "It is much less frightening than you think, and it is the only way to mend it."
 
-She looked at the two little mounds of earth.
-
-"And I will tell you my secret," she said. "The golden apples are only half of it. The other half is looking after each other. That is what keeps you young. Not for ever. But on the inside."
+She looked at the two little mounds of earth, and smiled.
 
 Maya wrote it down. Then she drew a big box round the word *ask*.
 
-## Part Eighteen. The Ending, with a Hook
+## Part Eighteen. Welcome, Goodbye
 
 The stars came out over the school.
 
@@ -496,7 +516,7 @@ At the gate, Maya stopped.
 
 Behind us, every door in the school was opening.
 
-The main door swung wide. The classroom doors followed. The cupboard doors, the toilet doors, the staff room door, the cellar door, all of them, one after another, banging open and shut and open again, as if something were walking through the building and trying every handle.
+The main door swung wide. The classroom doors followed. The cupboard doors, the toilet doors, the staff room door, the cellar door, all of them, swinging gently open, one after another, as if someone were walking through the building and saying hello to every handle.
 
 A tall figure stood in the front doorway, framed in golden light. He wore a long cloak the colour of old keys. In one hand he held a ring of keys, and in the other a staff.
 

@@ -1,4 +1,8 @@
 # Review: The Bear Who Waited
+
+> **Status: ASK fixes applied (story 36, about 4,250 words, 17 parts).** The DIRECT fixes below were applied in the first pass; the ASK items were worked through in the third pass. The quotes and part names in this report describe the text as it was before that pass. The hundred-day timeline now works against a school week (two breaks a day, ten days per break, ready by Friday, day sixty on Wednesday afternoon), the sunset speech cut to one line with the twins' echoes, the ending reordered to end on soft lullaby images, a Mister Harris line for nervous parents, Willow's meow narrated as a sound.
+>
+> Weak spots recorded after the fix pass: A 'four of us' narrator slip in Part Ten; 'very' is frequent in Parts Eight to Twelve.
 File: stories/the-bear-who-waited.md | Words: about 4,270 | Parts: 17
 
 ## Verdicts

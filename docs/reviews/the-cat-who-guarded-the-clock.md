@@ -1,4 +1,8 @@
 # Review: The Cat Who Guarded the Clock
+
+> **Status: ASK fixes applied (story 30, about 4,400 words, 16 parts).** The DIRECT fixes below were applied in the first pass; the ASK items were worked through in the third pass. The quotes and part names in this report describe the text as it was before that pass. Willow no longer speaks (Mrs Bast speaks for her), the Apep fight has no sword or beheading, the sunset-speech run-up trimmed, Nana's sleep paid off with a knitted extra sleeve.
+>
+> Weak spots recorded after the fix pass: Part Fifteen's finale is long; a 'whispered' tic in Parts Two to Eight.
 File: stories/the-cat-who-guarded-the-clock.md | Words: about 4,400 (4,437 incl. front matter) | Parts: 16
 
 ## Verdicts

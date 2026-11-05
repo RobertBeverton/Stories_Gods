@@ -1,4 +1,8 @@
 # Review: The Lady Who Kept the Apples
+
+> **Status: ASK fixes applied (story 37, about 4,450 words, 18 parts).** The DIRECT fixes below were applied in the first pass; the ASK items were worked through in the third pass. The quotes and part names in this report describe the text as it was before that pass. The lane apples are only apples without Idun's own hand (plot hole closed), Willow holds the cloak pocket shut in the dive (her one brave act), Thor grips but does not raise the hammer, Idun's speech cut to two short exchanges, the hook image softened. A recognition beat makes Mister Thor and Mister Loki the same gods as Mr Thorley and Mr Locke.
+>
+> Weak spots recorded after the fix pass: Dot's 'I'll look out for eagles' has no payoff; Odin is mentioned but never appears; Thor's goats are only implied.
 File: stories/the-lady-who-kept-the-apples.md | Words: ~4,265 | Parts: 18
 
 ## Verdicts

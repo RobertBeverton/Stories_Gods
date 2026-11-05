@@ -178,7 +178,7 @@ And one by one, everyone in the hall fell back into a deep, drooling sleep.
 
 Everyone except Alex, Felix and Maya.
 
-## Part Eight. Maya's List
+## Part Eight. Maya Reads the List
 
 "Why aren't we asleep?" whispered Felix.
 
@@ -258,9 +258,9 @@ Willow grew.
 
 She grew as tall as a pony. Her shoulders swelled. Her paws grew as big as dinner plates. Her whiskers lengthened. Her spotted coat shone like a leopard in the sun. And her eyes, wide and green and fierce, were the eyes of the oldest cat in the world.
 
-"The great cat," whispered Maya. "The one who defeats Apep. In the old story, she cuts off his head with a knife, under a sacred tree."
+"The great cat," whispered Maya. "The one who defeats Apep. In the old story, she fights him with a great big sword, under a sacred tree."
 
-"No knives," said Mrs Bast, in a strained voice. "Not in a school."
+"No swords," said Mrs Bast, in a strained voice. "Not in a school."
 
 With a roar that shook the windows, Willow leapt. She landed squarely on the serpent's neck, and pinned his head to the floor with one enormous paw. Apep thrashed. He hissed. He struggled. But he couldn't move.
 
@@ -280,11 +280,9 @@ In ten seconds, the serpent was tied up.
 
 It was not a rough knot. It was the neatest knot you have ever seen, and at the very end, on top of Apep's nose, was a big blue bow, with two loops and two long ends.
 
-"Nice bow," said Willow, in a deep rumbling voice that sounded very like a purr.
+"Nice bow," said Mrs Bast, in a tired voice that was nearly a purr.
 
-"I can't believe you can talk," said Felix.
-
-"I couldn't until now," said Willow. She sounded quite pleased. "It's very strange."
+Willow, still as big as a pony, looked at the bow. Then she looked at Felix, and Alex, and Maya. She said nothing at all. She did not need to. She looked very pleased.
 
 Apep opened one yellow eye and stared at the bow.
 
@@ -306,7 +304,9 @@ She knelt down by the serpent's head. "Apep," she said. "Go home. It's late. You
 
 "Fine," grumbled Apep. "Just take the bow off."
 
-"No," said Willow.
+Willow looked at the bow. Then she looked at Apep, and slowly blinked.
+
+"She says no," said Mrs Bast.
 
 The serpent sighed. Slowly, with a long, sliding hiss, he began to pull back, down through the hole in the floor, coil by coil, back into the dark. His tail disappeared last, with a flick. The floor knitted itself together, plank by plank. The cracks closed. The big hall clock gave one long deep chime, and began to tick, steady and slow.
 
@@ -318,13 +318,13 @@ Willow shrank back to her usual size. She gave a tiny sneeze, and curled up on F
 
 We didn't tell anyone, in the morning. They wouldn't have believed us.
 
-Mister Harris woke up with the sun, rubbing his eyes. The sleepers stirred and stretched. Kenji said it was the best sleepover ever. Dot announced that she had dreamed about a giant snake wearing a bow. Missus Tibbs counted heads, and found everyone present and correct, in the right order.
+Mister Harris woke up with the sun, rubbing his eyes. The sleepers stirred and stretched. Kenji said it was the best sleepover ever. Dot announced that she had dreamed about a giant snake wearing a bow. Missus Tibbs counted heads, and found everyone present and correct, in the right order. Nana woke up in her deckchair, said, "Lovely sleep," and went back to her knitting, which had somehow grown an extra sleeve.
 
 Mrs Bast sat by the window, in a patch of dawn sunlight, with a plate of toast on her knee. She looked softer, and sleepier, and very pleased.
 
 Alex and Felix and Maya came and sat beside her.
 
-"I've been doing this a very long time," she said. "And I get tired. I used to think I had to do it alone. That being strong meant never needing anyone."
+"I used to think I had to do it alone," she said. "That being strong meant never needing anyone."
 
 "But you needed Willow," said Alex.
 
@@ -332,7 +332,7 @@ Alex and Felix and Maya came and sat beside her.
 
 Maya wrote it down in her notebook. Then she crossed it out, and wrote it again, bigger.
 
-"I've learned something else," said Mrs Bast. "Many people think you must choose. Gentle, or fierce. Soft, or strong. They say, you can't be both. But I am the cat on the lap, and the lioness in the doorway. And so are you."
+"People think you must choose," said Mrs Bast. "Gentle, or fierce. But I am the cat on the lap, and the lioness in the doorway. And so are you."
 
 "Us?" said Felix.
 

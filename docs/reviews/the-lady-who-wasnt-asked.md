@@ -1,4 +1,8 @@
 # Review: The Lady Who Wasn't Asked
+
+> **Status: ASK fixes applied (story 31, about 4,400 words, 16 parts).** The DIRECT fixes below were applied in the first pass; the ASK items were worked through in the third pass. The quotes and part names in this report describe the text as it was before that pass. Mrs Oshun's pause reads as a beat, she admits 'I should have asked, too... Waiting is not the same as asking', the closing advice cut to one line, Mister Harris apologises to the twins, the giant-bird shadow replaced by a dimming field; Willow's two meows are narrated sounds and the chair count adds up (seventeen for staff, two kept empty).
+>
+> Weak spots recorded after the fix pass: Part Fifteen still holds two ideas plus the twins' praise; Part Four's name clusters are unchanged.
 File: stories/the-lady-who-wasnt-asked.md | Words: ~4,350 | Parts: 16
 
 ## Verdicts

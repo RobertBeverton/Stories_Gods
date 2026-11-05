@@ -1,4 +1,8 @@
 # Review: The Lady Who Hid the Sun
+
+> **Status: ASK fixes applied (story 34, about 4,100 words, 17 parts).** The DIRECT fixes below were applied in the first pass; the ASK items were worked through in the third pass. The quotes and part names in this report describe the text as it was before that pass. The kami explained respectfully and 'giggling' became 'glowing', Simurgh's clue points somewhere high and dark, the sunset speech cut to a few lines, a calm closing image before the hook, a 'two weather teachers' line, Dot holds her mitten, 'Mister Ketz' spelling fixed.
+>
+> Weak spots recorded after the fix pass: Maya's Part Three lecture is still long.
 File: stories/the-lady-who-hid-the-sun.md | Words: about 4,080 (4,173 with front matter) | Parts: 17
 
 ## Verdicts

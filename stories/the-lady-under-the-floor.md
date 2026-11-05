@@ -188,6 +188,8 @@ Alex and Felix ran. Together, they ran, side by side, and flung themselves flat 
 
 "I'm holding!" shouted Felix.
 
+"I'm not scared," called Dot, in a wobbly voice. "I'm just very low down."
+
 Behind them, in a neat little line, a very small hairy shape lay down on the grass and bit the back of each of their coats. It was Willow. She was heavier than she looked.
 
 ## Part Eight. What We Tried
@@ -203,6 +205,10 @@ Mister Heston ran for his anvil. The Caretaker rushed for a rope. Mister Hadad s
 Dot was hauled back onto solid ground, with her feet kicking. She flopped in a heap and hugged both twins at once.
 
 "That was the second best thing that ever happened to me," she said.
+
+"What was the first?" said Alex.
+
+"Chips," said Dot.
 
 Maya was kneeling by the edge, scribbling like mad.
 
@@ -262,7 +268,7 @@ Alex and Felix dug a small hole in the soil, one on each side. Maya brought a cr
 
 "Sulpayki," said everyone else.
 
-We covered it over with soil, and patted it down. Willow put her paw on top, to seal it. And one by one, the rest of the school came. The Caretaker brought a nail he'd been saving, which he said was a good one. Mrs Oshun poured a little honey. Mister Ketsalkoatl, the cook, offered a handful of corn flour. Mister Väinö played one low note on his kantele. Madam Simurgh shook a single seed from her tail. Even Mister Hadad squeezed out one small, apologetic raindrop.
+We covered it over with soil, and patted it down. Willow put her paw on top, to seal it. And one by one, the rest of the school came. The Caretaker brought a nail he'd been saving, which he said was a good one. Mrs Oshun poured a little honey. Mister Ketz, the cook, offered a handful of corn flour. Mister Väinö played one low note on his kantele. Madam Simurgh shook a single seed from her tail. Even Mister Hadad squeezed out one small, apologetic raindrop.
 
 Slowly, slowly, the ground stopped trembling.
 
@@ -316,7 +322,13 @@ Everyone gasped.
 
 "And the leftover food from the dinner hall," said Mrs Pachamama, "will go into the compost, instead of the bin. So it can come back round as soil."
 
-"That's a good idea," said Mister Ketsalkoatl, thoughtfully. "I've always hated the bin."
+"That's a good idea," said Mister Ketz, thoughtfully. "I've always hated the bin."
+
+At the back of the hall, by the door, stood the digger driver, with his hard hat the right way round and his hands twisting together.
+
+"Sorry about your field," he said. "I'd like to help dig the compost heap, if that's all right. I'm good with a spade, too."
+
+"The ground would like that," said Mrs Pachamama, and she smiled at him.
 
 ## Part Thirteen. The Potato Feast
 
@@ -330,7 +342,7 @@ Mrs Pachamama stood in the middle of it all, humming. The llama, beside her, was
 
 We dug up the potatoes together. There were purple ones and red ones and spotty ones. Alex and Felix found their own spotted potato at the bottom of the bed. It was the size of a football. Dot hugged hers. Kenji found Gerald, and was overcome.
 
-That night, Mister Ketsalkoatl roasted them all in the school oven, with butter and salt and a sprinkle of herbs. We ate them under the stars, in a long row, with the staff gods all round us. Mrs Oshun brought a bowl of honey. Madam Simurgh brought a basket of seeds. Mister Susanoo, very carefully and quietly, carried the plates.
+That night, Mister Ketz roasted them all in the school oven, with butter and salt and a sprinkle of herbs. We ate them under the stars, in a long row, with the staff gods all round us. Mrs Oshun brought a bowl of honey. Madam Simurgh brought a basket of seeds. Mister Susanoo, very carefully and quietly, carried the plates.
 
 "This is the best potato I've ever eaten," said Ollie, with his mouth full.
 
@@ -406,7 +418,7 @@ Sitting in the shadows under the hedge were two animals. One was a very large, v
 
 The bear looked up. She had kind, tired, honest eyes.
 
-"Excuse me," she said, politely. "Is this the school that takes in beginners? We would like to learn how to be people, and we have been told it takes a hundred days."
+"Excuse me," she said, politely. "Is this the school that takes in beginners? We would like to learn how to be people."
 
 The tiger gave a long, impatient sigh. "I said it would take too long," she muttered.
 

@@ -148,7 +148,7 @@ Willow stood at the edge of the wood, with her fur bristling. She looked back at
 
 "She's going first," said Marion. "I'm not arguing with her."
 
-## Part Six. The Stove, the Apple Tree and the River
+## Part Six. The Stove and the Apple Tree
 
 The path wound through the trees. It was dim and quiet. Mushrooms grew in rings. Ravens croaked in the branches. After a while, we came to a small clay stove standing in the middle of the path, with a fire glowing inside.
 
@@ -164,7 +164,7 @@ Alex took a pie, and gave it half to Felix. It was warm and sweet. "Thank you ve
 
 "They went that way," said the stove, and its voice softened. "Take care. And if you need somewhere to hide, come back and tell me."
 
-We went on, deeper into the wood, until we came to an old apple tree with silver bark and twisted branches. Its leaves were rustling, though there was no wind.
+We went on, deeper into the wood, past the ravens, until we came to an old apple tree with silver bark and twisted branches. Its leaves were rustling, though there was no wind.
 
 "Please," it said. "Would you like an apple?"
 
@@ -174,21 +174,25 @@ Felix reached up. He picked the reddest one. "Thank you," he said. "I noticed yo
 
 Marion pulled a bit of string out of her pocket, and tied it. The tree sighed with relief. "They're not far ahead," it whispered. "Come back if you need me."
 
-At the edge of the wood, a river of milk flowed past, with jelly banks on both sides, wobbling gently in the sunlight. "Would you like a drink?" said the river.
+## Part Seven. The River of Milk
+
+We followed the path down to the edge of the wood, where a river of milk flowed past, with jelly banks on both sides, wobbling gently in the sunlight. "Would you like a drink?" said the river.
 
 "Thank you," said Alex and Felix together, and they each took a sip. "It's delicious."
 
 "The geese crossed the bridge," said the river. "Their mistress lives just beyond. Be careful. And if you run, run to me."
 
-## Part Seven. The Hut in the Dark Wood
+## Part Eight. The Hut in the Dark Wood
 
 Baba Yaga's own hut was in a clearing, in the very heart of the wood.
 
-It was darker than the one at school, and a bit bigger, and covered in moss. The chicken legs were scratching at the earth. The fence round it was made of real bones, and on each post sat a glowing skull. Their eyes glowed green.
+It was darker than the one at school, and a bit bigger, and covered in moss. The chicken legs were scratching at the earth. The fence round it was made of tall grey sticks, and on each post sat a round pale lantern, carved like a skull. Their eyes glowed green.
 
 "That's not a turnip," whispered Ollie, who had followed us.
 
-"Don't look at them," said Maya, clutching her notebook.
+"No," said Felix kindly. "It's a night-light. A very big, very green one."
+
+"Don't look at them," said Maya, clutching her scarf.
 
 "The gate's all rusty," said Marion. She pulled out an old tin of oil from her pocket. She had been carrying it around for weeks, in case. Carefully, she oiled the hinges, one by one. The gate swung open without a squeak.
 
@@ -210,7 +214,7 @@ Elfine stepped up and recited the old words, in a trembling voice. "Little hut, 
 
 The chicken legs shuffled. The hut turned slowly round, with a groan, until the door was facing us.
 
-## Part Eight. The Rescue
+## Part Nine. The Rescue
 
 Inside, it was warm and smoky, and very, very untidy. There was a huge black cauldron bubbling in the hearth. There were bundles of herbs hanging from the beams, jars of strange things on every shelf, and a rocking chair by the fire.
 
@@ -238,7 +242,7 @@ Baba Yaga's eyes snapped open.
 
 "Foo, foo, foo!" she screeched, leaping out of her chair. "I smell children! Naughty, sneaky children! Who's been in my house?"
 
-## Part Nine. The Chase
+## Part Ten. The Chase
 
 "RUN!" shouted Marion.
 
@@ -264,7 +268,7 @@ Baba Yaga growled. She zoomed off.
 
 We scrambled out, shaking. "Come on!" said Alex. "The apple tree!"
 
-## Part Ten. The Apple Tree and the Stove
+## Part Eleven. The Apple Tree and the Stove
 
 We ran. We could hear the wings overhead again. The apple tree was just ahead, silver in the dusk.
 
@@ -280,7 +284,7 @@ She roared off again.
 
 We ran to the stove. It was glowing at the end of the path. "Climb in!" it said. "There's plenty of room!"
 
-We squeezed in, all of us, even Ollie, who hadn't stopped trembling since the skulls. The stove closed its little iron door. Inside it was warm and dark and smelled of rye pie. We heard the wings. We heard the geese. We heard the mortar landing, with a crash.
+We squeezed in, all of us, even Ollie, who hadn't stopped trembling since the green lanterns. The stove closed its little iron door. Inside it was warm and dark and smelled of rye pie. We heard the wings. We heard the geese. We heard the mortar landing, with a crash.
 
 "Stove, stove, did the children pass?"
 
@@ -290,7 +294,7 @@ We heard Baba Yaga stamping. We heard her muttering. Then, suddenly, the sound s
 
 There was a long silence.
 
-## Part Eleven. The Lonely One
+## Part Twelve. The Lonely One
 
 Alex pushed open the door of the stove, the tiniest crack.
 
@@ -330,7 +334,7 @@ They got out of the stove together. They walked across the grass, hand in hand. 
 
 Baba Yaga stared at them. Then, very slowly, she smiled. It wasn't her toothy smile. It was a small, shy one.
 
-## Part Twelve. What Baba Yaga Said
+## Part Thirteen. The Soup Club Idea
 
 "I have an idea," said Alex.
 
@@ -362,7 +366,7 @@ She took Dot's hand. Her fingers were bony and warm.
 
 "No," said Baba Yaga. She laughed, a cracked, rusty laugh. "No, I suppose I don't. Thank you, little ones. Now, how about a lift home? It'll be faster than walking."
 
-## Part Thirteen. The Flight Home
+## Part Fourteen. The Flight Home
 
 We all piled into the giant mortar.
 
@@ -382,9 +386,11 @@ The mortar glided down and landed, with a gentle bump, in the middle of the fiel
 
 "There she is!" shouted Nana. "My boys! Both of them!"
 
-Alex and Felix jumped out, and she hugged them so hard that their feet left the ground.
+Alex and Felix jumped out, and she hugged them so hard that their feet left the ground. Alex put out a hand and pulled Dot into the hug, too. Then Missus Tibbs came running, and scooped Dot up, and held on to her for a very long time.
 
-## Part Fourteen. Soup Club
+"Sorry I worried you," said Dot, into her shoulder.
+
+## Part Fifteen. Soup Club
 
 The first ever Friday Soup Club was the biggest success in the history of the school.
 
@@ -398,21 +404,27 @@ Mister Harris had three helpings. Missus Tibbs asked for the recipe. And Willow 
 
 "With people who wanted it," said Felix.
 
-"Yes," she said. She looked round the crowded hall, at the steam and the chatter and the clinking of spoons. "I think I understand now. It isn't the soup that matters. It's the people you share it with."
+"Yes," she said. She looked round the crowded hall, at the steam and the chatter and the clinking of spoons. Then she reached under the counter.
 
-She set down her ladle.
+"Dot," she said. "This is for you. I made it myself, the night you went home."
 
-"I was lonely for so long that I forgot how to ask. And I frightened people, because I didn't know how else to get what I needed. But the bravest thing you can do, when you feel lonely, is to say so."
+It was a little wooden spoon, with a tiny red hat painted on the handle. Baba Yaga held it out with both hands, as if it might break.
 
-"It's brave to ask for help," said Dot.
+"To say sorry properly," she said. "And thank you for helping me."
 
-"The very bravest," said Baba Yaga. "And you can be fierce, and still be kind. I used to think they were opposites. They're not."
+Dot held it up and grinned all over her face. "Now I'm a proper assistant," she said.
+
+"I was lonely for so long that I forgot how to ask," said Baba Yaga, to all of us. "The bravest thing you can do, when you feel lonely, is to say so."
+
+"And you can still be fierce," said Dot.
+
+"And still be kind," said Baba Yaga, and she showed her iron teeth in the biggest smile yet.
 
 Marion nudged Elfine. "I like her," she whispered.
 
 "I like her too," said Elfine. "And her soup."
 
-## Part Fifteen. The Ending, with a Hook
+## Part Sixteen. Frost on the Window
 
 By the end of the week, the first frost had come.
 

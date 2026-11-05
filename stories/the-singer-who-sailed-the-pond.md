@@ -20,7 +20,7 @@ It was the first proper cold morning. Everyone was standing in the playground in
 
 But this was somebody else.
 
-He was a very old man, with a very long grey beard that reached his belt, and twinkling eyes the colour of a lake. He wore a thick woollen jumper, and boots, and a pointed hat with a feather in it. In his arms he held a strange wooden instrument shaped like a triangle, with five strings across it, like a tiny harp lying on its side.
+He was an old man, with a long grey beard that reached his belt, and twinkling eyes the colour of a lake. He wore a thick woollen jumper, and boots, and a pointed hat with a feather in it. In his arms he held a strange wooden instrument shaped like a triangle, with five strings across it, like a tiny harp lying on its side.
 
 His badge said Mister Väinö, Choir and Sauna.
 
@@ -48,7 +48,7 @@ She was sitting very straight, with her notebook open on her knee and her pencil
 
 "A book of what?" said Marion.
 
-"Stories and songs," said Elfine. "A man called Elias Lönnrot wrote them down, about two hundred years ago, after walking all over Finland, and listening to old singers sing them by the fire. Some of them were thousands of years old already."
+"Stories and songs," said Elfine. "A man walked all over Finland, listening to old singers sing them by the fire, and wrote them down. Some of them were thousands of years old already."
 
 "Who's the hero?" said Felix.
 
@@ -60,11 +60,11 @@ She was sitting very straight, with her notebook open on her knee and her pencil
 
 "Born old?" said Ollie.
 
-"His mother was the Air Maiden," said Elfine. "She floated in the sea for seven hundred years, and when he was born, he was already grey and wise. He'd been sitting in there thinking about things the whole time."
+"He was already grey and wise when he was born," said Elfine. "He'd been sitting in there thinking about things the whole time."
 
 "That's the best thing I've ever heard," said Marion.
 
-"And he made his own kantele," said Elfine. "From the jawbone of a giant pike. When he played it, every creature in the world came to listen. Bears. Birds. The sun and the moon, who sat on a branch to hear. And he cried with joy. And his tears rolled down into the sea, and turned into blue pearls."
+"And he made his own kantele," said Elfine. "From the jawbone of a giant pike. When he played it, every creature in the world came to listen. Bears. Birds. Even the sun and the moon."
 
 Mister Väinö finished his song. The last note hung in the air. And the snowflake, very gently, drifted down onto his hand, and melted.
 
@@ -130,7 +130,7 @@ She was already in the pantry. She had one frozen hand round the handle of the s
 
 "It's ours!" shouted Dot.
 
-"It was made for me," said the Inspector. "A very long time ago. And it has been hiding in the wrong cupboard ever since."
+"I made it," said the Inspector. "A very long time ago. And it has been hiding in the wrong cupboard ever since."
 
 She lifted the mill off the shelf. It was glowing. A faint hum of flour and salt and gold filled the room. She wrapped it in her wolf-fur coat, and swept out of the kitchen. The wind howled. A sleigh pulled by six white reindeer was waiting on the field, and the reindeer lifted off the ground, and the sleigh vanished into the snow-clouds with a jingle of bells.
 
@@ -154,9 +154,9 @@ He had his kantele across his knees, and his beard was white with frost. He look
 
 "I thought so," he said, when we told him. "That is the Sampo. I made a song about it, long ago."
 
-"The Sampo?" said Elfine, and her pencil fell out of her hand. "Oh. Oh, it's the Sampo. The magic mill. Everybody in the Kalevala wants the Sampo. It grinds out grain, and salt, and gold, for ever and ever, so that nobody ever goes hungry."
+"The Sampo?" said Elfine, and her pencil fell out of her hand. "The magic mill. It grinds out grain, and salt, and gold, for ever and ever, so that nobody ever goes hungry."
 
-"And Louhi wanted it all for herself," said Mister Väinö. "She is the mistress of the North, you see. Where it is cold and dark and nothing grows. She was jealous of the places where things grow. So she locked the Sampo inside a mountain with nine locks, and nine roots growing round it, very deep underground."
+"And Louhi wanted to keep it," said Mister Väinö. "She is the mistress of the North, you see. Where it is cold and dark and nothing grows. So she locked the Sampo inside a mountain with nine locks, and nine roots growing round it, very deep underground."
 
 "How do we get it back?" said Marion.
 
@@ -174,11 +174,11 @@ He sat on the bank, and tuned his five strings. Then he began to play, a low, st
 
 The ice on the pond cracked. Melted. Rippled. The water spread out wider and wider. It swallowed the reeds. It swallowed the little wooden jetty. The far bank slid away into the distance, until there was nothing but grey sea, stretching to the horizon, with white-capped waves.
 
-Beside us, bobbing on the water, was the school's old rowing boat, the one that Mister Harris keeps upside down behind the shed. It had grown a tall mast, and a red sail, and a carved bird's head at the front.
+Beside us, bobbing on the water, was the school's old rowing boat, the one that Mister Harris keeps upside down behind the shed. It was the right way up now, and it had grown a tall mast, and a red sail, and a carved bird's head at the front.
 
 "All aboard," said Mister Väinö.
 
-Alex and Felix climbed in first. Then Elfine and Marion. Then Dot, who refused to be left behind, in her little chef's hat. Then Kenji, with a tin of biscuits. And last of all, Willow stepped delicately over the side, took up position at the very front, and sat like a figurehead, gazing at the horizon with her tail curled round her feet.
+Alex and Felix climbed in first. Then Elfine and Marion. Then Dot, who refused to be left behind, in her little chef's hat. Then Kenji, with a tin of biscuits. Ollie stayed behind to hold the fort with Mister Harris. And last of all, Willow stepped delicately over the side, took up position at the very front, and sat like a figurehead, gazing at the horizon with her tail curled round her feet.
 
 "The ship's cat," said Marion, with great pride.
 
@@ -288,7 +288,7 @@ The guards slept. The wind softened. And inside the hall, Marion and Elfine clic
 
 "Pull!" said Elfine.
 
-Dot, Kenji and Willow all pulled. The nine roots curled away like sleepy snakes. And the little stone mill rose from its pedestal into the air, glowing gold, and settled into Marion's arms.
+Dot and Kenji pulled. The nine roots curled away like sleepy snakes. And the little stone mill rose from its pedestal into the air, glowing gold, and settled into Marion's arms.
 
 ## Part Twelve. The Eagle
 
@@ -322,11 +322,13 @@ We tumbled aboard, shoved off the ice, and the red sail caught the wind. But the
 
 The mill was caught between them. Marion held on with both hands. The eagle held on with both claws. The boat rocked and tilted. Spray flew everywhere. Mister Väinö was playing as fast as he could, but his hands were so cold he could barely strum.
 
+Then a spotted streak shot across the deck. Willow leapt, landed on the mill with all four paws, and hooked her claws round its rim. The eagle's dive stopped dead. She could not lift it. Not with a cat on it.
+
 "Everyone pull!" shouted Alex.
 
 "Together!" shouted Felix.
 
-We all grabbed hold. Elfine caught Marion round the waist. Dot caught Elfine. Kenji caught Dot. The twins caught Kenji. And the whole line of us hauled, back and back, with Willow sinking her claws into the deck, and Mister Väinö playing a wild, fast song.
+We all grabbed hold. Elfine caught Marion round the waist. Dot caught Elfine. Kenji caught Dot. The twins caught Kenji. And the whole line of us hauled, back and back, with Willow still holding on tight, and Mister Väinö playing a wild, fast song.
 
 The eagle pulled. We pulled. Everything went tight, like a stretched elastic band.
 
@@ -402,19 +404,17 @@ Baba Yaga looked at the pile, and Dot looked at Baba Yaga.
 
 "Where did it all come from?" said Dot.
 
-"From all of you," said Mister Väinö, from the corner, plucking a gentle chord. "That was the secret of the Sampo. People think it was a stone with magic inside it. But the real magic was in turning the handle. Everyone in the village, together, grinding a little each. That's where plenty comes from. Not from one person keeping it. From everyone giving a bit."
+"From all of you," said Mister Väinö, from the corner, plucking a gentle chord. "That was the secret of the Sampo. People think it was a stone with magic inside it. But the real magic was in turning the handle. Everyone in the village, together, grinding a little each. That's where plenty comes from. From everyone giving a bit."
 
 "So we don't need the mill," said Alex.
 
 "We never did," said Felix.
 
-"Not as long as we have each other," said Elfine, with a smile.
-
 Louhi, at the back, with a bowl of soup in her hands, wiped her eyes with her sleeve. "I'd like to come again," she said gruffly. "If that's allowed."
 
 "Friday," said Baba Yaga, with a toothy smile. "Bring a spoon."
 
-## Part Seventeen. The Ending, with a Hook
+## Part Seventeen. The Staff Room Door
 
 On Wednesday, just as Missus Tibbs had promised, the staff room door creaked open.
 
@@ -428,8 +428,12 @@ He was very, very tall. He wore a long blue coat trimmed with white fur, and a t
 
 Behind him, in the doorway, a girl in a shimmering silver dress was building a tiny snow-owl out of nothing.
 
-Every head in the playground turned. Mister Väinö's hand paused on the strings. Baba Yaga, in the kitchen window, dropped a ladle. Willow's whiskers quivered, and her tail went up like a flag.
+Every head in the playground turned. Mister Väinö's hand paused on the strings. Baba Yaga, in the kitchen window, stopped stirring. Willow's whiskers quivered.
 
-And everyone looked at Alex and Felix. The twins looked at each other, with their breath rising in white puffs. They said, at exactly the same time, "Monday."
+"Why can't he remember what he came for?" whispered Felix.
+
+"And what is she building?" whispered Alex.
+
+Nobody knew. Everyone looked at Alex and Felix. The twins looked at each other, with their breath rising in soft white puffs, and the playground went quiet. They said, at exactly the same time, "Monday."
 
 The End.

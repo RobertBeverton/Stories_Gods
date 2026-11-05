@@ -78,7 +78,7 @@ Behind us, something tinkled. We turned round. A tiny shape, no bigger than a th
 
 "What are *they*?" whispered Dot.
 
-"I think," said Maya slowly, "they're the kami. They're little spirits. Hundreds of them. I think they came with her. They laugh when they're nervous."
+"I think," said Maya slowly, "they're the kami. In Japan, kami are the spirits and sacred presences in things, in the sun and the mountains and the rivers. And these are the little ones. Hundreds of them. I think they came with her, to look after her. A few of them giggle when they're nervous."
 
 There were eight hundred of them, in the end. We counted.
 
@@ -86,17 +86,17 @@ There were eight hundred of them, in the end. We counted.
 
 We took Mrs Amaterasu to the cupboard under the stairs.
 
-Madam Simurgh was sitting in her tall wooden chair, folded small as a hen, polishing a boot. She looked up when we came in. Her golden eyes took in the pale sun-lady and the eight hundred giggling lantern spirits, and she nodded as if this were the most ordinary thing in the world.
+Madam Simurgh was sitting in her tall wooden chair, folded small as a hen, polishing a boot. She looked up when we came in. Her golden eyes took in the pale sun-lady and the eight hundred glowing little spirits, and she nodded as if this were the most ordinary thing in the world.
 
 "Something small and shiny, and very precious," she said. "Round. Bronze. With a handle."
 
 "How did you...?" said Mrs Amaterasu.
 
-"It's a lost thing," said Madam Simurgh. "I can feel them. It hums." She closed her eyes, and her feathers rippled, and she tilted her head. "It is in the school. But it is not in a place I can easily reach."
+"It's a lost thing," said Madam Simurgh. "I can feel them. It hums." She closed her eyes, and her feathers rippled, and she tilted her head. "It is nearby. But it is not in a place I can easily reach."
 
 "Where?" said Alex.
 
-"Somewhere high, somewhere shut," said Madam Simurgh. "And very dark."
+"Somewhere high," said Madam Simurgh. "And very dark."
 
 Dot was already burrowing through the shelves. She came back with a purple hat, a lonely mitten, a spelling book and a slightly squashed banana. "No mirror," she said, sadly.
 
@@ -128,7 +128,7 @@ Mrs Amaterasu's rays dropped to a dim flicker.
 
 "A tiny bit," said Mrs Amaterasu, with a wince.
 
-We watched them go down the corridor together, a big loud storm of a man and a small pale sun with her bells ringing nervously. Behind them trailed the giggling kami, some of them hiding in her sleeves.
+We watched them go down the corridor together, a big loud storm of a man and a small pale sun with her bells ringing nervously. Behind them trailed the kami, glowing softly, a few of them hiding in her sleeves.
 
 "He's her brother," whispered Maya. "That's in the story, too. The sun and the storm. They're two of the three great children of the first gods, and they've never got on. Not because he's mean. He's just... a lot."
 
@@ -142,7 +142,7 @@ The trouble began on Wednesday.
 
 It was the Harvest Assembly, which happens every autumn, when everyone brings in tins and vegetables and puts them on a long table in the hall. Mrs Amaterasu was in charge of the decorations. She had worked on them all week. She had made rice sheaves out of gold paper. She had hung a hundred little paper lanterns from the ceiling. She had lit every one with a tiny spark from her own glow.
 
-It was the most beautiful hall we'd ever seen. All the kami were hanging from the lanterns, giggling softly.
+It was the most beautiful hall we'd ever seen. All the kami were hanging from the lanterns, glowing softly.
 
 We sat on the floor in rows. Mister Harris stood on the stage and cleared his throat.
 
@@ -208,7 +208,7 @@ By the time we got to the storeroom, half the school was there.
 
 They had all had ideas.
 
-Mister Heston was trying to push the stone door open with a crowbar. It did not move. The Caretaker was banging on it with a mallet. It did not move. Mister Hadad shouted, and thunder rolled, and the door still stayed where it was. Miss Pele melted a bit of the frost off the step, and Baba Yaga offered to send in some soup through the keyhole.
+Mister Heston was trying to push the stone door open with a crowbar. It did not move. The Caretaker was banging on it with a mallet. It did not move. Mister Hadad shouted, and thunder rolled, and the door still stayed where it was. Two weather teachers, and neither of them could help. Miss Pele melted a bit of the frost off the step, and Baba Yaga offered to send in some soup through the keyhole.
 
 "Come out, Amaterasu!" bellowed Mister Susanoo. He was standing in front of the door with his fists clenched and rain pouring off his head. "This is silly! It was only a game! Come out right now!"
 
@@ -282,7 +282,7 @@ She put it in Alex's hands. Alex put his hand on one side. Felix put his hand on
 
 "Dot," said everybody at once.
 
-Dot, who had been quietly sucking her thumb, took it out of her mouth.
+Dot, who had been quietly holding her mitten, looked up.
 
 "Me?" she said.
 
@@ -306,7 +306,7 @@ She climbed onto the upturned tub. She was very small and very serious. And then
 
 It was the silliest dance any of us had ever seen. She waggled. She wiggled. She flapped her elbows like a chicken, and shook her bottom like a jelly, and did a sort of hopping spin that made her fall over, and get up, and do it again. Willow, all at once, leapt on to the tub beside her and began to dance too, in a stiff, solemn, cat sort of way, with her tail up and her whiskers twitching.
 
-Kenji started laughing. Then Ollie. Then the whole class. Then the staff. Mister Coyote laughed so hard he dropped his sandwich. Baba Yaga cackled. Mister Harris wiped his eyes. And the eight hundred kami went off like fireworks, giggling and tinkling and glowing so brightly that the whole playground turned gold.
+Kenji started laughing. Then Ollie. Then the whole class. Then the staff. Mister Coyote laughed so hard he dropped his sandwich. Baba Yaga cackled. Mister Harris wiped his eyes. And the eight hundred kami shone and tinkled, glowing so brightly that the whole playground turned gold.
 
 ## Part Thirteen. A Crack in the Door
 
@@ -376,7 +376,7 @@ And across the sky, from one side to the other, shimmered the long, bright, patc
 
 "It's all of us," said Maya.
 
-The staff went back to rebuild the harvest display, with Mister Susanoo carrying all the heavy things, very carefully, and not kicking anything. Mrs Oshun re-lit the lanterns. Mrs Lakshmi re-did the gold paper sheaves. Mister Ketsalkoatl made a huge corn loaf to share. And at the end of the playground, the Caretaker wedged the stone door of the storeroom open with a chair, so that it would never stay shut by accident again.
+The staff went back to rebuild the harvest display, with Mister Susanoo carrying all the heavy things, very carefully, and not kicking anything. Mrs Oshun re-lit the lanterns. Mrs Lakshmi re-did the gold paper sheaves. Mister Ketz made a huge corn loaf to share. And at the end of the playground, the Caretaker wedged the stone door of the storeroom open with a chair, so that it would never stay shut by accident again.
 
 "If I want to go in," said Mrs Amaterasu, "I know where it is."
 
@@ -402,7 +402,7 @@ Mrs Amaterasu sat on the steps of the storeroom with her mirror in her lap. Alex
 
 She turned the mirror in her hands.
 
-"I will tell you something I wish I had known sooner," she said. "It is all right to hide when you are hurt. Everyone needs a quiet room sometimes. It is not a failure. It is not wrong. But it is best if you do not stay in there forever. Because there are people on the outside who love you, and are waiting with a lamp. And sooner or later, you will hear them laughing, and you will want to know what is so funny."
+"I will tell you something I wish I had known sooner," she said. "It is all right to hide when you are hurt, but don't stay in there forever. There are people on the outside who love you, waiting with a lamp."
 
 "What if no one comes?" said Felix.
 
@@ -418,7 +418,7 @@ Maya wrote it down, and then, because it was a good one, she drew a tiny sun bes
 
 The first stars came out over the school.
 
-Alex and Felix walked home through the dusk, with Willow between them and Maya behind, still scribbling. The playground smelled of corn bread and wet grass. In the sky, the colourful seam was fading slowly into the night, like a ribbon being drawn out of a box.
+Alex and Felix walked home through the dusk, with Willow between them and Maya behind, still scribbling. The playground smelled of corn bread and wet grass. Behind us, in the open doorway of the storeroom, Mrs Amaterasu's glow shone soft and steady, like a lamp left on for someone. In the sky, the colourful seam was fading slowly into the night, like a ribbon being drawn out of a box.
 
 At the gate, Willow stopped.
 
