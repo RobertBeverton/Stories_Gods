@@ -1,458 +1,643 @@
 ---
 title: "The Quiz Mistress Who Was ATHENA"
-description: "A quiz mistress with an owl meets a boastful weaver, and the twins learn the power of 'I don't know yet'."
+description: "A quiz mistress with an owl meets a boastful weaver, and the twins find out that the bravest thing to say is the true thing: I don't know yet."
 series: "The Staff Room Gods"
 seriesOrder: 14
-tags: ["mythology", "school"]
+tags: ["mythology", "greek", "wisdom"]
 gods: ["Athena (Greek)"]
 lore: athena
+characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine", "Marion"]
+icon: cloud
+publishDate: 2026-11-04
 draft: false
 ---
 
-The first time we saw Ms Athene was on a Monday, and she had an OWL ON HER SHOULDER.
+## Part One. The Feather
 
-It wasn't a toy owl. It blinked. It turned its head all the way round and looked at Mr Harris, who said, "Er, is the owl staff?"
+On Monday morning, the grey feather was still in Maya's notebook.
 
-"He's my assistant," said Ms Athene. "His name is Glaux. It means 'owl'. He's not very imaginative."
+She had not slept much. She had kept it under her pillow, then in her lunchbox, then in a sandwich bag labelled EVIDENCE, and now she held it up behind the compost bin like a tiny grey flag.
 
-She was tall, with grey eyes that looked like they had already read your whole mind and found it quite interesting. She carried a book so big that Ollie Grant said it must have its own postcode. Her badge said **MS ATHENE, QUIZ MISTRESS.**
+"It hasn't written anything new," she said. "It only says what it said. *13. Ask me anything.*"
 
-Mr Harris told us there was a Big Quiz on Friday against Pridefield Primary. It was our class against theirs, and the winners would get a golden trophy shaped like a pencil.
+"Then somebody had better ask," said Ollie.
+
+"Ask what?" said Kenji. "Ask who? Ask a feather?"
+
+Felix noticed that Willow was not on the wall. Willow is the Bengal Reading Cat, and she is always on the wall at the start of the day, with her tail wrapped round her paws. Today she was sitting at the very front of the playground, looking at the sky.
+
+Alex said, "She knows something."
+
+Willow did not say anything. She never does. She just kept looking up.
+
+That was when the bell rang, and Mr Harris came out with his clipboard, saying, "Everybody inside, please, and be calm, and please do not, er, look at the roof."
+
+We looked at the roof.
+
+There was an OWL on it. It was the biggest owl we had ever seen. It sat on the roof tiles with its grey eyes open, as if it had been there all night, and when we all stared, it turned its head the whole way round, like a door handle, and looked at something behind us.
+
+We turned round.
+
+A tall woman was walking across the playground. She had grey eyes that looked as if they had already read your whole mind and found it rather interesting. In her arms she carried a book so big that Ollie said it must have its own postcode. On her shoulder, a second later, landed the owl from the roof.
+
+"Good morning," she said. "I believe somebody has a question."
+
+## Part Two. Ask Me Anything
+
+Her badge said **MS ATHENE, QUIZ MISTRESS.**
+
+"And this," she said, as the owl shuffled on her shoulder, "is my assistant. His name is Glaux. It means 'owl'. He is not very imaginative."
+
+"Is the owl staff?" said Mr Harris weakly.
+
+"He is the senior member of staff," said Ms Athene. "He has been listening to questions for a very long time."
+
+Glaux blinked at Mr Harris, one eye and then the other. Mr Harris stood up a little straighter.
+
+"Now, class," said Mr Harris, turning to us. "Ms Athene is going to coach our quiz team. There is a Big Quiz on Friday, in our hall, against Pridefield Primary. There will be four rounds, and I will read out the questions, and you shout the answers. The winning team gets the golden trophy."
+
+He held up a picture. The trophy was a golden pencil, as long as a ruler.
+
+"Pridefield has won it three years in a row," he said, "and they are very smug about it."
 
 "Do we have to?" said Ollie.
 
-"Yes," said Mr Harris. "Pridefield has won for three years, and they are very smug about it."
+"The team is Alex, Felix, Maya and Kenji," said Mr Harris. "Ollie, you are the reserve, for Animals."
 
-## THE ARRIVAL OF THE CLUES
+"I know loads about animals," said Ollie. "I know that cheese is made from cows."
+
+"It's a start," said Ms Athene kindly.
 
 Alex and Felix Bailey are twins, so they have a system. Alex notices things and Felix asks about them. Then they swap, and it works every time.
 
-Alex noticed that Glaux never ate anything. Felix asked Ms Athene why, and she said, "He's on a very long diet of knowledge."
+Alex noticed that the big book had no title on the cover. Felix asked what was inside it.
 
-Alex noticed that the big book had no title on the front. Felix asked what was in it, and Ms Athene said, "Questions, mostly."
+"Questions," said Ms Athene. "Mostly. The answers are in the next book, which hasn't been written."
 
-Then Alex noticed that Mr Heston, the Making Club teacher, was standing very far away from Ms Athene, holding a large axe behind his back and looking at the ceiling.
+Alex noticed that Glaux never ate anything. Felix asked why not.
 
-Felix asked, "Mr Heston, why do you have an axe?"
+"He is on a very long diet of knowledge," said Ms Athene.
 
-Mr Heston went pink. He said, "It's a long story. And it was a very bad headache."
+Then Alex noticed something small and quiet. On the corner of the big book, in a crack of the cover, there was a very small spider. It was no bigger than a lentil. It sat there, polishing one leg, as if it lived there.
+
+Felix asked, "Is that your spider?"
+
+Ms Athene looked at it. For a moment, her face went soft and strange, like somebody remembering.
+
+"She is an old friend," she said. "She is not to be moved. She is not to be squashed. And she is, on the whole, quite good at waiting."
+
+Glaux leaned over and looked at the spider very gently, and did not eat it. Which, for an owl, is a lot.
+
+## Part Three. Behind the Compost Bin
+
+Mister Heston, the Making Club teacher, was standing at the other end of the playground. He was holding a small silver hammer and a chisel behind his back, and when Ms Athene looked his way, he went pink and waved with the wrong hand.
+
+"Mister Heston," said Felix, "why do you have a hammer and a chisel?"
+
+"It's a long story," said Mister Heston. "A very old one. A very loud headache. I'd rather not say."
 
 The twins said, "We need Maya."
 
-## WHO IS ATHENA?
+We met behind the compost bin. Maya had her clipboard, Kenji and Ollie sat on their buckets, and Dot from Reception sat on the lid, because nobody ever told her not to.
 
-Maya Singh was behind the compost bin. Dot from Reception sat on the lid, Kenji Mori and Ollie sat on their buckets, and Maya had her clipboard.
+"Ms Athene is **ATHENA,**" said Maya. "The Romans called her Minerva. She is the Greek goddess of **wisdom,** **clever plans** and **crafts,** like weaving and pottery. And her bird is the owl, because owls look wise."
 
-She said, "Ms Athene is **ATHENA.** The Romans called her Minerva. She's the Greek goddess of **wisdom**, **clever plans** and **crafts**, like weaving and pottery. And her bird is an **owl**, because owls look wise."
+"Do they know things?" said Kenji.
 
-Kenji said, "Do they know things?"
+"No," said Maya. "They look at you very hard. But that's how the Greeks decided."
 
-Maya said, "No. They just look at you very hard. But that's how the Greeks decided."
+Then she told us the best bit. Zeus, the king of the gods, woke up one morning with the worst headache of his life. It rumbled and roared inside his head. Nothing helped, not even a nice lie down.
 
-She told us the best part. Zeus, the king of the gods, woke up one morning with the worst headache of his life. He groaned and rolled around and held his head, and nothing helped. In the end, he asked someone to crack it open with an axe.
+"So he asked Hephaestus, the blacksmith god, who mends everything," said Maya. "And Hephaestus tapped very carefully, with a hammer and chisel, like opening a tin of paint. Out of Zeus's head stepped a goddess, fully grown, in shining armour, with a spear and a helmet. It was Athena. She was born **already wise.**"
 
-Dot gasped. Ollie said, "That's disgusting."
+"That sounds like a lot of noise for a head," said Dot.
 
-Maya said, "It gets better. Out of Zeus's head jumped a fully grown goddess in shining armour, with a spear and a helmet, shouting a battle cry. It was Athena. She was born **already wise.**"
+"It was," said Maya. "And it explains why Mister Heston is nervous. She has never been cross with him, but he is still sorry about the headache."
 
-Felix said, "So who had the axe?"
+Maya said Athena was also the great planner. Once she had a contest with the sea god **Poseidon,** to be the guardian of a new city. Poseidon struck the ground with his trident, and a spring gushed up, but it was salty. Athena planted an **olive tree,** which gave food, oil, wood and shade. The people chose her, and named the city **Athens.**
 
-Maya said, "**Hephaestus.** The blacksmith god. Mr Heston."
+"She won by being useful," said Kenji.
 
-Alex said, "That explains the axe."
+"That's the Athena way," said Maya.
 
-Maya said, "And it explains why he's nervous. She's never been angry with him, but he's still sorry about the headache."
+Alex held the pencil. Felix held the notebook, because they always share jobs.
 
-She said Athena was Zeus's favourite child, and she was a great strategist, which means she's very good at working out clever plans. Once, she had a contest with the sea god **Poseidon** to see who would be the guardian of a new city. Poseidon hit the ground with his trident and made a salty spring, which was no use for drinking. Athena planted an **olive tree**, which gave people food, oil, wood and shade. They chose her, and named the city **Athens.**
+**1. THE OWL.** Glaux has never blinked at the wrong moment.
 
-Kenji said, "She won by being helpful."
+**2. THE BIG BOOK.** It has no title and no end.
 
-Maya said, "That's the Athena way."
+**3. THE GREY EYES.** In the old poems, Athena's eyes are always grey.
 
-## THE LIST
+**4. THE QUESTIONS.** Every time anyone asks her something, she asks a better one back.
 
-Alex held the pencil. Felix held the notebook, because they always share.
+**5. THE SPIDER ON THE BOOK.** "An old friend." We don't know yet.
 
-**1. THE OWL.** Glaux is always on her shoulder, and he has never once blinked at the wrong moment.
+"We don't know yet?" said Maya, frowning. "I have never written that on a list before."
 
-**2. THE BIG BOOK.** It has no cover, no title and no end.
+"It is true," said Felix.
 
-**3. THE GREY EYES.** Maya said they are always described as grey in the old poems.
+"It's the strongest list since Mister Thorley's," said Maya, and then went a bit quiet, because of the awkward item on his that nobody mentions.
 
-**4. THE QUESTIONS.** Every time anyone asks her something, she asks a better question back.
+## Part Four. The Oak Tree
 
-**5. MR HESTON'S AXE.**
+On Tuesday, Ms Athene took the quiz team out under the big oak tree and sat us in a circle on the grass. Glaux sat in the branches above us like a small grey umpire.
 
-Maya said, "That's the best list yet."
-
-## THE FIRST LESSON
-
-On Tuesday, Ms Athene took our quiz team out to the playground and sat us under the big oak tree.
-
-She said, "Before we start, I have one rule. I want to hear you say something you may not enjoy."
+"I have one rule," said Ms Athene. "I want to hear you say a sentence you may not enjoy."
 
 We waited.
 
-She said, "I want you to say, **'I don't know.'**"
+"I want you to say, **'I don't know.'**"
 
-Ollie said, "Why would we say that?"
+"Why would we say that?" said Ollie, looking horrified. "That's the opposite of a quiz."
 
-She said, "Because it's the most powerful sentence in the world. Everyone who has ever learned anything started with those words."
+"It is the most powerful sentence in the world," said Ms Athene. "Everyone who ever learned anything started with those words. How many stars are in the sky?"
 
-She asked us a question. "How many stars are in the sky?"
+"A million," said Kenji.
 
-Kenji said, "A million?"
+"Wrong, but at least you guessed. Does anybody really know?"
 
-Ms Athene said, "Wrong, but at least you guessed. Does anyone really know?"
+We thought about it. Maya said, "No."
 
-We looked at each other. Maya said, "No."
+"So the right answer is?"
 
-Ms Athene said, "So the right answer is..."
+We said it, a bit shyly. "I don't know."
 
-We all said, a bit shyly, "**I don't know.**"
+"Good. Now add one more word."
 
-She smiled. "Yes. And now add one more word."
+"**Yet,**" said Alex.
 
-Alex said, "**Yet.**"
+"I don't know yet," said Felix.
 
-Felix said, "I don't know **yet.**"
+"Say it slowly," said Ms Athene. "Like a promise."
 
-Ms Athene said, "Say it again. Slowly. Like it's a promise."
+Ollie said it fast, and very loudly, with his eyes on the answer card sticking out of her book.
 
-We said it together, under the tree:
+Ms Athene lifted one eyebrow. "Ollie, that one is a trick. You peeked."
 
-**"I DON'T KNOW YET."**
+"I might have peeked a bit," said Ollie.
 
-It felt strange, and then it felt very light, like putting down a heavy bag.
+"Then it is not true, and it won't work," said Ms Athene. "It is only any use if you mean it. If you say it so you can look clever, it is just another way of boasting. Try again, and do not peek."
 
-## THE WEAVER
+Ollie sat on his hands. He said, quietly, "I don't know yet." He seemed surprised. "It feels like putting down a heavy bag."
 
-On Friday, the Pridefield team arrived in a shiny blue minibus.
+"That's exactly right," said Ms Athene.
 
-There were four of them in matching blue blazers, and a teacher who looked like she needed a lie down. But the one we noticed was the girl at the front.
+We said it together under the tree. **"I DON'T KNOW YET."** It felt strange and then it felt light. Even Glaux hooted.
 
-She was small, with two tight plaits. She carried a pair of silver needles and a ball of shimmering thread, and her fingers moved so quickly that they were a blur. Click-click-click-click. A long, shining scarf was growing out of her hands.
+"Why does it have to be true?" said Felix. "If a thing works, who minds?"
+
+"Good question," said Ms Athene. "Here is a better one. Why do you think I do not say the answers to you?"
+
+Nobody knew.
+
+"Good," she said. "That is a start."
+
+## Part Five. Reading Buddies
+
+On Wednesday, we practised. Mr Harris read out cards, and Maya shouted History, and Kenji shouted Cooking, which was not in the quiz.
+
+Elfine and Marion came to watch. They are twin cousins, and big kids, and not in our class. Elfine wears glasses and tells facts. Marion does the counting.
+
+"The Reading Buddies could be a team," said Marion. "We could practise against you."
+
+"Did you know," said Elfine, "that an owl cannot move its eyes, so it has to turn its whole head?"
+
+"I did not know that," said Alex.
+
+"Did you know that Glaux has fourteen neck bones?" said Elfine.
+
+Glaux gave a very small, offended hoot, as if he would have liked to say fourteen and a half.
+
+We practised until we knew which of us was best at what. Maya knew History. Kenji knew Cooking. Alex knew Nature, because he notices, and Felix knew Questions, because he asks. Ollie was the Animals reserve. By Thursday, we were quite good.
+
+"There will be a team captain on the other side," said Ms Athene. "I am told she is formidable."
+
+Willow came to the practice and sat under the table. Glaux watched Willow. Willow watched Glaux. It was like a stare contest between two very dignified people. Nobody won, and nobody blinked, and it went on for an hour.
+
+## Part Six. The Blue Minibus
+
+On Friday morning, the Pridefield team arrived in a shiny blue minibus.
+
+There were four of them, in matching blue blazers, and a teacher who looked as if she needed a lie down. But the one we noticed was the girl at the front.
+
+She was small, with two tight plaits. She carried a pair of silver needles and a ball of shimmering thread, and her fingers went so fast that they were a blur. *Click-click-click-click.* A long, shining scarf was growing out of her hands.
 
 Her badge said **ARABELLA WEBB, TEAM CAPTAIN.**
 
-She looked at our hall, and our banners, and our trophy, and she said, in a loud voice, "I know **everything.**"
+She walked into our hall, with our banners and our chairs and the golden pencil on its stand, and she looked around as if she were measuring it for a carpet.
 
-Nobody said anything.
+"I know **everything,**" she said.
 
-She said, "I know every capital city. I know every dinosaur. I know the cube root of a hundred and twenty-five. I know more than all of you put together. I could win this quiz with my eyes shut and my hands tied."
+Nobody answered. Alex noticed that, high up in the corner of the ceiling, a tiny silver strand had started to glow, just a little, like a hair in the sun.
+
+"I know every capital city," said Arabella. "I know every dinosaur. I know more than all of you put together. I could win this quiz with my eyes shut and my hands tied."
 
 On Ms Athene's shoulder, Glaux ruffled his feathers.
 
-## THE BOAST
+## Part Seven. The Boast
 
-Ms Athene stepped forward. She said, politely, "That's a lot of knowledge for someone so young."
+Ms Athene stepped forward. "That is a great deal of knowledge," she said politely, "for somebody so young."
 
-Arabella said, "It's not a lot. It's **everything.** And I'm better at it than anyone. Even your goddess."
+"It isn't a great deal," said Arabella. "It's everything. And I am better at it than anybody. Even your goddess."
 
 The hall went very quiet.
 
-Arabella tilted her chin up. "Yes, I know who you are. I read your book. I could out-know you any day. I could out-weave you, too." She held up the glittering scarf. "Look at this. Did a goddess ever make anything so fine?"
+"Yes, I know who you are," said Arabella, tilting up her chin. "I read about you. I could out-know you any day. I could out-weave you, too." She held up the glittering scarf. "Did a goddess ever make anything so fine?"
 
-Maya whispered, "Oh no."
+"Oh no," whispered Maya.
 
-Kenji whispered, "What?"
+"What?" whispered Kenji.
 
-Maya said, "It's the story of **Arachne.** She was the best weaver in the world, and she boasted that she was better than Athena. And Athena gave her a chance to say sorry. But she wouldn't."
+"It's the story of **Arachne,**" said Maya, very low. "She was the best weaver in the world, and she boasted that she was better than Athena. The Greeks tell it as a sad story. Athena gave her chances to say sorry, but she wouldn't."
 
-Alex said, "What happened?"
+"What happened?" said Alex.
 
-Maya said, "Let's hope we don't find out."
+"Let's hope we don't find out," said Maya.
 
-Ms Athene's grey eyes didn't change. She said, very gently, "Arabella, would you like to take that back?"
+Ms Athene's grey eyes did not change at all. She said, very gently, "Arabella, would you like to take that back?"
 
-Arabella said, "No."
+"No," said Arabella.
 
-Ms Athene said, "Are you sure? It's a very big thing to say."
+"Are you sure? It is a very big thing to say."
 
-Arabella said, "I'm sure."
+"I'm sure."
 
-Glaux hooted, once, a low, sad hoot. Ms Athene sighed.
+"Would you like to think about it for one minute?"
 
-She said, "Then let's play the quiz."
+"No."
 
-## ROUND ONE
+Glaux gave one low, sad hoot. Ms Athene sighed, as if a very old door had closed.
 
-Mr Harris was the quizmaster. He cleared his throat and read out a card.
+"Then let us play the quiz," she said.
+
+## Part Eight. Round One
+
+Mr Harris was the quizmaster. He cleared his throat and read from a card.
 
 "Question one. What is the largest planet in our solar system?"
 
-Before he'd finished, Arabella said, "Jupiter."
+"Jupiter," said Arabella, before he had finished.
 
-Mr Harris said, "Er, correct."
+"Er, correct," said Mr Harris.
 
-Question two: "What's the capital of France?" "Paris."
-
-Question three: "How many legs does a spider have?" "Eight. And I know all about spiders."
+"What is the capital of France?" "Paris." "How many legs does a spider have?" "Eight. And I know all about spiders."
 
 Every time Arabella answered, her needles clicked faster, and the silver thread grew longer. It crept off her scarf and slid across the floor like a snake.
 
+We got some right. Maya got History, and Kenji got Cooking, and Alex and Felix got a question about owls together. But every time Arabella got one first, she said, "TOLD YOU," and the thread went on growing.
+
 By question five, it had wrapped round the leg of a table.
 
-By question eight, it was climbing the wall.
+By question eight, it was climbing a wall.
 
-## THE WEB
+And that was when Alex noticed that the thread had gone up the wall and was running along the ceiling like a long silver river. He tugged Felix's sleeve.
 
-Nobody noticed at first, because we were all watching the quiz. But Alex noticed first.
+"Look up," he whispered.
 
-He tugged Felix's sleeve and whispered, "Look up."
+Felix looked. The ceiling was full of silver threads, hundreds of them, crossing back and forth like an enormous spider's web. The lights were dim behind them. The thread was round every window, every door and every chair.
 
-Felix looked. The ceiling of the hall was full of silver threads, hundreds of them, crossing back and forth like a giant spider's web. The lights were dim behind them. The thread had crept round every window, every door and every chair.
+On the beam above, Willow had stopped washing her paw. She was perfectly still, looking at the web.
 
-Then, as Arabella shouted, "TWELVE! I told you I knew everything!", the web **dropped.**
+## Part Nine. The Web Drops
 
-Silver ropes fell from the ceiling and wrapped round every child, every teacher and every parent. Mr Harris was pinned to his chair. Mrs Tibbs was tied to the piano. Kenji's arms were stuck to his sides.
+"TWELVE!" shouted Arabella. "I TOLD you I knew everything!"
 
-The thread was **warm and sticky.** The more we wriggled, the tighter it pulled.
+And that's when the web **dropped.**
 
-## THE GODS TRY
+Silver ropes fell from the ceiling, soft and fast, and wrapped round every child, every teacher and every parent. Mr Harris was pinned to his chair. Mrs Tibbs was tied to the piano. Kenji's arms were stuck to his sides, and Ollie shouted, "My sausage roll!"
 
-Mr Thorley raised his hammer, but the web wrapped round his arm and held it in the air. Mr Hanu leaped for the ceiling, and a great silver rope caught his tail and yanked him down. Mr Hermes tried to fly, and his wings stuck to his back.
+The thread was warm and sticky. The more we wriggled, the tighter it pulled.
 
-Mr Shah tried to dance, but the thread tied his feet.
+The lights flickered. The hall went dim and silver, like the inside of a very large shell.
 
-Mr Locke tried to turn into a mouse, and the thread tied round the mouse.
+Dot, who is very small, was stuck to Elfine's coat. Marion, who counts, said in a wobbly voice, "That's thirty-one of us. I counted. Nobody is hurt."
 
-Miss Persey said, "The more you struggle, the tighter it gets!"
+"Thank you, Marion," said Elfine, and for once she did not say a fact.
 
-Mr Jackson said, "It's not the thread. It's what's **feeding** it."
+Arabella stood on a chair, with her needles clicking, grinning at her own web.
 
-Mrs Ibbs said, in a very small voice, "It's growing on every correct answer. She is **proving** herself, and the web is the proof."
-
-Everyone looked at Ms Athene. She was standing perfectly still, tied from head to toe in silver, but she was calm.
-
-She said, "I can't beat her by knowing more. That's exactly what she wants. It won't help."
-
-Arabella stood on a chair, grinning, with her needles clicking.
-
-She said, "See? I know everything. I **win.**"
+"See?" she said. "I know everything. I WIN."
 
 The web tightened.
 
-## THE TWINS
+## Part Ten. The Grown-Ups Try
 
-Alex and Felix were tied to the same chair, back to back. They were scared. The thread was tight, and the hall was getting darker.
+The grown-ups tried first. They are, after all, the grown-ups.
 
-But they were quiet.
+Mr Thorley raised his hammer, and the web wrapped round his arm and held it in the air. Mr Hanu leaped for the ceiling, and a silver rope caught his tail and yanked him down. Mr Hermes tried to fly, and his wings stuck to his back. Mr Locke turned into a mouse, and the thread tied round the mouse.
 
-Alex noticed something. He said, "Felix. Look at the thread near my hand."
+Mr Shah tried to dance, but the thread tied his feet.
 
-Felix looked. "It's thin."
+"It's not going slack!" shouted Miss Persey. "The more you struggle, the tighter it gets!"
 
-Alex said, "When I said 'I don't know' in my head, it went thinner."
+"It grows when she gets an answer right," said Mrs Ibbs, in a very small voice. "She is proving herself, and the web is the proof."
 
-Felix said, "Do it again."
+Everyone looked at Ms Athene. She was standing perfectly still, tied from head to foot in silver. She was calm.
 
-Alex took a breath. He said, quietly, "I don't know."
+"I cannot beat her by knowing more," she said. "That is exactly what the web wants."
 
-The thread near his hand loosened by a tiny bit.
+Kenji whispered, "I know what to say. Ms Athene told us. Watch." He took a deep breath and said, quite cleverly, "I don't know yet."
 
-Felix said, "It works!"
+The thread round him tightened.
 
-Alex said, "Now add the word."
+"Why didn't it work?" said Kenji, wriggling.
 
-They said it together.
+"Because you said it like a password," said Maya.
+
+Mr Thorley tried next. "I DON'T KNOW YET!" he roared, like a man who had just won a prize.
+
+The thread yanked him against a wall.
+
+"It isn't the words," said Mr Locke from inside the thread, in a small mousey voice. "It's the face you say them with."
+
+Ollie said, "I peeked on Tuesday and it didn't work. Ms Athene said it was a trick."
+
+Everyone went quiet.
+
+Felix turned his head as far as it would go. "Ms Athene," he called. "Can you say it? Please? You know it's true."
+
+Ms Athene shook her head, slowly, with a small, sad smile.
+
+"I could say it for myself," she said. "I could even free myself. But the web is not mine, Felix. A web belongs to whoever spun it. And nobody can say 'I don't know' for somebody else. It has to be yours."
+
+She looked at the twins for a moment longer than she looked at anybody else.
+
+"Listen to the thread," she said. "It is telling you the truth."
+
+## Part Eleven. Back to Back
+
+Alex and Felix were tied to the same chair, back to back.
+
+The hall was quiet. The silver light had gone a bit dull, and the dust hung in it. They could hear Ollie sniffing, and Mr Harris saying, "Do remain calm, everybody," in a very unsteady voice.
+
+"I'm scared," said Alex.
+
+"Me too," said Felix.
+
+Neither of them said anything for a bit. It was strangely peaceful, as if both of them had put down something heavy.
+
+"Try it," said Felix. "Quietly."
+
+"I don't know yet," said Alex, as a password.
+
+Nothing happened.
+
+"My turn," said Felix. "I don't know yet."
+
+Nothing happened.
+
+"This isn't working," said Alex, crossly, and Felix said, "Maybe you're saying it wrong," and Alex said, "*You* try saying it right," and for a moment they did not feel like a team. The thread tightened round their wrists.
+
+Then Alex went still. "Felix," he said. "Look at the thread near my hand."
+
+Felix twisted round. The silver was a little thinner on Alex's side.
+
+"What did you just do?"
+
+"Nothing. I just said I was scared."
+
+"Say it again."
+
+"I'm scared," said Alex. "I don't know what to do. I really don't."
+
+The thread near his hand loosened by a tiny bit, the way a knot does when you stop pulling it.
+
+"That's true," said Felix slowly. "That's all true. The other time you said it, you were trying to win."
+
+"Say yours," said Alex.
+
+Felix took a breath. "I don't know how to get out," he said. "And I don't know how to help Ollie. I don't know yet."
+
+Every strand near them went **slack.** It slid off their arms like wet string. They stood up, free.
+
+"It isn't a spell," said Felix, so quietly that only Alex could hear. "It's a door. It only opens if you really are not sure."
+
+Alex said, "And the web feeds on pretending to be sure."
+
+Neither of them said anything else. They did not need to. Together, they turned round to the hall.
+
+## Part Twelve. The True Thing
+
+They did not rush. Ms Athene had taught them that.
+
+Alex went to the left side of the hall. Felix went to the right. They knelt by the nearest children and picked at the thread, gently, one strand at a time.
+
+Alex knelt by a small boy from Reception, who was crying quietly. "Do you know what the web is?"
+
+"No," sniffed the boy.
+
+"That's the right answer," said Alex. "Say it again, and add a word."
+
+"I don't know," whispered the boy. He thought about it. "I don't know yet."
+
+The thread fell away.
+
+On the right side, Felix knelt by Ollie. "Ollie, tell me something you really don't know."
+
+Ollie thought very hard, with his tongue sticking out. "I don't know how a spider knows where to put the next bit," he said. "I don't know why cheese has holes. I don't know if the sausage rolls got squashed."
+
+The thread fell off Ollie like melting ice.
+
+"I don't know how to be gentle with something I can't hit," said Mr Thorley, rather sadly. His hammer slid to the floor.
+
+"I don't know where my clipboard is," said Mr Harris, and his chair came free.
+
+"I don't know how that worked," said Mr Hanu, and fell out of his web.
+
+Mrs Tibbs said, "I don't know what Friday is for," and was released by the piano. Maya said, "I don't know how a web can do all this," and wrote it in her notebook. Elfine said, in a very small voice, "I don't know a single fact right now, but I would like to find one." Marion said, "That's allowed." Kenji said it honestly, at last, and it was one of the shortest sentences he had ever said.
+
+One by one, children said it. It rolled across the hall like a wave, soft and true.
 
 **"I DON'T KNOW YET."**
 
-Every strand of thread near them **went slack.** It slid off their arms like wet string. They stood up, free.
-
-Felix said, "That's it. That's how to beat it."
-
-Alex said, "She keeps saying 'I know everything.' So the web only works if you **believe you know everything.**"
-
-Felix said, "And we don't."
-
-## THE TEACHING
-
-The twins didn't run to Arabella. They didn't shout. They remembered what Ms Athene had taught them.
-
-Alex went to the left side of the hall. Felix went to the right. They knelt next to the nearest children and untangled one thread, one at a time.
-
-Alex said, to a Reception boy, "Do you know what the web is?"
-
-The boy sniffed. "No."
-
-Alex said, "That's the right answer. Say it again, and add a word."
-
-The boy whispered, "I don't know **yet.**"
-
-The thread around him fell away.
-
-On the right side, Felix was kneeling next to Ollie. Ollie was crying. He said, "I'm not clever enough."
-
-Felix said, "Ollie, nobody knows everything. Say it with me."
-
-They said it together, and the thread fell off Ollie like melting ice.
-
-Alex moved on to Kenji. Felix moved on to Maya. Alex freed Dot. Felix freed Mr Hanu, who was so surprised that he said, "I don't know how that worked," and fell out of his web.
-
-One by one, children said it. The words rolled across the hall like a wave.
-
 **"I DON'T KNOW YET."**
 
 **"I DON'T KNOW YET."**
 
-**"I DON'T KNOW YET."**
+The web began to shrink. It curled up like a spider in a flame. The lights came back on. The windows glowed.
 
-## THE WEB SHRINKS
+## Part Thirteen. The Knot
 
-The more people said it, the faster the silver thread loosened. Mr Harris said it, and his chair came free. Mrs Tibbs said it, and the piano released her. Mr Thorley said it, very loudly, and his hammer dropped.
+At the front of the hall, Arabella was still standing on her chair. Her needles were clicking faster and faster.
 
-Even Mr Locke, who is never sure of anything, said it perfectly.
+"I know everything!" she shouted. "I know it ALL!"
 
-The web began to shrink. It shrivelled and curled up, like a spider in a flame. The ceiling lights came back on. The windows glowed.
+But the thread was not growing any more. It was wrapping itself round **her.**
 
-At the front of the hall, Arabella was still standing on her chair. Her needles were clicking faster and faster. She was shouting, "I know everything! I know it ALL!"
+Round her ankles. Up her legs. Round her middle. Silver ropes coiled and tightened, until she was tied up like a parcel with only her face poking out, and then they lifted the chair a hand's breadth off the floor, and held it there, swaying gently.
 
-But the thread wasn't growing any more. It was wrapping itself round **her.**
+She stopped clicking. Her needles fell on the floor with a *ting.*
 
-## THE KNOT
-
-Round and round her ankles. Up her legs. Round her tummy. Silver ropes coiled tighter and tighter, until she was tied up like a parcel, with only her face poking out.
-
-She stopped clicking. Her needles fell on the floor.
-
-She said, in a very small voice, "Help."
+"Help," she said, in a very small voice.
 
 Nobody moved. We had all just been tied up by her. Mr Harris looked at Ms Athene.
 
-Ms Athene didn't move either. She said, "Arabella, I can't undo this for you. Only you can."
+Mr Thorley took one step, and the thread began to creep towards his hammer. "Don't!" said Ms Athene. "Any force will only make it tighter. Nobody can pull her out. She has to say it, and she cannot, because she thinks it is the end of her."
 
-Arabella said, "I **can't.** I don't know how."
+"I can't," said Arabella. "I don't know how."
 
-Ms Athene said, "Then that's a good start."
+"Then that is a very good start," said Ms Athene.
 
-## THE TWINS GO TO ARABELLA
+But Arabella did not hear. She was too scared. The thread was pulling her chair higher, a little at a time, towards the ceiling.
 
-Alex and Felix were still shaky, and a bit cross. She had tied up the whole school.
+Then something small and brown and dignified walked across the hall.
 
-But they also knew what it felt like to be scared.
+It was Willow. She walked through the loose silver ropes as if they were curtains, and they parted for her, because a cat has never pretended to know a single thing in her life. She jumped onto the chair, and settled in Arabella's lap, as warm as a hot-water bottle. She began to purr.
 
-They walked to the front of the hall, side by side. They knelt down in front of her chair.
+Arabella's chair stopped rising.
 
-Alex said, "Hello, Arabella."
+Nobody had been brave enough. Willow had.
 
-Arabella said, "Go away."
+## Part Fourteen. Felix and Arabella
 
-Felix said, "We could. But you look really scared."
+Alex and Felix were still shaky, and a little cross. She had tied up the whole school.
 
-Arabella's lip wobbled. She said, "I'm **not** scared. I'm the best."
+But they knew what it felt like to be scared. They walked up the hall, side by side, and knelt in front of her chair.
 
-Alex said, "Are you? Or are you just afraid of being wrong?"
+"Hello, Arabella," said Felix.
+
+"Go away," said Arabella.
+
+"We could," said Felix. "But you look really scared."
+
+"I'm **not** scared," said Arabella. "I'm the best." Her lip wobbled. "If I'm not the best, there's no point in me."
+
+"That's not true," said Felix.
+
+"How do you know?" said Arabella.
+
+"I don't," said Felix. "But I know what it felt like to say it just now. I said 'I don't know how to get out,' and it was true, and I was free."
+
+"We tried it as a trick, and it didn't work," said Alex. "It only worked when it was true."
 
 Arabella went very still. Her eyes filled with tears.
 
-She whispered, "Nobody ever told me I was allowed to not know things."
+"Nobody ever told me I was allowed to not know things," she whispered.
 
-Felix said, "You are."
+"You are," said Felix.
 
-Alex said, "It's actually the best part."
+"It's actually the best part," said Alex. "Because then you get to find out."
 
 Felix held out his hand. Alex held out his.
 
-They said, "Do you want to say it with us?"
+"Do you want to say it with us?" said Felix.
 
-Arabella closed her eyes. She took a long, shaky breath.
+Arabella closed her eyes. She took a long, shaky breath. Willow purred louder.
 
-She whispered, "I don't know."
+"I don't know," she whispered.
 
 The thread didn't move.
 
 Alex said, "Add the word."
 
-She whispered, "I don't know... **yet.**"
+"I don't know... **yet,**" said Arabella.
 
-## THE SILVER FALLS
+## Part Fifteen. The Spider
 
-The ropes round her ankles went soft. The ones round her legs fell loose. The silver thread slid off her in a glittering heap, and then it began to **shine**, and rise, and curl into the air.
+The ropes round her ankles went soft. The ones round her legs fell loose. The chair lowered gently to the floor, and the silver thread slid off her in a glittering heap. Then it began to **shine,** and rise, and curl into the air.
 
-It swirled up to the ceiling. It spun into the shape of a small, perfect web, with a tiny spider sitting in the middle. It was no bigger than a button, and it was spinning gold thread.
+It swirled up to the ceiling. It spun itself into a small, perfect web, with a tiny spider in the middle, no bigger than a button, spinning a thread of pure gold.
 
-The spider looked down at Arabella. She looked up at the spider.
+The spider looked down at Arabella. Arabella looked up at the spider.
 
-She said, "Oh."
+"Oh," she said.
 
-Ms Athene stepped forward at last, with Glaux on her shoulder. She said gently, "Her name means 'spider' in Greek. **Arachne.** I think you two have met."
+Ms Athene walked up the hall with Glaux on her shoulder. "Her name means 'spider' in Greek," she said. "**Arachne.** I think you two have met."
 
-Arabella burst into tears. She said, "I'm sorry. I'm so sorry. I was afraid if I didn't know everything, nobody would like me."
+Arabella burst into tears. "I'm sorry," she said. "I'm so sorry. I was afraid that if I didn't know everything, nobody would like me."
 
-Ms Athene knelt in front of her. She said, "I like you very much. I like the one who weaves, and the one who asks questions. I do not like the one who boasts. But she's gone now, isn't she?"
+Ms Athene knelt in front of her. She said, "I like you very much. I like the one who weaves, and I like the one who asks. I do not like the one who boasts. But she is gone now, isn't she?"
 
-Arabella sniffed. "I think so."
+"I think so," sniffed Arabella.
 
-Ms Athene said, "Good. Would you like me to teach you something?"
+"Good. Would you like me to teach you something?"
 
-Arabella said, "What?"
+"What?"
 
-Ms Athene said, "How to make a pattern that's even better than the one you made today. It will take years, and you'll get it wrong again and again. Would you like that?"
+"How to make a pattern even finer than the one you made today. It will take years, and you will get it wrong again and again. Would you like that?"
 
 Arabella's face lit up. "Yes, please."
 
-## THE QUIZ
+The little golden spider floated down from the ceiling on her thread. She landed on the corner of the big book, next to the tiny old friend who had been waiting there all week. They touched legs, politely, the way old friends do.
 
-Mr Harris cleared his throat. He said, "Well. I think the quiz should probably continue. We've only done twelve questions."
+"In the old story," whispered Maya, "she never gets to say sorry. She stays a spider for good."
+
+"Some old stories," said Ms Athene, "could do with a better ending."
+
+## Part Sixteen. The Quiz Goes On
+
+"Well," said Mr Harris, clearing his throat. "I think the quiz should probably continue. We have only done twelve questions."
 
 So we did.
 
-Both teams were different this time. Nobody boasted. When someone didn't know, they said, "I don't know **yet**," and the others helped. Arabella answered questions, and when she got one wrong, she laughed and said, "Oops!"
+Both teams were different this time. Nobody boasted. When someone did not know an answer, they said, "I don't know yet," and the others helped. Arabella got questions right, and when she got one wrong, she laughed and said, "Oops!"
 
-The twins won the Science round together. Maya won History, and Ollie won Animals. Kenji won Cooking, which was not on the sheet. Dot won a special prize for the best guess.
+The twins won the Science round together. Maya won History, and Ollie won Animals, with the cheese and cows. Kenji won Cooking, which was not on the sheet. Dot won a special prize for the best guess, which was "a sandwich." It was a question about the moon.
 
-At the end, Mr Harris counted up the points. He said, "It's a **tie.**"
+At the end, Mr Harris counted the points.
 
-Both teams cheered. Nobody minded at all.
+"It's a **tie,**" he said.
 
-Ms Athene stepped forward and handed over the golden trophy shaped like a pencil. She split it in half, and gave one half to each team.
+Both teams cheered. Nobody minded.
 
-She said, "A pencil is no good alone. It needs somewhere to write."
+Ms Athene lifted the golden pencil and, with one gentle tap on the edge of Mr Heston's workbench, split it in two. She gave half to each team.
 
-## THE LESSON
+"A pencil is no good alone," she said. "It needs somewhere to write."
 
-At home time, we gathered under the oak tree. Ms Athene sat on the grass with Glaux on her knee.
+Mr Heston, at the back, looked at his chisel and went a deep happy pink.
 
-She said, "Do you know what wisdom is?"
+## Part Seventeen. The Oak Tree Again
 
-Maya said, "Knowing everything?"
+At home time, the Pridefield minibus waited by the gate. Arabella went to say goodbye to Ms Athene, and Ms Athene whispered something in her ear, and Arabella nodded, and then she hugged Willow, who allowed it.
 
-Ms Athene said, "No. That's the trap. Wisdom is knowing that you **don't**, and being curious about what you could find out."
+When it had driven away, we sat under the oak tree. It was nearly sunset. Glaux dozed on Ms Athene's knee with his head tucked in. The tiny spiders had gone to sleep on the big book, side by side.
 
-Alex said, "Like the stars."
+"Do you know what wisdom is?" said Ms Athene.
 
-Felix said, "Or like how the web worked."
+"Knowing everything?" said Maya.
 
-She said, "Exactly. Smart people ask questions. Wise people ask better ones. And the wisest of all are the ones who can say, 'I was wrong, and I'm glad to learn.'"
+"No. That is the trap." She smoothed Glaux's feathers. "Wisdom is knowing that you don't, and being curious about what you might find out."
 
-She looked at the twins. "You worked it out together, in a very dark moment. Alex noticed, and Felix asked. Then you swapped. That's the kind of teamwork that even the gods find hard."
+"Like the stars," said Alex.
 
-The twins grinned.
+"Or the web," said Felix.
 
-We said it all together, with Ms Athene and Glaux:
+"Exactly," said Ms Athene. "You worked it out together in a very dark moment. Alex noticed, and Felix asked, and then you swapped. That is the kind of teamwork even the gods find hard."
 
-**"I DON'T KNOW YET."**
+The twins went pink.
 
-## THE ENDING (WITH A TORCH)
+"And you," she said to Willow, "did the bravest thing in the hall. You did not need to know anything at all."
 
-On the way out of the gate, we noticed a man standing by the wall.
+Willow lifted her chin and gave a long, slow blink, which, from Willow, is a hug.
 
-He was tall, with a thick beard and bright, curious eyes. He was holding a long, hollow stalk, like a giant fennel plant, with a little red glow inside. A thin trail of smoke curled out of the end.
+We all said it, softly, so as not to wake the owl:
 
-He saw us staring. He tapped the side of his nose and said, in a whisper, "Bonfire Night is in two weeks. I've got a few ideas. I thought I'd get here early."
+**"I don't know yet."**
 
-Maya went pale. She said, "**Prometheus.**"
+And the oak tree rustled, as if it had just thought of something.
 
-Kenji said, "The one who stole fire?"
+## Part Eighteen. The Stalk at the Gate
 
-Maya said, "From the gods. In a fennel stalk. To give to people."
+We walked out of the gate in the golden light, six of us and a cat.
 
-The man smiled. He said, "I prefer 'borrowed'. Would you like to see how it works?"
+Leaning against the gatepost was a long, hollow green stalk, like a giant stick of celery. It was about as tall as Mr Harris. Nobody had put it there. Nobody was holding it.
 
-Alex looked at Felix. Felix looked at Alex.
+And inside it, right at the top, there was a tiny orange glow, flickering.
 
-They said, at the very same time, "**Yes.**"
+"It is warm," said Alex, touching the side.
+
+"Who left it?" said Kenji.
+
+Ollie blew on it, for a whole minute. The glow flickered and bent, and then stood up again, as bright as before.
+
+Next to it, tied to the gatepost with a bit of string, there was a small sign, in careful, curly writing. It said: **MIND THE FLICKER.**
+
+Maya went very pale. She opened her notebook. Under the owl's feather, where it had said **13. Ask me anything,** there was new grey writing, as if it were being written right then: **14. Mind the flicker.**
+
+Willow lifted her nose and sniffed, and she looked up the road, and her tail went straight up in the air.
+
+Nobody said anything.
+
+And at exactly the same time, Alex and Felix said, "Monday."
 
 **The End.**

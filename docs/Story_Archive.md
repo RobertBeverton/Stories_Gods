@@ -190,14 +190,14 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 ### 14. The Quiz Mistress Who Was Athena
 - **File:** `stories/the-quiz-mistress-who-was-athena.md`
 - **God / tradition:** Athena, Greek
-- **Staff on the badge:** Ms Athene, Quiz Mistress; Arabella Webb, Team Captain (a pupil)
-- **Cast:** Alex, Felix, Maya, Kenji, Ollie, Dot, Mr Harris, Mr Heston, Glaux the owl, Arabella Webb
-- **Length:** about 3,160 words in 18 sections. Written: not recorded.
-- **Summary:** Ms Athene carries an owl called Glaux and a big book with no title, and answers questions with better questions. Maya tells how Athena was born from Zeus's head and won Athens with an olive tree, and why Mr Heston hides an axe behind his back (he split Zeus's head). The Year 1 team faces Pridefield Primary in the Big Quiz. Their captain Arabella Webb boasts she knows everything and can out-weave a goddess, and her boast spins a web of silver threads across the hall ceiling. The twins learn the power of "I don't know yet".
-- **The god's words / affirmation:** "I DON'T KNOW YET."
-- **Closing scene** (The Ending (With a Torch)): A bearded man at the gate holds a hollow fennel stalk with a red glow inside. "Bonfire Night is in two weeks. I've got a few ideas. I thought I'd get here early." Maya: "**Prometheus.**" The twins answer, "at the very same time", "**Yes.**"
-- **Hook at the end:** Prometheus. The ritual word is "Yes", not "Monday".
-- **Corrected:** the quiz, Arabella Webb (Arachne) and Pridefield Primary are the main plot, not just the question-answering.
+- **Staff on the badge:** Ms Athene, Quiz Mistress; Arabella Webb, Team Captain (a Pridefield pupil)
+- **Cast:** Alex, Felix, Willow, Maya, Kenji, Ollie, Dot, Elfine, Marion, Mr Harris, Mr Heston, Glaux the owl, Arabella Webb; cameos Mr Thorley, Mr Hanu, Mr Hermes, Mr Locke, Mr Shah, Mrs Tibbs, Miss Persey, Mrs Ibbs
+- **Length:** about 5,200 words in 18 parts. Felix leads. Amended and expanded (published 2026-11-04).
+- **Summary:** Opens on the Monday after the summer fair's owl and feather. Ms Athene (grey eyes, huge book, owl Glaux) coaches the quiz team for Friday's Big Quiz against Pridefield Primary (golden pencil trophy). A tiny "old friend" spider lives on her book. Maya tells Athena's birth (Hephaestus opened Zeus's head with a hammer and chisel, no axe) and the olive tree; Mr Heston hides a hammer and chisel. Tuesday's lesson: "I don't know yet" only works if it is true (Ollie's peeked version is a trick). Arabella Webb boasts, refuses three chances to take it back, and her silver thread grows with every right answer until the web drops. The grown-ups and Kenji say the words as a password or a boast and the web tightens. The twins, back to back, find it loosens only for a true not-knowing; they free the hall. Willow walks through the web and sits in Arabella's lap, stopping the chair rising. Felix and Alex coax Arabella to say it. The silver becomes a tiny golden spider that joins the old friend on the book. The quiz ends in a tie and the pencil is split.
+- **The god's words / affirmation:** "I DON'T KNOW YET." (verbatim; only said when true)
+- **Closing scene:** a hollow green stalk with a tiny orange glow leans on the gatepost; Ollie blows on it for a minute and it will not go out; a tied-on sign says MIND THE FLICKER and grey writing under the feather in Maya's notebook says "14. Mind the flicker." The twins say "Monday" together.
+- **Hook at the end:** Prometheus (story 15 opens with the same stalk and flame that Ollie blows on for a full minute). Story 15 should keep the stalk, the flame and the "MIND THE FLICKER" sign.
+- **Watch:** Arabella is a Pridefield visitor only (story 17 must match). Glaux does not speak. Elfine and Marion appear lightly (Reading Buddies practice, Marion counts the tied-up crowd).
 
 ### 15. The Fire Safety Officer Who Was Prometheus
 - **File:** `stories/the-fire-safety-officer-who-was-prometheus.md`
@@ -214,11 +214,11 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **File:** `stories/the-art-teacher-who-was-pandora.md`
 - **God / tradition:** Pandora (a mortal), Greek
 - **Staff on the badge:** Mrs Pandy, Art (and Wondering), Mr Epp's wife
-- **Cast:** Alex, Felix, Maya, Dot, Kenji, Ollie, Mr Harris, Mr Epp; cameos Mr Thorley, Mrs Ibbs, Mr Hermes, Mr Hanu, Ms Athene, Mr Prome, Mrs Felicity, Mrs Tibbs, Mr Shah, Mr Jackson, Mr Heston
-- **Length:** about 3,150 words in 19 sections. Written: not recorded.
-- **Summary:** Mrs Pandy cannot stop looking at the locked box (really a jar) in the art cupboard. When she opens it, grumbles, squabbles, worries, aches (sickness), empties (hunger) and fibs get out. The whole school goes grey: children fall ill, there is a near-fight over a football, and the colour drains from the building. The twins gather them and find a small golden bird, Hope, at the bottom of the jar, and share it with the school. The twins then recite all the affirmations together.
-- **The god's words / affirmation:** "THERE IS ALWAYS HOPE." Earlier ones are recited too: "I AM A SEED...", "I CAN BE SCARED AND BRAVE...", "I CAN SAY SORRY...", "I DON'T KNOW YET.", "I KNOW YOU CAN.", "I AM NOT ALONE."
-- **Closing scene** (The Ending (With a Shell)): Something rises in the pond, "a **turtle.** It was as big as a table ... **"Excuse me. Is this the school with the Chinese goddess? I've come to hold up the sky."**" Maya: "That's **AO.**" Kenji: "From the Nüwa story!" "They said, together, "**Monday.**""
+- **Cast:** Alex, Felix (Felix leads), Willow, Maya, Dot, Kenji, Ollie, Mr Harris, Mr Epp, Elfine and Marion (light); cameos Mr Thorley, Mrs Ibbs, Mr Hermes, Mr Hanu, Ms Athene, Mr Prome, Mrs Felicity, Mrs Tibbs, Mr Shah, Mr Jackson, Mr Heston
+- **Length:** about 5,450 words in 18 parts (amended and expanded). Written: not recorded.
+- **Summary:** Mrs Pandy cannot stop looking at the locked box (really a jar) in the art cupboard. When she opens it, grumbles, squabbles, worries, aches (sickness), empties (hunger) and fibs get out. The whole school goes grey: children fall ill, there is a near-fight over a football, and the colour drains from the building. The twins gather them and find a small golden bird, Hope, at the bottom of the jar, and share it with the school. Willow sits on the football and stops the near-fight; Dot's idea is that hope grows when everyone says what they hope for, and the school does. Felix says in his own words that there was always something at the bottom, and Mrs Pandy confirms it.
+- **The god's words / affirmation:** "THERE IS ALWAYS HOPE." Enacted: "Stop. Breathe. Think" and "Yet" recur; earlier sayings are no longer recited.
+- **Closing scene** (The Ending (With a Shell)): Something rises in the pond, "a **turtle.** It was as big as a table ... **"Excuse me. Is this the school with the Chinese goddess? I've come to hold up the sky."**" Alex sees a hair-thin crack in the sky and hears a tiny "tik"; the turtle asks about a lady in a jade-green skirt that swishes like a tail. Maya: "I don't know that one. **Yet.**" Kenji: "Which Chinese goddess?" Mr Harris walks past saying "Home time" without noticing. "They said, together, "**Monday.**""
 - **Hook at the end:** Ao the turtle rises from the school pond (Nüwa). The twins say "Monday."
 - **Note:** after this story you asked for no notes page, no questions, and the affirmations inside the story. (The files do not show a notes page in any of the 18.)
 - **Corrected:** badge reads "MRS PANDY, ART (AND WONDERING)".
