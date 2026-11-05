@@ -444,11 +444,11 @@ Kenji was between the twins, with his goat ears gone crooked. He did not say any
 
 "You came out even though you were scared," said Alex. "That is the hard bit."
 
-"So were we," said Alex.
+"So were we," said Felix.
 
-"I was so scared my knees went floppy," said Felix.
+"I was so scared my knees went floppy," said Alex.
 
-"I could not feel my hand," said Alex.
+"I could not feel my hand," said Felix.
 
 "I ate a whole biscuit without tasting it," said Ollie, which for Ollie was very serious.
 
@@ -484,13 +484,13 @@ Mr Epp nodded at every one of them. Then he stood up, a bit wobbly, and spoke to
 
 "When you want to do something quickly," said Felix, "you can say, Stop. Breathe. Think."
 
-"Before anything," said Felix. "It helps."
+"Before anything," said Alex. "It helps."
 
 "Stop," said Mr Epp. "Breathe. Think." He said it three times, and then he put his arms round his brother and cried properly, and Mr Prome held him, and for once he did not say anything clever at all.
 
 ## Part Seventeen. Careful Is Brave
 
-Because of the fire, and the wet, the bonfire could not happen on Thursday. But on Friday morning, Mr Zed stood up in assembly with a very serious face and said that he was **reconsidering.**
+Because of the fire, and the wet, it looked as if the bonfire would never happen. But on Friday morning, Mr Zed stood up in assembly with a very serious face and said that he was **reconsidering.**
 
 He said the school could have a small, safe bonfire on Friday night, if every single person, including every grown-up, first sang the fire song.
 
@@ -498,7 +498,7 @@ We did. Every child, every teacher, every mum and dad and grandparent, and four 
 
 The fire was small and golden. There was a bucket of water on one side and a bucket of sand on the other, and everybody stood back as far as the oak tree. Mr Prome lit it himself, with a little flame from the end of his green stalk, very slowly, with Mr Zed beside him holding a bucket. Mr Epp stood at the edge with a bucket in each hand. It was a proper job, and nobody treated it as a joke.
 
-We ate toffee apples and drank hot chocolate. The sparks went up into the dark like little stars,.
+We ate toffee apples and drank hot chocolate. The sparks went up into the dark like little stars.
 
 "That is what fire is for," said Mr Prome. "Warm. Light. Friends. Stories."
 
