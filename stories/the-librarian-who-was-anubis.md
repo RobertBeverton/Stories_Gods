@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Mar
 icon: boat
 publishDate: 2026-10-08
 draft: false
+audioDuration: 2004
+parts:
+  - title: "Part One. The Line Goes Home"
+    start: 0
+  - title: "Part Two. Shh"
+    start: 85.75
+  - title: "Part Three. Twenty-Eight Little Ones"
+    start: 183.4
+  - title: "Part Four. Behind the Compost Bin"
+    start: 304.71
+  - title: "Part Five. Wrapped"
+    start: 406.12
+  - title: "Part Six. The Feather and the Heart"
+    start: 527.13
+  - title: "Part Seven. Ollie Is Quiet"
+    start: 676.9
+  - title: "Part Eight. Goodbye, Gary"
+    start: 764.84
+  - title: "Part Nine. The Scales"
+    start: 862.66
+  - title: "Part Ten. Very Light"
+    start: 980.38
+  - title: "Part Eleven. Lantern Night"
+    start: 1086.83
+  - title: "Part Twelve. All the Lights Go Out"
+    start: 1177.36
+  - title: "Part Thirteen. A Nose That Does Not Work"
+    start: 1279.94
+  - title: "Part Fourteen. Ears"
+    start: 1373.81
+  - title: "Part Fifteen. Black Is the Good Dark"
+    start: 1487.11
+  - title: "Part Sixteen. Willow Goes Down"
+    start: 1632.24
+  - title: "Part Seventeen. The Lightest Heart"
+    start: 1740.32
+  - title: "Part Eighteen. The Lucky Friday"
+    start: 1872.01
+audioUrl: https://audio.kinly.download/legend-lane/the-librarian-who-was-anubis.mp3?v=b7def68a
 ---
 
 ## Part One. The Line Goes Home

@@ -10,6 +10,43 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Mar
 icon: boat
 publishDate: 2026-10-12
 draft: false
+audioDuration: 2314
+parts:
+  - title: "Part One. Still There"
+    start: 0
+  - title: "Part Two. Fourteen Peas"
+    start: 116.02
+  - title: "Part Three. No Running"
+    start: 253.88
+  - title: "Part Four. The Chart"
+    start: 410.4
+  - title: "Part Five. Behind the Compost Bin"
+    start: 522.95
+  - title: "Part Six. The Moon and the Dice"
+    start: 627.62
+  - title: "Part Seven. A Name in Pictures"
+    start: 816.23
+  - title: "Part Eight. Where Is Thursday?"
+    start: 952.26
+  - title: "Part Nine. The Book Does Not Change Its Mind"
+    start: 1073.14
+  - title: "Part Ten. Writing It In"
+    start: 1214.4
+  - title: "Part Eleven. Not on Speaking Terms"
+    start: 1330.83
+  - title: "Part Twelve. The Moon Comes In"
+    start: 1459.79
+  - title: "Part Thirteen. Two Throws, No Luck"
+    start: 1553.11
+  - title: "Part Fourteen. Five Little Lights"
+    start: 1726.97
+  - title: "Part Fifteen. A Little Thinner"
+    start: 1892.83
+  - title: "Part Sixteen. Thursday"
+    start: 2029.46
+  - title: "Part Seventeen. A Pot on the Step"
+    start: 2182.57
+audioUrl: https://audio.kinly.download/legend-lane/the-dinner-lady-who-was-thoth.mp3?v=687cfbf2
 ---
 
 ## Part One. Still There

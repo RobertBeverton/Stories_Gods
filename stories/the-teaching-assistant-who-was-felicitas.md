@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Mar
 icon: berry
 publishDate: 2026-10-09
 draft: false
+audioDuration: 2120
+parts:
+  - title: "Part One. The Basket That Did Not Get Lighter"
+    start: 0
+  - title: "Part Two. The New Teaching Assistant"
+    start: 109.91
+  - title: "Part Three. Behind the Compost Bin"
+    start: 242.03
+  - title: "Part Four. A Name Like a Wish"
+    start: 366.22
+  - title: "Part Five. The Lucky Experiment"
+    start: 493.88
+  - title: "Part Six. Half a Sponge"
+    start: 583.78
+  - title: "Part Seven. The Wheel"
+    start: 703.2
+  - title: "Part Eight. Two Halves"
+    start: 816.18
+  - title: "Part Nine. Leave It to the Wheel"
+    start: 933.88
+  - title: "Part Ten. Everybody's Lucky Clover"
+    start: 1055.78
+  - title: "Part Eleven. Putting It Back"
+    start: 1179.9
+  - title: "Part Twelve. The Bench"
+    start: 1311.79
+  - title: "Part Thirteen. The Fair"
+    start: 1412.83
+  - title: "Part Fourteen. The Whirl"
+    start: 1522.99
+  - title: "Part Fifteen. The Brave Thing"
+    start: 1640.23
+  - title: "Part Sixteen. Hold On To Each Other"
+    start: 1738.22
+  - title: "Part Seventeen. Looking After It"
+    start: 1869.32
+  - title: "Part Eighteen. Something at the Door"
+    start: 2030.68
+audioUrl: https://audio.kinly.download/legend-lane/the-teaching-assistant-who-was-felicitas.mp3?v=e33032d5
 ---
 
 ## Part One. The Basket That Did Not Get Lighter

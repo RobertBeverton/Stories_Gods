@@ -10,6 +10,43 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Mar
 icon: sun
 publishDate: 2026-10-11
 draft: false
+audioDuration: 2307
+parts:
+  - title: "Part One. Good Luck"
+    start: 0
+  - title: "Part Two. Hello, My Favourites"
+    start: 108.46
+  - title: "Part Three. A Lot of Little Things"
+    start: 240.49
+  - title: "Part Four. Behind the Compost Bin"
+    start: 377.15
+  - title: "Part Five. The Cutting of the Golden Hair"
+    start: 513.51
+  - title: "Part Six. Not in My School"
+    start: 657.56
+  - title: "Part Seven. Everyone Forgets the Supply Teacher"
+    start: 779.96
+  - title: "Part Eight. Sir Lionel Has No Mane"
+    start: 926.73
+  - title: "Part Nine. I Promise It's Safe"
+    start: 1037.56
+  - title: "Part Ten. Say ROAR"
+    start: 1158.62
+  - title: "Part Eleven. The Gold"
+    start: 1263.75
+  - title: "Part Twelve. Catching Our Breath"
+    start: 1400.08
+  - title: "Part Thirteen. The Rule"
+    start: 1506.36
+  - title: "Part Fourteen. True Things"
+    start: 1626.88
+  - title: "Part Fifteen. The Mouse"
+    start: 1783.62
+  - title: "Part Sixteen. Better With Tinsel"
+    start: 1983.2
+  - title: "Part Seventeen. Good Luck"
+    start: 2132
+audioUrl: https://audio.kinly.download/legend-lane/the-supply-teacher-who-was-loki.mp3?v=f307317b
 ---
 
 ## Part One. Good Luck

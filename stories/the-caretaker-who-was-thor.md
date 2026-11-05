@@ -10,6 +10,47 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Mister Harris
 icon: cloud
 publishDate: 2026-10-06
 draft: false
+audioDuration: 1994
+parts:
+  - title: "Part One. The Boom"
+    start: 0
+  - title: "Part Two. A Name Like a Sneeze"
+    start: 91.52
+  - title: "Part Three. The Hammer Test"
+    start: 184.95
+  - title: "Part Four. The Piano"
+    start: 238.38
+  - title: "Part Five. The Pie and the Jug"
+    start: 326.58
+  - title: "Part Six. The Goats"
+    start: 404.75
+  - title: "Part Seven. The List"
+    start: 475.5
+  - title: "Part Eight. The Cat on the Floor"
+    start: 604.97
+  - title: "Part Nine. Extra Good"
+    start: 732.57
+  - title: "Part Ten. Little Clouds"
+    start: 825.54
+  - title: "Part Eleven. Not Tonight, Brother"
+    start: 947
+  - title: "Part Twelve. The Cat on the Roof"
+    start: 1034.61
+  - title: "Part Thirteen. One Paw"
+    start: 1123.67
+  - title: "Part Fourteen. Willow Goes Forward"
+    start: 1259.46
+  - title: "Part Fifteen. The Big Ask"
+    start: 1368.53
+  - title: "Part Sixteen. The Parachute"
+    start: 1465.01
+  - title: "Part Seventeen. Up"
+    start: 1592.46
+  - title: "Part Eighteen. Strong"
+    start: 1763.14
+  - title: "Part Nineteen. The Drum"
+    start: 1896.61
+audioUrl: https://audio.kinly.download/legend-lane/the-caretaker-who-was-thor.mp3?v=b3123d65
 ---
 
 ## Part One. The Boom

@@ -10,6 +10,43 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Elfine", "Mar
 icon: boat
 publishDate: 2026-10-10
 draft: false
+audioDuration: 2212
+parts:
+  - title: "Part One. The Knock"
+    start: 0
+  - title: "Part Two. Seven Is Too Many"
+    start: 108.71
+  - title: "Part Three. The Hatch"
+    start: 231.14
+  - title: "Part Four. Behind the Compost Bin"
+    start: 377.14
+  - title: "Part Five. The Sack"
+    start: 565.57
+  - title: "Part Six. Three More"
+    start: 705.4
+  - title: "Part Seven. You Are Felix"
+    start: 859.95
+  - title: "Part Eight. The Pat on the Sack"
+    start: 997.89
+  - title: "Part Nine. The Porthole"
+    start: 1100.72
+  - title: "Part Ten. How to Talk to Somebody Who Can't Hear"
+    start: 1192.99
+  - title: "Part Eleven. Who Asked"
+    start: 1330.11
+  - title: "Part Twelve. The Wave"
+    start: 1433.82
+  - title: "Part Thirteen. The Quiet After"
+    start: 1574.21
+  - title: "Part Fourteen. Willow"
+    start: 1680.03
+  - title: "Part Fifteen. The Man on the Crate"
+    start: 1823.64
+  - title: "Part Sixteen. Plenty"
+    start: 1944.17
+  - title: "Part Seventeen. The Bow"
+    start: 2073.67
+audioUrl: https://audio.kinly.download/legend-lane/the-dinner-men-who-were-the-seven-lucky-gods.mp3?v=a7bfe9c5
 ---
 
 ## Part One. The Knock
