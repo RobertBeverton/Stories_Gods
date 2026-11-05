@@ -6,7 +6,7 @@ seriesOrder: 29
 tags: ["mythology", "russian-and-slavic", "kindness"]
 gods: ["Father Frost (Russian and Slavic)"]
 lore: father-frost
-characters: ["Alex", "Felix", "Willow", "Dot", "Kenji", "Ollie", "Elfine", "Marion"]
+characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Elfine", "Marion", "Mister Harris", "Posy"]
 icon: cloud
 publishDate: 2026-10-28
 draft: false
@@ -52,15 +52,17 @@ On her shoulder, perched very still, sat the little owl she had built out of sno
 
 "Are you warm," said Alex slowly.
 
-"Exactly," said Elfine. "There's a very old story called Morozko, which is another name for him. A girl was sent out into the forest in the middle of winter by her horrible stepmother. She sat under a tree, shivering. And Frost came leaping through the branches, crackling and cold, and said to her, Are you warm, maiden? Are you warm, my dear?"
+"Exactly," said Elfine. "Maya, you know this one."
+
+Maya nodded. "My gran told it to me," she said. "There's a very old story called Morozko, which is another name for him. A girl was sent out into the forest in the middle of winter by her horrible stepmother. She sat under a tree, shivering. And Frost came leaping through the branches, crackling and cold, and said to her, Are you warm, maiden? Are you warm, my dear?"
 
 "What did she say?" said Felix.
 
-"She was freezing," said Elfine. "But she was very polite. She said, Yes, thank you, Father Frost, I'm warm. And he was so impressed that he wrapped her in a fur coat and gave her a chest full of jewels."
+"She was freezing," said Maya. "But she was very polite. She said, Yes, thank you, Father Frost, I'm warm. And he was so impressed that he wrapped her in a fur coat and gave her a chest full of jewels."
 
 "That's a bit weird," said Marion. "She should have said she was cold."
 
-"I think so too," said Elfine. "But in the old story, it's about politeness. And the stepsister, who was greedy and rude, got a very different result."
+"I think so too," said Maya. "But in the old story, it's about politeness. And the stepsister, who was greedy and rude, got a very different result."
 
 "What about Miss Snow?" said Dot, looking sideways at the girl, who was standing by the wall, carefully not stepping into the sunlight.
 
@@ -212,13 +214,15 @@ But Willow was already at the door. She had her whiskers forward, and her tail h
 
 Mister Harris opened his mouth, and shut it. He looked at the children in the doorway, and the golden cat, and the roaring white outside. Then Missus Tibbs put a hand on his arm.
 
-"Let them go with the cat," she said quietly. "And I'll phone for help."
+"Let them go with the cat," she said quietly. "And I'll phone for help." She turned to us. "Stay on the rope, all of you. If anyone gets too cold, you turn round at once. And Mister Harris will stand at the school gate with the big handbell and the lamp, and ring it, so you can always hear the way home."
+
+Mister Harris swallowed. Then he nodded, and went to fetch them.
 
 ## Part Eight. The Rope and the Snowflake
 
 We set off in a line, tied together with Marion's string. Alex was at the front, with Willow in his arms, and Felix at the back with the thermos. In between were Elfine, Marion, Dot and Kenji, all holding hands.
 
-The snow hit us like a wall. We couldn't see more than a metre. The wind tore at our coats and our breath froze on our scarves. Every step was a wade. Soon we couldn't tell which way the school was.
+The snow hit us like a wall. We couldn't see more than a metre. The wind tore at our coats and our breath froze on our scarves. Every step was a wade. For a while we could hear Mister Harris's bell behind us, ringing and ringing. Then the wind swallowed it, and we couldn't tell which way the school was.
 
 "I can't see Willow," said Elfine.
 
@@ -244,7 +248,7 @@ She was curled up in a snowdrift, with her knees pulled up and her arms wrapped 
 
 She looked up as the glowing snowflake floated into the hollow. And when she saw us, her face crumpled.
 
-"I thought nobody would come," she whispered.
+"I thought nobody would come," she whispered. "I held on to the back of the sleigh, and then the storm hit, and it bumped, and I slipped off into the snow. Nobody even looked round."
 
 Felix pulled off his glove, and touched her hand. It was like ice. He sat down in the drift next to her, put his arm round her shoulders, and pulled her close. Alex took his coat off, his big blue one, and wrapped it round the two of them. Elfine and Marion knelt on either side. Kenji took off his hat and put it on her head. And Dot opened the thermos, and poured a cup of hot chocolate, and held it in both hands.
 
@@ -296,9 +300,11 @@ It came out of the storm like a blue comet, with the three white horses snorting
 
 He stepped down. He strode across the clearing. And he opened the door of the hut.
 
+"My owl saw her fall," whispered Miss Snow, from behind him. "It flew back and found us, and I sent the snowflake to show you the way. Then we followed the owl."
+
 Everyone stood up.
 
-"They said a girl was missing," said Father Frost, in a deep, worried voice. He looked round the room. He saw Alex and Felix, and Elfine, and Marion, and Dot, and Kenji, and Baba Yaga with her ladle. And he saw Posy, huddled by the fire in three blankets.
+"The owl said a girl was missing," said Father Frost, in a deep, worried voice. He looked round the room. He saw Alex and Felix, and Elfine, and Marion, and Dot, and Kenji, and Baba Yaga with her ladle. And he saw Posy, huddled by the fire in three blankets.
 
 For a moment, he didn't speak.
 
@@ -396,21 +402,17 @@ Dot took her cold hand.
 
 On the last afternoon of the week, Father Frost sat on the wall outside the school, swinging his legs, with a cup of Baba Yaga's soup in his hands. The frost sparkled on every twig. The sun was low, and gold.
 
-"I have been giving out presents for a very long time," he said. "And do you know what I have learned?"
+"I have been giving out presents for a very long time," he said. "And I used to wait for the polite answer. Then two small boys asked me one."
 
-"What?" said Alex.
+"We only wondered," said Felix.
 
-"It isn't about who is the best," said Father Frost. "I used to think it was. I used to ask, Are you warm? And I would wait for the polite answer, and reward them. But that's not the real test. The real test is whether you think of anybody else."
-
-"Like when we asked you," said Felix.
-
-"Like that," said Father Frost. "You asked a question nobody asked. And it changed everything. It's not about being perfect. It's about being kind, and saying sorry when you've got it wrong, and noticing when somebody's cold."
+"That is how it starts," said Father Frost.
 
 He looked at Posy, who was sitting at the end of the wall, in her pink and white hat.
 
-"Everyone gets another chance," he said. "That's the other thing I've learned. It is the most important rule of winter. Even the longest, darkest night ends. And spring always comes."
+"Everyone gets another chance," he said.
 
-"Even though Miss Snow goes?" said Dot.
+"Even though Miss Snow goes?" said Dot, who had been listening.
 
 "Especially because of that," said Father Frost. He smiled, and the frost on his beard sparkled. "Everything that ends is just the middle of something else."
 
