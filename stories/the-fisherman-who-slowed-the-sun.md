@@ -10,6 +10,43 @@ characters: ["Alex", "Felix", "Maya", "Dot", "Kenji", "Ollie"]
 icon: pacific
 publishDate: 2026-10-24
 draft: false
+audioDuration: 1480
+parts:
+  - title: "Part One. Fishing in the Playground"
+    start: 0
+  - title: "Part Two. Three Pieces of Evidence"
+    start: 100.24
+  - title: "Part Three. The Smallest Brother"
+    start: 196
+  - title: "Part Four. The Fish That Became Islands"
+    start: 283.6
+  - title: "Part Five. The Sun Is Sulking"
+    start: 357.44
+  - title: "Part Six. Tying Up the Sun"
+    start: 433.44
+  - title: "Part Seven. The Friday Storm"
+    start: 530.16
+  - title: "Part Eight. I Need Fire"
+    start: 607.25
+  - title: "Part Nine. The Door Marked Seriously"
+    start: 713.65
+  - title: "Part Ten. Mahuika"
+    start: 797.97
+  - title: "Part Eleven. Sorry"
+    start: 874.13
+  - title: "Part Twelve. The Test"
+    start: 957.01
+  - title: "Part Thirteen. The Long Dark Corridor"
+    start: 1055.09
+  - title: "Part Fourteen. The Lantern Walk"
+    start: 1165.09
+  - title: "Part Fifteen. Five More Minutes"
+    start: 1243.21
+  - title: "Part Sixteen. What Mister Maui Said"
+    start: 1323.69
+  - title: "Part Seventeen. The Ending, with a Hook"
+    start: 1391.05
+audioUrl: https://audio.kinly.download/legend-lane/the-fisherman-who-slowed-the-sun.mp3?v=eca4fd4c
 ---
 
 ## Part One. Fishing in the Playground
