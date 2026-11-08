@@ -10,6 +10,41 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Ollie"]
 icon: egyptian
 publishDate: 2026-10-30
 draft: false
+audioDuration: 1688
+parts:
+  - title: "Part One. The Lady at the Gate"
+    start: 0
+  - title: "Part Two. Maya Has a List"
+    start: 109.6
+  - title: "Part Three. The Gentle One and the Fierce One"
+    start: 227.76
+  - title: "Part Four. The Odd Week"
+    start: 338.4
+  - title: "Part Five. The Serpent in the Drain"
+    start: 453.44
+  - title: "Part Six. The Sleepover"
+    start: 561.92
+  - title: "Part Seven. Apep"
+    start: 644.93
+  - title: "Part Eight. Maya Reads the List"
+    start: 762.09
+  - title: "Part Nine. The Scales"
+    start: 881.09
+  - title: "Part Ten. The Cat"
+    start: 986.53
+  - title: "Part Eleven. A Very Neat Bow"
+    start: 1085.41
+  - title: "Part Twelve. Back Down the Drain"
+    start: 1164.13
+  - title: "Part Thirteen. What Mrs Bast Said"
+    start: 1266.42
+  - title: "Part Fourteen. About Willow"
+    start: 1370.58
+  - title: "Part Fifteen. The Festival"
+    start: 1464.74
+  - title: "Part Sixteen. The Ending, with a Hook"
+    start: 1551.38
+audioUrl: https://audio.kinly.download/legend-lane/the-cat-who-guarded-the-clock.mp3?v=3caf1266
 ---
 
 ## Part One. The Lady at the Gate

@@ -10,6 +10,41 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Dot"]
 icon: west-african
 publishDate: 2026-10-30
 draft: false
+audioDuration: 1677
+parts:
+  - title: "Part One. The Golden Pond"
+    start: 0
+  - title: "Part Two. Maya Has a Mirror"
+    start: 104
+  - title: "Part Three. The Sixteen and the One"
+    start: 207.52
+  - title: "Part Four. The Committee of Sixteen"
+    start: 323.64
+  - title: "Part Five. Too Many Ideas"
+    start: 440.16
+  - title: "Part Six. The Wonky Playground"
+    start: 528.8
+  - title: "Part Seven. Left Out"
+    start: 642.77
+  - title: "Part Eight. The Tower Begins to Lean"
+    start: 736.25
+  - title: "Part Nine. Please"
+    start: 846.85
+  - title: "Part Ten. The Peacock"
+    start: 950.85
+  - title: "Part Eleven. Honey"
+    start: 1041.25
+  - title: "Part Twelve. The Song"
+    start: 1125.81
+  - title: "Part Thirteen. Sorry"
+    start: 1232.4
+  - title: "Part Fourteen. The Real Playground"
+    start: 1350.88
+  - title: "Part Fifteen. What Mrs Oshun Said"
+    start: 1451.28
+  - title: "Part Sixteen. The Ending, with a Hook"
+    start: 1557.12
+audioUrl: https://audio.kinly.download/legend-lane/the-lady-who-wasnt-asked.mp3?v=90f7923a
 ---
 
 ## Part One. The Golden Pond
