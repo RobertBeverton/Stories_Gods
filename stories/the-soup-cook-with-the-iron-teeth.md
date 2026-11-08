@@ -10,6 +10,41 @@ characters: ["Alex", "Felix", "Willow", "Dot", "Ollie", "Elfine", "Marion"]
 icon: slavic
 publishDate: 2026-10-27
 draft: false
+audioDuration: 1571
+parts:
+  - title: "Part One. The House with Chicken Legs"
+    start: 0
+  - title: "Part Two. Elfine Has a Fact"
+    start: 125.36
+  - title: "Part Three. The Best Soup in the World"
+    start: 240.08
+  - title: "Part Four. Round the Back"
+    start: 344.52
+  - title: "Part Five. Gone"
+    start: 427.84
+  - title: "Part Six. The Stove and the Apple Tree"
+    start: 505.28
+  - title: "Part Seven. The River of Milk"
+    start: 598.48
+  - title: "Part Eight. The Hut in the Dark Wood"
+    start: 627.6
+  - title: "Part Nine. The Rescue"
+    start: 750.27
+  - title: "Part Ten. The Chase"
+    start: 850.67
+  - title: "Part Eleven. The Apple Tree and the Stove"
+    start: 938.35
+  - title: "Part Twelve. The Lonely One"
+    start: 1016.03
+  - title: "Part Thirteen. The Soup Club Idea"
+    start: 1129.95
+  - title: "Part Fourteen. The Flight Home"
+    start: 1222.11
+  - title: "Part Fifteen. Soup Club"
+    start: 1322.3
+  - title: "Part Sixteen. Frost on the Window"
+    start: 1442.14
+audioUrl: https://audio.kinly.download/legend-lane/the-soup-cook-with-the-iron-teeth.mp3?v=cdda38a4
 ---
 
 ## Part One. The House with Chicken Legs

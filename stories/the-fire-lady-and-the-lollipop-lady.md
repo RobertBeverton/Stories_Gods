@@ -10,6 +10,39 @@ characters: ["Alex", "Felix", "Willow", "Dot", "Elfine", "Marion"]
 icon: pacific
 publishDate: 2026-10-26
 draft: false
+audioDuration: 1607
+parts:
+  - title: "Part One. Cones in the Playground"
+    start: 0
+  - title: "Part Two. Elfine Has a Fact"
+    start: 94.56
+  - title: "Part Three. Home Economics and Hot Water"
+    start: 223.44
+  - title: "Part Four. The Floor Is Lava"
+    start: 402.32
+  - title: "Part Five. Marion's Monkey Bars"
+    start: 502.4
+  - title: "Part Six. The Lollipop Lady"
+    start: 603.56
+  - title: "Part Seven. The First Try"
+    start: 707.72
+  - title: "Part Eight. Nobody's Side"
+    start: 806.2
+  - title: "Part Nine. The Canoe"
+    start: 918.04
+  - title: "Part Ten. Willow's Moment"
+    start: 998.04
+  - title: "Part Eleven. Sorry on Three"
+    start: 1102.36
+  - title: "Part Twelve. How Islands Are Made"
+    start: 1171.48
+  - title: "Part Thirteen. What Pele Said"
+    start: 1280.23
+  - title: "Part Fourteen. Smell the Toast"
+    start: 1336.39
+  - title: "Part Fifteen. The Ending, with a Hook"
+    start: 1486.39
+audioUrl: https://audio.kinly.download/legend-lane/the-fire-lady-and-the-lollipop-lady.mp3?v=851860c2
 ---
 
 ## Part One. Cones in the Playground
