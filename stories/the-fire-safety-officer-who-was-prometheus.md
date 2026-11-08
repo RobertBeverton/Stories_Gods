@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Mister
 icon: greek
 publishDate: 2026-10-20
 draft: false
+audioDuration: 2188
+parts:
+  - title: "Part One. Mind the Flicker"
+    start: 0
+  - title: "Part Two. Backwards"
+    start: 111.48
+  - title: "Part Three. Behind the Compost Bin"
+    start: 196.29
+  - title: "Part Four. The Rules"
+    start: 355.15
+  - title: "Part Five. The Practice"
+    start: 519.82
+  - title: "Part Six. Mr Zed"
+    start: 647.04
+  - title: "Part Seven. The Sad Wednesday"
+    start: 783.46
+  - title: "Part Eight. The Wrong Idea"
+    start: 869.72
+  - title: "Part Nine. Alex Notices"
+    start: 999.7
+  - title: "Part Ten. Low and Go"
+    start: 1084.11
+  - title: "Part Eleven. Eleven"
+    start: 1203.56
+  - title: "Part Twelve. The Back Window"
+    start: 1304.23
+  - title: "Part Thirteen. Wait"
+    start: 1445.21
+  - title: "Part Fourteen. The Engine and the Rain"
+    start: 1543.59
+  - title: "Part Fifteen. Blankets"
+    start: 1652.84
+  - title: "Part Sixteen. Mr Epp"
+    start: 1761.73
+  - title: "Part Seventeen. Careful Is Brave"
+    start: 1921.98
+  - title: "Part Eighteen. The Box"
+    start: 2083.25
+audioUrl: https://audio.kinly.download/legend-lane/the-fire-safety-officer-who-was-prometheus.mp3?v=83880252
 ---
 
 ## Part One. Mind the Flicker

@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine
 icon: greek
 publishDate: 2026-10-16
 draft: false
+audioDuration: 2274
+parts:
+  - title: "Part One. The Man Who Ate the Scenery"
+    start: 0
+  - title: "Part Two. Two Middle Billy Goats"
+    start: 136.75
+  - title: "Part Three. Twelve O'Clock"
+    start: 254.56
+  - title: "Part Four. Behind the Compost Bin"
+    start: 379.02
+  - title: "Part Five. The List and the Pipes"
+    start: 540.21
+  - title: "Part Six. The Dress Rehearsal"
+    start: 721.48
+  - title: "Part Seven. CRASH"
+    start: 840.1
+  - title: "Part Eight. Everyone Runs"
+    start: 916.29
+  - title: "Part Nine. Sorry"
+    start: 1071.18
+  - title: "Part Ten. The Velvet Sausage"
+    start: 1153.67
+  - title: "Part Eleven. The Field and the Slow Tune"
+    start: 1266.99
+  - title: "Part Twelve. The Wood"
+    start: 1491.32
+  - title: "Part Thirteen. The Stream"
+    start: 1587.82
+  - title: "Part Fourteen. I Can Be Scared and Brave"
+    start: 1737.7
+  - title: "Part Fifteen. The Walk Back"
+    start: 1828.9
+  - title: "Part Sixteen. The Best Roar"
+    start: 1902.14
+  - title: "Part Seventeen. The Real Play"
+    start: 1998.39
+  - title: "Part Eighteen. The Peels"
+    start: 2153.14
+audioUrl: https://audio.kinly.download/legend-lane/the-play-director-who-was-pan.mp3?v=a26dcaac
 ---
 
 ## Part One. The Man Who Ate the Scenery

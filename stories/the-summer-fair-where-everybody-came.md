@@ -9,6 +9,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine
 icon: gathering
 publishDate: 2026-10-18
 draft: false
+audioDuration: 2249
+parts:
+  - title: "Part One. The Banner"
+    start: 0
+  - title: "Part Two. The First Four"
+    start: 117.5
+  - title: "Part Three. The Balloon"
+    start: 278.73
+  - title: "Part Four. The Stalls"
+    start: 425.61
+  - title: "Part Five. The Purple Curtain"
+    start: 583.33
+  - title: "Part Six. The Last Four"
+    start: 741.12
+  - title: "Part Seven. Up"
+    start: 877.99
+  - title: "Part Eight. The Gods Try"
+    start: 973.72
+  - title: "Part Nine. Above the School"
+    start: 1090.28
+  - title: "Part Ten. The Whisper"
+    start: 1203.62
+  - title: "Part Eleven. The Brave Thing"
+    start: 1321.42
+  - title: "Part Twelve. The Quiet"
+    start: 1443.11
+  - title: "Part Thirteen. The Message"
+    start: 1563.81
+  - title: "Part Fourteen. Locke Goes Up"
+    start: 1670.96
+  - title: "Part Fifteen. The Knot"
+    start: 1806.12
+  - title: "Part Sixteen. Down"
+    start: 1903.92
+  - title: "Part Seventeen. More Powerful"
+    start: 2031.98
+  - title: "Part Eighteen. The Feather"
+    start: 2122.18
+audioUrl: https://audio.kinly.download/legend-lane/the-summer-fair-where-everybody-came.mp3?v=acd2bf60
 ---
 
 ## Part One. The Banner

@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Mr Har
 icon: greek
 publishDate: 2026-10-21
 draft: false
+audioDuration: 2171
+parts:
+  - title: "Part One. Eleven Hundred Questions"
+    start: 0
+  - title: "Part Two. The Jar in the Cupboard"
+    start: 85.96
+  - title: "Part Three. Behind the Compost Bin"
+    start: 226.92
+  - title: "Part Four. The List"
+    start: 369.39
+  - title: "Part Five. Mrs Pandy Tries"
+    start: 482.5
+  - title: "Part Six. The Humming"
+    start: 557.21
+  - title: "Part Seven. The Click"
+    start: 648.86
+  - title: "Part Eight. The First Grumble"
+    start: 746.95
+  - title: "Part Nine. The Gods Try"
+    start: 856.73
+  - title: "Part Ten. A Cloud on the Climbing Frame"
+    start: 938.45
+  - title: "Part Eleven. The School Goes Grey"
+    start: 1013.05
+  - title: "Part Twelve. Over a Football"
+    start: 1161.31
+  - title: "Part Thirteen. The Twins"
+    start: 1270.64
+  - title: "Part Fourteen. The Bottom of the Jar"
+    start: 1423.64
+  - title: "Part Fifteen. One Little Bird"
+    start: 1538.34
+  - title: "Part Sixteen. Everybody Hopes"
+    start: 1673.83
+  - title: "Part Seventeen. Mrs Pandy Says Sorry"
+    start: 1901.09
+  - title: "Part Eighteen. The Ending (With a Shell)"
+    start: 2058.36
+audioUrl: https://audio.kinly.download/legend-lane/the-art-teacher-who-was-pandora.mp3?v=e4a2d4db
 ---
 
 ## Part One. Eleven Hundred Questions

@@ -10,6 +10,43 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine
 icon: greek
 publishDate: 2026-10-15
 draft: false
+audioDuration: 2100
+parts:
+  - title: "Part One. The Man With the Wobble"
+    start: 0
+  - title: "Part Two. Bigger on the Inside"
+    start: 99.29
+  - title: "Part Three. Behind the Compost Bin"
+    start: 265.44
+  - title: "Part Four. The God Who Was Thrown Away"
+    start: 349.88
+  - title: "Part Five. The Golden Chair"
+    start: 464.5
+  - title: "Part Six. The List"
+    start: 553.47
+  - title: "Part Seven. The Wrong Kind of Laughing"
+    start: 648.71
+  - title: "Part Eight. The Beetle That Wouldn't"
+    start: 754.22
+  - title: "Part Nine. Ms Crabtree"
+    start: 928.7
+  - title: "Part Ten. Intruder"
+    start: 1089.56
+  - title: "Part Eleven. The Plan"
+    start: 1194.4
+  - title: "Part Twelve. Please"
+    start: 1350.15
+  - title: "Part Thirteen. Backwards"
+    start: 1467.47
+  - title: "Part Fourteen. The Leaf"
+    start: 1594.31
+  - title: "Part Fifteen. The Chair"
+    start: 1756.23
+  - title: "Part Sixteen. Tea in the Sun"
+    start: 1917.18
+  - title: "Part Seventeen. A Crunch in the Hall"
+    start: 2027.53
+audioUrl: https://audio.kinly.download/legend-lane/the-workshop-teacher-who-was-hephaestus.mp3?v=67c0d87d
 ---
 
 ## Part One. The Man With the Wobble

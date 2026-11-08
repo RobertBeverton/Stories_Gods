@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine
 icon: greek
 publishDate: 2026-10-19
 draft: false
+audioDuration: 2106
+parts:
+  - title: "Part One. The Feather"
+    start: 0
+  - title: "Part Two. Ask Me Anything"
+    start: 122.81
+  - title: "Part Three. Behind the Compost Bin"
+    start: 293.62
+  - title: "Part Four. The Oak Tree"
+    start: 500.07
+  - title: "Part Five. Reading Buddies"
+    start: 642.74
+  - title: "Part Six. The Blue Minibus"
+    start: 738.2
+  - title: "Part Seven. The Boast"
+    start: 819.79
+  - title: "Part Eight. Round One"
+    start: 914.69
+  - title: "Part Nine. The Web Drops"
+    start: 1012.5
+  - title: "Part Ten. The Grown-Ups Try"
+    start: 1083.38
+  - title: "Part Eleven. Back to Back"
+    start: 1234.54
+  - title: "Part Twelve. The True Thing"
+    start: 1377.43
+  - title: "Part Thirteen. The Knot"
+    start: 1510.1
+  - title: "Part Fourteen. Felix and Arabella"
+    start: 1626.16
+  - title: "Part Fifteen. The Spider"
+    start: 1726.84
+  - title: "Part Sixteen. The Quiz Goes On"
+    start: 1851.88
+  - title: "Part Seventeen. The Oak Tree Again"
+    start: 1930.2
+  - title: "Part Eighteen. The Stalk at the Gate"
+    start: 2022.44
+audioUrl: https://audio.kinly.download/legend-lane/the-quiz-mistress-who-was-athena.mp3?v=d2316958
 ---
 
 ## Part One. The Feather

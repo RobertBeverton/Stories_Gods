@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine
 icon: chinese
 publishDate: 2026-10-22
 draft: false
+audioDuration: 2129
+parts:
+  - title: "Part One. The Turtle Is Still There"
+    start: 0
+  - title: "Part Two. The Lady in Jade"
+    start: 108.4
+  - title: "Part Three. Who Is Nüwa?"
+    start: 196.96
+  - title: "Part Four. No Two the Same"
+    start: 300.32
+  - title: "Part Five. Ao Is Worried"
+    start: 487.92
+  - title: "Part Six. Fire Against Water"
+    start: 577.92
+  - title: "Part Seven. Floods and Fires"
+    start: 776.67
+  - title: "Part Eight. Nüwa Says No"
+    start: 846.27
+  - title: "Part Nine. The Rule of Five"
+    start: 1002.11
+  - title: "Part Ten. Red and Yellow"
+    start: 1064.99
+  - title: "Part Eleven. The Blue Stone"
+    start: 1172.83
+  - title: "Part Twelve. The White Stone"
+    start: 1270.08
+  - title: "Part Thirteen. The Black Stone"
+    start: 1365.76
+  - title: "Part Fourteen. Back to the Sky"
+    start: 1452.64
+  - title: "Part Fifteen. Slowly"
+    start: 1555.68
+  - title: "Part Sixteen. The Mending"
+    start: 1714.4
+  - title: "Part Seventeen. The Sky Stays Up"
+    start: 1866.24
+  - title: "Part Eighteen. The Ending (With a Spade)"
+    start: 2052.84
+audioUrl: https://audio.kinly.download/legend-lane/the-pottery-teacher-who-was-nuwa.mp3?v=353ed82d
 ---
 
 ## Part One. The Turtle Is Still There
