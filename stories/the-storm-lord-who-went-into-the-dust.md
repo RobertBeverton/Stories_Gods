@@ -10,6 +10,41 @@ characters: ["Alex", "Felix", "Willow", "Dot", "Ollie", "Elfine", "Marion"]
 icon: canaanite
 publishDate: 2026-10-26
 draft: false
+audioDuration: 1658
+parts:
+  - title: "Part One. The Van at the Gate"
+    start: 0
+  - title: "Part Two. Elfine Has a Fact"
+    start: 118.16
+  - title: "Part Three. The Two Clubs"
+    start: 219.04
+  - title: "Part Four. The Wave in the Playground"
+    start: 354.4
+  - title: "Part Five. Felix and Alex, and the Second Club"
+    start: 447.76
+  - title: "Part Six. The Window"
+    start: 553.44
+  - title: "Part Seven. The Dust Man"
+    start: 635.63
+  - title: "Part Eight. The Dry Days"
+    start: 734.19
+  - title: "Part Nine. Miss Anat"
+    start: 848.51
+  - title: "Part Ten. The Dust House"
+    start: 938.51
+  - title: "Part Eleven. The Offer"
+    start: 1036.99
+  - title: "Part Twelve. The Dust and the Water"
+    start: 1115.15
+  - title: "Part Thirteen. Out Pops Baal"
+    start: 1207.31
+  - title: "Part Fourteen. The Rain Comes Back"
+    start: 1290.7
+  - title: "Part Fifteen. What the Storm Lord Said"
+    start: 1397.58
+  - title: "Part Sixteen. The Ending, with a Hook"
+    start: 1498.46
+audioUrl: https://audio.kinly.download/legend-lane/the-storm-lord-who-went-into-the-dust.mp3?v=451e5729
 ---
 
 ## Part One. The Van at the Gate

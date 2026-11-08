@@ -10,6 +10,39 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Elfine
 icon: north-american
 publishDate: 2026-10-25
 draft: false
+audioDuration: 1513
+parts:
+  - title: "Part One. The Lunchbox Mystery"
+    start: 0
+  - title: "Part Two. Hiding the Lunches"
+    start: 126
+  - title: "Part Three. Elfine Has a Fact"
+    start: 223.6
+  - title: "Part Four. Caught by the Tail"
+    start: 363.52
+  - title: "Part Five. Why He Does It"
+    start: 466.72
+  - title: "Part Six. The Howl"
+    start: 574.48
+  - title: "Part Seven. The Gobbler"
+    start: 654.11
+  - title: "Part Eight. The Plan"
+    start: 757.71
+  - title: "Part Nine. Inside the Gobbler"
+    start: 849.55
+  - title: "Part Ten. The Smallest Voice"
+    start: 940.59
+  - title: "Part Eleven. Dot's Big Voice"
+    start: 1044.27
+  - title: "Part Twelve. The Feast"
+    start: 1120.67
+  - title: "Part Thirteen. The Sneeze"
+    start: 1214.11
+  - title: "Part Fourteen. Gobbler Hill"
+    start: 1304.32
+  - title: "Part Fifteen. The Ending, with a Hook"
+    start: 1404.48
+audioUrl: https://audio.kinly.download/legend-lane/the-sandwich-inspector-who-woke-the-hill.mp3?v=5e55a05d
 ---
 
 ## Part One. The Lunchbox Mystery
