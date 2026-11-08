@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Kenji", "Ollie", "Dot", "Elfine
 icon: chinese
 publishDate: 2026-10-23
 draft: false
+audioDuration: 2052
+parts:
+  - title: "Part One. A Spade With a Man Attached"
+    start: 0
+  - title: "Part Two. The Compost Bin Island"
+    start: 160.08
+  - title: "Part Three. The List"
+    start: 338.4
+  - title: "Part Four. No Walls"
+    start: 427.52
+  - title: "Part Five. Four Thousand and Twelve"
+    start: 554.32
+  - title: "Part Six. The Creak"
+    start: 658.53
+  - title: "Part Seven. The Wet Floor"
+    start: 708.45
+  - title: "Part Eight. The Burst"
+    start: 769.97
+  - title: "Part Nine. The Gods Arrive"
+    start: 843.81
+  - title: "Part Ten. Willow and the Torch"
+    start: 900.49
+  - title: "Part Eleven. Mr Yu Takes Charge"
+    start: 1044.29
+  - title: "Part Twelve. The First Dig, and the Second"
+    start: 1194.77
+  - title: "Part Thirteen. The Third Dig"
+    start: 1317.03
+  - title: "Part Fourteen. The Green Door"
+    start: 1481.07
+  - title: "Part Fifteen. The Last Cut"
+    start: 1649.91
+  - title: "Part Sixteen. Make a Path"
+    start: 1770.95
+  - title: "Part Seventeen. A Fence With a Gate"
+    start: 1905
+  - title: "Part Eighteen. The Ending (With a Feather)"
+    start: 1971.32
+audioUrl: https://audio.kinly.download/legend-lane/the-groundsman-who-was-yu-the-great.mp3?v=b43a507c
 ---
 
 ## Part One. A Spade With a Man Attached

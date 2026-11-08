@@ -10,6 +10,51 @@ characters: ["Alex", "Felix", "Maya", "Dot", "Kenji", "Ollie"]
 icon: mesoamerican
 publishDate: 2026-10-24
 draft: false
+audioDuration: 1621
+parts:
+  - title: "Part One. Talking to a Puddle"
+    start: 0
+  - title: "Part Two. The Feathered Snake"
+    start: 138.88
+  - title: "Part Three. The Story of the Corn"
+    start: 225.6
+  - title: "Part Four. The List"
+    start: 333.2
+  - title: "Part Five. Sholotl"
+    start: 405.84
+  - title: "Part Six. The Bump"
+    start: 459.12
+  - title: "Part Seven. How Not to Get the Corn"
+    start: 530.48
+  - title: "Part Eight. The Boys Notice"
+    start: 614.48
+  - title: "Part Nine. An Idea"
+    start: 679.55
+  - title: "Part Ten. Getting Small"
+    start: 738.59
+  - title: "Part Eleven. Into the Mound"
+    start: 824.99
+  - title: "Part Twelve. The Tunnels"
+    start: 889.79
+  - title: "Part Thirteen. The Flooded Room"
+    start: 965.71
+  - title: "Part Fourteen. The Twins Think"
+    start: 1060.03
+  - title: "Part Fifteen. The Channel"
+    start: 1107.59
+  - title: "Part Sixteen. The Glug"
+    start: 1197.23
+  - title: "Part Seventeen. The Gift"
+    start: 1259.23
+  - title: "Part Eighteen. The Way Out"
+    start: 1305.28
+  - title: "Part Nineteen. The Corn Comes Out"
+    start: 1380.48
+  - title: "Part Twenty. The Harvest Festival"
+    start: 1457.48
+  - title: "Part Twenty-One. The Ending, with a Hook"
+    start: 1540.24
+audioUrl: https://audio.kinly.download/legend-lane/the-cook-who-was-quetzalcoatl.mp3?v=b1507987
 ---
 
 ## Part One. Talking to a Puddle
