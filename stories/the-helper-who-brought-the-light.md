@@ -10,6 +10,41 @@ characters: ["Alex", "Felix", "Willow", "Dot", "Ollie", "Elfine", "Marion"]
 icon: north-american
 publishDate: 2026-10-25
 draft: false
+audioDuration: 1528
+parts:
+  - title: "Part One. The Man in the White Coat"
+    start: 0
+  - title: "Part Two. The Nest on the Climbing Frame"
+    start: 113.44
+  - title: "Part Three. Raven and the Clamshell"
+    start: 235.52
+  - title: "Part Four. The Boxes Inside the Boxes"
+    start: 337.76
+  - title: "Part Five. The Day the Light Went Out"
+    start: 463.44
+  - title: "Part Six. The House with the Padlock"
+    start: 572.32
+  - title: "Part Seven. Inside the Dark Garden"
+    start: 677.47
+  - title: "Part Eight. What Felix Heard"
+    start: 766.11
+  - title: "Part Nine. What Alex Said"
+    start: 876.43
+  - title: "Part Ten. The Last Box"
+    start: 956.51
+  - title: "Part Eleven. The Chimney"
+    start: 1034.03
+  - title: "Part Twelve. Sun, Moon and Stars"
+    start: 1113.13
+  - title: "Part Thirteen. The Lonely Man and the Little Star"
+    start: 1195.23
+  - title: "Part Fourteen. Spooky Sparkle Night"
+    start: 1284.63
+  - title: "Part Fifteen. What Mister Raven Said"
+    start: 1367.75
+  - title: "Part Sixteen. The Ending, with a Hook"
+    start: 1435.83
+audioUrl: https://audio.kinly.download/legend-lane/the-helper-who-brought-the-light.mp3?v=9829e2b9
 ---
 
 ## Part One. The Man in the White Coat

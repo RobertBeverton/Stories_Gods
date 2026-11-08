@@ -10,6 +10,39 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Elfine
 icon: west-african
 publishDate: 2026-10-25
 draft: false
+audioDuration: 1482
+parts:
+  - title: "Part One. Reading Buddies"
+    start: 0
+  - title: "Part Two. The Man on the Thread"
+    start: 104.64
+  - title: "Part Three. Elfine Has a Fact"
+    start: 199.52
+  - title: "Part Four. Four Impossible Things"
+    start: 311.6
+  - title: "Part Five. A Very Good Story, with a Price"
+    start: 447.6
+  - title: "Part Six. Where the Words Went"
+    start: 528.72
+  - title: "Part Seven. The Tree"
+    start: 622.45
+  - title: "Part Eight. What Felix Said"
+    start: 722.45
+  - title: "Part Nine. The Pot Goes Rolling"
+    start: 814.69
+  - title: "Part Ten. Marion's Rescue"
+    start: 904.61
+  - title: "Part Eleven. The Knot"
+    start: 992.05
+  - title: "Part Twelve. Telling It Together"
+    start: 1076.29
+  - title: "Part Thirteen. The Stories Fly Home"
+    start: 1176.45
+  - title: "Part Fourteen. What the Spider Learned"
+    start: 1267.93
+  - title: "Part Fifteen. The Ending, with a Hook"
+    start: 1379.13
+audioUrl: https://audio.kinly.download/legend-lane/the-spider-who-owned-the-stories.mp3?v=98c4266d
 ---
 
 ## Part One. Reading Buddies
