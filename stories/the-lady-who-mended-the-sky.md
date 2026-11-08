@@ -10,6 +10,41 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Ollie"]
 icon: chinese
 publishDate: 2026-11-01
 draft: false
+audioDuration: 1649
+parts:
+  - title: "Part One. The Crack"
+    start: 0
+  - title: "Part Two. The Lady on the Ladder"
+    start: 79.28
+  - title: "Part Three. Maya Knows"
+    start: 186.56
+  - title: "Part Four. The Missing Thing"
+    start: 304.72
+  - title: "Part Five. The Staff Room"
+    start: 429.2
+  - title: "Part Six. The Egg, the Corn and the Lotus"
+    start: 550.08
+  - title: "Part Seven. Whose is Right?"
+    start: 677.71
+  - title: "Part Eight. Things Start to Float"
+    start: 763.23
+  - title: "Part Nine. The Twins Have an Idea"
+    start: 869.15
+  - title: "Part Ten. Not One Story, but Many"
+    start: 977.47
+  - title: "Part Eleven. The Melting"
+    start: 1048.35
+  - title: "Part Twelve. Our Story"
+    start: 1154.51
+  - title: "Part Thirteen. The Patch"
+    start: 1252.06
+  - title: "Part Fourteen. The New Sky"
+    start: 1355.18
+  - title: "Part Fifteen. What Mrs Nuwa Said"
+    start: 1432.94
+  - title: "Part Sixteen. The Ending, with a Hook"
+    start: 1548.62
+audioUrl: https://audio.kinly.download/legend-lane/the-lady-who-mended-the-sky.mp3?v=ebdc7846
 ---
 
 ## Part One. The Crack

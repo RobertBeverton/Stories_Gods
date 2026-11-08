@@ -10,6 +10,43 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie"]
 icon: persian
 publishDate: 2026-10-31
 draft: false
+audioDuration: 1732
+parts:
+  - title: "Part One. The Feather in the Playground"
+    start: 0
+  - title: "Part Two. The New Teacher"
+    start: 83.28
+  - title: "Part Three. Maya Has the Whole Story"
+    start: 183.2
+  - title: "Part Four. The Cupboard Under the Stairs"
+    start: 305.04
+  - title: "Part Five. One Feather Between Two"
+    start: 412
+  - title: "Part Six. The Walk to Gobbler Hill"
+    start: 515.84
+  - title: "Part Seven. The Grey"
+    start: 589.6
+  - title: "Part Eight. The Thirty Little Birds"
+    start: 693.97
+  - title: "Part Nine. We're Lost, Please"
+    start: 854.93
+  - title: "Part Ten. The Wings"
+    start: 928.45
+  - title: "Part Eleven. The Puddle"
+    start: 1019.45
+  - title: "Part Twelve. You Were Already It"
+    start: 1138.13
+  - title: "Part Thirteen. Mister Harris"
+    start: 1252.72
+  - title: "Part Fourteen. The Ride Home"
+    start: 1350.64
+  - title: "Part Fifteen. The Oak Tree"
+    start: 1437.04
+  - title: "Part Sixteen. What She Said at the End"
+    start: 1525.87
+  - title: "Part Seventeen. The Ending, with a Hook"
+    start: 1625.2
+audioUrl: https://audio.kinly.download/legend-lane/the-bird-who-looked-after-lost-things.mp3?v=3090748e
 ---
 
 ## Part One. The Feather in the Playground
