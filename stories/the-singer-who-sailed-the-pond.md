@@ -10,6 +10,43 @@ characters: ["Alex", "Felix", "Willow", "Dot", "Kenji", "Elfine", "Marion"]
 icon: finnish
 publishDate: 2026-10-27
 draft: false
+audioDuration: 1689
+parts:
+  - title: "Part One. The Man Who Sang to the Snow"
+    start: 0
+  - title: "Part Two. Elfine Has a Fact"
+    start: 123.68
+  - title: "Part Three. The Little Mill"
+    start: 228.48
+  - title: "Part Four. The Inspector from the North"
+    start: 316.4
+  - title: "Part Five. Taken for Inspection"
+    start: 424.24
+  - title: "Part Six. Mister Väinö Knows"
+    start: 515.6
+  - title: "Part Seven. The Sea in the Pond"
+    start: 592.72
+  - title: "Part Eight. The Pike"
+    start: 687.33
+  - title: "Part Nine. Pohjola"
+    start: 818.29
+  - title: "Part Ten. Nine Locks"
+    start: 919.49
+  - title: "Part Eleven. The Twins Take the Kantele"
+    start: 1015.81
+  - title: "Part Twelve. The Eagle"
+    start: 1103.97
+  - title: "Part Thirteen. The Tug of War"
+    start: 1190.29
+  - title: "Part Fourteen. The Inspector's Report"
+    start: 1302.97
+  - title: "Part Fifteen. Three Good Things"
+    start: 1396.01
+  - title: "Part Sixteen. The Real Sampo"
+    start: 1491.85
+  - title: "Part Seventeen. The Staff Room Door"
+    start: 1586.89
+audioUrl: https://audio.kinly.download/legend-lane/the-singer-who-sailed-the-pond.mp3?v=454b01f6
 ---
 
 ## Part One. The Man Who Sang to the Snow

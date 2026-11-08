@@ -10,6 +10,41 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie", "Elfine
 icon: slavic
 publishDate: 2026-10-28
 draft: false
+audioDuration: 1697
+parts:
+  - title: "Part One. The Man Who Asked Everyone"
+    start: 0
+  - title: "Part Two. Elfine Has a Fact"
+    start: 112
+  - title: "Part Three. Dot's New Friend"
+    start: 249.6
+  - title: "Part Four. The Question"
+    start: 354.88
+  - title: "Part Five. The Rude One"
+    start: 461.44
+  - title: "Part Six. The Sleigh"
+    start: 544.4
+  - title: "Part Seven. The Blizzard"
+    start: 642.36
+  - title: "Part Eight. The Rope and the Snowflake"
+    start: 754.2
+  - title: "Part Nine. Under the Pines"
+    start: 850.76
+  - title: "Part Ten. The Hut in the Storm"
+    start: 956.68
+  - title: "Part Eleven. Father Frost Arrives"
+    start: 1052.92
+  - title: "Part Twelve. The Presents"
+    start: 1169.72
+  - title: "Part Thirteen. The Snow Maiden's Question"
+    start: 1263.68
+  - title: "Part Fourteen. The Snow House"
+    start: 1367.28
+  - title: "Part Fifteen. What Father Frost Said"
+    start: 1471.6
+  - title: "Part Sixteen. The Ending, with a Hook"
+    start: 1538
+audioUrl: https://audio.kinly.download/legend-lane/the-frost-who-asked-are-you-warm.mp3?v=7c86c262
 ---
 
 ## Part One. The Man Who Asked Everyone
