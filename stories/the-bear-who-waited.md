@@ -10,6 +10,43 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji"]
 icon: korean
 publishDate: 2026-11-02
 draft: false
+audioDuration: 1583
+parts:
+  - title: "Part One. Two Visitors in the Hedge"
+    start: 0
+  - title: "Part Two. The Teacher with Three Helpers"
+    start: 93.2
+  - title: "Part Three. Maya Takes Notes"
+    start: 187.68
+  - title: "Part Four. The Cave Under the School"
+    start: 289.68
+  - title: "Part Five. Day One"
+    start: 383.6
+  - title: "Part Six. The Temptation"
+    start: 481.68
+  - title: "Part Seven. Days Forty to Sixty"
+    start: 588.32
+  - title: "Part Eight. Day Sixty"
+    start: 683.07
+  - title: "Part Nine. Dot Follows"
+    start: 782.59
+  - title: "Part Ten. Into the Woods"
+    start: 862.19
+  - title: "Part Eleven. The River"
+    start: 935.23
+  - title: "Part Twelve. Not Rubbish"
+    start: 1013.95
+  - title: "Part Thirteen. The Open Door"
+    start: 1121.63
+  - title: "Part Fourteen. Day One Hundred"
+    start: 1217.95
+  - title: "Part Fifteen. The Celebration"
+    start: 1321.75
+  - title: "Part Sixteen. What They Told Us"
+    start: 1405.11
+  - title: "Part Seventeen. The Ending, with a Hook"
+    start: 1488.07
+audioUrl: https://audio.kinly.download/legend-lane/the-bear-who-waited.mp3?v=8b3587be
 ---
 
 ## Part One. Two Visitors in the Hedge

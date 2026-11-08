@@ -10,6 +10,45 @@ characters: ["Alex", "Felix", "Willow", "Maya"]
 icon: norse
 publishDate: 2026-11-02
 draft: false
+audioDuration: 1665
+parts:
+  - title: "Part One. Apples on the Lane"
+    start: 0
+  - title: "Part Two. The Old Gods"
+    start: 73.6
+  - title: "Part Three. Maya Remembers"
+    start: 225.44
+  - title: "Part Four. Mister Loki Says It Out Loud"
+    start: 339.84
+  - title: "Part Five. The Day Everyone Got Old"
+    start: 429.36
+  - title: "Part Six. The Falcon Cloak"
+    start: 528.32
+  - title: "Part Seven. Left and Right"
+    start: 627.32
+  - title: "Part Eight. The Mountain"
+    start: 730.6
+  - title: "Part Nine. The Tea Party"
+    start: 816.84
+  - title: "Part Ten. A Giant's Secret"
+    start: 909
+  - title: "Part Eleven. Flight with a Nut"
+    start: 989.24
+  - title: "Part Twelve. The Chase"
+    start: 1072.44
+  - title: "Part Thirteen. The Smoke Wall"
+    start: 1182.28
+  - title: "Part Fourteen. Please Don't"
+    start: 1263.56
+  - title: "Part Fifteen. Ask"
+    start: 1341.76
+  - title: "Part Sixteen. The Apples Go Round"
+    start: 1434.72
+  - title: "Part Seventeen. What She Said"
+    start: 1522.48
+  - title: "Part Eighteen. Welcome, Goodbye"
+    start: 1575.97
+audioUrl: https://audio.kinly.download/legend-lane/the-lady-who-kept-the-apples.mp3?v=35876acf
 ---
 
 ## Part One. Apples on the Lane
