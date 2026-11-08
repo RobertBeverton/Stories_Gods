@@ -10,6 +10,41 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Kenji", "Ollie"]
 icon: andean
 publishDate: 2026-11-02
 draft: false
+audioDuration: 1523
+parts:
+  - title: "Part One. The Llama in Assembly"
+    start: 0
+  - title: "Part Two. Up Through the Vegetable Patch"
+    start: 94.8
+  - title: "Part Three. Maya Has Every Potato"
+    start: 183.44
+  - title: "Part Four. How to Plant a Potato"
+    start: 290.56
+  - title: "Part Five. The Digger"
+    start: 388.64
+  - title: "Part Six. Small Shakes"
+    start: 465.52
+  - title: "Part Seven. The Big One"
+    start: 572.24
+  - title: "Part Eight. What We Tried"
+    start: 673.32
+  - title: "Part Nine. Sulpayki"
+    start: 760.92
+  - title: "Part Ten. The Little Gift"
+    start: 851.24
+  - title: "Part Eleven. Mister Maui Goes Fishing"
+    start: 940.28
+  - title: "Part Twelve. A New Plan"
+    start: 1042.6
+  - title: "Part Thirteen. The Potato Feast"
+    start: 1147.96
+  - title: "Part Fourteen. What She Said to the Twins"
+    start: 1244.48
+  - title: "Part Fifteen. The Last Evening"
+    start: 1352.08
+  - title: "Part Sixteen. The Ending, with a Hook"
+    start: 1418.32
+audioUrl: https://audio.kinly.download/legend-lane/the-lady-under-the-floor.mp3?v=e37c5e11
 ---
 
 ## Part One. The Llama in Assembly

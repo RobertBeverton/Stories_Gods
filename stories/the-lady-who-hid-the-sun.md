@@ -10,6 +10,43 @@ characters: ["Alex", "Felix", "Willow", "Maya", "Dot", "Ollie"]
 icon: japanese
 publishDate: 2026-11-01
 draft: false
+audioDuration: 1531
+parts:
+  - title: "Part One. A Very Pale Morning"
+    start: 0
+  - title: "Part Two. Mrs Amaterasu"
+    start: 65.28
+  - title: "Part Three. Maya Has Eight Hundred Questions"
+    start: 153.2
+  - title: "Part Four. Lost Property"
+    start: 264.96
+  - title: "Part Five. Mister Susanoo"
+    start: 354
+  - title: "Part Six. The Harvest Assembly"
+    start: 463.6
+  - title: "Part Seven. Not Funny"
+    start: 551.52
+  - title: "Part Eight. The Dark"
+    start: 632.28
+  - title: "Part Nine. Pushing"
+    start: 713.8
+  - title: "Part Ten. The Story of the Party"
+    start: 803.88
+  - title: "Part Eleven. The Mirror"
+    start: 898.68
+  - title: "Part Twelve. The Party at the Cave"
+    start: 977.16
+  - title: "Part Thirteen. A Crack in the Door"
+    start: 1070.04
+  - title: "Part Fourteen. Sorry"
+    start: 1164.6
+  - title: "Part Fifteen. The Sun Comes Back"
+    start: 1252.95
+  - title: "Part Sixteen. What She Told Us at Sunset"
+    start: 1332.39
+  - title: "Part Seventeen. The Ending, with a Hook"
+    start: 1430.07
+audioUrl: https://audio.kinly.download/legend-lane/the-lady-who-hid-the-sun.mp3?v=0f9f79e7
 ---
 
 ## Part One. A Very Pale Morning
