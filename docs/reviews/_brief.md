@@ -4,7 +4,7 @@ Each story in `stories/` is reviewed once, by a fresh reviewer, through three le
 
 ## Audience
 
-Twins who are six now and will be listening for several years. Stories are read aloud at bedtime by a parent (about 25 to 30 minutes) and later narrated by one voice. The story should still work when they are eight or nine, so it must not date itself to one age or year group.
+Twins who are six now and will be listening for several years. Stories are read aloud by a parent (about 25 to 30 minutes) and later narrated by one voice. The story should still work when they are eight or nine, so it must not date itself to one age or year group.
 
 ## Second-pass note (early stories)
 
@@ -22,7 +22,7 @@ Stories 1 to 18 were written earlier, in a separate chat, and were folded into t
 
 **B. Working children's writer.** Line-level craft and read-aloud. Can each sentence be said in one breath? Tongue-twisters, confusing name clusters, dialogue where you cannot tell who is speaking? Is the child "we" narrator consistent? Are the details specific and funny? Overused phrases and tics ("looked at each other", "underlined it three times", "at exactly the same time" outside the ritual, "That's when" beyond about four uses)? Stock beats (tower about to fall, small child in danger, staff meeting that goes wrong, sunset speech)? Words too hard for a six-year-old even with context?
 
-**C. Six-year-old listener and bedtime parent.** Alex and Felix: count each twin's spoken lines and key actions, note who goes first, who has a moment of their own, and any lopsided big moment. Willow does one brave thing and never speaks. Respect for the tradition: the god is warm and dignified, nothing played mockingly, nothing that flattens a living religion into a cartoon (this is about tone and respect, not fact-checking myths; do not assert facts about the myth that you are not certain of, and do not try to verify myths). Does the ending settle a child for sleep?
+**C. Six-year-old listener and reading parent.** Alex and Felix: count each twin's spoken lines and key actions, note who goes first, who has a moment of their own, and any lopsided big moment. Willow does one brave thing and never speaks. Respect for the tradition: the god is warm and dignified, nothing played mockingly, nothing that flattens a living religion into a cartoon (this is about tone and respect, not fact-checking myths; do not assert facts about the myth that you are not certain of, and do not try to verify myths). Does the ending land warmly for a child?
 
 ## Age-proofing rule (apply to everything you quote)
 

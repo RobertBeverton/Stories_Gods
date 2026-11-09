@@ -2,7 +2,7 @@
 
 **Read and hear the stories in the Stories app:** https://robertbeverton.github.io/Stories/ (this world appears there as Legend Lane).
 
-Bedtime stories for Alex and Felix. In each one, a god or legend from a different part of the world turns up at their school as a new member of staff, the children work out who they are, and a school-sized version of the old myth has to be put right. About 4,000 words each, told by a group of classmates in the "we" voice, with an affirmation woven in and a hook for the next god.
+Stories for Alex and Felix. In each one, a god or legend from a different part of the world turns up at their school as a new member of staff, the children work out who they are, and a school-sized version of the old myth has to be put right. About 4,000 words each, told by a group of classmates in the "we" voice, with an affirmation woven in and a hook for the next god.
 
 This repo holds the stories, the lore, the guides behind them and this world's narration settings. The app, hosting and narrator live in the [Stories repo](https://github.com/RobertBeverton/Stories).
 

@@ -15,7 +15,7 @@ Read the outline or draft once for each persona below and note only what that pe
 
 **A five-year-old listener.** Is there a part that is too frightening, confusing or long without a laugh? Is there a word or idea too hard even with context? Does anything feel unfair or mean without being put right? Is there a moment to laugh at least once a part? Are Willow and Dot doing something fun?
 
-**The parent reading aloud at bedtime.** Can every sentence be said in one breath? Are there tongue-twisters, confusing name clusters, or runs of dialogue where it is hard to tell who is speaking? Is the length right (about 25 to 30 minutes)? Does the ending settle the child for sleep, even with a hook? Is there anything a six-year-old could copy and get hurt, or a grown-up who is left cruelly dismissed or trapped? Is there any part that would make a tired parent wince?
+**The parent reading aloud.** Can every sentence be said in one breath? Are there tongue-twisters, confusing name clusters, or runs of dialogue where it is hard to tell who is speaking? Is the length right (about 25 to 30 minutes)? Does the ending land warmly, even with a hook? Is there anything a six-year-old could copy and get hurt, or a grown-up who is left cruelly dismissed or trapped? Is there any part that would make a tired parent wince?
 
 **A sensitivity reader for the tradition.** Would someone from this culture or faith recognise their god and myth with respect? Are names and terms right? Is anything played for a laugh that should not be? Does anything flatten a living religion into a cartoon? Is the dark part of the myth handled gently, and not removed in a way that changes its meaning?
 
