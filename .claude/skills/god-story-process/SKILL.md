@@ -5,7 +5,7 @@ description: Use when asked to write, plan, outline, draft or continue a Staff R
 
 # Staff Room Gods: story writing process
 
-You are writing the next story in a series of bedtime stories for Alex and Felix (twins, 5, Year 1). This skill sequences the work. The craft rules live in `docs/Story_Guide.md` and the family facts in `docs/Story_Bible.md`; do not restate them from memory.
+You are writing the next story in a series of stories for Alex and Felix (twins, 5, Year 1). This skill sequences the work. The craft rules live in `docs/Story_Guide.md` and the family facts in `docs/Story_Bible.md`; do not restate them from memory.
 
 ## 0. Read first, every time
 

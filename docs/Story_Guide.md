@@ -40,7 +40,7 @@ The feel is Pamela Butchart's "Wigglesbottom Primary": funny, breathless, and to
 - **Specific, funny details.** A lunchbox from 1987. A cat sneezing at the moment of heroism. A sandwich that was not his.
 - **Real peril, always resolved.** Something genuinely frightening happens, the children are scared and brave at once, and nobody is truly hurt.
 - **Kindness beats force.** The answer is almost never a fight. It is asking, sharing, saying sorry, listening, or being gentle.
-- **A happy ending.** Always. Bedtime stories end warm.
+- **A happy ending.** Always. Stories end warm.
 
 ## Fairness between siblings
 

@@ -1,6 +1,6 @@
 # The Staff Room Gods
 
-Bedtime stories for the twins Alex and Felix (5, Year 1). A god or legend from a different mythology joins their school as new staff in each story. Narrated with ElevenLabs. Published by the separate Stories app.
+Stories for the twins Alex and Felix (5, Year 1). A god or legend from a different mythology joins their school as new staff in each story. Narrated with ElevenLabs. Published by the separate Stories app.
 
 **Read first, always:** `docs/Story_Bible.md` (cast, standing rules, staff roster, running threads), then `docs/Story_Archive.md` (what has been written and how each ended), then `docs/God_Tracker.md` (what is next). The method is in `docs/Story_Guide.md`.
 
