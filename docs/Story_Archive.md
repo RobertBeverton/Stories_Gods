@@ -1,6 +1,6 @@
 # Story Archive
 
-Every story written, in order, 1 to 38, with its details. Stories 1 to 18 are the school-setting stories written first; stories 19 to 38 followed. All the closing-scene quotes are taken from the story files. Add a new entry at the bottom for each new story (the next is number 39): cast, length, summary, the god's words, the hook, and one honest note about what to watch for next time.
+Every story written, in order, 1 to 39, with its details. Stories 1 to 18 are the school-setting stories written first; stories 19 to 38 followed. All the closing-scene quotes are taken from the story files. Add a new entry at the bottom for each new story (the next is number 40): cast, length, summary, the god's words, the hook, and one honest note about what to watch for next time.
 
 ## What to watch for across the series
 
@@ -460,6 +460,20 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **Closing scene** (Part Seventeen. Locking Up Properly): "Alex went to the front doors. He put the key in the lock, and said, "Goodbye, Monday. You were very odd." He turned it. Felix put his key in beside Alex's. "Hello, Tuesday," he said. "Please be normal." And he turned it."
 - **Hook at the end:** A white cow with red ears, a rush cross with a flame that does not burn it, and a voice making up a rhyme in the dark (Brigid)
 - **Watch for next time:** Felix led this time, so let Alex lead the next. The god's speech is at the front door in the rain, not at a sunset; keep varying the setting. Mister Harris's confession is a staff-wide moment of comfort, not a meeting gone wrong.
+
+### 39. The Cat Who Knew Who Was Waiting
+- **File:** `stories/the-cat-who-knew-who-was-waiting.md`
+- **God / tradition:** Brigid, Irish (goddess and saint)
+- **Staff on the badge:** Mrs Brigid, Poetry, Wells and Warm Hands
+- **Cast:** Willow (point of view), Alex, Felix, Maya, Kenji, Ollie, Dot, Mister Harris, Missus Tibbs; staff cameos Missus Mahuika (boiler), Mrs Bast (away on a course about mice), Mister Janus (made Willow's cat flap)
+- **Length:** about 5,600 words in 17 parts (long: about 35 minutes read aloud). Written 2026-11-09; two persona passes and an adversarial pass the same day.
+- **Shape:** the series' one story told in the third person from Willow's point of view (do not repeat). No "we" narrator. Willow knows three words ("Willow", "dinner", "no"); her meows are narrated, never written as speech. Built on the real Willow's habits (see the Bible's Willow entry).
+- **Summary:** Three knocks on the coldest Monday; a white cow with red ears walks in, but only Willow can see the lady on the step, who waits to be asked in. The school freezes, the boiler won't light, and the flame on the cow's rush cross shrinks. Willow's attempts are misread: Alex offers his lap and pillow, Felix the feather toy, the door is opened and she won't go out, she lies on Maya's notebook, brings a mouse (which sits on nothing on the step, then she eats it behind the glass: "She's eating the BUTT!"), Alex's too-hard tap soaks everyone, then the taps freeze. At dusk she leads the twins to the door, but the cow's moo pulls them away (the betrayed look); the twins slide the cow down the stairs on PE mats. Felix works out that Willow has her own cat flap, so the big door is for someone else. At lock-up Willow slips out into the frost and climbs into the invisible lap. Alex notices she has gone quiet; Felix knows she is only quiet when comfortable. Three knocks; with Mister Harris's nod they turn their keys to open: "Come in." "You're welcome." Warmth floods back.
+- **Affirmation:** "When someone can't tell you, don't only listen. Watch where they go. And go with them." Felix: "We stopped listening to the meow, and watched where she went." Alex: "Out there. Where it was cold. Because somebody needed her."
+- **Myth:** Maya muddles it (baby or cow? well or fire?); Brigid tells it straight: the baby who could keep nothing down until the white cow with red ears fed her. "Some people say I'm a goddess, and some say I'm a saint, and some say both." Her day is 1 February. The door welcome is drawn from Brigid's Eve customs; her being unseen until invited is our invention.
+- **Closing scene** (Part Seventeen. A Silver Drop): the twins lock up ("Goodbye, Monday. You were very cold." / "Hello, Tuesday. Please be warm."); the rush cross glows over the doors.
+- **Hook at the end:** the moon sits too low over the roof, silver, with a lady's face about to cry; a single silver drop lands on Willow's nose (Mama Quilla). "Monday" is Willow's fourth word.
+- **Watch for next time:** Back to the "we" narrator. Alex led the climax, so Felix leads 40. Willow's story is used up; do not tell another from her point of view.
 
 ## Order check
 

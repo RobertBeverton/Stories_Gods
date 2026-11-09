@@ -2,13 +2,9 @@
 
 ## Next up
 
-**Story 39: Willow's story, picking up the Brigid hook.** This is the one story in the series told in the third person from Willow's point of view (see the Willow entry in `Story_Bible.md` and "Story shapes" in `Story_Guide.md`). Do it once only.
+**Story 40: Mama Quilla (Inca), picking up the moon hook.** Story 39 ends with the moon sitting far too low over the school roof, silver, with a lady's face that looks about to cry, and a single silver drop (not rain) landing on Willow's nose. The Inca told that silver was the tears of the moon. Story 40 returns to the usual child "we" narrator. Alex led 39's climax (he noticed the silence), so let Felix lead 40. Watch that Andean (Pachamama, 35) is close: make this clearly Inca and moon, not earth.
 
-The hook at the end of story 38 shows a white cow with red ears, a rush cross with a flame that does not burn it, and a rhyming voice in the dark: **Brigid** (Irish/Celtic), goddess of fire, wells and poetry. Willow saw the cow first. A school job might be Poetry and Wells, Library, or Warm Hands. Gentle myth ideas: the cloak spread over a field, the cow that fed the poor, the cross woven from rushes, a hearth fire that never goes out.
-
-An idea to test, not decided: Willow is trying to warn everyone about (or explain) a **kid-friendly Cat Sìth**, the big black fairy cat of Scottish and Irish folklore (cat sí). Check the original tales before using it. From memory: a large black cat with a white spot on its chest; at Samhain, a house that left a saucer of milk out was blessed, and a house that did not had its cows' milk dry up, which links neatly to Brigid's cow. The darker parts (stealing a soul before burial, a witch who can turn into a cat nine times) must be dropped or softened, Thiazi-style, so it is a misunderstood or grumpy creature, not a vicious one.
-
-Equal weight for the twins as always; in a Willow story count their actions, not their lines.
+**The Cat Sìth** was tested for story 39 and set aside: its milk-saucer offering repeats story 35's thank-you lesson, two magical visitors crowded Brigid, and its real lore (stealing a soul before burial) is tied to death. It belongs in the folklore-creatures series (see "Next series"). Keep: a big black cat with a white spot on its chest, said to walk on two legs when nobody is watching; a saucer of milk at Samhain blesses a house, and a house without one finds its cows' milk dried up. Drop: the burial lore and the "witch nine times" story (weakly sourced).
 
 ## Listener reactions
 
@@ -18,7 +14,7 @@ Record here which story the twins loved, which bit they repeat or laugh at, and 
 
 ## Covered so far
 
-Thirty-eight stories, in order. Details in `Story_Archive.md` and the roster in `Story_Bible.md`. Stories 1 to 18 were written first and are set in the school too; their order is reconstructed from hooks and clues (Felicitas, 4, and the Seven Lucky Gods, 5, are the one open pair).
+Thirty-nine stories, in order. Details in `Story_Archive.md` and the roster in `Story_Bible.md`. Stories 1 to 18 were written first and are set in the school too; their order is reconstructed from hooks and clues (Felicitas, 4, and the Seven Lucky Gods, 5, are the one open pair).
 
 Before choosing, pick the **feeling first** and do not repeat any of the last five. Check **main attribute** too: six tricksters (Loki, Hermes, Maui, Anansi, Raven, Coyote) and several fire figures (Prometheus, Hephaestus, Pele, Mahuika) are already covered. The feeling column is a short summary of each story's affirmation or lesson.
 
@@ -62,13 +58,13 @@ Before choosing, pick the **feeling first** and do not repeat any of the last fi
 | 36 | Hwanung and Ungnyeo | Korean | Hard things take as long as they take | Beginnings, patience |
 | 37 | Idun (with Loki, Thiazi and the Norse staff) | Norse | Ask for what you need | Apples, youth |
 | 38 | Janus | Roman | Sad and glad at once is allowed | Doors, beginnings and endings |
+| 39 | Brigid (Willow's story) | Irish | When someone can't tell you, watch where they go | Fire, wells, poetry, welcome at the door |
 
 Thor has story 1 and also appears as Mister Thor in story 37, so he is already covered twice. Hanuman, Shiva, Anubis, Thoth, Athena and the Greek staff above are no longer unused ideas, though a second story for any of them is possible.
 
 ## Ideas not yet used
 
-- Brigid (Irish): fire, wells and poetry. Story 39, as Willow's story.
-- Inti or Mama Quilla (Inca): sun and moon.
+- Mama Quilla (Inca): the moon. Story 40 (hooked at the end of 39). Inti (sun) is still free.
 - Rainbow Serpent (Aboriginal Australian): only with great care and respect for a living tradition.
 - Ganesha (Hindu): beginnings and obstacles. A second Hindu tradition after Lakshmi, so only if the user asks. He is implied in story 2 (Ganesh Rao, Year 4).
 - Sedna (Inuit): only in a heavily softened form.
