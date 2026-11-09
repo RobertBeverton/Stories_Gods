@@ -6,7 +6,7 @@ Every story written, in order, 1 to 38, with its details. Stories 1 to 18 are th
 
 - **Length.** Every story now runs about 4,000 to 6,000 words. Stories 1 to 18 were rewritten or expanded in the second review pass (about 5,000 to 6,000 words each; story 1 started at about 1,000). Stories 19 to 38 run about 4,000 to 4,700. Pele's (25) was expanded to about 4,200.
 - **Hook chaining.** Most stories follow the previous hook. Story 21's hook (Hadad) was not followed immediately, because Raven and Coyote were asked for first.
-- **Cast changes.** Elfine and Marion appear, where they fit, in stories 2 to 29 and are retired from story 30 onwards. Willow is in every story. Dot first appears in story 9.
+- **Cast changes.** Elfine and Marion appear, where they fit, in stories 2 to 29 and are retired from story 30 onwards. Willow is in every story except story 19 (Quetzalcoatl), and has only one line in story 20 (Maui). Dot first appears in story 9.
 - **Repeating beats.** Tower or structure about to fall, a small child in danger and rescued by the twins, a staff meeting that goes wrong, and a sunset speech have all been used many times. Vary them.
 - **Repeated phrases.** "Underlined it three times", "at exactly the same time" (this one is the ritual), "looked at each other". Keep the ritual, vary the rest.
 - **Twin balance.** Check each time: lines, actions, who goes first.

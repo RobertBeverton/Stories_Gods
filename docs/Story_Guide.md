@@ -28,6 +28,18 @@ Each part is a short chapter of about 200 to 300 words with a plain heading, for
 
 Parts 6 to 8 and 11 to 13 can run longer, because that is where the action is. The series has used 7 to 24 sections (the short early stories at the low end, the later ones 12 to 21 parts); 16 to 18 is the sweet spot, but the recipe is a guide and not a rule. Aim for at least about 4,000 words; a story that deserves the room can run to about 6,000.
 
+## Story shapes: vary the recipe
+
+By story 38 the recipe above had been used for nearly every story, and the part headings had started to give it away ("Maya's Evidence" at Part Three, "What She Told Us at Sunset", "The Ending, with a Hook"). Keep the recipe for about half the stories. For the rest, pick a variant:
+
+- **A late-reveal mystery.** Maya's evidence builds slowly and the god's identity is only clear near the climax, so the listeners guess along.
+- **One strong visual gag and one feeling, with no villain.** Story 38 (Janus) is the model: a school gone strange in a way you can see (every door leads somewhere wrong), a god torn between two feelings, and a small concrete job for the twins (turning the keys).
+- **One twin's point of view.** A single story told closely from Alex's or Felix's side. The narrating twin gets the inner thoughts, so the other twin must win on actions: the clever idea or the decisive move. Pair it with a later story told from the other twin's side.
+- **Willow's story (once only).** One story in the series is told in the third person from Willow's point of view. Its own notes are in the Bible and the God Tracker. Do it once; it is special because it is the only one.
+- **A return story.** A god from an earlier story comes back with a new problem. Cheaper than a new god and it deepens the world (Janus is the obvious first candidate; see the tracker).
+
+Whatever the shape, give parts headings that intrigue rather than label the beat.
+
 ## Voice and style
 
 The feel is Pamela Butchart's "Wigglesbottom Primary": funny, breathless, and told by the children. Capture the spirit; never copy her text.
@@ -36,7 +48,9 @@ The feel is Pamela Butchart's "Wigglesbottom Primary": funny, breathless, and to
 - **Deadpan kid logic.** Strange things are reported flatly. "Nobody had put it there. But somebody had to have, because it had definitely not been there on Friday."
 - **"That's when" pacing.** Use it three or four times per story to turn a quiet moment into a surprise.
 - **Short sentences, short paragraphs, lots of dialogue.** Two to four sentences per paragraph. Easy to read aloud and easy to voice.
-- **Reading level above their age.** The children are in Year 1, but the language is pitched at Year 2 to 3. A few big words are fine; context carries them.
+- **Reading level above their age.** The children are in Year 1, but the language is pitched at Year 2 to 3. A few big words are fine; context carries them. Put in two or three stretch words per story on purpose ("wretchedly", "extraordinary"), each explained by what is around it. Stories 1 to 38 average Flesch reading ease about 92, which is very easy, so there is room.
+- **Vary the rhythm.** Sentences average about 8.7 words in every story (7.4 to 9.9). Keep them short, but let the narrator have an occasional long, rolling sentence that builds ("as wide as a wardrobe, then as wide as a bookcase, then as wide as a cat"). The stories are heard through a narrator voice, so rhythm matters.
+- **Vary the big words.** Huge, enormous and massive appear about 4 times a story (143 in stories 1 to 38; story 23 has 13). Find a fresher picture instead ("as big as the dinner hall").
 - **Specific, funny details.** A lunchbox from 1987. A cat sneezing at the moment of heroism. A sandwich that was not his.
 - **Real peril, always resolved.** Something genuinely frightening happens, the children are scared and brave at once, and nobody is truly hurt.
 - **Kindness beats force.** The answer is almost never a fight. It is asking, sharing, saying sorry, listening, or being gentle.
@@ -50,6 +64,10 @@ If there is more than one child hero, they must share the spotlight evenly, or o
 - They split the big moments (one holds one end of the feather and the other holds the other, one swings one club and the other swings the second).
 - They say important things together, in the same breath, as often as separately.
 - Neither is "the brave one" across a whole story. Swap roles from story to story.
+- One twin can start a thing, but both finish it. Never have one save the day while the other watches.
+- In a story told from one twin's point of view, count actions, not lines: the other twin must have a key decision or move of their own.
+
+The real twins listen differently, which is worth knowing: in November 2026 Alex asked for story 38 (Janus) morning and evening, every day, and called it "very funny"; Felix prefers a new story each day and has no favourite yet. Return stories serve one; a steady flow of new gods serves the other.
 
 ## Tension, stakes and peril
 
@@ -83,7 +101,9 @@ These came up again and again when all 38 stories were reviewed. Check them at o
 - **Grown-ups are kind.** Nobody is left trapped, dismissed, or made the butt of the joke (the dinner lady's soup, the boy in the chair). Mistakes get a sorry and a fix.
 - **Willow never speaks** (no meow written as dialogue) and does one brave thing.
 - **No clashing names or real brands.** No character named Felix or Alex apart from the twins, and no real book, brand or character named in the text.
-- **Keep the tics down.** "Looked at each other", "underlined it three times", "at exactly the same time" outside the ritual, and "That's when" no more than four times.
+- **Keep the tics down.** "Looked at each other", "underlined it three times", "at exactly the same time" outside the ritual, and "That's when" no more than four times. (A count of stories 1 to 38 found "at exactly the same time" in 36 stories, but 33 of those were the Monday ritual itself, which stays. Only story 1 went over four "That's when"s.)
+- **Grown-ups can be wise, not only panicky.** Mister Harris flapping is a good joke, but rotate it. His quiet confession in story 38 shows how strong he is when he is not panicking. Rotate the supporting cast too.
+- **Willow does her brave thing as a real cat would.** Willow is the twins' real Bengal. Her best moments come from true cat habits (in story 38 she sits in the closing doorway, refusing to be in or out). Ask the family what Willow really does, and build from that.
 - **Keep the crowd small.** A roll call of more than about six names at once is hard to follow read aloud.
 - **Respect the cast timeline.** Do not use a character before their first story (Dot first appears in story 9) and do not name someone a later story introduces as new. Check the next story's actual opening before writing a hook.
 - **Give the quiet parts texture the first time.** Thin "nothing is happening yet" parts are why the early stories came out at 1,000 words.
@@ -105,9 +125,13 @@ Examples used so far: "Everybody needs a chair." "A sweet heart is not a soft on
 
 The last scene shows a strange sign of the next god, never naming them: a giant feather and a voice, a crack in the sky, a llama in a woven hat. The twins then say "Monday" at exactly the same time. The next story must pick up that hook, unless the person asking chooses another god.
 
+The "Monday" ritual stays in every story: the children may well be saying it along with the narrator. What has gone stale is the sentence that leads into it. Stories 34 to 38 all end almost word for word "Alex and Felix looked at each other... They said, at exactly the same time, 'Monday.' The End." Change the lead-in each time (what they are holding, where they are standing, what they have just heard), and vary the hook's form: a sign of the next figure, a question left open, or one quiet strange line.
+
 ## Choosing the god
 
-Pick a different tradition each time. A good choice has three things:
+**Pick the feeling first, then the god.** Do not repeat the lesson of any of the last five stories, and check the "Feeling" and "Main attribute" columns in `God_Tracker.md` (six tricksters and several fire figures are already covered; "asking for help" has come up in stories 1, 30 and 37). The best feelings come from the twins' own lives: story 38 worked because the god's problem (sad and glad at once) was the twins' own first day at school, remembered on the page. Look for things they have really been through: a wobbly tooth, swimming lessons, a sleepover, Nana going home.
+
+Then pick a different tradition each time. A good choice has three things:
 
 1. A **memorable look** (a feather, a snake's tail, a golden pond).
 2. A **story with a clear heart**, one idea a child can hold.
@@ -119,6 +143,12 @@ Skip or soften:
 - Gods from living religions get a warm, respectful portrayal: good and wise, never silly or mocked.
 - Sexual or romantic storylines. Stay with friendship, courage, craft, weather, animals and the natural world.
 - If a myth has a dark part, choose a gentler episode, or soften it (for example, Thiazi is not killed in the Idun story; he is given a job).
+
+### Living faiths, festivals and many names
+
+- **Festival stories** can cover living beliefs. Story 26 (Lakshmi at Diwali) is the model. For faiths that do not depict God or the Prophet (many Muslim and Jewish families), make a family, a grandparent, food and light the characters, not God. Ask someone from the community to read the story, or use that faith's own children's materials. Check festival dates before writing, as many move with the moon.
+- **"Many names, many faces" stories** (one figure who answers to different names, or looks different to different children) are a fair way to extend the series. Frame them as "people tell it their own way", never "all gods are the same", and have each introduce a tradition not yet used.
+- **Christianity** is not yet covered. If wanted, it goes in as one tradition among many, told with the same warmth and care as the rest.
 
 ## Narration
 

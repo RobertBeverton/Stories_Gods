@@ -12,7 +12,8 @@ Alex and Felix Bailey are twin boys, aged 5, in Year 1. Each story, a god or leg
 
 **Primary (every story)**
 - **Alex and Felix**, the twins. Equal weight, always: equal lines, equal contributions, big moments split between them or done together. They say "Monday" at the end of every story at exactly the same time.
-- **Willow**, the Bengal Reading Cat of Year One, aged 9. Dignified, deadpan, never speaks, does one brave thing per story.
+- **Willow**, the Bengal Reading Cat of Year One, aged 9. Dignified, deadpan, never speaks, does one brave thing per story. She is the twins' real cat, so she stays in every story (stories 19 and 20 slipped: Willow is missing from 19 and has one line in 20). She is a threshold creature: she goes in and out across boundaries other people can't, and she senses a god before anyone else does (story 38: half in and half out of the closing doors, and the first to see the white cow). Keep that as a quiet layer for the grown-ups; for the children she is simply a funny, brave cat. Her brave acts come from real cat habits.
+  - **Willow's own story (once only).** One story in the series is told in the third person from Willow's point of view, planned as story 39. She still never speaks. She understands only a few human words ("Willow", "dinner", "no"), and the humans can't understand her, so she tries to show them (miming, knocking things down, leading them somewhere) and they keep getting it wrong. The listeners should understand her before the twins do. Because nobody can explain, the story runs on described action ("Willow did this, so Felix tried that, he lifted it and looked underneath, expecting...") rather than speeches. Do this once only; it is special because it is the only one.
 - **Maya Singh**, the explainer. Bookish classmate with a notebook and a pencil. Collects "evidence", works out who the god is, tells the myth, underlines the big idea three times.
 
 **Tertiary (as needed)**
@@ -138,4 +139,4 @@ Other staff who appear as cameos in later stories (the Oshun playground committe
 
 ## What is waiting next
 
-The last hook (story 38) shows a white cow with red ears, a rush cross with a flame that does not burn it, and a voice making up a rhyme in the dark: **Brigid**, the Irish goddess of fire, wells and poetry. The next story will be number 39. See `God_Tracker.md`.
+The last hook (story 38) shows a white cow with red ears, a rush cross with a flame that does not burn it, and a voice making up a rhyme in the dark: **Brigid**, the Irish goddess of fire, wells and poetry. The next story will be number 39, and it is planned as Willow's own story (see the cast entry above and `God_Tracker.md`).

@@ -22,17 +22,18 @@ If the user has just given a cast instruction ("take out the cousins", "bring ba
 - If the user names a god or tradition, use that. If they say "surprise me", pick a tradition not yet covered, from the tracker's ideas list.
 - Apply the three tests: memorable look, story with one clear heart, and a modern school job that gives the game away (write the badge: "Title, School Job").
 - Sensitivity check: no child sacrifice, torture or graphic death; gods from living religions are warm, wise and respected; no romance. If the myth has a dark part, choose a gentler episode or soften it. If the god cannot be made suitable, say so and offer alternatives (Moloch was declined this way).
-- Pick one real myth to be the engine, and one affirmation or moral that has not been the main one recently.
+- Pick the feeling first: one affirmation or lesson not used in the last five stories (check the tracker's "Feeling" and "Main attribute" columns), ideally drawn from something the real twins have been through. Then pick one real myth to be the engine.
+- Pick the story shape: the 17-part recipe for about half the stories, otherwise a variant from the Guide's "Story shapes" (late reveal, one visual gag and one feeling, one twin's point of view, a return story). Willow's third-person story is used once only (planned for story 39).
 
 ## 2. Outline
 
-Write the outline as the 17-part recipe from the Guide, one line per part. Include:
+Write the outline one line per part, using the recipe or the chosen variant from the Guide. Give parts headings that intrigue rather than label the beat. Include:
 - The badge and the school job.
 - The myth the explainer (Maya) tells, in two sentences.
 - The school problem that echoes it, the escalating peril, and the Willow moment.
 - The twin split: which big moments go to Alex, to Felix, and which they do together. Swap who leads from the last story.
 - Where the affirmation lands, in the god's mouth, late.
-- The hook: a strange sign of the next god, unnamed, then "Monday".
+- The hook: a strange sign of the next god, unnamed, then "Monday". Write a fresh lead-in sentence to "Monday" (not "Alex and Felix looked at each other").
 - A tension tag for every part (mystery, problem to solve, physical jeopardy, social and emotional), with no two the same back to back, the biggest beat near the climax, a quiet "catching your breath" beat after the scariest moment, and a quiet part before the hook.
 - The plant list: every late fix, joke or twist with the part that seeds it and the part that pays it off (the school problem itself is planted by Part Three). Include the learning beat if the children do something new (fail, wobble, work).
 
