@@ -23,7 +23,12 @@ If the user has just given a cast instruction ("take out the cousins", "bring ba
 - Apply the three tests: memorable look, story with one clear heart, and a modern school job that gives the game away (write the badge: "Title, School Job").
 - Sensitivity check: no child sacrifice, torture or graphic death; gods from living religions are warm, wise and respected; no romance. If the myth has a dark part, choose a gentler episode or soften it. If the god cannot be made suitable, say so and offer alternatives (Moloch was declined this way).
 - Pick the feeling first: one affirmation or lesson not used in the last five stories (check the tracker's "Feeling" and "Main attribute" columns), ideally drawn from something the real twins have been through. Then pick one real myth to be the engine.
-- Pick the story shape: the 17-part recipe for about half the stories, otherwise a variant from the Guide's "Story shapes" (late reveal, one visual gag and one feeling, one twin's point of view, a return story). Willow's third-person story is used once only (planned for story 39).
+- Pick the story shape: the 17-part recipe for about half the stories, otherwise a variant from the Guide's "Story shapes" (late reveal, one visual gag and one feeling, one twin's point of view, the listener knows more, a return story). Willow's third-person story is used up (story 39); do not repeat it.
+- Research the real myth or folklore on the web before settling the engine. Report what is in the original tales, what suits five-year-olds, and what must be softened or dropped. Do not rely on the tracker's "from memory" notes.
+
+### Planning-only sessions
+
+If the user asks to plan or explore rather than write ("don't outline yet"), follow the Guide's "Planning a story with the family": two or three distinct concepts, each with persona notes and a cross-review, then a recommendation, then wait for a choice. Before settling any beat built on the real twins or the real Willow, ask the family what really happens (the Bible's Willow entry has her known habits). Say plainly if the user's starting idea would work better somewhere else.
 
 ## 2. Outline
 
@@ -49,7 +54,7 @@ Run `listener-review` on the outline (twin fairness, five-year-old, sensitivity)
 ## 4. Check
 
 1. Run `story-consistency-check` on the draft. Fix every real issue.
-2. Run `listener-review` on the draft. Cross-review the notes against each other before editing; where two lenses flag the same passage, make one edit that serves both. Not everything flagged needs fixing.
+2. Run the review loop with `listener-review` (the user's standing workflow): persona review, read and assess, fix; persona review again on the revised text, read and assess, fix; then the adversarial pass, read and assess, fix. Re-read the whole story before each round, because fixes create new slips (story 39's Maya fix produced two "said Mrs Brigid" lines in a row). Cross-review the notes before editing; where two lenses flag the same passage, make one edit that serves both. Not everything flagged needs fixing, and a round that finds nothing real is a fine result: say so.
 3. Count words (at least about 4,000, up to about 6,000 if earned) and parts (16 to 18 is a guide, not a rule).
 4. Read the Guide's 'Tension, stakes and peril', 'Plant and pay off' and 'Common problems to catch before filing' sections against the draft, one item at a time.
 
@@ -64,13 +69,16 @@ Run `listener-review` on the outline (twin fairness, five-year-old, sensitivity)
    seriesOrder: <last seriesOrder + 1>
    tags: ["mythology", "<tradition>", "<theme>"]
    gods: ["<God> (<Tradition>)"]
+   lore: <god-slug>
    characters: ["Alex", "Felix", "Willow", "Maya", ...]
-   icon: sun | boat | berry | shell | cloud
+   icon: <tradition icon>
    publishDate: <today, YYYY-MM-DD>
    draft: false
    ---
    ```
-2. Run `node ../Stories/scripts/validate-world-data.mjs --strict --world legend-lane` (needs the Stories repo checked out beside this one). Check the front matter by eye against a recent story too.
+   `icon` takes a tradition name (greek, norse, roman, andean ... the list is in `../Stories/scripts/icons.test.mjs`) or one of the original five (sun, boat, berry, shell, cloud) when the tradition has no icon yet (Irish had none at story 39, so it used `sun`).
+   Add `lore/<god-slug>.md` too (copy `lore/janus.md` for the shape: title, tradition, summary, stories, link, and two short factual paragraphs).
+2. Run `node ../Stories/scripts/validate-world-data.mjs --strict --world legend-lane` (needs the Stories repo checked out beside this one). Check the front matter by eye against a recent story too. If it fails, check whether the warnings mention the new story; at story 39 it failed on 37 older lore-link warnings unrelated to the new file (see the tracker's to-do list).
 3. Append an entry to `docs/Story_Archive.md` (same shape as the others: file, god, badge, cast, length, summary, closing scene, hook) plus one honest line on what to watch for next time. Update the "What to watch for" list if a new pattern showed up.
 4. Update `docs/God_Tracker.md`: add the god to the covered table, set "Next up" from the new hook, move any used idea out of "Ideas not yet used".
 5. Update `docs/Story_Bible.md`: add the staff roster row and any new running threads or changed cast rules.
@@ -88,3 +96,5 @@ Give the user the story (in chat if they asked for that, otherwise say where the
 - A speech that explains the moral for more than a few lines, or any questions to the reader.
 - Reusing the same set-piece (a tower about to fall, a small child in peril, a staff meeting that goes wrong) when the last two stories used it.
 - Adding Elfine and Marion without being asked.
+- Putting the twins' parents in a story, even offstage.
+- Inventing a real-life detail about the twins or Willow when you could ask.

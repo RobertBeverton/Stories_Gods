@@ -11,6 +11,7 @@
 Record here which story the twins loved, which bit they repeat or laugh at, and which they ask for again. This is the most useful information there is for choosing what comes next.
 
 - **Story 38 (Janus):** Alex asks for it every day, sometimes morning and evening, and says it is "very funny" (which bit is not known yet: watch which line he laughs at or repeats). Felix prefers a new story each day and has no favourite yet (November 2026). Likely reasons it worked: the god's problem was the twins' own first-day feeling (sad and glad at once), a school gone visibly strange (doors to everywhere), no villain, Willow's brave act came from a real cat habit, and a small concrete job for the twins (the keys).
+- **Story 39 (Brigid, Willow's story):** read aloud by Dad (no audio credits yet), and it went down really well: both twins laughed quite a few times all the way through. No pantomime shouting ("She's outside!"), which would need a repeated prompt line (see the Guide's "The listener knows more" shape). Likely reasons: their own cat at the centre, real Willow habits they recognise (the mouse, the tap, the lap), the gap between what Willow sees and what the humans do, and a mostly narrated story that is easy to perform aloud.
 
 ## Covered so far
 
@@ -87,6 +88,10 @@ Aim to finish somewhere around story 50 to 55, and plan the finale now, keeping 
 A "creation myths" story has been done (Nuwa, story 33). Finale ideas: the sixteen-chair Playground Committee finally meeting in one story; Sports Day with every staff god; a story where the twins are the ones who have to explain a god to a new class.
 
 ## To do
+
+- **An Irish or Celtic icon** in the Stories app (`../Stories/scripts/icons.test.mjs` lists the tradition icons). Story 39 uses `sun` until one exists.
+- **Validator lore warnings.** At story 39, `validate-world-data.mjs --strict --world legend-lane` failed on 37 "lore link dropped" warnings for older stories, although the `lore/*.md` files exist. Not caused by story 39; investigate in the Stories repo.
+- **Multi-voice narration (idea).** The narrator is one voice per world; the old multi-voice spec was dropped as unused. If it is ever built, test it on a dialogue-heavy story, not story 39 (mostly narration, Willow never speaks).
 
 - **Phrase and readability check.** A script (a warning, not a CI failure) that flags, across the last ten stories: "at exactly the same time" outside the ritual, "That's when" over four, "looked at each other", "underlined it three times", huge/enormous/massive over about six, and the near-identical ending lead-in. Also a per-story report of word count, average sentence length and reading ease. Baseline for stories 1 to 38: about 4,810 words (3,909 to 5,903), average sentence 8.7 words, Flesch reading ease about 92.
 

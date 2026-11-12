@@ -12,8 +12,9 @@ Read `docs/Story_Bible.md` and `docs/Story_Archive.md` fresh, then check the out
 - [ ] No year groups or ages in the narration ("Reception" is fine), no character named Felix or Alex apart from the twins, and no real book, brand or character named in the text.
 - [ ] Alex and Felix both speak, both act, and share every big moment. Neither is the follower throughout.
 - [ ] Willow does one brave or clever thing and never speaks.
-- [ ] Maya works out who the god is and tells a real myth from the tradition.
-- [ ] A child "we" narrator throughout, with a few "That's when" turns.
+- [ ] Maya works out who the god is and tells a real myth from the tradition (she may muddle it, if the god or someone else sets it straight).
+- [ ] A child "we" narrator throughout, with a few "That's when" turns (unless the story uses a point-of-view shape from the Guide; Willow's third-person story is used up).
+- [ ] No twins' parents, even offstage (Nana may cameo).
 - [ ] At least about 4,000 words (about 6,000 is fine for a story that deserves it), in short parts with `## Part N. Title` headings (16 to 18 is a rough guide, not a rule).
 - [ ] Reading level Year 2 to 3: short sentences, short paragraphs, a few big words carried by context.
 - [ ] An affirmation woven in, spoken by the god late in the story. No notes page, no questions for the children, nothing after "The End."
@@ -25,6 +26,10 @@ Read `docs/Story_Bible.md` and `docs/Story_Archive.md` fresh, then check the out
 - [ ] Days and settings make sense: stories begin on a Monday morning; the hook leads to the next Monday.
 - [ ] A new staff member does not duplicate an existing job without a joke or a reason (Maui's badge already says Lost Property; Simurgh runs the cupboard).
 - [ ] Anything new that should be remembered (a place, an object, a rule) is noted for the Bible.
+- [ ] No existing staff god could solve the problem in one line without a reason they can't (story 39: Mrs Bast, who understands cats, was away; the fire staff's boiler was "waiting for something").
+- [ ] Small canon facts about the regulars hold (Willow's habits in the Bible; she permits a hug for exactly two seconds).
+- [ ] Anything the god or a child says happened did happen on the page.
+- [ ] Front matter has `lore:` and a matching `lore/<slug>.md`, and `icon` is a valid name (see the process skill).
 
 ## Myth and sensitivity
 - [ ] The myth is recognisably the real one, told gently. Say which parts were changed for children.

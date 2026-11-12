@@ -35,7 +35,8 @@ By story 38 the recipe above had been used for nearly every story, and the part 
 - **A late-reveal mystery.** Maya's evidence builds slowly and the god's identity is only clear near the climax, so the listeners guess along.
 - **One strong visual gag and one feeling, with no villain.** Story 38 (Janus) is the model: a school gone strange in a way you can see (every door leads somewhere wrong), a god torn between two feelings, and a small concrete job for the twins (turning the keys).
 - **One twin's point of view.** A single story told closely from Alex's or Felix's side. The narrating twin gets the inner thoughts, so the other twin must win on actions: the clever idea or the decisive move. Pair it with a later story told from the other twin's side.
-- **Willow's story (once only).** One story in the series is told in the third person from Willow's point of view. Its own notes are in the Bible and the God Tracker. Do it once; it is special because it is the only one.
+- **Willow's story (once only, done in story 39).** Told in the third person from Willow's point of view. Do not repeat it. What made it work, and carries over to other shapes: it ran on action rather than speeches; every attempt Willow made came from a real habit the family described; each attempt failed in a new way (the wrong guess, the right door with the wrong meaning, a distraction, a frozen tap) before the fifth worked; and the listeners could see what the characters could not (see the next shape).
+- **The listener knows more than the characters.** Let the children hear or see something the cast cannot: in story 39, only Willow (and so the listeners) can see the lady on the step, while Mister Harris opens the door and says "Nobody there." The twins laughed all the way through. If you want them to shout along, pantomime style ("She's outside!"), the gap alone is not enough: repeat one prompt line three times, each a little more ridiculous, and leave a beat after it.
 - **A return story.** A god from an earlier story comes back with a new problem. Cheaper than a new god and it deepens the world (Janus is the obvious first candidate; see the tracker).
 
 Whatever the shape, give parts headings that intrigue rather than label the beat.
@@ -108,6 +109,13 @@ These came up again and again when all 38 stories were reviewed. Check them at o
 - **Respect the cast timeline.** Do not use a character before their first story (Dot first appears in story 9) and do not name someone a later story introduces as new. Check the next story's actual opening before writing a hook.
 - **Give the quiet parts texture the first time.** Thin "nothing is happening yet" parts are why the early stories came out at 1,000 words.
 - **Say so when the story invents.** Where it departs from a living tradition's telling, let Maya say it lightly, and do not state anything about the tradition you are not sure of.
+- **Maya is a child, not an encyclopedia.** She can remember half a myth, muddle the order or get a name wrong ("Or was it the cow who wouldn't eat?"); the god can set it straight kindly later. That is funnier and truer than a perfect lecture.
+- **Keep the twins' parents out.** The stories are for the boys. Nana can cameo; Mum and Dad stay out, even offstage.
+- **Could a staff god solve this in one line?** With nearly forty gods on the staff, check who could fix the problem trivially, and give them a reason they can't: in story 39, Mrs Bast (who understands every cat) was away on a course about mice, and Missus Mahuika's boiler "won't light; it's waiting for something".
+- **Pay off the small plants too.** If Part One says Willow knows three words, use all three. If Maya nearly writes the answer, show the page later.
+- **The god's speech only claims what we saw.** If the god thanks someone for something ("Willow sat with me this morning"), check it happened on the page.
+- **Check the copy risk of every physical stunt**, including the small ones: a child walking backwards down a mat on the stairs, children opening the door to a knock in the dark without a grown-up's nod. Give the stunt to the animal, or add a banister and an adult.
+- **Check canon details of the regulars.** Small facts stick: Willow permits a hug "for exactly two seconds" (story 38), so she can't "never" be held.
 
 ## Affirmations
 
@@ -152,7 +160,15 @@ Skip or soften:
 
 ## Narration
 
-Stories are narrated by one ElevenLabs voice. The Markdown keeps normal spelling, italics and `## Part` headings, and the narrator (in the Stories repo) cleans these up and applies `narration/pronunciations.json` at generation time.
+Stories are narrated by one ElevenLabs voice. The Markdown keeps normal spelling, italics and `## Part` headings, and the narrator (in the Stories repo) cleans these up and applies `narration/pronunciations.json` at generation time. There is no multi-voice pipeline (the Stories narrator dropped an unused one); see the tracker's to-do list.
+
+Write for a parent's voice too. Story 39 was read aloud by a parent (no audio credits) and went down very well: a narration-heavy story with few speakers, short lines and clear "who did what" is easy to perform. Name the twins in every sentence where both are present, and narrate animal sounds rather than spelling them as speech.
+
+## Planning a story with the family
+
+The best details in story 39 came from asking, not inventing: Willow eating her mouse in public ("She's eating the BUTT!"), Alex turning the tap on too hard, Felix's feather toy, Willow sprinting ahead then looking betrayed. Before settling any beat that rests on the real twins or the real Willow, ask the family what really happens, and build from that.
+
+For a planning session: research the real myth or folklore first (web search, original tales over retellings, and say plainly what is in the source and what must be softened or dropped); offer two or three distinct concepts, each with persona notes and a cross-review; recommend one; and wait for a choice before outlining. Say plainly if the user's starting idea would work better elsewhere (story 39's Cat Sìth was moved to the folklore series because its offering repeated story 35's lesson and two magical visitors crowded the god).
 
 ## Starting your own version
 
