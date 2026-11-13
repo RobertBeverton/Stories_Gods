@@ -1,6 +1,6 @@
 # Story Archive
 
-Every story written, in order, 1 to 39, with its details. Stories 1 to 18 are the school-setting stories written first; stories 19 to 38 followed. All the closing-scene quotes are taken from the story files. Add a new entry at the bottom for each new story (the next is number 40): cast, length, summary, the god's words, the hook, and one honest note about what to watch for next time.
+Every story written, in order, 1 to 47, with its details (40 to 47 are the finale arc, grouped under their own heading). Stories 1 to 18 are the school-setting stories written first; stories 19 to 38 followed. All the closing-scene quotes are taken from the story files. Add a new entry at the bottom for each new story (the gods series has ended at 47): cast, length, summary, the god's words, the hook, and one honest note about what to watch for next time.
 
 ## What to watch for across the series
 
@@ -474,6 +474,56 @@ The order of stories 1 to 18 was reconstructed from the hooks and clues inside t
 - **Closing scene** (Part Seventeen. A Silver Drop): the twins lock up ("Goodbye, Monday. You were very cold." / "Hello, Tuesday. Please be warm."); the rush cross glows over the doors.
 - **Hook at the end:** the moon sits too low over the roof, silver, with a lady's face about to cry; a single silver drop lands on Willow's nose (Mama Quilla). "Monday" is Willow's fourth word.
 - **Watch for next time:** Back to the "we" narrator. Alex led the climax, so Felix leads 40. Willow's story is used up; do not tell another from her point of view.
+
+## The finale arc (stories 40 to 47): "The Thin Place"
+
+Eight linked stories, told over one school week (Monday to the Friday of the full moon) plus a last day of term. Each works as a night's story, with a one-line recap at the start. Planned and written on 2026-11-12 from the user's idea: with so many gods at school, reality gets thin and touches the gods' world; two children swap places with two god children playing the same game. The story-39 hook (the moon too low, a silver drop on Willow's nose) is paid off by making Mama Quilla the moon of the arc; she has no stand-alone story. From story 41 the twins' away-scenes are told by the class "we" as the twins told it afterwards (with Maya writing it down and Ollie asking questions); story 45 is the school side the class saw itself. Twin lines were counted per chapter and run level. The arc's lore: `docs/Finale_Sketch.md`.
+
+**The arc's rules:** worlds touch only where two things match (the same game, place and moment); a thing that swaps swaps straight back, a person swaps and stays until the same moment comes round again (same game, same words, same breath, on both sides at once); the moon is full on Friday and Missus Ibbs's Record is sealed then ("what is written is how things are"). Mister Janus holds the clock so nothing is missed at home.
+
+### 40. The Day the Moon Sat on the Roof
+- **File:** `stories/the-day-the-moon-sat-on-the-roof.md`; about 4,100 words, 16 parts. Felix leads.
+- **God / tradition:** Mama Quilla, Inca (the moon, keeper of the calendar, silver tears). Hel, Fenris and Tyr are glimpsed in a silver puddle.
+- **Summary:** Monday, the moon sits low on the roof; silver puddles show a faraway hill; small swaps (Ollie's sandwich and a roast leg, a recorder and a horn, wellies and giant boots); Maya counts the gods and works out thin places; Janus holds the clock; Mister Loki says he has no children (gold thread); Mister Thor mentions Tyr; Missus Ibbs and the Record; a Different Day; Alex and Felix and Willow see a girl, a wolf pup and a man with a wooden hand and a ribbon on a hill; the girl waves; the moon asks "Is this the right sky?"
+- **Hook:** the girl on the hill turns her back; the wolf pup flattens in the grass to creep. "Monday."
+
+### 41. What's the Time, Mister Wolf?
+- **File:** `stories/whats-the-time-mister-wolf.md`; about 4,050 words, 13 parts. Alex leads.
+- **Summary:** Mister Loki hides from Maya; Different Day wears everyone out; the twins, Dot and Ollie play the game on the bump (Felix wolf, Alex creeping); Willow herds Alex; the moon says "I really don't think..."; both sides shout "DINNER TIME!" and swap. At school: Hel and Fenris, Harris's "Nobody has been swapped", Janus's rule, Dot takes Hel's hand. On the hill: the twins find their keys, Tyr drops his ribbon.
+- **Hook:** the hall door opens and a voice booms "WHAT IN ALL THE NINE WORLDS IS THAT?"
+
+### 42. The Hill of Strangers
+- **File:** `stories/the-hill-of-strangers.md`; about 3,950 words, 14 parts. Felix leads.
+- **Summary:** the gods think the twins are small giants; Odin (ravens Thought and Memory), Frigg, Bragi, Skadi (later); the feast can't start until everyone is seated; Tyr's empty chair; Willow faces down Odin's wolves; "What is a school?" (the gods learn Thor is a caretaker); nobody can message the school; cats go through "the edges"; Quilla says the moon is full on Friday.
+- **Hook:** Tyr takes them to Hel's house; Willow knocks; a voice says "At last."
+
+### 43. The Quiet House
+- **File:** `stories/the-quiet-house.md`; about 3,900 words, 11 parts. Alex leads.
+- **Summary:** Ganglöt (the Slow Walker) takes eleven minutes to open the door; Hel's house is quiet but not sad (those who have finished are resting, and Tyr says plainly they are not asleep; Gary the goldfish is mentioned); Alex mentions the twins' Simurgh feather is at school and only finds people lost from each other; Hel's room, her wolf toy, her drawing MY FAMILY, the visitor chair nobody sat in (Alex does); Old Ulf's version of the game; Willow's mouse; Tyr explains the swap-back rule.
+- **Affirmation (light):** "Quiet is not the same thing as sad."
+- **Hook:** a line of silver at the door; Alex's golden key glows towards the edge; Willow sits in front of it.
+
+### 44. The Ribbon and the Wolf
+- **File:** `stories/the-ribbon-and-the-wolf.md`; about 4,100 words, 14 parts. Felix leads.
+- **Summary:** Willow is gone through the edge; Tyr takes the twins the long way past Fenris's empty den (broken chain, bowl scratched FENRIS, a small dent where Hel sits and reads to him every evening); the Thing (Speaking Ladle); Skadi; the bite out of the small moon; the ribbon Gleipnir and the plan (tell him it's a game, a hand in his mouth); Tyr's story; Felix asks "Has anyone told him? Has anyone asked him?"; Alex and Skadi ("scared looks the same from the outside"); a truce until Friday.
+- **Hook:** Willow returns on Wednesday at dusk with Maya's first note on her collar (written at school on Wednesday afternoon, see 45). "Monday."
+
+### 45. Hel Goes to School
+- **File:** `stories/hel-goes-to-school.md`; about 4,200 words, 13 parts. The school side; the twins by notes. The Different Day is given up before the practice (Mister Harris, Janus's "one side on its own is nothing"); Kenji asks whether Loki could be a cat and Loki says the edge knows the difference ("I came out in the bin"); Quilla: "I have counted the months of the world for ten thousand years. I can count to one."
+- **Summary:** Hel and Fenris at school; "She looks like Hel" / "She doesn't look that bad" (Missus Ibbs and Mister Loki); Mister Loki's reunion ("It's Thursday"); Maya's library book; Willow crosses by the cat flap (an edge) first on Wednesday afternoon, when Maya's note goes back with her (Hel adds a wobbly P.S.), then again at dawn on Thursday with the twins' letter; Hel's hair is tied with Dot's red wool; Hel cries over the visitor chair; practice; Mister Harris's quiet confession; Quilla agrees to say "Now".
+- **Hook:** Friday, the gate is open and the puppy is on top of Gobbler Hill, jumping at the moon. The twins read Maya's reply on the hill. "Monday."
+
+### 46. The Same Game Again
+- **File:** `stories/the-same-game-again.md`; about 4,800 words, 17 parts. Quilla is in both skies ("I can smell both from here... I'm in between"); Janus's rule is two keepers at the school end and one who minds the other end; Felix passes Hel her hair bobble through the window; Skadi gives Fenris his first pat.
+- **Summary:** the climax. The two hills match and a silver window opens. Tyr's oath voice fails; Alex ("say it like a friend") and Felix ("sorry first") coach him; Tyr's three true things; Fenris licks the wooden hand; Odin hangs the ribbon on a tree; Quilla says "NOW"; both sides shout "DINNER TIME!" and swap back; the twins lock the thin place with their keys; Missus Ibbs writes the true line in the Record.
+- **Affirmation:** "A promise can be mended" (enacted here, said in 47).
+- **Closing scene:** the walk home down the hill. "Monday."
+
+### 47. The Last Day of Term
+- **File:** `stories/the-last-day-of-term.md`; about 4,700 words, 14 parts. Plain "we"; no next-god hook. It is the last day of the autumn term (crisp frost, coats on, the new little ones coming in January); the twins say "Goodbye, this year" and "Hello, next year".
+- **Summary:** Mrs Nuwa sews the thin place with silver thread (the seam joins the one over the school); Janus finally sits (the "room for one more" bench); Elfine and Marion hand the twins their Reading Buddy badges; the new little ones visit; the gods come through for a play date (Odin with his own coat peg); payoffs: Ollie gets a roast leg from Frigg, Hel has dusted the visitor chair, Skadi brings the wolf a bone, Ganglöt arrives after a nine-hour walk, the little boy with the missing tooth beats Old Ulf's old record by creeping up and tapping Odin's hat while Old Ulf watches from a chair at the window (he stays among the resting), the wolf says sorry to the small bitten moon, Mister Loki mentions the third child (the long, shy one in the sea; a boat is needed); Maya asks whether the game is safe and Mrs Nuwa says a seam only swaps when it is left alone; Odin is Mister Wolf; Dot and Hel share Simurgh's feather; Tyr: "A promise can be mended" (if you keep the next one); the twins lock up with new words.
+- **Closing line:** "...for the first time in a very long while, the moon knew exactly where she was."
+- **Watch for next time:** the series of gods ends here (the next series is the folklore creatures). The arc used the word "very" heavily in the draft; it was thinned by script. The twins' ages were removed from the text. A full read of all eight chapters (personas plus adversarial) was done afterwards; see `docs/reviews/finale-arc-full-review.md`. The third child of Loki (the sea serpent) is left as an open play date, not told.
 
 ## Order check
 

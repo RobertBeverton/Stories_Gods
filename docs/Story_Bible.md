@@ -22,7 +22,7 @@ Alex and Felix Bailey are twin boys, aged 5, in Year 1. Each story, a god or leg
 - **Mister Harris**, the head teacher. Flustered, kind, has a clipboard.
 - **Missus Tibbs**, the twins' class teacher (stories 1, 11, 14, 15; Mrs Dunn is the dinner lady in story 2). **Nana**, the twins' grandmother (cameo).
 
-**Elfine and Marion** (twin cousins, aged 8, big kids in the class above, so Reading Buddies) appear where they fit from story 2 (Shiva) to story 29 (Father Frost). The user asked for them in the early stories and for Willow throughout, so story 21's introductions now read as a return. They were retired at the user's request from story 30 (Bast) onwards. Do not include them from story 30 unless asked.
+**Elfine and Marion** (twin cousins, aged 8, big kids in the class above, so Reading Buddies) appear where they fit from story 2 (Shiva) to story 29 (Father Frost). They return for a cameo in story 47 (they go to a different school from the twins and were asked to join in; they hand over their Reading Buddy badges); the user approved this. The user asked for them in the early stories and for Willow throughout, so story 21's introductions now read as a return. They were retired at the user's request from story 30 (Bast) onwards. Do not include them from story 30 unless asked.
 
 If the cast changes, the user will say so. Keep the latest instruction until told otherwise.
 
@@ -79,6 +79,10 @@ If the cast changes, the user will say so. Keep the latest instruction until tol
 | Idun and the Norse staff | Mrs Idun (apples); Mister Heimdall, Crossing Patrol; Mrs Freyja, Cats and Lovely Things; Mister Thor, Hammer and Heavy Lifting; Mister Loki, Magic Tricks; Thiazi, Sky Postman | Norse | 37 |
 | Janus | Mister Janus, Doors and Keys | Roman | 38 |
 | Brigid | Mrs Brigid, Poetry, Wells and Warm Hands (her white cow with red ears) | Irish | 39 |
+| Mama Quilla | The moon, who sits too low over the roof in the finale (story 40); a gentle visitor, no badge | Inca | 40 |
+| Hel, Fenris | Hel (a serious girl, half pale and half warm, grey dress) and Fenris (a wolf puppy who eats everything) swap places with the twins; Loki's children; no badges | Norse | 41, 43, 45 to 47 |
+| Tyr | The tired god of oaths, wooden hand, pale ribbon; in the gods' world, no badge | Norse | 41 to 47 |
+| Odin and the gods' hall | Odin, Frigg, Bragi, Skadi, ravens Thought and Memory (they visit in 47; Odin brings his own coat peg) | Norse | 42, 44, 46, 47 |
 
 Badge format: a title and a school job joined by a comma, read off a badge the children notice. Use "Mister", "Missus" and "Mrs" as in the later stories (the narration script turns "Mrs" into "Missus").
 
@@ -105,6 +109,8 @@ Decided so far: the Thor and Loki naming (below); Fortuna as Felicitas's sister 
 Other staff who appear as cameos in later stories (the Oshun playground committee, for example) include Ms Athene, Mister Heston, Mister Prome, the Postman, Mister Pann, Mister Jackson, Mrs Ibbs and Miss Persey. These are the early staff above, each with a story of their own (stories 1 to 18). Check the story text before reusing them.
 
 ## Running threads and established facts
+
+- **The finale arc (stories 40 to 47):** worlds touch only where two things match; a thing swaps and swaps back, a person stays until the same moment returns. Alex and Felix swapped with Hel and Fenris playing What's the Time, Mister Wolf, and swapped back on Friday night when Mama Quilla said "Now" and both sides shouted "DINNER TIME!" on matching hills (Gobbler Hill and the gods' hill). Missus Ibbs's Record for that week reads: "On Friday, at the top of the sky, two children and a cat came home. Two other children went home also. A man said sorry to a wolf. And it was mended." Mister Janus held the clock all week and finally sat down on the "room for one more" bench. The twins' two keys now also open the stitched thin place over Gobbler Hill (Mrs Nuwa sewed it with silver thread; the seam joins the one over the school), by invitation: Hel, Fenris, Tyr and Odin visit for play dates; Odin's coat peg hangs on the school fence. Tyr keeps his end ("I'll keep this end. It is a promise."). Willow crosses by the cat flap in the great front doors, which is an "edge" (half of one thing and half of another). Hel's visitor chair (silver-star cushion) was first sat in by Alex. Dot and Hel share Madam Simurgh's feather. Alex and Felix are now Reading Buddies (badges from Elfine and Marion, who cameo in story 47 only). Fenris ate Harris's clipboard corner, Ollie's sandwich and two coats, the lost-property box and Mister Hanu's second-best whistle. Mister Loki will visit Hel and Fenris the first time he is allowed. "Quiet is not the same as sad" (43). "A promise can be mended" (46, 47). Skadi: "scared looks the same from the outside" (Alex, 44).
 
 - **Thor's brother** (story 1): Mr Thorley says "Not tonight, brother" to prank rain clouds, and Maya's notebook says "Who is his brother? Unknown." Paid off in story 6 (Mr Locke): Maya answers it "Sort of. Not exactly. It's complicated." Mr Thorley calls him "brother" there. Mr Thorley must not be startled (a startle makes a BOOM). Maya's Thorley list is the famous "strongest list" (item 19, that he smells a bit of goat, is never mentioned again). Saying: "Asking for a hand is a strong thing to do."
 - **Sir Lionel's mane** (story 6): the school's toy lion in the front hall has a real wool mane; the school roars at him each morning and he never roars back. Mr Locke's joke spell made it grow with every fib and shrink with every true thing; it is sewn back on by Mrs Tibbs with gold tinsel plaited along the edge ("better with tinsel", story 13). Mr Locke is Mr Harris's name to ring when someone is missing. Mr Harris's "Good luck" went from a warning to a kindness. Saying: "A true thing makes room."
@@ -142,4 +148,4 @@ Other staff who appear as cameos in later stories (the Oshun playground committe
 
 ## What is waiting next
 
-The last hook (story 39) shows the moon sitting too low over the school roof, silver, with a lady's face about to cry, and a single silver drop landing on Willow's nose: **Mama Quilla**, the Inca moon. The next story is number 40, back to the usual "we" narrator (see `God_Tracker.md`).
+The gods series ended with the finale, stories 40 to 47 ("The Thin Place"; see `Story_Archive.md` and `Finale_Sketch.md`). The next series is the folklore creatures (see `God_Tracker.md`).

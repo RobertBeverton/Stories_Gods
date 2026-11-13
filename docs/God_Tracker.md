@@ -2,9 +2,9 @@
 
 ## Next up
 
-**Story 40: Mama Quilla (Inca), picking up the moon hook.** Story 39 ends with the moon sitting far too low over the school roof, silver, with a lady's face that looks about to cry, and a single silver drop (not rain) landing on Willow's nose. The Inca told that silver was the tears of the moon. Story 40 returns to the usual child "we" narrator. Alex led 39's climax (he noticed the silence), so let Felix lead 40. Watch that Andean (Pachamama, 35) is close: make this clearly Inca and moon, not earth.
+**The gods series has ended at story 47** ("The Thin Place", stories 40 to 47; see `Story_Archive.md` and `Finale_Sketch.md`). The next series is the folklore creatures (see "Next series" below), unless the user asks for more gods. If a return story is wanted, the arc leaves play dates open: Hel, Fenris, Tyr and Odin visit through the stitched thin place over Gobbler Hill, opened by the twins' keys.
 
-**The Cat Sìth** was tested for story 39 and set aside: its milk-saucer offering repeats story 35's thank-you lesson, two magical visitors crowded Brigid, and its real lore (stealing a soul before burial) is tied to death. It belongs in the folklore-creatures series (see "Next series"). Keep: a big black cat with a white spot on its chest, said to walk on two legs when nobody is watching; a saucer of milk at Samhain blesses a house, and a house without one finds its cows' milk dried up. Drop: the burial lore and the "witch nine times" story (weakly sourced).
+**The Cat Sìth** was tested for story 39 and set aside: its milk-saucer offering repeats story 35's thank-you lesson, two magical visitors crowded Brigid, and its real lore (stealing a soul before burial) is tied to death. It belongs in the folklore-creatures series. Keep: a big black cat with a white spot on its chest, said to walk on two legs when nobody is watching; a saucer of milk at Samhain blesses a house, and a house without one finds its cows' milk dried up. Drop: the burial lore and the "witch nine times" story (weakly sourced).
 
 ## Listener reactions
 
@@ -15,7 +15,7 @@ Record here which story the twins loved, which bit they repeat or laugh at, and 
 
 ## Covered so far
 
-Thirty-nine stories, in order. Details in `Story_Archive.md` and the roster in `Story_Bible.md`. Stories 1 to 18 were written first and are set in the school too; their order is reconstructed from hooks and clues (Felicitas, 4, and the Seven Lucky Gods, 5, are the one open pair).
+Forty-seven stories, in order. Details in `Story_Archive.md` and the roster in `Story_Bible.md`. Stories 1 to 18 were written first and are set in the school too; their order is reconstructed from hooks and clues (Felicitas, 4, and the Seven Lucky Gods, 5, are the one open pair).
 
 Before choosing, pick the **feeling first** and do not repeat any of the last five. Check **main attribute** too: six tricksters (Loki, Hermes, Maui, Anansi, Raven, Coyote) and several fire figures (Prometheus, Hephaestus, Pele, Mahuika) are already covered. The feeling column is a short summary of each story's affirmation or lesson.
 
@@ -60,12 +60,20 @@ Before choosing, pick the **feeling first** and do not repeat any of the last fi
 | 37 | Idun (with Loki, Thiazi and the Norse staff) | Norse | Ask for what you need | Apples, youth |
 | 38 | Janus | Roman | Sad and glad at once is allowed | Doors, beginnings and endings |
 | 39 | Brigid (Willow's story) | Irish | When someone can't tell you, watch where they go | Fire, wells, poetry, welcome at the door |
+| 40 | Mama Quilla (Inca), with Hel, Fenris and Tyr glimpsed | Inca, Norse | Finale 1: being a bit much all at once (too many gods make the school thin) | Moon, calendar |
+| 41 | Hel and Fenris (swapped with the twins) | Norse | Finale 2: the same game, at the same moment | Wolf, game |
+| 42 | Odin, Frigg, Bragi, Tyr | Norse | Finale 3: being the new ones, welcomed | Gods' hall, welcome |
+| 43 | Hel (and Ganglöt) | Norse | Finale 4: quiet is not the same as sad | Quiet house, rest |
+| 44 | Tyr, Skadi, Odin, Fenris | Norse | Finale 5: ask first ("Has anyone asked him?") | Oaths, ribbon, wolf |
+| 45 | Hel (at school), Loki | Norse | Finale 6: missing home; saying sorry to a child | Family, school side |
+| 46 | Tyr, Fenris, Mama Quilla | Norse, Inca | Finale 7: a promise can be mended | Promise, moon |
+| 47 | Odin and the gods' play date; Mrs Nuwa mends the thin place | Norse, Chinese | Finale 8: endings make room for beginnings; becoming the big ones | Last day of term |
 
 Thor has story 1 and also appears as Mister Thor in story 37, so he is already covered twice. Hanuman, Shiva, Anubis, Thoth, Athena and the Greek staff above are no longer unused ideas, though a second story for any of them is possible.
 
 ## Ideas not yet used
 
-- Mama Quilla (Inca): the moon. Story 40 (hooked at the end of 39). Inti (sun) is still free.
+- Inti (Inca sun): still free. Mama Quilla was used as the moon in the finale (stories 40 to 47).
 - Rainbow Serpent (Aboriginal Australian): only with great care and respect for a living tradition.
 - Ganesha (Hindu): beginnings and obstacles. A second Hindu tradition after Lakshmi, so only if the user asks. He is implied in story 2 (Ganesh Rao, Year 4).
 - Sedna (Inuit): only in a heavily softened form.
@@ -83,9 +91,7 @@ Thor has story 1 and also appears as Mister Thor in story 37, so he is already c
 
 ## Planning the end of the series
 
-Aim to finish somewhere around story 50 to 55, and plan the finale now, keeping two or three gods in reserve for it. A natural end point is the last day of Year 1: the twins can't stay five for ever.
-
-A "creation myths" story has been done (Nuwa, story 33). Finale ideas: the sixteen-chair Playground Committee finally meeting in one story; Sports Day with every staff god; a story where the twins are the ones who have to explain a god to a new class.
+**Done.** The series of gods ended with the eight-part finale "The Thin Place" (stories 40 to 47). The Tyr, Hel, Fenris and Odin of the finale are the only new gods since story 39. See `docs/Finale_Sketch.md` for the rules of the swap and the plan.
 
 ## To do
 
